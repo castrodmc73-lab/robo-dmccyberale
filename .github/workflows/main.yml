@@ -1,0 +1,17 @@
+name: Atualizador de Noticias DMCCYBERALE
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Roda sozinho automaticamente de hora em hora
+  workflow_dispatch: # Permite que você clique em um botão para atualizar na hora se quiser
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comando de Atualizacao Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          echo "Disparando atualização automática de notícias para DMCCYBERALE..."
+          curl -X POST "https://vercel.com" # Comando de re-carregamento imediato
