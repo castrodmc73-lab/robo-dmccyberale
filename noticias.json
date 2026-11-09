@@ -1,5 +1,194 @@
 [
   {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "What could China get from Jensen Huang?",
+    "resumo": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-09T23:51:58.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "resumo": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-09T23:51:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Resultados das Loterias Caixa",
+    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
+    "data": "2026-11-09T23:50:18.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Presidente do Supremo arquiva definitivamente o inquérito das fake news",
+    "resumo": "Edson Fachin, presidente do STF, arquiva inquérito das fake news O presidente do STF - Supremo Tribunal Federal, ministro Edson Fachin, decidiu na noite desta segunda-feira (9) arquivar o inquérito das fake news, aberto há mais de sete anos para apurar ataques ao STF e a seus integrantes. Ao longo do tempo, a investigação foi alvo de crít",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/presidente-do-supremo-arquiva-definitivamente-o-inquerito-das-fake-news.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AViOIgejv_o2WdtyTlTCMmWmngs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/v/g2YQWeTPuoZ3UnMgszOA/globo-canal-4-20261109-2000-frame-62792.jpeg",
+    "data": "2026-11-09T23:49:36.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
+    "resumo": "Congressional leaders raise concerns in a letter as Nvidia investigates its chief executive’s affair with a suspected Chinese spy.",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-spy-chip-01-hmzq/09dc-spy-chip-01-hmzq-mediumSquareAt3X.jpg",
+    "data": "2026-11-09T23:48:34.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Here’s what Trump said he knew about Jensen Huang",
+    "resumo": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles fro",
+    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-09T23:47:46.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+    "resumo": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+    "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+    "data": "2026-11-09T23:45:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pesca de controle captura 1,5 tonelada de pirarucu em área onde espécie é considerada invasora em RO",
+    "resumo": "g1 em 1 Minuto RO: entenda porque o pirarucu se tornou invasor dentro do próprio rio Cerca de 1,5 tonelada de pirarucu foi capturada durante a primeira etapa da pesca de controle populacional da espécie Arapaima gigas na Reserva de Fauna D'Óleo, no Vale do Guaporé (RO). A ação foi encerrada na última quarta-feira (6). Segundo o Governo de",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/09/pesca-de-controle-captura-15-tonelada-de-pirarucu-em-area-onde-especie-e-considerada-invasora-em-ro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Z61G8zRJDr70uQzTuBvFaQYiC7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Q/tAjeb3SEOUkE6VfKl5DA/design-sem-nome-97-.jpg",
+    "data": "2026-11-09T23:42:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mugidos de mãe de bezerra desaparecida há 2 dias indicam onde o filhote caiu, e bombeiros fazem resgate comovente",
+    "resumo": "Bombeiros trabalham por três horas para resgatar bezerra de fenda entre rochas O Corpo de Bombeiros fez o resgate comomente de uma bezerra que ficou presa entre grandes blocos de pedra em uma área de mata no distrito de Riograndina, em Nova Friburgo, na Região Serrana do Rio. A bezerra Cachoeira, como é chamada, estava desparecida há dois",
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/09/mugidos-de-mae-de-bezerra-desaparecida-ha-dois-dias-indicam-onde-o-filhote-caiu-e-bombeiros-fazem-resgate-comovente.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/T4ORzRFkz14kWuXKBzdhi_QJI3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/x/hA2mN9TayAkVg8V3fzOQ/resgate-da-vaca.jpg",
+    "data": "2026-11-09T23:41:46.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Ohio State Suspends Fraternity After 2 Men Catch Fire at a Chapter Gathering",
+    "resumo": "The police in Columbus, Ohio, were investigating the Sigma Alpha Epsilon fraternity after a video of the incident drew widespread attention online, according to the university.",
+    "link": "https://www.nytimes.com/2026/11/09/us/ohio-state-fraternity-suspended.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09xp-ohiostate/09xp-ohiostate-mediumSquareAt3X.jpg",
+    "data": "2026-11-09T23:38:22.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats’ Fight With Trump Is Just Getting Started",
+    "resumo": "The party is debating how, and how hard, to push back now that it has power.",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-impeachment-corruption.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09pol-onpolitics-newsletter-top-ghpq/09pol-onpolitics-newsletter-top-ghpq-mediumSquareAt3X.jpg",
+    "data": "2026-11-09T23:37:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente morre em acidente de trânsito após carro dirigido por delegado atingir moto no AM",
+    "resumo": "Yago Mota, de 13 anos, morreu em colisão entre carro e moto em Manacapuru. Reprodução/Redes Sociais Um adolescente de 13 anos morreu após a motocicleta em que estava com o pai ser atingida por um carro dirigido por um delegado da Polícia Civil do Amazonas, na noite de domingo (8). O acidente aconteceu no quilômetro 64 da rodovia AM-070, e",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/09/adolescente-morre-em-acidente-de-transito-apos-carro-dirigido-por-delegado-atingir-moto-no-am.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yE-PdYT9IeWM00SZCCn1MX90t-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/0hjAzrTFS8xyAkHYv1UA/yago-mota.png",
+    "data": "2026-11-09T23:34:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Barragem fica com água esverdeada após milhares de peixes morrerem em Bezerros; VÍDEO",
+    "resumo": "Mortandade de peixes é investigada na barragem do Governo, em Bezerros (PE) Imagens mostram a água esverdeada da Barragem do Governo, na zona rural de Bezerros, no Agreste de Pernambuco, após milhares de peixes serem encontrados mortos no reservatório. O registro feito nesta segunda-feira (9) também mostra restos de peixes em avançado est",
+    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/09/barragem-fica-com-agua-esverdeada-apos-milhares-de-peixes-morrerem-em-bezerros-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FrRWUN8JnAImATKmPjCm2A8gkL4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/R/heA5NPRbAIB8imITVaDg/captura-de-tela-2026-11-09-192216.png",
+    "data": "2026-11-09T23:32:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vídeo gravado por drone mostra dupla invadindo trem para furtar combustíveis em Votuporanga",
+    "resumo": "Vídeo gravado por drone mostra momento em que dupla invade trem para furtar combustível Um vídeo gravado por um drone mostra o momento em que dois homens entraram nos vagões de trem para furtar cerca de 100 litros de de combustível em Simonsen, distrito de Votuporanga (SP), na madrugada do sábado (7). A imagem foi obtida pela TV TEM nesta",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/09/video-gravado-por-drone-mostra-dupla-invadindo-trem-para-furtar-combustiveis-em-votuporanga.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cChwr93NaoWnAFpvKd-SkYY-GHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/k/nBCZBsS7CjAyy68u7RHA/design-sem-nome-2026-11-09t202551.933.jpg",
+    "data": "2026-11-09T23:30:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Acre na COP31: comitiva defende preservação, recursos hídricos e outras pautas durante evento na Turquia",
+    "resumo": "Governadora do AC apresenta projetos e busca investimentos durante conferência na Turquia A preservação ambiental, a proteção dos recursos hídricos, a produção sustentável na garantia de segurança alimentar da população são as principais bandeiras apresentadas pela comitiva do Governo do Acre na 31ª Conferência das Nações Unidas sobre Mud",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/09/acre-na-cop31-comitiva-defende-preservacao-recursos-hidricos-e-outras-pautas-durante-evento-na-turquia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BItuIR74wOePrxiP-DJmQLUHr6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/4P7FM3QNKvfaFACStpaA/midia-de-distribuicao-g1-2026-11-09t163320.180.jpg",
+    "data": "2026-11-09T23:29:32.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+    "resumo": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+    "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
+    "data": "2026-11-09T23:28:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 9 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-9-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/O3LnPWGruCh08kXwbcb0Yj0RgVM=/s01.video.glbimg.com/deo/vi/11/37/15173711",
+    "data": "2026-11-09T23:28:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 09 de novembro de 2026",
+    "resumo": "Reveja os vídeos do telejornal.",
+    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-09-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XJkN4JetoFn3FNB2WsmCtXK7Tq8=/s01.video.glbimg.com/deo/vi/08/37/15173708",
+    "data": "2026-11-09T23:26:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "MP denuncia Milton Leite por promover interesses do PCC no transporte público de SP e pede prisão preventiva de 14 investigados",
+    "resumo": "MP denuncia Milton Leite por promover interesses do PCC no transporte público de SP Reprodução O Ministério Público de São Paulo (MP-SP), por meio do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), denunciou nesta segunda-feira (9) o ex-vereador e ex-presidente da Câmara Municipal Milton Leite por promover os interesses ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/09/mp-denuncia-milton-leite-por-promover-interesses-do-pcc-no-transporte-publico-de-sp-e-pede-prisao-preventiva-de-14-investigados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/awUqKgboRn_x3zTSoMIQVS_ezeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/x/AxJYjMRGWcKo5AQDnBWA/fotojet-51-.jpg",
+    "data": "2026-11-09T23:24:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Presidente da Assembleia assume governo de Rondônia durante viagem de Marcos Rocha",
+    "resumo": "Deputado Alex Redano, presidente da ALE-RO Divulgação/ALE-RO O presidente da Assembleia Legislativa de Rondônia (ALE-RO), deputado estadual Alex Redano (Republicanos), assume temporariamente o governo do estado durante a viagem do governador Coronel Marcos Rocha (União Brasil) para fora do país. O comunicado foi divulgado nesta segunda-fe",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/09/presidente-da-assembleia-assume-governo-de-rondonia-durante-viagem-de-marcos-rocha.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VC-jzn2JhjL5CgiwloxsAzhA7i8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/M/x/sWzEacToePY4KfnXnehg/alex-redano.jpg",
+    "data": "2026-11-09T23:22:32.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Scientists Sue to Block Trump Administration Changes at National Science Foundation",
+    "resumo": "Researchers say the administration’s actions would “devastate” social science.",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/national-science-foundation-funding-lawsuit.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/us/DC-NSF/DC-NSF-mediumSquareAt3X.jpg",
+    "data": "2026-11-09T23:21:54.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -9,22 +198,31 @@
     "data": "2026-11-09T23:20:29.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de balear sargento da PM e chefiar tráfico da Bahia 'à distância' é preso no interior de SP",
-    "resumo": "Delegacia de Salto (SP) - Polícia Civil Reprodução/TV TEM Um homem de 29 anos, suspeito de integrar uma facção criminosa, matar uma pessoa e atirar contra um sargento da Polícia Militar na Bahia, foi preso nesta segunda-feira (9) em Salto, no interior de São Paulo. A prisão ocorreu em uma operação conjunta entre as polícias dos dois estad",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/09/suspeito-chefe-trafico-bahia-preso-em-salto-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_q-TAmAArEtEKbfDFmQ6KPjBmew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/0PRbvjQCWvCCSOewHB8g/whatsapp-image-2026-01-16-at-19.05.49-1-.jpeg",
-    "data": "2026-11-09T23:09:14.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+    "resumo": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+    "link": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-09T23:15:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump defends Nvidia’s Huang after calling about spy scandal",
+    "resumo": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-09T23:13:44.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jacaré é encontrado na faixa de areia de praia no litoral de SP; VÍDEO",
-    "resumo": "Morador encontra jacaré em praia de SP Um jacaré foi encontrado na faixa de areia da Praia da Barra do Una, em Peruíbe, no litoral de São Paulo. A cena chamou a atenção de moradores e foi compartilhada nas redes sociais (assista acima). O g1 apurou que o jacaré foi encontrado no domingo (8) por Mateus Ribeiro Carvalho, proprietário de uma",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/09/jacare-e-encontrado-na-faixa-de-areia-de-praia-no-litoral-de-sp-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yFGScRON7_IRdPTgGrOknR4V5N8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Z/AFMs1IQqStwsg3wvmC6w/foto-tradicional-2-.png",
-    "data": "2026-11-09T23:08:31.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "COP31 pode consolidar legado brasileiro na agenda climática",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-pode-consolidar-legado-brasileiro-na-agenda-climatica\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-pode-consolidar-legado-brasileiro-na-agenda-climatica",
+    "imagem": null,
+    "data": "2026-11-09T23:12:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -36,94 +234,22 @@
     "data": "2026-11-09T23:07:59.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-09T23:04:08.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Carney government spent over $19B on external consultants in its first year",
+    "resumo": "The federal government spent more than $19 billion on external consultants last year, despite a promise to cut back on its use of outside contractors.",
+    "link": "https://www.cbc.ca/news/politics/federal-government-consultant-spending-9.7415657?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/049abfd1-b860-49e6-9075-31b4d8c7fe5b,1794262989601/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C557%2C7895%2C4440%29%3B",
+    "data": "2026-11-09T22:52:56.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: NSC Notícias de segunda-feira, 9 de novembro de 2026",
-    "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
-    "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/09/videos-nsc-noticias-de-segunda-feira-9-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tt3qpfOBpiTpgs06FZQaxWxa1AQ=/s01.video.glbimg.com/deo/vi/26/34/15173426",
-    "data": "2026-11-09T23:03:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Temporal derruba todos os postes de ferro de ponte entre Piauí e Maranhão",
-    "resumo": "Chuva derruba postes em ponte que liga Piauí e Maranhão Postes de ferro instalados na ponte sobre o Rio Parnaíba, que liga os municípios de Luzilândia, no Norte do Piauí, e São Bernardo, no Maranhão, foram derrubados por um temporal no início da tarde desta segunda-feira (9). Imagens registradas após a chuva mostram as estruturas caídas a",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/09/temporal-derruba-postes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/djg1fWeNVUMGgtOKPBg9D9MN2QQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/U/B651ywRkaO5GOde70Zng/edicao-imagens-g1-18-.jpg",
-    "data": "2026-11-09T23:03:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Liberal 2ª edição de segunda-feira, 9 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/pa/para/edicao/2026/11/09/videos-jornal-liberal-2-edicao-de-segunda-feira-9-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7ruOyTrO5w05zRogID9cFoQt87M=/s01.video.glbimg.com/deo/vi/86/33/15173386",
-    "data": "2026-11-09T23:00:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "MPF abre procedimento para apurar ataque a acampamento do MST na Paraíba",
-    "resumo": "Ataque a acampamento do MST deixa barracos queimados, na Paraíba O Ministério Público Federal na Paraíba (MPF) vai abrir um procedimento para apurar um ataque a tiros no acampamento Marilene Dantas, ligado ao Movimento dos Trabalhadores Rurais Sem Terra (MST), no Litoral Sul da Paraíba. O procedimento foi confirmado nesta segunda-feira (9",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/09/mpf-abre-procedimento-para-apurar-ataque-a-acampamento-do-mst-na-paraiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rLGo3Uzkrcpxi-veb1VvDy57eJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/X/p0KtHPQSAzYVyMLpSWaw/whatsapp-image-2026-11-08-at-17.19.55-1-.jpeg",
-    "data": "2026-11-09T22:59:25.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fachin determina arquivamento do inquérito das fake news",
-    "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinou nesta segunda-feira (9) o arquivamento do inquérito das fake news, aberto há mais de sete anos e que apurou ataques e ameaças a integrantes da Corte. Apesar do encerramento do chamado inquérito-mãe, desdobramentos dessa investigação que estiverem abertos seguirão em ",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/09/fachin-determina-arquivamento-do-inquerito-das-fake-news.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5rrj_iFLqHsJAwKKEbibfNqFNK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/u/Sx78uHRAayauIbpB0AJQ/55631489082-d00a059e0d-k.jpg",
-    "data": "2026-11-09T22:59:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de ferir idoso de 71 anos durante tentativa de roubo é preso em Presidente Prudente",
-    "resumo": "Caso será investigado pela Polícia Civil Stephanie Fonseca/g1 O homem suspeito de ferir um idoso de 71 anos durante uma tentativa de roubo em 24 de outubro, em Presidente Prudente (SP), foi preso na sexta-feira (6). Segundo a Polícia Civil, o suspeito também foi reconhecido como autor de outros dois roubos, registrados em 11 e 24 de outub",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/09/suspeito-de-ferir-idoso-de-71-anos-no-torax-durante-tentativa-de-roubo-e-preso-em-presidente-prudente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YBNMTgrqPP0vFCSV9a6HzH4MhnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/o/D/T9MKsDS8uQAuaCb6otFw/whatsapp-image-2021-05-17-at-09.37.13.jpeg",
-    "data": "2026-11-09T22:58:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Greve dos rodoviários em Manaus: volta pra casa tem paradas lotadas, poucos ônibus e longa espera",
-    "resumo": "Usuários do transporte coletivo aglomerados em parada de ônibus na Avenida Epaminondas, Centro, durante primeiro dia de greve dos rodoviários em Manaus Patrick Marques/g1 AM A greve dos rodoviários em Manaus paralisou 50% da frota de ônibus na capital nesta segunda-feira (9) e gerou reflexos para os usuários do transporte público na volta",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/09/greve-dos-rodoviarios-em-manaus-volta-pra-casa-tem-paradas-lotadas-poucos-onibus-e-longa-espera.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/29yv1BAp9pkQJ5c4nq_GZWp7MWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/C/Hs4kuWQxOsw2iBiIFZ5A/whatsapp-image-2026-11-09-at-17.36.54.2.jpeg",
-    "data": "2026-11-09T22:56:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia apreende carga de cocaína avaliada em R$ 12 milhões em caminhão em rodovia de Tatuí",
-    "resumo": "Polícia apreende 150 kg de cocaína avaliados em R$ 12 milhões em caminhão na Castello Branco em Tatuí (SP) Polícia Militar/Divulgação O motorista de um caminhão foi preso após ser flagrado transportando 150 quilos de cloridrato de cocaína na Rodovia Presidente Castello Branco (SP-280), em Tatuí (SP), nesta segunda-feira (9). Segundo a Pol",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/09/policia-apreende-carga-de-cocaina-avaliada-em-r-12-milhoes-em-caminhao-em-rodovia-de-tatui.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OFgCa0arsdguqYfQnDunZkKoNYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/e/RpM4jnTBAzNKw7rVxFcg/whatsapp-image-2026-11-09-at-18.46.53.jpeg",
-    "data": "2026-11-09T22:55:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: EPTV 2 Sul de Minas de segunda-feira, 9 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/09/videos-eptv-2-sul-de-minas-de-segunda-feira-9-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/smsIkgcM3993JCykCdmNwWOlMeE=/s01.video.glbimg.com/deo/vi/90/35/15173590",
-    "data": "2026-11-09T22:54:32.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Canada can't control climate change on its own, economist tells landmark trial",
+    "resumo": "The case was brought by 15 youth, who argue that federal legislation violates their constitutional rights by continuing the trajectory of greenhouse gas emissions.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/canada-climate-change-trial-economist-youth-9.7415629?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/822f8b14-cd4e-4575-b7b9-2d8f4ff6622b,1793047791653/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-09T22:44:11.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -146,15 +272,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "At 87, Senfronia Thompson is Poised to Become the First Woman to Lead the Texas House",
-    "resumo": "At 87, Senfronia Thompson of Houston is poised to become the first woman, and Black lawmaker, to lead the Texas House.",
-    "link": "https://www.nytimes.com/2026/11/09/us/senfronia-thompson-ms-t-texas-house.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-TXhousespeaker-1-qcmf/09nat-TXhousespeaker-1-qcmf-mediumSquareAt3X.jpg",
-    "data": "2026-11-09T22:36:20.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Judge Denies Request to Throw Out Lindsay Clancy’s Murder Charges",
     "resumo": "The judge also declined to investigate the lone juror who wanted to convict Ms. Clancy, saying it would invade his privacy and deter others from serving on juries.",
     "link": "https://www.nytimes.com/2026/11/09/us/lindsay-clancy-trial-motions-denied.html",
@@ -172,18 +289,9 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-    "resumo": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg",
-    "data": "2026-11-09T22:34:14.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-    "resumo": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested a close to the war.",
+    "titulo": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+    "resumo": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
     "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-09T22:31:19.000Z"
@@ -245,7 +353,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "English author M. John Harrison wins the 2026 Booker Prize for The End of Everything",
+    "titulo": "Booker Prize goes to post-apocalyptic, sci-fi novel The End of Everything",
     "resumo": "The annual U.K. prize honours best novel written in English from anywhere in the world.",
     "link": "https://www.cbc.ca/books/m-john-harrison-2026-booker-prize-the-end-of-everything-9.7415530?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/109d9f0f-8fb6-40a7-aab2-3792c6a754d5,1794262191968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
@@ -306,15 +414,6 @@
     "data": "2026-11-09T21:59:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Scientists Sue to Block Trump Administration Changes at National Science Foundation",
-    "resumo": "Researchers say the administration’s actions would “devastate” social science.",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/national-science-foundation-funding-lawsuit.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/09/us/DC-NSF/DC-NSF-mediumSquareAt3X.jpg",
-    "data": "2026-11-09T21:55:02.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
@@ -322,15 +421,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg",
     "data": "2026-11-09T21:52:28.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "18 Canadians collect at least 1 point in 10-0 rout of host Denmark at women's hockey worlds",
-    "resumo": "Eve Gascon stopped all 11 shots she faced as Canada blanked Japan 9-0 at the women's hockey world championship in Herning, Denmark, on Sunday.",
-    "link": "https://www.cbc.ca/sports/hockey/canada-denmark-recap-womens-hockey-worlds-roundup-9.7415562?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a4cec9e7-daa1-4359-92e6-9fc7073ef719,1794260527230/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B",
-    "data": "2026-11-09T21:51:25.000Z"
   },
   {
     "categoria": "Internacional",
@@ -376,15 +466,6 @@
     "link": "https://www.cbc.ca/news/politics/trudeau-harper-library-archives-9.7413258?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/2a874a3f-7334-460d-98ba-ddb1ccbf7327,1794010851195/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C248%2C4000%2C2250%29%3B",
     "data": "2026-11-09T21:37:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-    "resumo": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-    "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
-    "data": "2026-11-09T21:37:02.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -558,15 +639,6 @@
     "data": "2026-11-09T20:24:23.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "CLDF vota proposta que libera reeleição de membros da Mesa Diretora",
-    "resumo": "<p><strong>A Câmara Legislativa do Distrito Federal (CLDF) deve votar, nesta terça-feira (10), a proposta que autoriza deputados distritais reeleitos que hoje integram a Mesa Diretora a voltarem a disputar o comando da Casa durante os dois primeiros anos da próxima legislatura (2027-2029).</strong><img src=\"https://agenciabrasil.ebc.com.b",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/cldf-vota-proposta-que-libera-reeleicao-de-membros-da-mesa-diretora",
-    "imagem": null,
-    "data": "2026-11-09T20:24:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "France accuses Iran of supermarket fridge hacking",
@@ -576,15 +648,6 @@
     "data": "2026-11-09T20:20:08.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Like father, like son: Arnold Schwarzenegger’s son muscles into top 5 at bodybuilding competition",
-    "resumo": "More than 60 years after Arnold Schwarzenegger first flexed his stuff on a bodybuilding stage, his youngest son is continuing the dynasty of muscle, scoring in the top five during his professional debut over the weekend.",
-    "link": "https://www.cbc.ca/news/entertainment/arnold-schwarzenegger-son-baena-bodybuilding-9.7415339?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4bee7aef-a53d-4352-92d1-a583700dfe85,1794252658504/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-09T20:19:36.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Deadly explosion at Iron and steel plant in Turkiye",
@@ -592,24 +655,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-09T20:19:18.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Payments Canada launches long-delayed instant payments system",
-    "resumo": "Payments Canada says it has launched its real-time rail national payment system, which is expected to speed day-to-day payments for Canadian businesses and consumers.",
-    "link": "https://www.cbc.ca/news/business/real-time-rail-canada-9.7415380?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d7c040dc-6b40-488d-b830-f9104f6d2132,1794256343175/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C391%2C7500%2C4218%29%3B",
-    "data": "2026-11-09T20:12:24.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
-    "resumo": "Congressional leaders raise concerns in a letter as Nvidia investigates its chief executive’s affair with a suspected Chinese spy.",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-spy-chip-01-hmzq/09dc-spy-chip-01-hmzq-mediumSquareAt3X.jpg",
-    "data": "2026-11-09T20:10:51.000Z"
   },
   {
     "categoria": "Internacional",
@@ -631,30 +676,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Explosion at Turkish steel plant kills at least 16 people",
-    "resumo": "President Erdogan announces an investigation after a crane collapsed into a furnace, triggering the blast near Izmir.",
-    "link": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-09T19:58:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
     "resumo": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
     "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-09T19:58:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "South Africa detains foreigners suspected of heading to join Russian forces",
-    "resumo": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
-    "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-09T19:56:45.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -747,15 +774,6 @@
     "data": "2026-11-09T18:40:31.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
-    "resumo": "President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated.",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09DC-TRUMP-ELECITON-fqzt/09DC-TRUMP-ELECITON-fqzt-mediumSquareAt3X.jpg",
-    "data": "2026-11-09T18:37:12.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "You can grab three months of Game Pass Ultimate for under $20 per month",
@@ -817,15 +835,6 @@
     "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-09T17:39:57.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The future of AI hinges on… Jensen Huang’s sex life?",
-    "resumo": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-09T17:36:08.000Z"
   },
   {
     "categoria": "Internacional",
@@ -891,15 +900,6 @@
     "data": "2026-11-09T17:00:14.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Uber wants to park your car now, too",
-    "resumo": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
-    "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_9398.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-09T17:00:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Elon Musk and the tech bros banked on Trump and lost. Humbled, humiliated: what will they do next? | Jonathan Liew",
@@ -954,15 +954,6 @@
     "data": "2026-11-09T15:49:00.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "resumo": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-09T15:46:20.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 as it happened: world leaders gather for crucial climate crisis talks",
@@ -1015,6 +1006,15 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
     "imagem": "https://i.guim.co.uk/img/media/412e269be5e9fd379b3ec21602cd632568e1b982/607_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=7d71a4c454d0439bd257546ac7f0d3a4",
     "data": "2026-11-09T14:00:11.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Nvidia CEO Jensen Huang is embroiled in a spying scandal. Could the AI chipmaker survive without him?",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/business/nvidia-survive-without-jensen-huang-ceo-9.7415544?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/f05409d9-7070-4585-9fe4-f33c45363ea3,1794266572984/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C107%2C3416%2C1921%29%3B",
+    "data": "2026-11-09T13:48:50.000Z"
   },
   {
     "categoria": "Opinião",
