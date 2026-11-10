@@ -1,21 +1,57 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 10 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-10-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XhYdR8FWxrHWB-syqP228SHHTGA=/s01.video.glbimg.com/deo/vi/28/70/15177028",
-    "data": "2026-11-10T23:08:54.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "House votes to effectively end the impeachment effort against Pete Hegseth",
+    "resumo": "House Republicans managed to short circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5879x3920+0+0/resize/5879x3920!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F4e%2F6decb6604829ba314b7dc99ddde8%2Fgettyimages-2304464396.jpg",
+    "data": "2026-11-10T23:43:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Fire contained on platform in Iran’s South Pars gas field",
+    "resumo": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+    "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T23:38:02.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Pai de Rony estava de costas quando foi esfaqueado no pescoço, diz delegada",
-    "resumo": "Pai de Rony, atacante do Santos, é morto no PA: o que se sabe sobre o crime O pai do atacante Rony, jogador do Santos, estava de costas quando foi supreendido e esfaqueado, segundo a Polícia Civil. Marigerson Barbosa Carneiro, de 72 anos, chegou a ser socorrido, mas não resistiu e morreu. O corpo do idoso foi velado nesta terça-feira (10)",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/10/pai-de-rony-estava-de-costas-quando-foi-esfaqueado-no-pescoco-diz-delegada.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RMog9h5tGSQiQiJix6bgpOVcCzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/j/9m0Gx1TVSGG0YmtHDx1g/jogador.jpg",
-    "data": "2026-11-10T23:08:53.000Z"
+    "titulo": "Como se fosse a primeira vez: cinema holandês testa hipnose para 'apagar' filmes da memória",
+    "resumo": "Cena da exibição do Filme \"Divertidamente\" durante o Festival de Cinema Acessível Kids Foto: Gontof Comunicação/ Divulgação Rede de cinemas na Holanda coloca em prática plano para hipnotizar espectadores. O objetivo: tentar fazê-los esquecer temporariamente filmes já vistos e recriar a sensação de assistir a uma história pela primeira vez",
+    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/10/como-se-fosse-a-primeira-vez-cinema-holandes-testa-hipnose-para-apagar-filmes-da-memoria.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cuhUd0izIWj0MTZXRyOJvqfhErc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/5lO64PRHipdoAppVBQKQ/cena-do-festival-de-cinema-acessivel-kids-em-media.jpg",
+    "data": "2026-11-10T23:37:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Petrobras tem lucro de R$ 39,75 bilhões no 3º tri",
+    "resumo": "Sede da Petrobras, no Rio de Janeiro. Fernando Frazão/Agência Brasil A Petrobras teve lucro líquido de R$39,75 bilhões de reais no terceiro trimestre, alta de 21,5% na comparação com o mesmo período do ano anterior, informou a companhia nesta terça-feira. O resultado ficou abaixo da expectativa de R$47,02 bilhões apontada por analistas co",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/10/lucro-petrobras-2o-trimestre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eqSjN0tpA9joTUjS5u5V1EdPSnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg",
+    "data": "2026-11-10T23:36:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Corregedoria apura conduta de policiais na prisão de suspeito de matar advogada e filho de 6 anos em Cotia: 'Fica calmo, você ficará em cela sozinho'",
+    "resumo": "Abordagem de delegada de Cotia em prisão de Eric Conrado gera investigação da Corregedoria Reprodução A Corregedoria Geral da Polícia Civil investiga a conduta dos policiais que participaram da prisão de Eric Conrado Alves de Almeida, de 41 anos, suspeito de matar a advogada Anna Gabriela Faria Lima e o filho dela, Raphael, de 6 anos, em ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/10/corregedoria-apura-conduta-de-policiais-na-prisao-de-suspeito-de-matar-advogada-e-filho-de-6-anos-em-cotia-fica-calmo-voce-ficara-em-cela-sozinho.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hRkiuF4M4dxArL42iUjNH-PCdSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/m/YnU1nRR2ykBZKl4nWz9w/prisao-eric-conrado.jpg",
+    "data": "2026-11-10T23:36:20.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Massive fire as Israeli settlers burn down business near Nablus",
+    "resumo": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T23:33:43.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -24,16 +60,151 @@
     "resumo": "The G.O.P. banded together to shelve impeachment articles against the defense secretary, sparing him from a damaging rebuke and potential ouster.",
     "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
     "imagem": null,
-    "data": "2026-11-10T23:08:31.000Z"
+    "data": "2026-11-10T23:33:11.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Câmara aprova mudança de GCM para Polícia Municipal em 1ª votação; entenda o que muda",
-    "resumo": "Câmara aprova mudança que permite à GCM passar a se chamar Polícia Municipal A Câmara Municipal de Goiânia aprovou, em primeira votação, a mudança da nomenclatura da Guarda Civil Metropolitana (GCM) para Polícia Metropolitana de Goiânia. A alteração acontece a partir da autorização concedida pela PEC da Segurança Pública. O projeto segue ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/camara-aprova-mudanca-de-gcm-para-policia-municipal-em-1a-votacao-entenda-o-que-muda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BPDnp0T2_EusE-y3sYPOjRAOfJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/e/N/hXp0r2RsOt7OkPLrIO9g/viatura.png",
-    "data": "2026-11-10T23:03:15.000Z"
+    "titulo": "Enfermeiro que se passava por médico e fez cirurgia que matou esteticista no MA tem registro cassado por 30 anos",
+    "resumo": "Conselho cassa por 30 anos registro de falso médico que causou morte de esteticista O Conselho Federal de Enfermagem (Cofen) cassou, por 30 anos, o registro profissional de Alberto Rodrigues da Silva, que se passava por médico no interior do Maranhão e realizou uma cirurgia que resultou na morte da esteticista Erinalva de Jesus Dias, de 3",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/10/enfermeiro-que-se-passava-por-medico-e-fez-cirurgia-que-matou-esteticista-no-ma-tem-registro-cassado-por-30-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gb1MHtwO7RL8nxKIjXVgOKM0UFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/o/Q/zSc8LzTwGc2PuvdEAkjA/mirante-06-06-2023-7-11-42-pm-7-16-20-pm-jm2.00-01-14-02.quadro001.jpg",
+    "data": "2026-11-10T23:32:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Defensoria Pública questiona Prefeitura de Rio Preto por encaminhar idosos para instituição de longa permanência em Guarulhos",
+    "resumo": "Defensoria questiona Prefeitura de Rio Preto por encaminhar idosos para em Guarulhos A Defensoria Pública questionou a Prefeitura de São José do Rio Preto (SP) por encaminhar idosos para uma instituição de longa permanência localizada em Guarulhos. A medida foi tomada pelo defensor público Julio Cesar Tanone ao constatar que a prefeitura ",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/10/defensoria-publica-questiona-prefeitura-de-rio-preto-por-encaminhar-idosos-para-instituicao-de-longa-permanencia-em-guarulhos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dQ2fkAcZY0Lv3I3rbG7g0Dfg6J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/or2fpUSRqCFYKtTuuqiw/design-sem-nome-2026-07-15t191547.660.jpg",
+    "data": "2026-11-10T23:30:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista de aplicativo é sequestrado, tem carro roubado e anda quase 15 km a pé para denunciar crime, na Paraíba",
+    "resumo": "Motorista de aplicativo tem carro roubado por falsos passageiros em João Pessoa Um motorista de aplicativo foi sequestrado enquanto estava de serviço, em João Pessoa, nesta terça-feira (10). Após ser solto, nas proximidades de outro município, na Paraíba, o Conde, e ter o carro roubado por suspeitos, ele caminhou cerca de 15 km entre as c",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/10/motorista-de-aplicativo-e-sequestrado-tem-carro-roubado-e-anda-quase15-km-a-pe-para-denunciar-crime-na-paraiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p-VMjoQLqYq9eQYdCmYhpcbQhGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png",
+    "data": "2026-11-10T23:25:51.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Representative María Elvira Salazar Wins Re-Election in Florida",
+    "resumo": "Ms. Salazar, a Republican, had released an ad in which she said the White House had “gone too far” on immigration amid worries of Hispanic voter backlash within her party.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-fl27-topart-01-gmqc/03hfo-pol-fl27-topart-01-gmqc-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T23:24:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Itanhaém abre 33 vagas com salários de até R$ 2,6 mil; veja como se inscrever",
+    "resumo": "Itanhaém abre dois processos seletivos com salários de até R$ 2.662 Divulgação/Prefeitura de Itanhaém A Prefeitura de Itanhaém, no litoral de São Paulo, abriu 33 vagas de trabalho com salários que variam de R$ 1.848 a R$ 2.662. As oportunidades exigem escolaridade entre a 4ª série do Ensino Fundamental e o Ensino Médio. As inscrições são ",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/10/itanhaem-abre-33-vagas-com-salarios-de-ate-r-26-mil-veja-como-se-inscrever.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4VmuyvhNodAGPzB_9MNUeQxlkBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/j/7b4gE8S6y7mZpXdFRA6w/foto-pref-itanhaem.jpg",
+    "data": "2026-11-10T23:24:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "French far-right author Zemmour launches second presidential bid",
+    "resumo": "Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.",
+    "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T23:23:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher morre atropelada por caminhão após moto bater em carro na BR-101",
+    "resumo": "Mulher morre atropelada por caminhão após moto bater em carro na BR-101, em Jaboatão Uma mulher morreu após um acidente entre um carro e uma moto na BR-101, em Jaboatão dos Guararapes, no Grande Recife (veja vídeo acima). De acordo com a Polícia Rodoviária Federal (PRF), a vítima era passageira de uma moto que bateu num carro e tombou na ",
+    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/10/mulher-morre-atropelada-por-caminhao-apos-moto-bater-em-carro-na-br-101.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/l_QAgE-m7W1xz637z09l1lkl9c8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/s/daPks7ReyBnI7Bh8Pbrg/acidente-jaboatao-br.jpg",
+    "data": "2026-11-10T23:22:48.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
+    "resumo": "In the House, Republicans signaled a desire for fresh leadership after their biggest election defeat in decades. In the Senate, they re-elected their current leader.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-REPUBLICANS-JORDAN-zgvb/10DC-REPUBLICANS-JORDAN-zgvb-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T23:21:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Escala 6x1: Dino sinaliza que decisão em ação que questiona transição da nova jornada de trabalho sai até sexta",
+    "resumo": "Ministro Flávio Dino, do Supremo Tribunal Federal (STF), em sessão plenária do 21 de outubro de 2026. Gustavo Moreno/STF O ministro do Supremo Tribunal Federal (STF), Flávio Dino, afirmou nesta terça-feira (10) que publicará até sexta-feira (13) uma decisão na ação que discute o período de transição para a implementar a escala 5x2. Dino é",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/10/escala-6x1-dino-sinaliza-que-decisao-em-acao-que-questiona-transicao-da-nova-jornada-de-trabalho-sai-ate-sexta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KC4qwCvEErqZUoEVcZLM72Ls3Ps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/79yCu2RACqJOM0RUeJBA/ministro-do-stf-flavio-dino.jpg",
+    "data": "2026-11-10T23:21:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: DF2 de terça-feira, 10 de novembro de 2026",
+    "resumo": "Veja as reportagens do telejornal com as notícias do DF.",
+    "link": "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-terca-feira-10-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kO32b-ZQFKXJIsAKg7vRyuUoiWA=/s01.video.glbimg.com/deo/vi/84/69/15176984",
+    "data": "2026-11-10T23:19:32.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Release of Meghan Markle’s Father Is Revoked After Ankle Monitor Removal",
+    "resumo": "Thomas Markle Sr., who is facing charges of possession of child sexual abuse images, had his house arrest rescinded by a federal judge in Florida.",
+    "link": "https://www.nytimes.com/2026/11/10/us/thomas-markle-ankle-monitor-jail.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-markle-hwkj/10xp-markle-hwkj-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T23:19:19.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Slain cartel boss 'The General' provided Ryan Wedding with fake police ID to evade capture, U.S. alleges",
+    "resumo": "U.S. federal charges announced on Tuesday provide new insight into two alleged accomplices accused of helping to protect Canadian Ryan Wedding while he was a fugitive in Mexico.",
+    "link": "https://www.cbc.ca/news/world/vazquez-wedding-charges-9.7417199?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b8ed5394-580d-476f-beb6-f6d4b29014f8,1794348182695/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-10T23:19:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bombeiro vira réu por agredir homem que parou para ver acidente em Goiânia; vídeo",
+    "resumo": "Bombeiro vira réu na Justiça após ser filmado agredindo homem após acidente em Goiânia O bombeiro militar Wallaci Vinicius Filgueira Abadia Bovo virou réu na Justiça após ser filmado agredindo um motociclista que parou para observar um acidente de trânsito na Avenida Mangalô, no Setor Morada do Sol, em Goiânia. O caso aconteceu no dia 11 ",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/bombeiro-vira-reu-por-agredir-homem-que-parou-para-ver-acidente-em-goiania-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6ltjfjwTN2Ox2OKsZvD0mBnit-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/3/emDXXoRK6y9kQmyuutIw/copia-de-copia-de-copia-de-padrao-foto-g1-goias-22-.jpg",
+    "data": "2026-11-10T23:18:46.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
+    "resumo": "Defense Secretary Pete Hegseth broke a monthslong drought of press briefings to defend his record in office.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T23:18:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de terça-feira, 10 de novembro de 2026",
+    "resumo": "Reveja os vídeos do telejornal.",
+    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-terca-feira-10-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vdSL8im2DrT06JrR5Wb83un53MM=/s01.video.glbimg.com/deo/vi/79/70/15177079",
+    "data": "2026-11-10T23:16:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Nova plataforma do MDIC identificará oportunidades de comércio com UE",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/nova-plataforma-do-mdic-identificara-oportunidades-de-comercio-com-ue\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/nova-plataforma-do-mdic-identificara-oportunidades-de-comercio-com-ue",
+    "imagem": null,
+    "data": "2026-11-10T23:08:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -46,66 +217,21 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Câmara dos EUA aprova proposta que barra impeachment de secretário de Guerra de Trump",
-    "resumo": "Secretário de Guerra, Pete Hegseth, durante coletiva à imprensa no Pentágono Evelyn Hockstein/Reuters A Câmara dos Deputados dos Estados Unidos aprovou nesta terça-feira (10) uma manobra republicana para barrar a votação do pedido de impeachment contra Pete Hegseth, secretário de Guerra do governo Trump e chefe do Pentágono. ✅ Siga o cana",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/10/em-manobra-republicana-camara-envia-impeachment-de-secretario-de-guerra-de-trump-a-comissao-e-adia-votacao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_MzjQdzUYQnfVfDa-1-ZGPntz34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/V/D0afvHRqGZtwfpYsaRhQ/2026-11-10t135931z-2140527161-rc21loauruu0-rtrmadp-3-usa-hegseth.jpg",
-    "data": "2026-11-10T23:02:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Associação critica afastamento de delegados que elaboraram relatórios sobre ministros do STF e cobra autonomia da PF",
-    "resumo": "A Associação Nacional dos Delegados de Polícia Federal (ADPF) criticou o afastamento de dois delegados de funções de chefia na área de combate à corrupção da Polícia Federal e afirmou que o episódio pode representar uma ameaça à autonomia dos responsáveis pelas investigações. O afastamento ocorreu um dia após a conclusão de relatórios sob",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/10/associacao-critica-afastamento-de-delegados-que-elaboraram-relatorios-sobre-ministros-do-stf-e-cobra-autonomia-da-pf.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Brasileiros encontram fake news com frequência, diz pesquisa",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/brasileiros-encontram-fake-news-com-frequencia-diz-pesquisa\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stro",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/brasileiros-encontram-fake-news-com-frequencia-diz-pesquisa",
     "imagem": null,
-    "data": "2026-11-10T23:02:15.000Z"
+    "data": "2026-11-10T23:02:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Tiro atravessa lataria de ônibus e atinge perna de passageira na Grande Florianópolis",
-    "resumo": "Ônibus Jotur, de Palhoça - imagem ilustrativa Diorgenes Pandini/NSC/Arquivo Um tiro atingiu a perna de uma passageira dentro de um ônibus do transporte público de Palhoça, na Grande Florianópolis, na noite de segunda-feira (9). Segundo a Jotur, responsável pelo serviço na cidade, o projétil atravessou a lateral do veículo. A vítima, que n",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/10/tiro-atravessa-lataria-onibus-atinge-perna-passageira-grande-florianopolis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pMgGfqmX5aKWYf7Qg_Y29cMev44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/1/gExZTdR4GptHJzmvUHkA/jotur.jpg",
-    "data": "2026-11-10T23:01:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia apreende quase 180 kg de cocaína escondida em carga de milho em Presidente Prudente",
-    "resumo": "Polícia apreende quase 180 kg de cocaína transportada em carga de milho em Presidente Prudente (SP) Reprodução/Polícia Rodoviária Um motorista foi preso suspeito de tráfico de drogas ao transportar quase 180 kg de cocaína na Rodovia Raposo Tavares (SP-270), em Presidente Prudente (SP), na segunda-feira (9). Conforme a Polícia Rodoviária, ",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/10/policia-apreende-cocaina-escondida-em-carga-de-milho-em-presidente-prudente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AXKrjDILvdgm6FE025xLCNkvNqs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/Appkk8SBOhSC3gnyXcbw/whatsapp-image-2026-11-10-at-18.23.59.jpeg",
-    "data": "2026-11-10T23:00:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caminhão carregado com cimento tomba às margens da SP-249 em Ribeirão Branco",
-    "resumo": "Veículo ficou tombado em uma área de mata às margens da SP-249 Defesa Civil de Ribeirão Branco Um caminhão carregado com cimento tombou no quilômetro 37 da Rodovia Hiroshi Kosuge (SP-249), entre Ribeirão Branco e Apiaí (SP), na tarde desta terça-feira (10). Segundo a Defesa Civil de Ribeirão Branco, o acidente ocorreu por volta das 16h40,",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/10/caminhao-carregado-com-cimento-tomba-as-margens-da-sp-249-em-ribeirao-branco.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7IUiYEsQwZSF_WutGSxc-qSCzdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/u/jSj3VSRUGp44ZZPNbIEg/whatsapp-image-2026-11-10-at-19.27.19.jpeg",
-    "data": "2026-11-10T23:00:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: EPTV 2 Sul de Minas de terça-feira, 10 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/10/videos-eptv-2-sul-de-minas-de-terca-feira-10-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uV7i3eGCyhl9031FqbQ3RIZjhFo=/s01.video.glbimg.com/deo/vi/81/69/15176981",
-    "data": "2026-11-10T22:57:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Boa Noite Espírito Santo",
-    "resumo": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
-    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png",
-    "data": "2026-11-10T22:56:25.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Instituto Evandro Chagas comemora 90 anos com congresso científico",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/instituto-evandro-chagas-comemora-90-anos-com-congresso-cientifico\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/instituto-evandro-chagas-comemora-90-anos-com-congresso-cientifico",
+    "imagem": null,
+    "data": "2026-11-10T22:56:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -126,24 +252,6 @@
     "data": "2026-11-10T22:52:15.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista aos telejornais da TV Liberal",
-    "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
-    "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-    "imagem": null,
-    "data": "2026-11-10T22:51:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: RJ2 de terça-feira, 10 de novembro de 2026",
-    "resumo": "Assista aos vídeos com as notícias do Rio de Janeiro.",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-terca-feira-10-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UIssJGcxk5eEecS7Dyflddi94PM=/s01.video.glbimg.com/deo/vi/25/68/15176825",
-    "data": "2026-11-10T22:50:19.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
@@ -155,11 +263,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Alberta's United Conservative Party faces backlash for pledge that limits riding presidents' independence talk",
-    "resumo": "Some senior party organizers refuse to sign a new NDA stating they'll \"abide by\" the referendum result.",
-    "link": "https://www.cbc.ca/news/canada/calgary/alberta-s-ucp-faces-backlash-for-pledge-that-limits-riding-presidents-independence-talk-9.7417108?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b1bc8b85-7571-4905-b64f-86aedd1c6a7a,1794343921167/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C4939%2C2778%29%3B",
-    "data": "2026-11-10T22:46:23.000Z"
+    "titulo": "Irving Oil, Grant Enterprises plead guilty to environment charges over N.B. diesel spill next to Tim Hortons",
+    "resumo": "Irving Oil Ltd. and Grant Enterprises 1984 Ltd. have pleaded guilty in provincial court to charges under the Clean Environment Act due to a 200,000-plus-litre diesel spill in Woodstock.",
+    "link": "https://www.cbc.ca/news/canada/new-brunswick/irving-oil-pleaded-guilty-woodstock-diesel-spill-9.7417100?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/75ec1520-a10d-4ed1-bf01-8e007a40eae5,1777577060787/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-10T22:48:32.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -168,7 +276,16 @@
     "resumo": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
     "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T22:46:11.000Z"
+    "data": "2026-11-10T22:46:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "WTA Finals: após vitória na estreia, dupla de Stefani joga na quarta",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/wta-finals-apos-vitoria-na-estreia-dupla-de-stefani-joga-na-quarta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/wta-finals-apos-vitoria-na-estreia-dupla-de-stefani-joga-na-quarta",
+    "imagem": null,
+    "data": "2026-11-10T22:46:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -182,20 +299,11 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+    "titulo": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
     "resumo": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
     "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-10T22:36:14.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
-    "resumo": "In the House, Republicans signaled a desire for fresh leadership after their biggest election defeat in decades. In the Senate, they re-elected their current leader.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-REPUBLICANS-JORDAN-zgvb/10DC-REPUBLICANS-JORDAN-zgvb-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T22:32:21.000Z"
   },
   {
     "categoria": "Brasil",
@@ -295,6 +403,15 @@
     "link": "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-voa-zpvt/10dc-voa-zpvt-mediumSquareAt3X.jpg",
     "data": "2026-11-10T21:47:25.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Should you trust new AI agents with your money and data?",
+    "resumo": "Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money&apos;s involved?",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6018588",
+    "data": "2026-11-10T21:44:32.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -414,15 +531,6 @@
     "data": "2026-11-10T20:51:05.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Trabalhador poderá autorizar bancos a consultar extrato do FGTS",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalhador-podera-autorizar-bancos-consultar-extrato-do-fgts\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalhador-podera-autorizar-bancos-consultar-extrato-do-fgts",
-    "imagem": null,
-    "data": "2026-11-10T20:49:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Spain's king and queen attend memorial service for rail crash victims",
@@ -430,24 +538,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d303/live/f5a86570-dd42-11f1-9ac0-6b8f7fc58221.jpg",
     "data": "2026-11-10T20:46:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Número de jovens privados de liberdade caiu pela metade em dez anos",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/numero-de-jovens-privados-de-liberdade-caiu-pela-metade-em-dez-anos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/numero-de-jovens-privados-de-liberdade-caiu-pela-metade-em-dez-anos",
-    "imagem": null,
-    "data": "2026-11-10T20:45:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "IA pode ajudar a responder desastres naturais, dizem cientistas ao G20",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/ia-pode-ajudar-responder-desastres-naturais-dizem-cientistas-ao-g20\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/ia-pode-ajudar-responder-desastres-naturais-dizem-cientistas-ao-g20",
-    "imagem": null,
-    "data": "2026-11-10T20:42:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -466,60 +556,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-10T20:39:46.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
-    "resumo": "Defense Secretary Pete Hegseth broke a monthslong drought of press briefings to defend his record in office.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T20:37:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "BC do Paraguai já ressarciu 93% dos clientes do banco Ueno",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bc-do-paraguai-ja-ressarciu-93-dos-clientes-do-banco-ueno\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bc-do-paraguai-ja-ressarciu-93-dos-clientes-do-banco-ueno",
-    "imagem": null,
-    "data": "2026-11-10T20:26:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-    "resumo": "Iraq has barred Iran’s national football team from landing in Basra due to US sanctions on Iranian airlines.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T20:23:03.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Salvadoran troops target Haitian gang, leaving 20 dead",
-    "resumo": "Salvadoran troops backed the police operation ahead of the Haitian prime minister’s visit to El Salvador.",
-    "link": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T20:22:21.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "F1 champion Lewis Hamilton visits Gaza border",
-    "resumo": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
-    "link": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T20:14:34.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "‘Garbage,’ ‘egregious,’ ‘an assault’: museum chair warns AI slop on Inuk war hero John Shiwak making rounds",
-    "resumo": "A post purporting to be a true account of Inuk war hero John Shiwak’s WW I military service is circulating and its has chair of the Royal Newfoundland Regiment Museum Frank Gogos calling it out as “garbage.”",
-    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/john-shiwak-ai-post-9.7416033?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.4391916,1688136012000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C65%2C584%2C328%29%3B",
-    "data": "2026-11-10T19:53:12.000Z"
   },
   {
     "categoria": "Internacional",
@@ -594,15 +630,6 @@
     "data": "2026-11-10T19:18:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Ole Miss Investigates White Students Who Made Racist Gestures in Video",
-    "resumo": "Two white young women made noises imitating monkeys outside the apartment door of a group of Black students. The university called the video “deeply troubling.”",
-    "link": "https://www.nytimes.com/2026/11/10/us/ole-miss-white-students-racist-gestures-video.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-miss-lgzt/00nat-miss-lgzt-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T19:05:44.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The US is winning the AI race. Jensen Huang could have blown it",
@@ -632,9 +659,9 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Ovechkin responds to planned protest in Ottawa over his support for Putin",
+    "titulo": "Protesters denounce Ovechkin's support for Putin as Capitals visit Senators in Ottawa",
     "resumo": "\"Lots of protests going on around the world.\" the NHL star told reporters before his team's game against the Ottawa Senators on Tuesday. \"Nobody's using me,\" he added later.",
-    "link": "https://www.cbc.ca/news/canada/ottawa/ovechkin-responds-to-planned-protest-in-ottawa-over-his-support-for-putin-9.7416605?cmp=rss",
+    "link": "https://www.cbc.ca/news/canada/ottawa/protesters-denounce-ovechkin-s-support-for-putin-as-capitals-visit-senators-in-ottawa-9.7416605?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/df494b0a-e152-46b2-906a-8becf3db5655,1794336672963/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C102%2C5085%2C2860%29%3B",
     "data": "2026-11-10T19:00:56.000Z"
   },
@@ -776,19 +803,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Rethinking leadership: How Jean Marie River, N.W.T., created a council of family representatives",
-    "resumo": "Jean Marie River has a new chief, Paul Simon, and new representatives for youth and elders, all elected on Oct. 28. But four of the councillors joining them weren’t elected in the same way.",
-    "link": "https://www.cbc.ca/news/canada/north/jean-marie-river-family-representatives-9.7413099?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/03fc5d36-794d-4c47-9baa-d9b11542049e,1794325902671/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B",
-    "data": "2026-11-10T17:21:16.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
     "titulo": "U.S. comedian Josh Johnson surprised by CBC journalist in viral video",
     "resumo": "A CBC News copy editor turned into one half of an unexpected comedy duo in a video posted to social media Tuesday. American comedian Josh Johnson brought Jon Azpiri to the stage to talk cats, disappearing islands and journalism.",
     "link": "https://www.cbc.ca/news/canada/british-columbia/jon-the-editor-josh-johnson-viral-comedy-9.7416381?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/73bf2cf7-fb68-4540-aab1-072ec232e291,1794328821552/full/max/0/default.jpg?im=Crop%2Crect%3D%2867%2C9%2C1034%2C581%29%3B",
+    "imagem": "https://i.cbc.ca/ais/73bf2cf7-fb68-4540-aab1-072ec232e291,1794352313185/full/max/0/default.jpg?im=Crop%2Crect%3D%2872%2C0%2C1034%2C581%29%3B",
     "data": "2026-11-10T17:15:53.000Z"
   },
   {
@@ -826,15 +844,6 @@
     "link": "https://www.theguardian.com/culture/2026/nov/10/jon-stewart-trump-60-minutes-interview",
     "imagem": "https://i.guim.co.uk/img/media/58a7ef37341875d95517dba582f4db26949aaefc/287_0_1329_1064/master/1329.jpg?width=140&quality=85&auto=format&fit=max&s=849162b9172c245788f113cc50cad59b",
     "data": "2026-11-10T16:53:50.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Corey Lewandowski, Trump Ally, Is a Top Target for Democrats After the Election",
-    "resumo": "The former Trump administration adviser has been urged to preserve his records, as part of Democrats’ bid to rein in the Department of Homeland Security.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/democrats-corey-lewandowski-investigations.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-Lewandowski-jckf/10dc-Lewandowski-jckf-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T16:50:33.000Z"
   },
   {
     "categoria": "Internacional",
@@ -934,6 +943,15 @@
     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
     "data": "2026-11-10T14:45:46.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Republicans block impeachment push against Pete Hegseth",
+    "resumo": "Republicans in the U.S. House of Representatives voted Tuesday to sideline a resolution that aimed to impeach Secretary of War Pete Hegseth.",
+    "link": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/f8eca9d1-9243-4b9f-b908-dcd1adc8c8b1,1794316603751/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C472%2C7477%2C4205%29%3B",
+    "data": "2026-11-10T14:42:08.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1071,15 +1089,6 @@
     "data": "2026-11-10T12:29:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Get in, loser: Broadway&apos;s newest &apos;Mean Girls&apos; are ready to insult (and enlighten) you",
-    "resumo": "\"School Girls; Or, The African Mean Girls Play,\" is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh.",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1991+0+0/resize/3200x1991!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F09%2F0e863e77427ea1f57eca3fb36a51%2Fgettyimages-2297678210.jpg",
-    "data": "2026-11-10T12:28:36.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "US and rest of world must follow China’s lead on green energy, says John Kerry",
@@ -1087,15 +1096,6 @@
     "link": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
     "imagem": "https://i.guim.co.uk/img/media/e9e70c1f9aafbf60fe3b65bb1b0c30528284d52f/0_747_2932_2345/master/2932.jpg?width=140&quality=85&auto=format&fit=max&s=d1785ffc68c0400a922125bfb198d09c",
     "data": "2026-11-10T12:08:23.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-    "resumo": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction.",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-    "imagem": null,
-    "data": "2026-11-10T12:01:04.000Z"
   },
   {
     "categoria": "Cultura",
