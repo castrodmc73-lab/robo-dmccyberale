@@ -1,5 +1,41 @@
 [
   {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+    "resumo": "<p>Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails</p><p>The Senate on Monday advanced bipartisan legislation aimed at speeding up permitting reviews for datacenters and other infrastructure projects, in the first major action since last week’s election that soundly repudi",
+    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+    "imagem": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783",
+    "data": "2026-11-10T02:28:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+    "resumo": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T02:13:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Em todo Brasil, 39 locais de prova do Enem são afetados pela queda de energia, causada por temporais",
+    "resumo": "Segunda chance A falta de luz prejudicou candidatos do Enem em 39 locais de prova do país. Os estudantes que não conseguiram fazer o exame no domingo (8) vão ter uma nova chance no dia 15 de dezembro. A expectativa de quem esperou um ano para esse dia virou incerteza. Quem gravou o vídeo foi a orientadora social Valdelicia de Freitas. Ela",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/em-todo-brasil-39-locais-de-prova-do-enem-sao-afetados-pela-queda-de-energia-causada-por-temporais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KdqAusGYgoVkkdV2I967umfTSOY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/4/kibgwYQMCfux2gqyYIfQ/globo-canal-4-20261109-2000-frame-144648.jpeg",
+    "data": "2026-11-10T02:06:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Cameroon sets date for twice-delayed legislative and local elections",
+    "resumo": "President Paul Biya, the world&#039;s oldest leader, sets February 7 for Cameroon&#039;s delayed legislative and local polls.",
+    "link": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T02:03:59.000Z"
+  },
+  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "The National | U.S. Republican moves to impeach Hegseth",
@@ -7,6 +43,51 @@
     "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
     "data": "2026-11-10T02:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israel’s Shin Bet finds no evidence of foreign election interference",
+    "resumo": "Israel&#039;s internal security service has found no evidence of foreign interference in last month’s election.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T01:59:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+    "resumo": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
+    "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T01:56:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Atendimento móvel da Âmbar Energia chega a dez bairros de Manaus nesta semana; veja locais e datas",
+    "resumo": "Atendimento móvel da Âmbar Energia. Divulgação/Âmbar Energia A Âmbar Energia segue percorrendo os bairros de Manaus com atendimento móvel para facilitar o acesso da população aos serviços de energia elétrica. Nesta semana, a iniciativa chega a 10 bairros das zonas Sul, Oeste, Leste, Centro-Oeste e Centro-Sul. A programação começa nesta se",
+    "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/11/09/atendimento-movel-da-ambar-energia-chega-a-dez-bairros-de-manaus-nesta-semana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TQ6_kGYXYhjmdlKT84yaW3uMT8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/D/5lyeyaQxy7X6Iea1E9AA/ambar-atendimento-movel-g1.jpg",
+    "data": "2026-11-10T01:55:45.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Qantas to outsource 850 local jobs with most roles moving to India",
+    "resumo": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+    "data": "2026-11-10T01:55:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Filipinas suspendem importações de carne suína; país asiático é o principal comprador do produto brasileiro",
+    "resumo": "Filipinas suspendem importação de carne suína por dois meses O governo das Filipinas suspendeu as importações de carne suína. O país asiático é o principal comprador do produto brasileiro. A restrição nas importações está prevista para começar no dia 24 de novembro de 2026 e valer por dois meses. A medida afeta todos os países que vendem ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/filipinas-suspende-importacoes-de-carne-suina-pais-asiatico-e-o-principal-comprador-do-produto-brasileiro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/EN1L_oLNhwna1ajHqkYM-C08G_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/B/Y54hbJRn2ZnRa48cAQBA/globo-canal-4-20261109-2000-frame-134675.jpeg",
+    "data": "2026-11-10T01:51:40.000Z"
   },
   {
     "categoria": "Ciência",
@@ -36,18 +117,9 @@
     "data": "2026-11-10T01:38:49.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Qantas to outsource 850 local jobs with most roles moving to India",
-    "resumo": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-    "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
-    "data": "2026-11-10T01:38:19.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender a demanda interna",
+    "titulo": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna",
     "resumo": "Chuvas fortes reduzem a produção de trigo no Brasil As chuvas fortes reduziram a produção de trigo no Brasil e o país vai ter que aumentar em 20% a importação de trigo para atender a demanda interna. Pode não parecer, mas você está vendo uma das piores safras que a terra já colheu. E o motivo caiu do céu. “A gente teve um desafio climátic",
     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/chuvas-fortes-reduzem-producao-de-trigo-e-brasil-tera-que-aumentar-em-20percent-a-importacao-do-cereal-para-atender-a-demanda-interna.ghtml",
     "imagem": "https://s2-g1.glbimg.com/h8d5XUQl8Y6M6JTbGzkQR2dfIGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/c/4i2hYBSVCEtsYNmtFQJg/globo-canal-4-20261109-2000-frame-133080.jpeg",
@@ -56,8 +128,8 @@
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Governo prorroga deseneração da gasolina e do etanol por mais 30 dias",
-    "resumo": "O governo federal prorrogou por mais 30 dias a desoneração dos tributos federais sobre a gasolina e o etanol. A medida também prevê a manutenção da subvenção adicional aos produtores de etanol. A medida foi publicada em edição extra do Diário Oficial da União (DOU). Com a prorrogação, as medidas, cujo prazo de vigência terminaria nesta se",
+    "titulo": "Governo prorroga desoneração da gasolina e do etanol por mais 30 dias",
+    "resumo": "O governo federal prorrogou por mais 30 dias a desoneração dos tributos federais sobre a gasolina e o etanol. A medida também prevê a manutenção da subvenção adicional aos produtores de etanol. A medida foi publicada em edição extra do Diário Oficial da União (DOU). Com a prorrogação, as medidas seguem em vigor até 9 de dezembro. Agora no",
     "link": "https://g1.globo.com/economia/noticia/2026/11/09/governo-prorroga-deseneracao-da-gasolina-e-do-etanol-por-mais-30-dias.ghtml",
     "imagem": "https://s2-g1.glbimg.com/5eKex30vSHHDD_2qgGvwycQCxRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/I/JhP3x2TGW0zhEAA4hoMQ/globo-canal-4-20260714-2000-frame-89435.jpeg",
     "data": "2026-11-10T01:34:09.000Z"
@@ -189,36 +261,9 @@
     "data": "2026-11-10T00:50:40.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia de Goiás prende 9 suspeitos de movimentar R$ 10 bilhões em apostas ilegais e fraudes eletrônicas",
-    "resumo": "Polícia prende quadrilha por fraudes eletrônicas e apostas ilegais A polícia de Goiás prendeu nove suspeitos de movimentar R$ 10 bilhões em apostas ilegais e fraudes eletrônicas. A investigação contra a quadrilha começou depois de uma denúncia sobre uma campanha falsa nas redes sociais. Uma das vítimas foi Frei Gilson. O líder católico, q",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/policia-de-goias-prende-9-suspeitos-de-movimentar-r-10-bilhoes-em-apostas-ilegais-e-fraudes-eletronicas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LZBmgrhfg6nW22bKC8bT0lFE58o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/R/Bs028pR1Sfeo0AJdIfqA/globo-canal-4-20261109-2000-frame-92847.jpeg",
-    "data": "2026-11-10T00:50:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inscrições para concurso da Marinha com salários de R$ 9 mil acabam nesta terça-feira",
-    "resumo": "Inscrições para concurso da Marinha com salários de R$ 9 mil acabam nesta terça-feira Marinha do Brasil As inscrições para o concurso da Marinha do Brasil que tem 18 vagas para a Bahia acabam nesta-terça-feira (10). Os salários iniciais são de R$ 9 mil e as oportunidades são para Salvador e para Porto Seguro, no extremo sul do estado. Par",
-    "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/11/09/inscricoes-para-concurso.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hihCjFQjtFyzOWhlYry6s8LIFsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/N/xl8bHvTCAM4okqbl5OEw/manuel-3-.png",
-    "data": "2026-11-10T00:46:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Super Sete hoje: resultado do concurso 920 e números sorteados",
-    "resumo": "Resultado da Super Sete g1 Veja abaixo os números sorteados das colunas no concurso 920 da Super Sete realizado nesta segunda-feira (9): Números sorteados por coluna Confira o resultado do sorteio da Super Sete. Veja quantas apostas foram premiadas no concurso 920: Ninguém conseguiu os 7 acertos, e a premiação acumulou para R$ 300 mil; 6 ",
-    "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/09/super-sete-hoje-resultado-do-concurso-920-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3FmoroDXfeTQyh8VpCaF_UajpVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/I/TOlezBQiSLVcxssiJPrw/supersete-920-pmeyl.jpeg",
-    "data": "2026-11-10T00:45:57.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+    "titulo": "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
     "resumo": "US president says he believes CEO Jensen Huang had no knowledge of woman&#039;s alleged work for Chinese intelligence.",
     "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
     "imagem": null,
@@ -241,15 +286,6 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/chase-de-balinhard-inquest-9.7415605?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/11113cd9-45f9-4131-8a9b-6794915fcc7b,1794264220882/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C86%2C1200%2C675%29%3B",
     "data": "2026-11-10T00:41:57.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-    "resumo": "<p>Key environmental groups come out against bipartisan Baaja bill over fears it could spur datacenters and ICE jails</p><p>It’s a bill that would make it easier to build big infrastructure projects in America – everything from <a href=\"https://www.theguardian.com/environment/fossil-fuels\">fossil fuel</a> pipelines to transmission lines t",
-    "link": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-    "imagem": "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783",
-    "data": "2026-11-10T00:41:13.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -295,15 +331,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg",
     "data": "2026-11-10T00:09:49.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-    "resumo": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T00:08:43.000Z"
   },
   {
     "categoria": "Internacional",
@@ -486,15 +513,6 @@
     "data": "2026-11-09T22:35:06.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-    "resumo": "Iranian officials dismissed Trump&#039;s remarks as &#039;fake news&#039; after he suggested keeping the &#039;status quo&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-09T22:31:19.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "France accuses Iran of cyber &apos;sabotage&apos; in fridge attacks",
@@ -540,15 +558,6 @@
     "data": "2026-11-09T22:15:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Pope meets with clergy abuse survivors in Argentina",
-    "resumo": "During private meetings with survivors, Pope Leo XIV pledged to reinforce safeguards and listen to victims.",
-    "link": "https://www.aljazeera.com/news/2026/11/9/pope-meets-with-clergy-abuse-survivors-in-argentina?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-09T22:14:37.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Booker Prize goes to post-apocalyptic, sci-fi novel The End of Everything",
@@ -565,15 +574,6 @@
     "link": "https://www.nytimes.com/2026/11/09/us/charlie-kirk-murder-trial-date.html",
     "imagem": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-kirk-1-phbw/23nat-kirk-1-phbw-mediumSquareAt3X.jpg",
     "data": "2026-11-09T22:13:52.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-    "resumo": "Aron Orban reportedly detained as Hungarian authorities raid properties linked to his business associates.",
-    "link": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-09T22:13:29.000Z"
   },
   {
     "categoria": "Estados Unidos",
