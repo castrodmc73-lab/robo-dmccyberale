@@ -1,12 +1,201 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Firing of Voice of America Chief Was Illegal, Appeals Court Rules",
+    "resumo": "The unanimous ruling upheld a lower-court decision and was the latest setback to the Trump administration, which has sought to shutter the independent news group.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-voa-zpvt/10dc-voa-zpvt-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T21:47:25.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Após ser espancada por adolescente, husky siberiano é adotada por família em Cajuru, SP",
-    "resumo": "Após ser espancada por adolescente, husky siberiano é adotada por família em Cajuru, SP A husky siberiano que foi espancada por um adolescente de 16 anos em Cajuru (SP) ganhou um novo lar nesta terça-feira (10). Batizada de Bela, a cadela de três anos foi adotada pela comerciante Mariana de Oliveira, que afirma que a decisão é definitiva.",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/10/apos-ser-espancada-por-adolescente-husky-siberiano-e-adotada-por-familia-em-cajuru-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Nl0BDcDI6Z8BuHRR7BCvmqfv3D4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/B/qc0HlYSSi62B8XwFhTFA/molduras-g1-rp-17-.png",
-    "data": "2026-11-10T21:07:59.000Z"
+    "titulo": "VÍDEO: jacaré de 1,2 metro é capturado em estação de tratamento de esgoto no interior de SP",
+    "resumo": "Jacaré de 1,2 metro é capturado em estação de tratamento de esgoto em São Carlos, SP Um jacaré de aproximadamente 1,20 metro mobilizou equipes do Corpo de Bombeiros na manhã desta terça-feira (10), nas instalações da Estação de Tratamento de Esgoto (ETE) Monjolinho, do Serviço Autônomo de Água e Esgoto (SAAE), em São Carlos (SP). Segundo ",
+    "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/10/video-jacare-de-12-metro-e-capturado-em-estacao-de-tratamento-de-esgoto-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ieSm-pndgfCwHRgkhrh8iK9Ob5s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/n/BpUUIZQkakOYleMpZfsg/jacare-saae-sao-carlos-1-.jpg",
+    "data": "2026-11-10T21:43:30.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Oura is acquiring medical AI chatbot startup Counsel Health",
+    "resumo": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported fr",
+    "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-10T21:40:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Daniel Vilela anuncia novos nomes para o secretariado em Goiás; veja lista",
+    "resumo": "Daniel Vilela começa a definir nomes para o secretariado da próxima gestão em Goiás O governador de Goiás, Daniel Vilela (MDB), começou a definir os nomes que vão compor o secretariado da próxima gestão. Entre as novidades estão a criação de uma secretaria exclusiva para o enfrentamento da violência contra as mulheres, que deve ser comand",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/daniel-vilela-anuncia-novos-nomes-para-o-secretariado-em-goias-veja-lista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GcsMdPABVNJNtpo2jnQZOeAf-sw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/P/IO0uX9SqiiYYrMqTMRbA/padrao-foto-texto-g1-2026-04-24t074038.607.jpg",
+    "data": "2026-11-10T21:40:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao BATV da TV Subaé",
+    "resumo": "Assista ao BATV da TV Subaé",
+    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+    "imagem": null,
+    "data": "2026-11-10T21:39:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cão de homem morto a tiros após carreata pró-Flávio Bolsonaro morre 15 dias após perder o tutor em MS",
+    "resumo": "Ragnar e o tutor Ewerton Rodrigues da Silva. Arquivo pessoal Ragnar, cão de Ewerton Rodrigues da Silva, que morreu após ser baleado ao tentar separar uma briga por causa de uma vaga de estacionamento em Bonito (MS), morreu no último domingo (8), 15 dias depois do tutor. A confusão ocorreu após uma carreata de apoio a Flávio Bolsonaro (PL)",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/10/cao-de-homem-morto-a-tiros-apos-carreata-pro-flavio-bolsonaro-morre-15-dias-apos-perder-o-tutor-em-ms.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Q4_PA4Z8DaETTAgxXeGdULuqbZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/q/zPyOjQRJqc2zAeb45CnA/design-sem-nome-33-.png",
+    "data": "2026-11-10T21:35:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Caso Yan: processo de cassação é arquivado e prefeito segue no cargo",
+    "resumo": "Caso Yan: processo de cassação é arquivado e prefeito segue no cargo Cinco dos nove vereadores votaram pela cassação do mandato; eram necessários 8 votos a favor da cassação",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/camara-de-cacapava-inicia-sessao-para-votar-pedido-de-cassacao-do-prefeito-yan-lopes-acompanhe-ao-vivo-no-g1.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/9nTjQC6VTD7VTG6gmiipuOyk88s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/L/hjdXV1RpqVdiZTv2hKrg/whatsapp-image-2026-11-10-at-09.38.06-1-.jpeg",
+    "data": "2026-11-10T21:34:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Nvidia perde R$ 2,5 trilhões em 2 dias após denúncias de infidelidade e suspeita de espionagem envolvendo CEO",
+    "resumo": "Como uma traição envolveu o CEO da Nvidia em investigação de espionagem As ações da Nvidia ampliaram as perdas nesta terça-feira (10) e fecharam em queda de 5,47%. Os papéis eliminaram de US$ 470 bilhões (cerca de R$ 2,5 trilhões) em valor de mercado em apenas dois dias. A queda ocorre em meio à preocupação de investidores com as possívei",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/10/nvidia-perde-r-25-trilhoes-em-2-dias-apos-denuncias-de-infidelidade-e-suspeita-de-espionagem-envolvendo-ceo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/G5K1nZ5k6EzsibuYPgDK4-h85xY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/G/Zm8dCGRUGlsRggBr4S7Q/2026-11-10t025315z-781474958-rc2bkoaszbej-rtrmadp-3-nvidia-probe-ceo.jpg",
+    "data": "2026-11-10T21:32:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Seis suspeitos de ligação com tentativa de invasão da Vila Brasília são detidos em Volta Redonda",
+    "resumo": "Seis suspeitos de ligação com tentativa de invasão da Vila Brasília são detidos em Volta Redonda Divulgação/PMERJ Seis suspeitos de integrar o grupo que participou da tentativa de invasão do Complexo da Vila Brasília, em Volta Redonda (RJ), foram detidos nesta terça-feira (10), durante uma ação da Polícia Militar na localidade conhecida c",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/10/seis-suspeitos-de-ligacao-com-tentativa-de-invasao-da-vila-brasilia-sao-detidos-em-volta-redonda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NiDXf-6dgahVAn2IDa_5teSGEGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/m/5NeK6RRuAKlD9IUcx8QA/whatsapp-image-2026-11-10-at-18.25.19.jpeg",
+    "data": "2026-11-10T21:32:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Republicanos escolhem aliado ultraconservador de Trump para liderar o partido na Câmara dos EUA",
+    "resumo": "O deputado Jim Jordan foi eleito para liderar a minoria republicana Câmara dos Deputados dos EUA. Annabelle Gordon/Reuters O deputado Jim Jordan, do estado de Ohio, foi eleito nesta terça-feira (10) líder dos republicanos na Câmara dos Representantes dos Estados Unidos. Ele venceu uma disputa contra o deputado Steve Scalise, da Louisiana,",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/10/republicanos-escolhem-aliado-ultraconservador-de-trump-para-liderar-o-partido-na-camara-dos-eua.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/j_DLRKA_G2gc3NI4afksmHXCzkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/e/OBz79ZQpGA0nKln5oBAw/2026-11-10t212827z-537214429-rc28loa4ee4g-rtrmadp-3-usa-congress-republicans.jpg",
+    "data": "2026-11-10T21:30:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Forte chuva causa alagamentos, queda de árvores e deixa bairros sem energia na Grande Belém",
+    "resumo": "Chuva em Belém causa transtornos na tarde desta terça-feira (10) Uma forte chuva acompanhada de ventania atingiu a Região Metropolitana de Belém na tarde desta terça-feira (10), provocando transtornos na capital paraense e em municípios vizinhos. Entre as ocorrências estão a queda de parte da estrutura de uma passarela do BRT sobre um ôni",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/10/forte-chuva-causa-alagamentos-queda-de-arvores-e-deixa-bairros-sem-energia-na-grande-belem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xuLL71r9m6pitfB_Wk-xmOo3wWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/2/UxRXdwQBCzn1yYFpQBSQ/chuva-belem.jpg",
+    "data": "2026-11-10T21:29:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Maior maternidade de Roraima tem apenas dois médicos para UTI e MP cobra solução do governo",
+    "resumo": "Maternidade Nossa Semhora de Nazareth, a maior de Roraima. Secom-RR/Divulgação O Ministério Público de Roraima (MP) recomendou que a Secretaria de Saúde (Sesau) normalize, em até 72 horas, a escala de médicos das unidades neonatais do Hospital Materno Infantil Nossa Senhora de Nazareth. O órgão identificou que há dois médicos responsáveis",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/10/maior-maternidade-de-roraima-tem-apenas-dois-medicos-para-uti-e-mp-cobra-solucao-do-governo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zeWMFYMqRSiN8TqR5_1hC5j7L60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/r/G/fIvsXiQgCYe0iYprY1Fg/nova-estrutura-da-maternidade-nossa-senhora-de-nazareth-e-inaugurada-14-.jpg",
+    "data": "2026-11-10T21:27:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Relator atende agronegócio e MP que renegocia dívidas rurais é aprovada na Câmara",
+    "resumo": "Depois de uma longa negociação, a Câmara dos Deputados aprovou nesta terça-feira (10) a Medida Provisória (MP) que renegocia as dívidas rurais. O líder do Governo na Câmara, Paulo Pimenta (PT-RS), aceitou pedidos do setor do agronegócio e apresentou um texto de meio-termo. Integrantes da Frente Parlamentar do Agronegócio (FPA) mantiveram ",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/10/relator-atende-agronegocio-e-mp-que-renegocia-dividas-rurais-e-aprovada-na-camara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yTrF_L5p97z0uLtr0OD0qhlaaRE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/V/XmaJdcSjWildTctvcGbQ/renato-araujo-camara-dos-deputados.jpeg",
+    "data": "2026-11-10T21:24:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+    "resumo": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg",
+    "data": "2026-11-10T21:23:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    "resumo": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-10T21:22:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "First day of Ukraine peace talks constructive, Zelensky says",
+    "resumo": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-10T21:21:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Novo painel de dados mostra chuva abaixo da média em 70% do país",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/novo-painel-de-dados-mostra-chuva-abaixo-da-media-em-70-do-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/novo-painel-de-dados-mostra-chuva-abaixo-da-media-em-70-do-pais",
+    "imagem": null,
+    "data": "2026-11-10T21:21:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dois homens são encontrados mortos com tiros na cabeça em área de mata em Rio Branco",
+    "resumo": "Dois homens foram encontrados mortos com tiros na cabeça em uma área de mata no conjunto habitacional Cidade do Povo Arquivo pessoal Dois homens foram encontrados mortos com tiros na cabeça em uma área de mata próximo à quadra 22 do Conjunto Habitacional Cidade do Povo, no Segundo Distrito de Rio Branco, na tarde desta terça-feira (10). E",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/10/dois-homens-sao-encontrados-mortos-com-tiros-na-cabeca-em-area-de-mata-em-rio-branco.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/y0ohNqxAscdrosvIsxpM_Jxyz1I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/z/xVcwdqR3y4x9eGcPMaHA/midia-de-distribuicao-g1-2026-11-10t155532.484.jpg",
+    "data": "2026-11-10T21:20:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Deputados admitem rever isenções se IVA superar 26,5%",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/deputados-admitem-rever-isencoes-se-iva-superar-265\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>Os",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/deputados-admitem-rever-isencoes-se-iva-superar-265",
+    "imagem": null,
+    "data": "2026-11-10T21:20:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Why Canada is budgeting for extreme earthquake preparedness",
+    "resumo": "Prime Minister Mark Carney's second budget proposal aims to help Canadians prepare for the possibility of a major earthquake.",
+    "link": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b9c206d3-4193-4197-b299-39a89bacac0c,1794344395553/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C338%2C6500%2C3656%29%3B",
+    "data": "2026-11-10T21:16:39.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Partidos de Esquerda se unem para barrar ultradireita em estado alemão",
+    "resumo": "Partido Social-Democrata (SPD) sela coalizão de governo com A Esquerda e os Verdes. Apesar de ter sido a mais votada na eleição de Mecklemburgo-Pomerânia Ocidental, AfD não encontra aliados e ficará na oposição.",
+    "link": "https://www.dw.com/pt-br/partidos-de-esquerda-se-unem-para-barrar-ultradireita-em-estado-alemão/a-79913451?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-10T21:13:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Porto de Santos: sistemas seguem afetados após ataque cibernético",
+    "resumo": "<p>A Autoridade Portuária de Santos (APS), responsável pela administração do Porto, confirmou que um ataque cibernético iniciado na última sexta-feira (6) derrubou os sistemas, a energia elétrica e o acesso a internet em toda área administrativa do porto, sem conseguir afetar as operações logísticas. <strong>Durante a tarde de hoje, já co",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/porto-de-santos-sistemas-seguem-afetados-apos-ataque-cibernetico",
+    "imagem": null,
+    "data": "2026-11-10T21:08:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -28,30 +217,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é condenado por matar amigo com tiro na cabeça durante jogo do Brasil pela Copa do Mundo",
-    "resumo": "Marcos Frederico Eugenio foi morto em Auriflama (SP) Reprodução / Rede Social Um homem de 51 anos foi condenado na segunda-feira (9) por matar o amigo, de 41 anos, com um tiro na cabeça em um churrasco durante o jogo do Brasil pela Copa do Mundo. Cabe recurso. O ex-vigilante bancário Pedro Bernardo Da Silva Junior foi condenado a cumprir ",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/10/homem-e-condenado-por-matar-amigo-com-tiro-na-cabeca-durante-jogo-do-brasil-pela-copa-do-mundo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AYdSRzIJ0w-9E5BQKSIcCDC9J4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/fimBSQTbAYxIT8BkEfoA/design-sem-nome-2026-06-14t124939.002.jpg",
-    "data": "2026-11-10T21:05:20.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inscrições para concurso da Guarda Municipal de Santana são prorrogadas; veja novos prazos",
-    "resumo": "Entrada do município de Santana Internet/Reprodução As inscrições para o concurso da Guarda Civil Municipal de Santana foram prorrogadas até 3 de dezembro. Anteriormente, o prazo era até 9 de novembro. O cadastro é feito exclusivamente pela internet. O certame oferece 50 vagas imediatas e outras 50 para cadastro de reserva, com salários d",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/10/inscricoes-para-concurso-da-guarda-municipal-de-santana-sao-prorrogadas-veja-novos-prazos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Wi1g3a0J1x85niLW0jUvmxKw1rM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/y/Y/yv5lsxSZyL3m94lNkH8A/santana-2.jpeg",
-    "data": "2026-11-10T21:04:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: onça-parda é resgatada atrás de máquina de lavar em casa de Porto Feliz",
-    "resumo": "Onça-parda é resgatada após invadir residência em Porto Feliz Uma onça-parda foi resgatada após entrar em uma casa, em Porto Feliz (SP). O animal, um macho de aproximadamente três anos, foi retirado do imóvel por uma equipe do CRAS Núcleo da Floresta, com apoio do Corpo de Bombeiros, passou por avaliação veterinária e foi devolvido à natu",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/10/resgate-onca-parda-porto-feliz.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RWt3SD24iC93_JekVMWmhUs3rtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/H/XosGMXQVGQ83bTX6Wg0w/texto-do-seu-paragrafo-2026-11-10t171330.266.png",
-    "data": "2026-11-10T21:02:16.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Falta de saneamento influencia no desempenho de estudantes no Enem",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem",
+    "imagem": null,
+    "data": "2026-11-10T21:04:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -63,33 +234,6 @@
     "data": "2026-11-10T21:00:55.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bebê nasce com 6,2 kg e surpreende equipe médica no Amazonas",
-    "resumo": "Bebê de 6,2 kg nasce em hospital de Itacoatiara, no interior do Amazonas. Arquivo Pessoal Uma bebê de 6,2 kg nasceu no Hospital Regional José Mendes, em Itacoatiara, no interior do Amazonas. O peso, quase o dobro da média, surpreendeu os próprios pais e a equipe médica. A recém-nascida permanece sob cuidados especiais. 🔎 De acordo com o ",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/10/bebe-nasce-com-62-kg-e-surpreende-equipe-medica-no-amazonas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/eqwfsjZwZIyt2L0MfKfUtU8fEeo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/R/A5K1KfSF289rpRIyzKCw/bebe-gigante.jpg",
-    "data": "2026-11-10T21:00:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeitos de maus-tratos contra jacaré em parque de Cuiabá são investigados; vídeo",
-    "resumo": "Suspeitos de maus-tratos contra jacaré Celso são identificados em Cuiabá Dois homens, de 24 e 29 anos, são investigados por suspeita de maus-tratos contra o jacaré Celso, no Parque das Águas, em Cuiabá. O caso ocorreu na última quinta-feira (5) e ganhou repercussão após um vídeo da ação ser publicado nas redes sociais no dia seguinte. A i",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/10/suspeitos-de-maus-tratos-contra-jacare-em-parque-de-cuiaba-sao-investigados-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/s_W20b9zcNM92pkhRSQ69SM06PA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/E/YW5rCvSGyhtCZSN2hdAQ/enem-2-.png",
-    "data": "2026-11-10T21:00:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Capivarinha Cacá: um caso de amor à primeira vista no CenterVale Shopping",
-    "resumo": "Conquistar a simpatia das crianças, despertar sorrisos e criar laços que vão além de uma visita ao shopping. É nesse universo de afeto e proximidade que a capivarinha Cacá passa a fazer parte da história do CenterVale Shopping, em São José dos Campos. Primeira mascote infantil própria de um shopping do Vale do Paraíba, a mascote chega par",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/centervale-shopping-centervale-shopping-faz-parte-da-sua-vida/noticia/2026/11/10/capivarinha-caca-um-caso-de-amor-a-primeira-vista-no-centervale-shopping.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7QprXcTJiFxpXChDfJYy3oYA2SU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/J/6NxWVQTteq1lzLAyJ5TA/materia-4.jpeg",
-    "data": "2026-11-10T21:00:01.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "White House announces funds for law enforcement programme in several cities",
@@ -99,60 +243,6 @@
     "data": "2026-11-10T21:00:01.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Micro-ônibus escolar com crianças e adolescentes tomba em estrada rural de Taquarivaí",
-    "resumo": "Ninguém ficou ferido no acidente Divulgação/Prefeitura de Taquarivaí Um micro-ônibus com 11 passageiros, entre crianças e adolescentes, tombou na Estrada Municipal Humberto Quicoli, na zona rural de Taquarivaí (SP), na tarde desta terça-feira (10). Ninguém ficou ferido. Segundo a prefeitura, haviam 4 crianças e 7 adolescente dentro do veí",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/10/micro-onibus-escolar-com-criancas-e-adolescentes-tomba-em-estrada-rural-de-taquarivai.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pvaKUmvXehcPs8AELci3BHrNR8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/t/h1Ozr3RhiRBbHGdkaNsw/untitled.jpg",
-    "data": "2026-11-10T20:59:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é detido suspeito de manter ex-companheira refém dentro de ônibus no Pará",
-    "resumo": "Homem é preso após manter ex-companheira refém dentro de ônibus Um homem foi detido suspeito de manter a ex-companheira refém dentro de um ônibus na Vila do Carrapatinho, zona rural de Viseu, no nordeste do Pará. Segundo a Polícia Militar, ele teria ameaçado a mulher com uma arma branca dentro do veículo. Após serem encaminhados à delegac",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/10/homem-e-detido-suspeito-de-manter-ex-companheira-refem-dentro-de-onibus-no-para.ghtml",
-    "imagem": null,
-    "data": "2026-11-10T20:56:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF identifica três depósitos ligados à fabricação clandestina de cigarros em Feira de Santana",
-    "resumo": "PF identifica três depósitos ligados à fabricação clandestina de cigarros em Feira de Santana Foto: Divulgação/PF A Polícia Federal (PF) identificou três galpões suspeitos de integrar uma estrutura clandestina de fabricação, armazenamento e distribuição irregular de cigarros em Feira de Santana, segunda maior cidade da Bahia. Os imóveis f",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/10/pf-identifica-depositos-ligados-a-fabricacao-clandestina-de-cigarros-em-feira-de-santana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Uen6CrP4OoyM_CModsGFi_WunA4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/4/qQ5GbdQrAgA5xUC7Ebeg/foto-1-golpista-2-.png",
-    "data": "2026-11-10T20:55:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF abre investigação para apurar incêndios em Alter do Chão, onde fogo já destruiu mais de 564 hectares",
-    "resumo": "Inquérito da PF pretende identificar possíveis responsáveis pelos incêndios em Alter do Chão. Divulgação: Prefeitura de Santarém A Polícia Federal abriu um inquérito policial para investigar os incêndios florestais que atingem a Área de Proteção Ambiental (APA) de Alter do Chão, em Santarém, no oeste do Pará. A investigação tramita sob si",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/10/pf-abre-investigacao-para-apurar-incendios-em-alter-do-chao-onde-fogo-ja-destruiu-mais-de-564-hectares.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vVcd699ihJ1YZwY4e4lGA9-Dxvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/qweoANQESasC96iGws1A/jkldwbfkkc6hjy7tr26tlj3rob8oe8z4m7d93il3.webp",
-    "data": "2026-11-10T20:55:42.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cleitinho se reúne com presidente do PT-BH em meio a articulação para encontro com Lula",
-    "resumo": "Cleitinho e vice se reúnem com presidente do PT-BH em meio a tentativas de conversa com Lula Reprodução/Redes sociais O senador e governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos), se reuniu com o presidente do diretório do Partido dos Trabalhadores (PT) em Belo Horizonte, Guima Jardim, nesta terça-feira (10). O encontro",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/10/cleitinho-se-reune-com-presidente-do-pt-bh-em-meio-a-articulacao-para-encontro-com-lula.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5XOWQ4nOLqMQ2Qlqq-ERiJeyoGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/E/XqBoeYSQSIAJkaj0Wmsw/saveclip.app-901369649-18643107364045086-4994656370518283025-n.jpg",
-    "data": "2026-11-10T20:55:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
-    "resumo": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg",
-    "data": "2026-11-10T20:53:33.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
@@ -160,6 +250,15 @@
     "link": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-habba-jvqt/10dc-habba-jvqt-mediumSquareAt3X.jpg",
     "data": "2026-11-10T20:51:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Trabalhador poderá autorizar bancos a consultar extrato do FGTS",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalhador-podera-autorizar-bancos-consultar-extrato-do-fgts\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/trabalhador-podera-autorizar-bancos-consultar-extrato-do-fgts",
+    "imagem": null,
+    "data": "2026-11-10T20:49:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -178,6 +277,15 @@
     "link": "https://www.cbc.ca/news/world/meghan-markle-father-thomas-markle-child-sexual-abuse-charges-9.7416922?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/8611fe10-e28e-4c92-9a18-75e0e58c1017,1794000586440/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1179%2C663%29%3B",
     "data": "2026-11-10T20:45:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Número de jovens privados de liberdade caiu pela metade em dez anos",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/numero-de-jovens-privados-de-liberdade-caiu-pela-metade-em-dez-anos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/numero-de-jovens-privados-de-liberdade-caiu-pela-metade-em-dez-anos",
+    "imagem": null,
+    "data": "2026-11-10T20:45:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -270,15 +378,6 @@
     "data": "2026-11-10T20:15:22.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Brasil conclui destinação de R$ 28,3 bilhões em títulos sustentáveis",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-conclui-destinacao-de-r-283-bilhoes-em-titulos-sustentaveis\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-conclui-destinacao-de-r-283-bilhoes-em-titulos-sustentaveis",
-    "imagem": null,
-    "data": "2026-11-10T20:15:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "F1 champion Lewis Hamilton visits Gaza border",
@@ -322,15 +421,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/10/trump-administration-seeks-to-cut-food-aid-for-more-than-six-million-people?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-10T20:00:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dweck defende regulação tecnológica e papel indutor do Estado",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dweck-defende-regulacao-tecnologica-e-papel-indutor-do-estado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dweck-defende-regulacao-tecnologica-e-papel-indutor-do-estado",
-    "imagem": null,
-    "data": "2026-11-10T19:58:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -378,15 +468,6 @@
     "data": "2026-11-10T19:40:52.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dino: audiência é sobre aplicação de 5x2 e não para questionar medida",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-audiencia-e-sobre-aplicacao-de-5x2-e-nao-para-questionar-medida\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-audiencia-e-sobre-aplicacao-de-5x2-e-nao-para-questionar-medida",
-    "imagem": null,
-    "data": "2026-11-10T19:39:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Rubio says no need for major combat operations against Iran",
@@ -414,15 +495,6 @@
     "data": "2026-11-10T19:27:59.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Caixa passa a pagar prêmios de loterias via Pix em apostas digitais",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-passa-pagar-premios-de-loterias-pix-em-apostas-digitais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-passa-pagar-premios-de-loterias-pix-em-apostas-digitais",
-    "imagem": null,
-    "data": "2026-11-10T19:27:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
@@ -430,15 +502,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png",
     "data": "2026-11-10T19:26:42.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Mostra “Elas Dirigem” leva filmes premiados do cinema alemão ao DF",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-elas-dirigem-leva-filmes-premiados-do-cinema-alemao-ao-df\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-elas-dirigem-leva-filmes-premiados-do-cinema-alemao-ao-df",
-    "imagem": null,
-    "data": "2026-11-10T19:26:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -551,8 +614,8 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "4 grizzly bears found responsible for killing mother and daughter in B.C.",
-    "resumo": "The B.C. Conservation Officer Service says four grizzly bears have been destroyed in connection with an attack near Bella Coola that left a mother and daughter dead.",
+    "titulo": "4 grizzly bears responsible for killing mother and daughter in B.C., officials say",
+    "resumo": "The B.C. Conservation Officer Service says four grizzly bears have been killed in connection with an attack near Bella Coola that left a mother and daughter dead.",
     "link": "https://www.cbc.ca/news/canada/british-columbia/grizzly-bear-bella-coola-attack-update-9.7416743?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/701a6f68-e35c-4a2b-adab-566f67178887,1793749751805/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C294%2C4032%2C2268%29%3B",
     "data": "2026-11-10T18:43:05.000Z"
@@ -576,15 +639,6 @@
     "data": "2026-11-10T18:42:03.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "CNU 2025: governo republica edital com novas listas de espera",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/cnu-2025-governo-republica-edital-com-novas-listas-de-espera\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><str",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/cnu-2025-governo-republica-edital-com-novas-listas-de-espera",
-    "imagem": null,
-    "data": "2026-11-10T18:35:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
@@ -601,15 +655,6 @@
     "link": "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-blue-referendums-1-hzgc/10nat-blue-referendums-1-hzgc-mediumSquareAt3X.jpg",
     "data": "2026-11-10T18:28:54.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "David Walliams, U.K. comedian and author, accused of preying on teenage girls",
-    "resumo": "British comedian and author David Walliams has been accused by multiple women of using his celebrity status to prey on them at a young age, often for sex, according to a three-year investigation by the Guardian and ITV News. Walliams has denied the allegations.",
-    "link": "https://www.cbc.ca/news/entertainment/david-williams-accused-9.7416549?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/04813fb8-3abb-4aae-b339-553880bf5d5b,1794330036386/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C9%2C5098%2C2867%29%3B",
-    "data": "2026-11-10T18:19:11.000Z"
   },
   {
     "categoria": "Internacional",
@@ -675,24 +720,6 @@
     "data": "2026-11-10T17:42:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The indie game community is in disarray over AI and Big Walk",
-    "resumo": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult",
-    "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-10T17:32:47.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "First day of Ukraine peace talks constructive, Zelensky says",
-    "resumo": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-10T17:29:36.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Nasa procura novos astronautas para a conquista da Lua",
@@ -704,7 +731,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "'The editor's here!': CBC journalist stars in viral video with American stand-up Josh Johnson",
+    "titulo": "U.S. comedian Josh Johnson surprised by CBC journalist in viral video",
     "resumo": "A CBC News copy editor turned into one half of an unexpected comedy duo in a video posted to social media Tuesday. American comedian Josh Johnson brought Jon Azpiri to the stage to talk cats, disappearing islands and journalism.",
     "link": "https://www.cbc.ca/news/canada/british-columbia/jon-the-editor-josh-johnson-viral-comedy-9.7416381?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/73bf2cf7-fb68-4540-aab1-072ec232e291,1794328821552/full/max/0/default.jpg?im=Crop%2Crect%3D%2867%2C9%2C1034%2C581%29%3B",
@@ -808,15 +835,6 @@
     "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=1edc3cf7475bd5f0c139f510cb79b299",
     "data": "2026-11-10T15:35:09.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-    "resumo": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
-    "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T15:30:06.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1053,15 +1071,6 @@
     "data": "2026-11-10T12:08:23.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "O que aconteceu em 30 anos de conferências do clima",
-    "resumo": "Linha do tempo mostra os principais avanços desde a primeira COP, realizada em Berlim em 1995.",
-    "link": "https://www.dw.com/pt-br/o-que-aconteceu-em-30-anos-de-conferências-do-clima/a-74675224?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-10T12:08:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
@@ -1267,15 +1276,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-10T00:08:28.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "resumo": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-09T23:51:22.000Z"
   },
   {
     "categoria": "Ciência",
