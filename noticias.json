@@ -1,66 +1,219 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher é assassinada com tiros na cabeça e no tórax em Santana, no Amapá",
+    "resumo": "Vítima morreu após dar entrada no Hospital de Santana. Caso está sendo investigado. Crystofher Andrade/g1 Amapá Uma mulher de 21 anos morreu após ser atingida por vários disparos de arma de fogo na noite de segunda-feira (9), no bairro Provedor 2, em Santana, distante 17 quilômetros de Macapá. De acordo com informações do 4º Batalhão da P",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/10/mulher-e-assassinada-com-tiros-na-cabeca-e-no-torax-em-santana-no-amapa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iEZo2j8AUf8rfQdiAIDwUtBfZLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/d/ysaAJEQA6MB9oiQeONOQ/whatsapp-image-2026-01-19-at-09.44.35.jpeg",
+    "data": "2026-11-10T11:04:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "RJ tem 705 denúncias sobre linha chilena até outubro, diz Linha Verde; ‘veio na direção do meu pescoço’, contou vítima",
+    "resumo": "RJ tem mais de 700 denúncias sobre linha chilena O estado do Rio de Janeiro registrou 705 denúncias envolvendo linha chilena neste ano, até outubro, segundo um levantamento do Programa Linha Verde, do Disque Denúncia. Desse total, 518 chamadas foram registradas na capital, o equivalente a 73,5% das ocorrências. Piedade, na Zona Norte da c",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/11/10/rj-tem-denuncias-sobre-linha-chilena.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AOSagpdIL7b6ccfN99HMsO-7znY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/5/FSErATTd6XAydI3YByAg/bdrj-linha-chilena4.jpeg",
+    "data": "2026-11-10T11:03:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Hotéis e plataformas devem explicar valores abusivos de hospedagens no período da posse presidencial em Brasília",
+    "resumo": "Turistas reclamam de valores para hospedagem em Brasília no período da posse presidencial Hotéis e plataformas foram notificados pela Secretaria Nacional do Consumidor (Senacon) para prestar esclarecimentos sobre os valores abusivos para hospedagens em Brasília durante o período da posse presidencial. Segundo informado pela Senacon, na se",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/10/hoteis-e-plataformas-devem-explicar-valores-abusivos-de-hospedagens-no-periodo-da-posse-presidencial-em-brasilia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qHY5bgtSorvqfXru6rRhRXdqwBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/0/OgkYscQg2Z7NAjmRVKkg/setor-hoteleiro-sul-em-brasilia-antcrz-abr-20220927-0735.jpg",
+    "data": "2026-11-10T11:02:51.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "resumo": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files yo",
+    "link": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/seagate1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-10T11:01:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Caraguatatuba amplia acesso à saúde com atendimentos em diferentes regiões",
+    "resumo": "A saúde pública de Caraguatatuba conta com uma estrutura que reúne atendimento de urgência e emergência, consultas, vacinação, distribuição de medicamentos e acompanhamento especializado. O trabalho envolve profissionais de diferentes áreas e serviços destinados a atender às necessidades da população. Pref Caraguatatuba Divulgação As três",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-caraguatatuba/prefeitura-de-caraguatatuba/noticia/2026/11/10/caraguatatuba-amplia-acesso-a-saude-com-atendimentos-em-diferentes-regioes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AV5iSkLREabPPnn4QMYpNSZ32KQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/v7iVOtQ82J0JDAykcaMg/caraguatatuba-fortalece-rede-municipal-foto-hugo-labanca-pmc-1-1-.jpg",
+    "data": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+    "resumo": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of [&#82",
+    "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2026-Real-Motors-Project-Ares-009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+    "resumo": "The two-day session in the UAE&apos;s capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions.",
+    "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8442x5628+0+0/resize/8442x5628!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F1d%2F0ae01b0e48da8c5012df7b1388ab%2Fap26311681290035.jpg",
+    "data": "2026-11-10T10:58:18.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Police officer dies and another injured after backpack explosion in Oviedo",
     "resumo": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
     "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ad/live/f127bff0-dced-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-10T10:13:51.000Z"
+    "data": "2026-11-10T10:57:21.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "PF cumpre mandado de prisão contra ex-servidor do STJ suspeito de vazar informações sigilosas",
-    "resumo": "PF realiza operação contra ex-servidor do STJ suspeito de vazamento A Polícia Federal cumpre, na manhã desta terça-feira (10), um mandado de prisão contra Humberto Fontoura Pradera, ex-servidor do Superior Tribunal de Justiça (STJ) suspeito de vazar informações sigilosas. A ação faz parte da segunda fase da Operação Linceu. A primeira fas",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/10/pf-segunda-fase-operacao-linceu.ghtml",
+    "titulo": "STJ criou sistemas para reforçar segurança após suspeita de vazamento por ex-servidor",
+    "resumo": "O Superior Tribunal de Justiça (STJ) criou dois novos sistemas de segurança após a descoberta de uma suspeita de vazamento de informações da Corte para o advogado Willer Tomaz, amigo de Flávio Bolsonaro (PL). Humberto Fontoura Pradera, ex-secretário de Tecnologia da Informação do STJ, foi alvo de mandado de prisão nesta terça-feira (10) s",
+    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/10/stj-criou-sistemas-para-reforcar-seguranca-apos-suspeita-de-vazamento-por-ex-servidor.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AzgY0aAINSVfWr8Nx1V57pTfLEo=/s.glbimg.com/jo/g1/f/original/2016/09/05/stj.jpg",
+    "data": "2026-11-10T10:56:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fim do inquérito das fake news fecha um foco de crise no STF, mas caso Master ainda mantém tribunal sob tensão",
+    "resumo": "O fim do inquérito das fake news demorou. Veio mais de sete anos depois de sua abertura, mas fecha um foco de crise dentro do Supremo Tribunal Federal (STF). Responsável pela decisão, o presidente do STF, Edson Fachin, tem pela frente outro ponto de tensão: o caso Master. Fachin tomou a decisão correta ao tirar o inquérito das fake news d",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/10/fim-do-inquerito-das-fake-news-fecha-um-foco-de-crise-no-stf-mas-caso-master-ainda-mantem-tribunal-sob-tensao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AViOIgejv_o2WdtyTlTCMmWmngs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/v/g2YQWeTPuoZ3UnMgszOA/globo-canal-4-20261109-2000-frame-62792.jpeg",
+    "data": "2026-11-10T10:53:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Duas pessoas são presas suspeitas de participação em ataque a acampamento do MST na Paraíba",
+    "resumo": "Ataque a acampamento do MST deixa barracos queimados, na Paraíba Duas pessoas foram presas, na segunda-feira (9), suspeitas de participação no ataque ao Acampamento Marilene Dantas, ligado ao Movimento dos Trabalhadores Rurais Sem Terra (MST), no Litoral Sul da Paraíba. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O local foi al",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/10/duas-pessoas-sao-presas-suspeitas-de-participacao-em-ataque-a-acampamento-do-mst-na-paraiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rLGo3Uzkrcpxi-veb1VvDy57eJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/X/p0KtHPQSAzYVyMLpSWaw/whatsapp-image-2026-11-08-at-17.19.55-1-.jpeg",
+    "data": "2026-11-10T10:53:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Advogado usa procuração de mulher que morreu em Nova York e saca R$ 151 mil em banco no ES",
+    "resumo": "Caixa Econômica Federal Caixa Econômica Federal/Divulgação Um advogado retirou R$ 151,4 mil de uma conta judicial em nome de uma mulher que já havia morrido. O saque foi realizado em uma agência da Caixa Econômica Federal, em Vila Velha, na Grande Vitória, com uma procuração assinada quase um ano depois da morte da beneficiária, que falec",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/10/advogado-usa-procuracao-de-mulher-que-morreu-em-nova-york-e-saca-r-151-mil-em-banco-no-es.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/K5wgtu7tg0Cz-_Ft7PP90MkUdXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/a/Hn1hMwQVqzAh8R2Xa1QA/thumb-fotos-2026-11-10t075021.349.jpg",
+    "data": "2026-11-10T10:51:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
+    "resumo": "Assista ao Bom Dia Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-bom-dia-vanguarda-ao-vivo-no-g1.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg",
+    "data": "2026-11-10T10:51:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pai de Meghan Markle tem exame psiquiátrico pedido pela Justiça",
+    "resumo": "Pai de Meghan Markle é preso na Flórida sob acusação de posse de pornografia infantil Uma determinação imposta pela Justiça dos Estados Unidos ordena que o pai de Meghan Markle passe por um exame psiquiátrico, após a sua prisão por presumida posse de material pornográfico infantil na última sexta-feira (6). ✅ Siga o canal de notícias inte",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/10/pai-de-meghan-markle-tem-exame-psiquiatrico-pedido-pela-justica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/n7t6RNJ21F9Lp7Cc7dbeo2tAuw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/M/k/iEmXLPQsACodD3bvFt9g/thomas-markle.jpg",
+    "data": "2026-11-10T10:49:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia apreende 300 quilos de cocaína, armas e munições em imóvel em Barroquinha, no interior do Ceará",
+    "resumo": "Armas, munições e 300 kg de drogas em Barroquinha A Polícia Civil apreendeu cerca de 300 quilos de cocaína, duas armas de fogo, 100 munições e um veículo em um imóvel no município de Barroquinha, no interior do Ceará. Segundo a investigação, o local era usado como depósito de drogas e armas. Ninguém foi preso. De acordo com o delegado Edu",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/10/policia-apreende-300-quilos-de-cocaina-armas-e-municoes-em-imovel-em-barroquinha-no-interior-do-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nm0oRUAv-0FaJwqzcXVOD82bFZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/L/AmRNbvTTO3QfAN7oq41A/durante-ofensiva-policia-civil-apreende-cerca-de-300-kg-de-cocaina-armas-e-municoes-em-barroquinha.jpg",
+    "data": "2026-11-10T10:48:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O que se sabe sobre acidente que matou adolescente e deixou quatro feridos",
+    "resumo": "Acidente de carro deixa 5 vítimas na TO-080 Um carro com cinco jovens capotou na TO-080, entre Paraíso do Tocantins e Monte Santo. O acidente deixou uma adolescente de 17 anos morta e outras quatro pessoas feridas, sendo que um dos ocupantes ficou em estado grave com suspeita de traumatismo cranioencefálico (TCE). O caso ocorreu na manhã ",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/10/o-que-se-sabe-sobre-acidente-que-matou-adolescente-e-deixou-quatro-feridos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/c6yGenvDQ9s0YuD6OG9iKlw_iMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/kh6I4vQsChWLsAUYEdSw/copia-de-modelo-foto-fundo-borrado-11-.png",
+    "data": "2026-11-10T10:44:26.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
+    "resumo": "<p>UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year</p><p>The UN secretary-general, <strong>António Guterres,</strong> has just issued a challenge to Turkey and Australia to carry on the work to develop a roadmap for the plan to transition away from",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87",
+    "data": "2026-11-10T10:40:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Humanoid robot takes on Antarctic ultra-marathon… and fails",
+    "resumo": "A humanoid robot has made history by competing against runners in Antarctica&#039;s gruelling ultra-marathon.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/humanoid-robot-takes-on-antarctic-ultra-marathon-and-fails?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-10T10:13:35.000Z"
+    "data": "2026-11-10T10:30:35.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia encontra dois laboratórios de drogas em Sumaré e Nova Odessa; três homens são presos",
-    "resumo": "Polícia encontra laboratórios de drogas em Sumaré e Nova Odessa; três homens são presos Três homens foram presos durante uma operação que encontrou dois laboratórios de drogas em Sumaré (SP) e Nova Odessa (SP), na segunda-feira (9). Segundo a Polícia Federal, os locais eram usados para produzir derivados de maconha conhecidos como \"dry\" e",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/10/policia-encontra-dois-laboratorios-de-drogas-em-sumare-e-nova-odessa-tres-homens-sao-presos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nb5SroxUfWwg6FIhe9pI6NxlLeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/EFA8ORSf2ulhLG3Vu3Hw/sumare-3-.jpeg",
-    "data": "2026-11-10T10:12:11.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Gás do Povo libera vale-recarga para 3,1 milhões de famílias",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/gas-do-povo-libera-vale-recarga-para-31-milhoes-de-familias\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>A ",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/gas-do-povo-libera-vale-recarga-para-31-milhoes-de-familias",
+    "imagem": null,
+    "data": "2026-11-10T10:30:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UK author M John Harrison’s End of Everything wins Booker Prize",
+    "resumo": "The book uses dark humour and elusive narratives to cast a futuristic lens on modern politics post-calamity.",
+    "link": "https://www.aljazeera.com/news/2026/11/10/uk-author-m-john-harrisons-end-of-everything-wins-booker-prize?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T10:22:35.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Judging this year’s Booker prize taught me our humanity cannot be captured by algorithms and data | Rebecca Liu",
+    "resumo": "<p>As the demand for information and transparency about our lives increases, these brilliant books dealt with shadows, mystery, privacy and intimacy</p><p> </p><p>The first box of submissions for the 2026 Booker prize arrived by courier a few days before Christmas. As I made my way through 19 books over the next six weeks (they start you ",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/10/booker-prize-judging-algorithms-data-books",
+    "imagem": "https://i.guim.co.uk/img/media/6d9dc4f5a44836c267d3aee43f379f0dba7a5019/245_0_3085_2468/master/3085.jpg?width=140&quality=85&auto=format&fit=max&s=b52c6871fdd21bd15de54698af9371fa",
+    "data": "2026-11-10T10:21:15.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "De portas a terreno milionário: TRT-SE realiza leilão nesta quarta-feira",
-    "resumo": "Chave, Porta, Sonho da casa própria Pixabay/Reprodução O Tribunal Regional do Trabalho da 20ª Região (TRT-SE) realiza o 5º Ciclo de Leilões Ordinários Unificados de 2026 nesta quarta-feira (11). Ao todo, são 25 lotes que incluem imóveis residenciais e comerciais, maquinários industriais, eletrônicos e diversos outros itens. A relação deta",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/10/de-portas-a-terreno-milionario-trt-se-realiza-leilao-nesta-quarta-feira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QryjcS5JHPskw8TbzIEmSYQ0skw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/t/p/0urRBPS7ASIF6gugDQtA/house-g8953befb6-1920.jpg",
-    "data": "2026-11-10T10:11:42.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Inmet prevê chuva no Norte e melhoria do tempo no Sul e Sudeste",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-preve-chuva-no-norte-e-melhoria-do-tempo-no-sul-e-sudeste\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/inmet-preve-chuva-no-norte-e-melhoria-do-tempo-no-sul-e-sudeste",
+    "imagem": null,
+    "data": "2026-11-10T10:12:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pakistan TV anchor allegedly shot dead at home by her husband",
+    "resumo": "Pakistan TV anchor Rabiya Ahsan was shot dead at home. Police are probing her husband&#039;s claim of accidental firing.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/pakistan-tv-anchor-allegedly-shot-dead-at-home-by-her-husband?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-10T10:10:32.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cliente que deve ser indenizada pela WePink sofreu queimadura química no olho após usar produto para cílios, diz perita",
-    "resumo": "WePink é condenada após consumidora sofrer lesão na córnea A cliente que deve ser indenizada pela WePink, empresa que tem como sócia a influenciadora Virginia Fonseca, após determinação da Justiça sofreu uma queimadura química no olho após usar um produto para cílios, segundo laudo pericial citado na decisão. Segundo o acórdão publicado p",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/cliente-que-deve-ser-indenizada-pela-wepink-sofreu-queimadura-quimica-no-olho-apos-usar-produto-para-cilios-diz-perita.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1D2uEPgSB9aTlkRhOYiT0BCt_6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/w2bCN9QiiczECaEAkzsg/padrao-foto-g1-goias.png",
-    "data": "2026-11-10T10:11:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Papa em Goiânia? Leão XIV pode vir a Goiás durante congresso em 2027, diz cardeal",
-    "resumo": "Leão XIV pode vir a Goiás durante congresso em 2027, diz cardeal O Papa Leão XIV pode vir a Goiânia em 2027. O cardeal José Tolentino de Mendonça informou que o pontíficie foi convidado para particpar do 19º Congresso Eucarístico Nacional, marcado para acontecer em setembro do próximo ano na capital goiana. A declaração foi dada durante a",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/papa-em-goiania-leao-xiv-pode-vir-a-goias-durante-congresso-em-2027-diz-cardeal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hwtpMRTRoRJPMzDm2rg-2EL0Hc8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/nlOt5nQrOG0ffWua46Uw/g1-foto.jpg",
-    "data": "2026-11-10T10:10:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Bom Dia Amapá desta terça (10)",
-    "resumo": "Assista ao Bom Dia Amapá desta terça (10) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
-    "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quinta-5.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/oDNfwTEhRTXuH_i439SXQfNFo-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/d/dO4UBRTGKL9lHGjoesvg/whatsapp-image-2026-09-25-at-05.59.38.jpeg",
-    "data": "2026-11-10T10:09:37.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Transpetro destina R$ 25 milhões a patrocínios culturais e esportivos",
+    "resumo": "<p>O programa Transpetro em Movimento lançou hoje (10) edital público para programas culturais e esportivos em todas as regiões do Brasil. <strong>Serão destinados R$ 25 milhões, sendo R$ 15 milhões para projetos de cultura e R$ 10 milhões para esportivos</strong>. Os projetos selecionados podem ter duração de até dois anos e ser contrata",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/edital-destina-r-25-milhoes-em-patrocinios-culturais-e-esportivos-0",
+    "imagem": null,
+    "data": "2026-11-10T10:05:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -78,7 +231,7 @@
     "resumo": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues.",
     "link": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-warren-pvtk/10pol-warren-pvtk-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T10:04:36.000Z"
+    "data": "2026-11-10T10:04:37.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -126,6 +279,15 @@
     "data": "2026-11-10T10:02:44.000Z"
   },
   {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Mega-Sena sorteia prêmio de R$ 3,5 milhões nesta terça-feira",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-35-milhoes-nesta-terca-feira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stron",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-35-milhoes-nesta-terca-feira",
+    "imagem": null,
+    "data": "2026-11-10T10:02:00.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
@@ -133,15 +295,6 @@
     "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcd%2F74%2F9d6c7a52448bbc3dac4c9d1c198a%2Fap23278544498634.jpg",
     "data": "2026-11-10T10:01:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pantanal perdeu 53% das áreas alagadas e teve 9 milhões de hectares consumidas pelo fogo, aponta MapBiomas",
-    "resumo": "Vitória-régia em rio no Pantanal. Divulgação/Imasul. A área alagada do Pantanal diminuiu 53% nos últimos 40 anos, passando de 5,99 milhões para 2,79 milhões de hectares, conforme dados divulgados pelo MapBiomas. A redução ocorre em um período marcado pela expansão das atividades agropecuárias e por grandes incêndios florestais no bioma. O",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/10/pantanal-perdeu-53percent-das-areas-alagadas-e-teve-9-milhoes-de-hectares-consumidas-pelo-fogo-aponta-mapbiomas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3ZXx42GHY7-N1h1jCBlopP2ROcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/p2HjTLRfO3TyBMGGP0pQ/design-sem-nome-43-.jpg",
-    "data": "2026-11-10T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -171,6 +324,15 @@
     "data": "2026-11-10T10:00:00.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "These domestic violence shelters can hardly keep up with the cost of groceries",
+    "resumo": "As the cost of living and the price of groceries continue to soar, the people who run domestic violence shelters for women and children are struggling to keep up.",
+    "link": "https://www.cbc.ca/news/canada/nova-scotia/domestic-violence-food-insecurity-shelters-9.7415200?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/7d1517f9-575e-4e94-882e-aebec1f3d627,1794246152089/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-10T10:00:00.000Z"
+  },
+  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
@@ -178,15 +340,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
     "data": "2026-11-10T09:57:49.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Daniela Mercury se torna a primeira artista do Axé Music a receber prêmio de excelência musical",
-    "resumo": "Daniela Mercury é a primeira artista do Axé Music a receber Prêmio à Excelência Musical Daniela Mercury recebeu, na noite de segunda-feira (9), o Prêmio À Excelência Musical (Lifetime Achievement Award), uma das mais importantes e prestigiadas honrarias concedidas pela Academia Latina da Gravação, responsável pelo Grammy Latino. Com mais ",
-    "link": "https://g1.globo.com/ba/bahia/musica/noticia/2026/11/10/daniela-mercury-recebe-premio-de-excelencia-musical.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vMad9fY773svkX9WeMz5NGnz0EY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/j/CM5xIKRgy1KpWIIN7mRQ/img-6746.png",
-    "data": "2026-11-10T09:57:26.000Z"
   },
   {
     "categoria": "Canadá",
@@ -198,15 +351,6 @@
     "data": "2026-11-10T09:57:22.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incêndio causado por moto elétrica em estacionamento de condomínio de Goiânia assusta moradores; vídeo",
-    "resumo": "Incêndio em estacionamento de condomínio de Goiânia assusta moradores Um incêndio causado no estacionamento de um condomínio no Setor Bueno, em Goiânia, assustou moradores na noite de terça-feira (9). De acordo com o Corpo de Bombeiros, o fogo começou em uma motocicleta elétrica que estava no local. As chamas e a fumaça que tomaram conta ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/incendio-em-estacionamento-de-condominio-de-goiania-assusta-moradores-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GCuAUtdP77PSkAPUqv9jPCqm7XI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/7/7jIhLIRY2c8r4t2ZHW1Q/incendio-subsolo-predio-goiania-moto-eletrica.jpg",
-    "data": "2026-11-10T09:57:09.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Trump says he will hold off on fresh Iran strikes for now",
@@ -216,42 +360,6 @@
     "data": "2026-11-10T09:55:37.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
-    "resumo": "<p>UN climate summit prepares to host world leaders from more than 90 countries tomorrow</p><p>A short update on our Cop31 bus journey from hell.</p><p>We have arrived. It only took three and a half hours. And it turned out I had the key for our Guardian Cop31 media cubicle, which meant my colleagues had to do some wrangling to get inside",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87",
-    "data": "2026-11-10T09:54:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Shoppings do Alto Tietê têm mais de 80 vagas de emprego nesta terça-feira; veja lista",
-    "resumo": "Shoppings do Alto Tietê têm 89 vagas de emprego Larissa Rodrigues/g1 Shoppings do Alto Tietê contam com mais de 80 vagas de emprego nesta terça-feira (10) Itaquá Park Shopping/ Divulgação Os shoppings do Alto Tietê têm 89 vagas de emprego nesta terça-feira (10). As oportunidades são para maiores de 18 anos e estão distribuídas em diferent",
-    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2026/11/10/shoppings-do-alto-tiete-tem-mais-de-80-vagas-de-emprego-nesta-terca-feira-veja-lista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/FmUPXEWPffT5Al2BSWUE1OrpTZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/j/vxPoUPTMOXFsv3R15Ryg/img-6173.jpeg",
-    "data": "2026-11-10T09:52:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Tráfico instala câmeras em postes para monitorar policiais em bairros de Vitória e Vila Velha",
-    "resumo": "Guarda apreende câmeras de segurança usadas por traficantes em Vitória Câmeras de monitoramento instaladas em postes para vigiar a movimentação das forças de segurança foram apreendidas em bairros de Vitória e Vila Velha, no Espírito Santo. Ao todo, nove equipamentos foram recolhidos em duas ações realizadas pela Guarda Municipal e pela P",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/10/trafico-instala-cameras-em-postes-para-monitorar-policiais-em-bairros-de-vitoria-e-vila-velha.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OsdrGv_0hkMkiAW0qTUOmwh3Lxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/U/v746O6RxSRtxyw9TsTpQ/thumb-fotos-2026-11-10t064841.839.jpg",
-    "data": "2026-11-10T09:52:43.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "MPRJ mira bingos da ‘nova cúpula do jogo do bicho’ na Zona Norte do Rio",
-    "resumo": "MPRJ cumpre mandado em bingo na Zona Norte do Rio Divulgação/MPRJ O Ministério Público do Rio de Janeiro (MPRJ) iniciou nesta terça-feira (10) uma operação contra bingos na Zona Norte da capital. Promotores saíram para cumprir 7 mandados de busca e apreensão na Grande Tijuca. Segundo o Grupo de Atuação Especial de Combate ao Crime Organiz",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/11/10/mprj-cumpre-mandados-nesta-terca-feira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JElSLCYCrusAgH2ISy_k1j6OoaY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/Tfc2nkQFu8K8Mxv6UNOg/10bingo1.jpeg",
-    "data": "2026-11-10T09:48:54.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
@@ -259,6 +367,15 @@
     "link": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-10T09:46:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Enap promove evento para discutir inovação na gestão pública",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/enap-promove-evento-para-discutir-inovacao-na-gestao-publica\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>A Es",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/enap-promove-evento-para-discutir-inovacao-na-gestao-publica",
+    "imagem": null,
+    "data": "2026-11-10T09:45:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -344,10 +461,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Why health care for Canadian women veterans is falling short",
-    "resumo": "Women are the fastest growing segment of Canada’s veteran population, but they have complex physical and mental health problems that often get treated in isolation. A report released in June identified an urgent need for co-ordinated, trauma-informed care for female vets with chronic pain.",
-    "link": "https://www.cbc.ca/radio/whitecoat/women-veterans-health-care-9.7414966?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/dc94c895-ccc4-439b-b9a7-a4a1fcad89ce,1794241425311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C3000%2C1687%29%3B",
+    "titulo": "Military budget squeeze limits paid Remembrance Day participation in Ontario",
+    "resumo": "Despite billions in new defence spending, military budget restraints are limiting paid Remembrance Day participation in southwestern Ontario. Leaked emails reveal commanders capped attendance at 50 reservists per unit, prompting complaints from troops. The military says soldiers can still attend ceremonies in uniform, but without being pa",
+    "link": "https://www.cbc.ca/news/politics/military-canada-defence-budget-cuts-9.7415731?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.5798198,1794272354887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C222%2C4240%2C2385%29%3B",
     "data": "2026-11-10T09:00:00.000Z"
   },
   {
@@ -357,6 +474,15 @@
     "resumo": "Lions and tigers are among some of the most recognizable and dangerous predators in the world. They're also legal to own in Ontario, where provincial authorities can't say how many are being held in private cages and backyards.",
     "link": "https://www.cbc.ca/news/canada/ontario-exotic-animal-ownership-9.7393011?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/a0f6723a-3c0d-44dc-8d80-ac28091ed219,1792762177178/full/max/0/default.jpg?im=Crop%2Crect%3D%289%2C322%2C2183%2C1227%29%3B",
+    "data": "2026-11-10T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Why health care for Canadian women veterans is falling short",
+    "resumo": "Women are the fastest growing segment of Canada’s veteran population, but they have complex physical and mental health problems that often get treated in isolation. A report released in June identified an urgent need for co-ordinated, trauma-informed care for female vets with chronic pain.",
+    "link": "https://www.cbc.ca/radio/whitecoat/women-veterans-health-care-9.7414966?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/dc94c895-ccc4-439b-b9a7-a4a1fcad89ce,1794241425311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C156%2C3000%2C1687%29%3B",
     "data": "2026-11-10T09:00:00.000Z"
   },
   {
@@ -459,24 +585,6 @@
     "data": "2026-11-10T06:45:39.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why adults are buying toys",
-    "resumo": "How nostalgia is making adults buy toys",
-    "link": "https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T06:38:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
-    "resumo": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
-    "link": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T06:37:13.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Justice Dept. Accuses Lyft of Disability Discrimination in Lawsuit",
@@ -495,18 +603,9 @@
     "data": "2026-11-10T06:23:42.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Luka Doncic’s 32 points help Lakers beat Hawks; Wembanyama powers Spurs",
-    "resumo": "Doncic has been averaging 40 points per game this season with the Lakers on top of the NBA Western Conference.",
-    "link": "https://www.aljazeera.com/sports/2026/11/10/nba-doncic-lakers-wembanyama-spurs-curry-warriors?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T06:22:35.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
-    "titulo": "Russell Brand’s conviction won’t end abusive behaviour in the creative industries, but at least whistleblowing is now possible | Helena Kennedy",
+    "titulo": "Russell Brand has been jailed. Now we have the power to identify more sex attackers like him | Helena Kennedy",
     "resumo": "<p>Workers in music, film, TV and theatre may not feel they can speak up about abuse, but the authority I lead is able to help them</p><ul><li><p>Helena Kennedy KC is a Labour peer and the chair of the Creative Industries Independent Standards Authority</p></li></ul><p>Russell Brand was sentenced to more than 10 years in jail yesterday, a",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/10/russell-brand-jailed-sex-attackers-music-film-tv-theatre-abuse-ciisa",
     "imagem": "https://i.guim.co.uk/img/media/9828fa333e7a9b09ff899bd2f2e512e93dcca31c/0_0_3076_2461/master/3076.jpg?width=140&quality=85&auto=format&fit=max&s=6fb3ef48ce17e33c002222ed32d98e9f",
@@ -549,15 +648,6 @@
     "data": "2026-11-10T04:07:54.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "California voters reject proposed billionaire tax",
-    "resumo": "California voters have rejected a proposed one-time tax on the net worth of billionaires in the state following a contentious ballot fight that generated huge spending by some prominent tech leaders eager to stop their taxes from going up. one-time tax on state billionaires' fortunes",
-    "link": "https://www.cbc.ca/news/world/california-billionaire-tax-rejected-9.7415985?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/ee0571a2-40e9-4390-93d2-047e548f6d0e,1794279726628/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C213%2C4092%2C2301%29%3B",
-    "data": "2026-11-10T03:42:53.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Californians reject wealth tax for billionaires",
@@ -583,15 +673,6 @@
     "link": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
     "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-grandjuries-2-jhml/dc-grandjuries-2-jhml-mediumSquareAt3X.jpg",
     "data": "2026-11-10T03:00:13.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "What would tip the Australian economy into a recession we ‘don’t have to have’? | Saul Eslake",
-    "resumo": "<p>Amid job cuts at Qantas, Canva and Nab, the R-word is back in circulation. Is there anything the government can do?</p><p>The acknowledgment last week by Michele Bullock, the governor of the Reserve Bank of Australia, that the cumulative effect of this year’s five increases in interest rates “<a href=\"https://www.theguardian.com/austra",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/10/what-would-tip-australian-economy-into-recession",
-    "imagem": "https://i.guim.co.uk/img/media/ab4ee648dc8ebee28855a756c2ccfb93706207e0/669_0_3687_2952/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=a5a60421d964ab09be35c98d0713e8ad",
-    "data": "2026-11-10T02:44:31.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -801,49 +882,13 @@
     "data": "2026-11-09T22:30:49.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas",
-    "imagem": null,
-    "data": "2026-11-09T22:28:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário",
-    "resumo": "<p><strong>Em breve, uma parcela dos consumidores de energia elétrica na baixa tensão será enquadrada em uma nova modalidade tarifária: a Tarifa Hora Certa, em que o valor da energia é calculado em razão do horário. O objetivo é incentivar os consumidores a fazer o uso da energia em horários de menor pico.</strong><img src=\"https://agenci",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/aneel-propoe-tarifa-hora-certa-para-reduzir-valor-em-funcao-do-horario",
-    "imagem": null,
-    "data": "2026-11-09T22:23:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Enem 2026: saiba quem tem direito à reaplicação do exame",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Os can",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame",
-    "imagem": null,
-    "data": "2026-11-09T22:15:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Caixa apresenta nova identidade visual após quase 30 anos",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-apresenta-nova-identidade-visual-apos-quase-30-anos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><str",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-apresenta-nova-identidade-visual-apos-quase-30-anos",
-    "imagem": null,
-    "data": "2026-11-09T22:05:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Brasil conquista 4 ouros em olimpíada latino-americana de astronomia",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-conquista-4-ouros-em-olimpiada-latino-americana-de-astronomia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-conquista-4-ouros-em-olimpiada-latino-americana-de-astronomia",
-    "imagem": null,
-    "data": "2026-11-09T21:59:00.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "What Trump meant when he said the U.S. is cutting aid to Israel",
+    "resumo": "President Trump says he&apos;s halting aid to Israel. Israelis are worried. But experts say the U.S. is just shifting aid from the State Department to the Pentagon, with less congressional oversight.",
+    "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F5d%2Fb0f07c2b47dd90d9cc5fb4591e47%2Fgettyimages-2266670812.jpg",
+    "data": "2026-11-09T21:58:14.000Z"
   },
   {
     "categoria": "Economia",
@@ -900,15 +945,6 @@
     "data": "2026-11-09T21:13:16.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-    "resumo": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
-    "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F0e%2F14b88caf4047bd38fcf2636e26fb%2Fgettyimages-2295072179.jpg",
-    "data": "2026-11-09T20:52:24.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "França acusa Irã estar por trás de ciberataques a freezers de supermercados",
@@ -927,15 +963,6 @@
     "data": "2026-11-09T20:27:07.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "U.S. House Republican moves to force vote on impeaching Pete Hegseth",
-    "resumo": "Republican Rep. Thomas Massie moved Monday to force a vote to impeach Secretary of War Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration's most prominent figures following sweeping election losses.",
-    "link": "https://www.cbc.ca/news/world/hegaseth-impeachment-motion-thomas-massie-9.7415356?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/60f21cb8-b3be-4289-bc17-b344630de153,1794253292232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C152%2C3075%2C1729%29%3B",
-    "data": "2026-11-09T20:24:23.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "France accuses Iran of supermarket fridge hacking",
@@ -943,15 +970,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg",
     "data": "2026-11-09T20:20:08.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Like father, like son: Arnold Schwarzenegger’s son muscles into top 5 at bodybuilding competition",
-    "resumo": "More than 60 years after Arnold Schwarzenegger first flexed his stuff on a bodybuilding stage, his youngest son is continuing the dynasty of muscle, scoring in the top five during his professional debut over the weekend.",
-    "link": "https://www.cbc.ca/news/entertainment/arnold-schwarzenegger-son-baena-bodybuilding-9.7415339?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4bee7aef-a53d-4352-92d1-a583700dfe85,1794273165101/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-09T20:19:36.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1024,24 +1042,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-09T18:40:31.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "You can grab three months of Game Pass Ultimate for under $20 per month",
-    "resumo": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xbox-game-pass-ultimate-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-09T18:35:25.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "resumo": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
-    "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-09T18:07:23.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1141,15 +1141,6 @@
     "link": "https://www.dw.com/pt-br/como-se-fosse-a-primeira-vez-cinema-holandês-testa-hipnose-para-apagar-filmes-da-memória/a-79900943?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-09T15:18:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-    "resumo": "New Delhi, home to over 30 million people, regularly ranks among the world&apos;s most polluted areas during winter, with pollution worsening in late October and November.<br><br><br><br>",
-    "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8246x5497+0+0/resize/8246x5497!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fa0%2F9498db764f74bf5081bd7fb99824%2Fap26313155738342.jpg",
-    "data": "2026-11-09T15:09:53.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1348,5 +1339,14 @@
     "link": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
     "imagem": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=140&quality=85&auto=format&fit=max&s=8bfb87ae51ae077cc0607016b5e596b2",
     "data": "2026-11-09T05:29:22.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+    "resumo": "The Shroud of Turin, one of history&#039;s most mysterious religious artifacts, is yielding surprising new clues through DNA analysis. Scientists have uncovered a complex mixture of biological traces that may reveal more about the cloth&#039;s past and the environments it encountered. The findings offer a fresh scientific perspective on a",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
+    "imagem": null,
+    "data": "2026-11-09T02:48:24.000Z"
   }
 ]
