@@ -1,9 +1,198 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mega-Sena: ganhador de quase R$ 60 milhões ainda não retirou prêmio",
+    "resumo": "Bilhetes da Mega-Sena, em imagem de arquivo Marcelo Brandt/G1 O ganhador do prêmio de quase R$ 60 milhões da Mega-Sena ainda não retirou o prêmio, de acordo com a Caixa Econômica Federal. A aposta vitoriosa do concurso 3083, que teve o sorteio realizado neste domingo (8), foi a única que acertou os seis números sorteados e foi registrada ",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/mega-sena-ganhador-de-quase-r-60-milhoes-ainda-nao-retirou-premio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/OiZzuXswZ34fm6g5nsFdAt5mA6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/1/6cCa3jRay5sFfWYUG9Pw/design-sem-nome-10-.png",
+    "data": "2026-11-11T00:21:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Partido de Donald Trump barra impeachment de Pete Hegseth, secretário de Guerra que defendeu conflito no Irã",
+    "resumo": "Partido de Trump barra impeachment do secretário de Guerra que defendeu conflito no Irã Nos Estados Unidos, o Partido Republicano - do presidente Donald Trump - barrou, no Congresso, o pedido de impeachment contra o secretário de Guerra, Pete Hegseth. Ele foi um dos maiores defensores dessa guerra. A guerra que custou a maioria de Donald ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/partido-de-trump-barra-impeachment-do-secretario-de-guerra-que-defendeu-conflito-no-ira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1Dqp-YOpX5q4FqmBy1NvujGCRvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/Q2HvJNRuWqbfC9AMko9g/globo-canal-4-20261110-2000-frame-74372.jpeg",
+    "data": "2026-11-11T00:20:22.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "After Considerable Struggles, Ballot Deadlines Pass in Mississippi",
+    "resumo": "The tight race between Senator Cindy Hyde-Smith and her Democratic challenger, Scott Colom, has highlighted the difficulties that stringent elections laws present to voters.",
+    "link": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-02-qtbf/10nat-mississippi-senate-02-qtbf-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T00:20:20.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Robot vessels take on the dangerous work of mine hunting",
+    "resumo": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-11T00:19:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: NSC Notícias de terça-feira, 10 de novembro de 2026",
+    "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
+    "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/10/videos-nsc-noticias-de-terca-feira-10-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/slD6eIx-BBliNbChuqWytDoSnCU=/s01.video.glbimg.com/deo/vi/80/68/15176880",
+    "data": "2026-11-11T00:19:03.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+    "resumo": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+    "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+    "data": "2026-11-11T00:16:44.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
+    "resumo": "As he braces for Democrats to assume legislative control in Washington, President Trump has sought to take back center stage with some discordant maneuvers.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-ASSESS-pwbk/10DC-ASSESS-pwbk-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T00:16:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia investiga sexo envolvendo paciente com doença mental na Santa Casa de Igarapava, SP",
+    "resumo": "Polícia investiga sexo de paciente na Santa Casa de Igarapava com homem A Polícia Civil instaurou inquérito para apurar as circunstâncias em que uma paciente manteve relações sexuais com dois homens em uma área restrita da Santa Casa de Igarapava (SP). Segundo a família, a mulher, de 23 anos, tem diagnóstico de doença mental e foi levada ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/10/policia-investiga-sexo-envolvendo-paciente-com-doenca-mental-na-santa-casa-de-igarapava-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/HzjIDNvIL1OlzX0g4MHxWQr_DSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/lJN94NS1i1OSsb3GF7Xw/paciente.jpg",
+    "data": "2026-11-11T00:15:37.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite",
+    "resumo": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T00:11:51.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Bessent Moved to Military Base In Wake of Iranian Threats",
+    "resumo": "The Treasury secretary, who is leading an economic pressure campaign against Iran, is the latest Trump official to leave his home over security concerns.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/bessent-moved-base-iran-threats.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-bessent-security-mkqb/10dc-bessent-security-mkqb-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T00:07:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Guerra da Ucrânia: europeus defendem cessar-fogo como pré-requisito para negociações de paz concretas; Rússia descarta",
+    "resumo": "Ucrânia e Rússia voltam à mesa para negociar fim da guerra Pela primeira vez em nove meses, representantes da Rússia e da Ucrânia sentaram à mesa para negociar o fim da guerra. O encontro em Abu Dhabi teve a mediação dos Estados Unidos. Primeiro, os representantes da Ucrânia se reuniram com os enviados dos Estados Unidos, de países europe",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/guerra-da-ucrania-europeus-defendem-cessar-fogo-como-pre-requisito-para-negociacoes-de-paz-concretas-russia-descarta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1J29dPo6k5PfMtPBKPxQHONU980=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/w/reW1d6QhOsFInZ1o76kw/globo-canal-4-20261110-2000-frame-70527.jpeg",
+    "data": "2026-11-11T00:06:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mãe banca tratamento da filha mesmo após Justiça obrigar plano de saúde a ofertar aparelhos: 'Parece que querem o pior'",
+    "resumo": "Pacientes da GoCare relatam dificuldades para obter atendimento na região de Campinas A dona de casa Amanda Lopes assumiu os custos particulares do tratamento da filha Valentina desde o início de novembro, mesmo após a Justiça obrigar o plano de saúde GoCare a fornecer os aparelhos de assistência domiciliar. O caso é parte dos problemas e",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/10/mae-banca-tratamento-da-filha-mesmo-apos-justica-obrigar-plano-de-saude-a-ofertar-aparelhos-parece-que-querem-o-pior.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/I4Dzc0dGnBfdbibcumzywKbE1pI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/u/ok4sAeQHSs4PB8BlLuYw/copia-de-area-1-2026-11-10t205745.852.png",
+    "data": "2026-11-11T00:06:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Grupo é flagrado aproveitando calorão no Córrego Prosa com direito a mergulho e salgadinho; veja vídeo",
+    "resumo": "Moradores enfrentam calorão com banho e salgadinho no Córrego Prosa Um grupo de moradores foi flagrado tomando banho no Córrego Prosa, em Campo Grande. O local escolhido para o “balneário” improvisado fica na Avenida Ricardo Brandão, próximo ao cruzamento com a Rua Geraldo Vasques. A cena inusitada, no entanto, não é recomendada pela Pref",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/10/grupo-e-flagrado-aproveitando-calorao-no-corrego-prosa-com-direito-a-mergulho-e-salgadinho-veja-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/K-Z3L18TpG7_ryfMJusqmlY5KPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/M/iVk7AATEaNQ5kBGOl7bw/design-sem-nome-50-.jpg",
+    "data": "2026-11-11T00:05:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição desta terça-feira, 10 de novembro de 2026",
+    "resumo": "Assista a todos os vídeos.",
+    "link": "https://g1.globo.com/go/goias/edicao/2026/11/10/videos-jornal-anhanguera-2-edicao-desta-terca-feira-10-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/m61nxnOeQQl0qOBZznl2osolNOk=/s01.video.glbimg.com/deo/vi/00/72/15177200",
+    "data": "2026-11-11T00:05:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso após esganar ex e derrubar filha de 2 anos no chão no interior de SP",
+    "resumo": "Caso foi registrado na Delegacia de Polícia de Sete Barras Divulgação/Polícia Civil Um homem de 25 anos foi preso em flagrante por violência doméstica contra a ex-companheira, de 24 anos, em Sete Barras, no interior de São Paulo. Segundo o boletim de ocorrência, ele também derrubou de propósito a filha do casal, de 2 anos, no chão. O caso",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/10/homem-e-preso-apos-esganar-ex-e-derrubar-filha-de-2-anos-no-chao-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/saSo-9FTeaJXWU2C_rMlqLCUJBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/b/XKBw8dSF6mlUcUpavhTg/delega.jpg",
+    "data": "2026-11-11T00:04:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mega-Sena, concurso 3084: confira os números sorteados",
+    "resumo": "Como funciona a Mega-Sena? O sorteio do concurso 3.084 da Mega-Sena foi realizado na noite desta terça-feira (10), em São Paulo. O prêmio para as apostas que acertarem as seis dezenas é de R$ 3,2 milhões. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 no WhatsApp Veja ",
+    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/10/mega-sena-concurso-3084-confira-os-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg",
+    "data": "2026-11-11T00:03:47.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+    "resumo": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+    "data": "2026-11-11T00:02:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+    "resumo": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T00:01:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Relator do TSE vota para multar Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
+    "resumo": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), votou nesta terça-feira (10) para multar a empresa Meta em R$ 7,5 milhões por descumprimento de decisão da Corte durante as eleições. Segundo o ministro, a Meta (dona do Facebook, WhatsApp e Instagram) deixou de cumprir prazos fixados pelo TSE para adotar medidas que",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/10/tse-meta-descumprir-decisao-sobre-eleicoes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kWIA2Trvpzr2zchgwHiBt4YzdTQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/E/ZzxdB0QI2vUdC0A2qHpQ/globo-canal-4-20261103-2000-frame-110428.jpeg",
+    "data": "2026-11-11T00:01:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Onda de ataques cibernéticos que a Europa enfrenta faz aumentar temor de uma guerra híbrida",
+    "resumo": "G7 planeja resposta conjunta a ataques de hackers e sabotagem na Europa Ministros do G7 - o grupo das sete democracias mais ricas do mundo - estão planejando uma resposta coordenada às ações criminosas de hackers. O tema ganhou urgência depois de casos de sabotagem e vazamento de dados no continente europeu. A onda de ataques cibernéticos",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/onda-de-ataques-ciberneticos-que-a-europa-enfrenta-faz-aumentar-temor-de-uma-guerra-hibrida.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/G_-zi8Ph55mhcHetyMt9Vy5XRnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/r/fotjYyQb255YLrYiKXZQ/globo-canal-4-20261110-2000-frame-64336.jpeg",
+    "data": "2026-11-11T00:00:46.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
+    "resumo": "Defense Secretary Pete Hegseth broke a monthslong drought of news briefings to defend his record in office.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
+    "data": "2026-11-10T23:48:02.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "House votes to effectively end the impeachment effort against Pete Hegseth",
-    "resumo": "House Republicans managed to short circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
+    "resumo": "House Republicans managed to short-circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.",
     "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5879x3920+0+0/resize/5879x3920!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F4e%2F6decb6604829ba314b7dc99ddde8%2Fgettyimages-2304464396.jpg",
     "data": "2026-11-10T23:43:11.000Z"
@@ -16,33 +205,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-10T23:38:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como se fosse a primeira vez: cinema holandês testa hipnose para 'apagar' filmes da memória",
-    "resumo": "Cena da exibição do Filme \"Divertidamente\" durante o Festival de Cinema Acessível Kids Foto: Gontof Comunicação/ Divulgação Rede de cinemas na Holanda coloca em prática plano para hipnotizar espectadores. O objetivo: tentar fazê-los esquecer temporariamente filmes já vistos e recriar a sensação de assistir a uma história pela primeira vez",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/10/como-se-fosse-a-primeira-vez-cinema-holandes-testa-hipnose-para-apagar-filmes-da-memoria.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/cuhUd0izIWj0MTZXRyOJvqfhErc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/5lO64PRHipdoAppVBQKQ/cena-do-festival-de-cinema-acessivel-kids-em-media.jpg",
-    "data": "2026-11-10T23:37:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Petrobras tem lucro de R$ 39,75 bilhões no 3º tri",
-    "resumo": "Sede da Petrobras, no Rio de Janeiro. Fernando Frazão/Agência Brasil A Petrobras teve lucro líquido de R$39,75 bilhões de reais no terceiro trimestre, alta de 21,5% na comparação com o mesmo período do ano anterior, informou a companhia nesta terça-feira. O resultado ficou abaixo da expectativa de R$47,02 bilhões apontada por analistas co",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/10/lucro-petrobras-2o-trimestre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/eqSjN0tpA9joTUjS5u5V1EdPSnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg",
-    "data": "2026-11-10T23:36:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Corregedoria apura conduta de policiais na prisão de suspeito de matar advogada e filho de 6 anos em Cotia: 'Fica calmo, você ficará em cela sozinho'",
-    "resumo": "Abordagem de delegada de Cotia em prisão de Eric Conrado gera investigação da Corregedoria Reprodução A Corregedoria Geral da Polícia Civil investiga a conduta dos policiais que participaram da prisão de Eric Conrado Alves de Almeida, de 41 anos, suspeito de matar a advogada Anna Gabriela Faria Lima e o filho dela, Raphael, de 6 anos, em ",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/10/corregedoria-apura-conduta-de-policiais-na-prisao-de-suspeito-de-matar-advogada-e-filho-de-6-anos-em-cotia-fica-calmo-voce-ficara-em-cela-sozinho.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hRkiuF4M4dxArL42iUjNH-PCdSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/m/YnU1nRR2ykBZKl4nWz9w/prisao-eric-conrado.jpg",
-    "data": "2026-11-10T23:36:20.000Z"
   },
   {
     "categoria": "Internacional",
@@ -63,31 +225,22 @@
     "data": "2026-11-10T23:33:11.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Enfermeiro que se passava por médico e fez cirurgia que matou esteticista no MA tem registro cassado por 30 anos",
-    "resumo": "Conselho cassa por 30 anos registro de falso médico que causou morte de esteticista O Conselho Federal de Enfermagem (Cofen) cassou, por 30 anos, o registro profissional de Alberto Rodrigues da Silva, que se passava por médico no interior do Maranhão e realizou uma cirurgia que resultou na morte da esteticista Erinalva de Jesus Dias, de 3",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/10/enfermeiro-que-se-passava-por-medico-e-fez-cirurgia-que-matou-esteticista-no-ma-tem-registro-cassado-por-30-anos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gb1MHtwO7RL8nxKIjXVgOKM0UFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/o/Q/zSc8LzTwGc2PuvdEAkjA/mirante-06-06-2023-7-11-42-pm-7-16-20-pm-jm2.00-01-14-02.quadro001.jpg",
-    "data": "2026-11-10T23:32:58.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Supreme Court seems split over federal agencies&apos; ability to fine for law violations",
+    "resumo": "The Supreme Court heard arguments Tuesday in a case related to temporary worker visas. The company involved says enforcement issues should go through the courts, not the federal agency alone.",
+    "link": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fc9%2F394ad4124ce4bc0ce31a58160fbb%2Fgettyimages-2227803856.jpg",
+    "data": "2026-11-10T23:27:32.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Defensoria Pública questiona Prefeitura de Rio Preto por encaminhar idosos para instituição de longa permanência em Guarulhos",
-    "resumo": "Defensoria questiona Prefeitura de Rio Preto por encaminhar idosos para em Guarulhos A Defensoria Pública questionou a Prefeitura de São José do Rio Preto (SP) por encaminhar idosos para uma instituição de longa permanência localizada em Guarulhos. A medida foi tomada pelo defensor público Julio Cesar Tanone ao constatar que a prefeitura ",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/10/defensoria-publica-questiona-prefeitura-de-rio-preto-por-encaminhar-idosos-para-instituicao-de-longa-permanencia-em-guarulhos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dQ2fkAcZY0Lv3I3rbG7g0Dfg6J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/or2fpUSRqCFYKtTuuqiw/design-sem-nome-2026-07-15t191547.660.jpg",
-    "data": "2026-11-10T23:30:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motorista de aplicativo é sequestrado, tem carro roubado e anda quase 15 km a pé para denunciar crime, na Paraíba",
-    "resumo": "Motorista de aplicativo tem carro roubado por falsos passageiros em João Pessoa Um motorista de aplicativo foi sequestrado enquanto estava de serviço, em João Pessoa, nesta terça-feira (10). Após ser solto, nas proximidades de outro município, na Paraíba, o Conde, e ter o carro roubado por suspeitos, ele caminhou cerca de 15 km entre as c",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/10/motorista-de-aplicativo-e-sequestrado-tem-carro-roubado-e-anda-quase15-km-a-pe-para-denunciar-crime-na-paraiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/p-VMjoQLqYq9eQYdCmYhpcbQhGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png",
-    "data": "2026-11-10T23:25:51.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>O dólar disp",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
+    "imagem": null,
+    "data": "2026-11-10T23:25:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -100,12 +253,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Itanhaém abre 33 vagas com salários de até R$ 2,6 mil; veja como se inscrever",
-    "resumo": "Itanhaém abre dois processos seletivos com salários de até R$ 2.662 Divulgação/Prefeitura de Itanhaém A Prefeitura de Itanhaém, no litoral de São Paulo, abriu 33 vagas de trabalho com salários que variam de R$ 1.848 a R$ 2.662. As oportunidades exigem escolaridade entre a 4ª série do Ensino Fundamental e o Ensino Médio. As inscrições são ",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/10/itanhaem-abre-33-vagas-com-salarios-de-ate-r-26-mil-veja-como-se-inscrever.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4VmuyvhNodAGPzB_9MNUeQxlkBw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/j/7b4gE8S6y7mZpXdFRA6w/foto-pref-itanhaem.jpg",
-    "data": "2026-11-10T23:24:05.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Lula e presidente da Turquia se reúnem e falam de comércio bilateral",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral",
+    "imagem": null,
+    "data": "2026-11-10T23:24:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -115,42 +268,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-10T23:23:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher morre atropelada por caminhão após moto bater em carro na BR-101",
-    "resumo": "Mulher morre atropelada por caminhão após moto bater em carro na BR-101, em Jaboatão Uma mulher morreu após um acidente entre um carro e uma moto na BR-101, em Jaboatão dos Guararapes, no Grande Recife (veja vídeo acima). De acordo com a Polícia Rodoviária Federal (PRF), a vítima era passageira de uma moto que bateu num carro e tombou na ",
-    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/10/mulher-morre-atropelada-por-caminhao-apos-moto-bater-em-carro-na-br-101.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/l_QAgE-m7W1xz637z09l1lkl9c8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/s/daPks7ReyBnI7Bh8Pbrg/acidente-jaboatao-br.jpg",
-    "data": "2026-11-10T23:22:48.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
-    "resumo": "In the House, Republicans signaled a desire for fresh leadership after their biggest election defeat in decades. In the Senate, they re-elected their current leader.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-REPUBLICANS-JORDAN-zgvb/10DC-REPUBLICANS-JORDAN-zgvb-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T23:21:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Escala 6x1: Dino sinaliza que decisão em ação que questiona transição da nova jornada de trabalho sai até sexta",
-    "resumo": "Ministro Flávio Dino, do Supremo Tribunal Federal (STF), em sessão plenária do 21 de outubro de 2026. Gustavo Moreno/STF O ministro do Supremo Tribunal Federal (STF), Flávio Dino, afirmou nesta terça-feira (10) que publicará até sexta-feira (13) uma decisão na ação que discute o período de transição para a implementar a escala 5x2. Dino é",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/10/escala-6x1-dino-sinaliza-que-decisao-em-acao-que-questiona-transicao-da-nova-jornada-de-trabalho-sai-ate-sexta.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KC4qwCvEErqZUoEVcZLM72Ls3Ps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/79yCu2RACqJOM0RUeJBA/ministro-do-stf-flavio-dino.jpg",
-    "data": "2026-11-10T23:21:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: DF2 de terça-feira, 10 de novembro de 2026",
-    "resumo": "Veja as reportagens do telejornal com as notícias do DF.",
-    "link": "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-terca-feira-10-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/kO32b-ZQFKXJIsAKg7vRyuUoiWA=/s01.video.glbimg.com/deo/vi/84/69/15176984",
-    "data": "2026-11-10T23:19:32.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -169,33 +286,6 @@
     "link": "https://www.cbc.ca/news/world/vazquez-wedding-charges-9.7417199?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/b8ed5394-580d-476f-beb6-f6d4b29014f8,1794348182695/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-10T23:19:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bombeiro vira réu por agredir homem que parou para ver acidente em Goiânia; vídeo",
-    "resumo": "Bombeiro vira réu na Justiça após ser filmado agredindo homem após acidente em Goiânia O bombeiro militar Wallaci Vinicius Filgueira Abadia Bovo virou réu na Justiça após ser filmado agredindo um motociclista que parou para observar um acidente de trânsito na Avenida Mangalô, no Setor Morada do Sol, em Goiânia. O caso aconteceu no dia 11 ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/bombeiro-vira-reu-por-agredir-homem-que-parou-para-ver-acidente-em-goiania-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6ltjfjwTN2Ox2OKsZvD0mBnit-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/3/emDXXoRK6y9kQmyuutIw/copia-de-copia-de-copia-de-padrao-foto-g1-goias-22-.jpg",
-    "data": "2026-11-10T23:18:46.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "On the Defense: Takeaways From Hegseth’s Remarks on Articles of Impeachment",
-    "resumo": "Defense Secretary Pete Hegseth broke a monthslong drought of press briefings to defend his record in office.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-speech-impeachment-takeaways.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-HEGSETH-TAKEAWAYS-mhkt/10DC-HEGSETH-TAKEAWAYS-mhkt-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T23:18:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de terça-feira, 10 de novembro de 2026",
-    "resumo": "Reveja os vídeos do telejornal.",
-    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-terca-feira-10-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vdSL8im2DrT06JrR5Wb83un53MM=/s01.video.glbimg.com/deo/vi/79/70/15177079",
-    "data": "2026-11-10T23:16:01.000Z"
   },
   {
     "categoria": "Brasil",
@@ -268,15 +358,6 @@
     "link": "https://www.cbc.ca/news/canada/new-brunswick/irving-oil-pleaded-guilty-woodstock-diesel-spill-9.7417100?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/75ec1520-a10d-4ed1-bf01-8e007a40eae5,1777577060787/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-10T22:48:32.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
-    "resumo": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T22:46:12.000Z"
   },
   {
     "categoria": "Brasil",
@@ -477,15 +558,6 @@
     "data": "2026-11-10T21:13:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Porto de Santos: sistemas seguem afetados após ataque cibernético",
-    "resumo": "<p>A Autoridade Portuária de Santos (APS), responsável pela administração do Porto, confirmou que um ataque cibernético iniciado na última sexta-feira (6) derrubou os sistemas, a energia elétrica e o acesso a internet em toda área administrativa do porto, sem conseguir afetar as operações logísticas. <strong>Durante a tarde de hoje, já co",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/porto-de-santos-sistemas-seguem-afetados-apos-ataque-cibernetico",
-    "imagem": null,
-    "data": "2026-11-10T21:08:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Sony cancels live-service shooter Fairgames",
@@ -493,15 +565,6 @@
     "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-10T21:06:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Falta de saneamento influencia no desempenho de estudantes no Enem",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-de-saneamento-influencia-no-desempenho-de-estudantes-no-enem",
-    "imagem": null,
-    "data": "2026-11-10T21:04:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -550,15 +613,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Netanyahu and Eisenkot push for new government after election deadlock",
-    "resumo": "Netanyahu and Eisenkot push for new government after election deadlock",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T20:39:46.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "A Ucrânia está apoiando rebeldes na África para enfraquecer a Rússia?",
     "resumo": "Especialistas ucranianos em drones estariam auxiliando rebeldes tuaregues no Mali que lutam, ao lado de jihadistas, contra o governo militar do país africano, apoiado por forças russas.",
@@ -583,15 +637,6 @@
     "link": "https://www.nytimes.com/2026/11/10/us/politics/rubio-iran-war.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-RUBIO-bjgk/10DC-RUBIO-bjgk-mediumSquareAt3X.jpg",
     "data": "2026-11-10T19:33:48.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang",
-    "resumo": "Before Jensen Huang boarded Air Force One en route to Beijing, the president was reminded of intelligence showing that he was in a relationship with a woman believed to be a Chinese spy.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-trump-huang-top-fthz/10dc-trump-huang-top-fthz-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T19:27:59.000Z"
   },
   {
     "categoria": "Internacional",
@@ -828,15 +873,6 @@
     "data": "2026-11-10T17:03:16.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "What Trump Said in His Letter to Biden in 2021",
-    "resumo": "The letter, which former President Joseph R. Biden Jr. details in a new book, is remarkable for a warm tone starkly at odds with his predecessor’s public comments.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-biden-pbcg/10dc-biden-pbcg-mediumSquareAt3X.jpg",
-    "data": "2026-11-10T17:00:05.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Jon Stewart on Trump’s testy 60 Minutes interview: ‘Was that sass?’",
@@ -1051,15 +1087,6 @@
     "link": "https://www.dw.com/pt-br/prisões-vip-na-indonésia-expõem-crise-e-corrupção-em-presídios-no-sudeste-asiático/a-79867515?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-10T12:56:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Seven days of chaos in the ER: How this country&apos;s healthcare system is unraveling",
-    "resumo": "Renewed fighting has pushed Ethiopia&apos;s healthcare system close to collapse: \"The whole emergency (room) was flooded with war trauma patients,\" one surgeon says of a brutal week in September.",
-    "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2880x2160+180+0/resize/2880x2160!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F92%2Faf5002f84593a7497146a3876186%2Ftigray-1.jpg",
-    "data": "2026-11-10T12:48:48.000Z"
   },
   {
     "categoria": "Economia",
@@ -1305,8 +1332,8 @@
     "data": "2026-11-09T22:00:20.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
     "resumo": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
     "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
@@ -1321,32 +1348,5 @@
     "link": "https://www.theguardian.com/music/2026/nov/09/paul-mccartney-billionaire",
     "imagem": "https://i.guim.co.uk/img/media/7a11565459ffd42b9478c7b81e22f1329b6af336/0_2390_5584_4466/master/5584.jpg?width=140&quality=85&auto=format&fit=max&s=986dc35a82e92744e8a6fbdfae2e7031",
     "data": "2026-11-09T21:22:33.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-    "resumo": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-    "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-09T19:58:01.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Boeing to cut about 5% of its commercial plane workforce",
-    "resumo": "<p>Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet production</p><p>Boeing will cut about 5% of its commercial plane workforce as it moderates the pace of ramping up jet production, the company said on Monday.</p><p>The company will eliminate the posts through a mix of layoffs and at",
-    "link": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
-    "imagem": "https://i.guim.co.uk/img/media/297cf6005a1d96253e19e5165b6064ea3cc52513/257_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=7bf1596999f149481fd650eca9743e1a",
-    "data": "2026-11-09T19:11:26.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
-    "resumo": "<p>The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s willingness to listen to intelligence warnings</p><p>It could be the plot of a spy thriller. One of the most powerful figures in the AI revolution <a href=\"https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-h",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
-    "imagem": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/131_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=5cc65588e18a18b81a32194ec2137467",
-    "data": "2026-11-09T18:51:10.000Z"
   }
 ]
