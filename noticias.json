@@ -1,5 +1,176 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Republicans Turn Back Effort to Impeach Hegseth",
+    "resumo": "The G.O.P. banded together to shelve impeachment articles against the defense secretary, sparing him from a damaging rebuke and potential ouster.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hfo-hegseth-impeach-pqlg/10dc-hfo-hegseth-impeach-pqlg-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T03:08:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Família Kennedy tenta impedir Arco do Triunfo de Trump que faria sombra sobre túmulos",
+    "resumo": "Uma maquete do arco do triunfo proposto pelo presidente Donald Trump é exibida na Great American State Fair, no National Mall, em Washington. Jen Golbeck/AP Nove integrantes da dinastia política Kennedy pediram nesta terça-feira a uma juíza que impeça o plano do presidente Donald Trump de construir um imponente arco memorial de 250 pés (7",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/familia-kennedy-tenta-impedir-arco-de-trump-que-faria-sombra-sobre-tumulos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aT04_FfKTe-9XyDeA3bCv1_bynI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/P/xMtBPHS8ONY87z6dv1tg/ap26291517141879.jpg",
+    "data": "2026-11-11T03:07:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Novembro Black amplia as possibilidades para quem está construindo ou reformando",
+    "resumo": "Quem está construindo ou reformando sabe que nem todas as decisões acontecem ao mesmo tempo. Enquanto uma obra ainda está na escolha do piso, outra já chegou aos metais, à pintura ou às portas. É justamente essa variedade de momentos que o Novembro Black Vilarejo pretende atender. De 16 a 30 de novembro, o Novembro Black Vilarejo traz 25%",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/11/novembro-black-amplia-as-possibilidades-para-quem-esta-construindo-ou-reformando.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/olFfbbkuCVxLH4-dHyMG2eWpwYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/w/hr0UDeRSm0MggSo3ldQQ/foto-1.png",
+    "data": "2026-11-11T03:05:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Macaé amplia identificação de pessoas com TEA e cuidadores no município",
+    "resumo": "Documento emitido pelo município assegura direitos e atendimento prioritário em todo o território nacional Arquivo Secom A Prefeitura de Macaé disponibiliza, de forma totalmente digital e gratuita, a solicitação da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA). O documento municipal tem como finalidade as",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/11/macae-amplia-identificacao-de-pessoas-com-tea-e-cuidadores-no-municipio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DRm_iatD_7p8UcUz6uYLetTC5Pg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/k/mkAI8pT1ukcIsMiX9IiQ/foto-1-ciptea-macae-1-.jpeg",
+    "data": "2026-11-11T03:03:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rio das Ostras discute regras para entrada de ônibus de excursão",
+    "resumo": "O encontro contou com a participação dos guias de turismo Divulgação Facilitar a entrada de excursões e ampliar a circulação de turistas em Rio das Ostras estão entre os objetivos de uma proposta de alteração na Lei de Entrada de Ônibus de Excursão no Município. A Secretaria de Desenvolvimento Econômico e Turismo se reuniu com representan",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/11/rio-das-ostras-discute-regras-para-entrada-de-onibus-de-excursao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AnPav2-PxqnLue6CPofrFljYBkc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/m/e5YsF2RMOHJAbmivxjTw/320x180-foto-destaque-horizontal-81-.png",
+    "data": "2026-11-11T03:03:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casal que adotou 5 irmãos conheceu crianças após mãe conseguir trabalho em instituição de acolhimento: 'Era um grude'",
+    "resumo": "Casal adota cinco irmãos que viviam em abrigo e gesto comove O casal que adotou cinco irmãos que viviam em um abrigo em Anápolis conheceu os filhos depois que a mãe, Valéria Reis, conseguiu emprego em uma instituição de acolhimento de crianças carentes, segundo o pai. Ao g1, Joel Barros contou que ele e a esposa sempre quiseram ser pais, ",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/11/casal-que-adotou-5-irmaos-conheceu-criancas-apos-mae-conseguir-trabalho-em-instituicao-de-acolhimento-era-um-grude.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/50jokwy4MH6VzHfc3CFhmASPQoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/T/2eWkJ7TtaAUzyCwK2oVw/copia-de-copia-de-copia-de-padrao-foto-g1-goias.jpg",
+    "data": "2026-11-11T03:02:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Papa Leão XIV alerta jovens contra 'obsessão pela aparência' nas redes",
+    "resumo": "Papa Leão XIV celebra missa para mais de meio milhão de fiéis no interior da Argentina O papa Leão XIV criticou a obsessão por aparência, dinheiro e popularidade durante um encontro com jovens em Buenos Aires, na Argentina, nesta terça-feira (10). Diante de mais de 1 milhão de pessoas, o pontífice pediu que os jovens resistam ao que chamo",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/leao-xiv-alerta-jovens-contra-obsessao-pela-aparencia-nas-redes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cPHqO7LrTEVVHUqrfnfOyFP6lfc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/m/bC1EhASl6mEh25KQ0dow/2026-11-11t011828z-1413651201-rc28loajoo4v-rtrmadp-3-pope-latam-argentina.jpg",
+    "data": "2026-11-11T03:01:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Servidores do TCE de MT receberam até 2.600 vezes o próprio salário em dez meses, segundo investigação",
+    "resumo": "Chefe do órgão que fiscaliza o dinheiro público em MT é preso; vídeo mostra saque de R$ 500 mil em mochila Servidores do Tribunal de Contas de Mato Grosso (TCE-MT) receberam milhões de reais em pagamentos suspeitos nas contas pessoais ao longo de dez meses, segundo investigação da Polícia Federal (PF). Os valores identificados chegaram a ",
+    "link": "https://g1.globo.com/fantastico/noticia/2026/11/11/servidores-do-tce-de-mt-receberam-ate-2600-vezes-o-proprio-salario-em-dez-meses-segundo-investigacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GwXwnxNFu2JEICfOx4TywC5B57o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/hHlkpnQ7CBSlH3HLBzBQ/captura-de-tela-2026-11-08-222436.png",
+    "data": "2026-11-11T03:01:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "El Salvador fires missiles on Haitian gang hideout",
+    "resumo": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T03:00:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Velejador americano resgatado a 1,6 mil km da costa chega ao Rio nesta quarta-feira",
+    "resumo": "Velejador americano é resgatado pela Marinha a 1,6 mil km da costa do RJ O velejador americano Guy deBoer, de 70 anos, resgatado pela Marinha do Brasil em alto-mar, tem chegada prevista ao Rio de Janeiro às 9h desta quarta-feira (11). Após desembarcar da Corveta Barroso, ele será encaminhado diretamente de ambulância para um hospital. DeB",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/velejador-americano-resgatado-a-16-mil-km-da-costa-chega-ao-rio-nesta-quarta-feira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/sVWpjoSEY1ZhsVFuQK760mmHo-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/C/PqQV27SHCxyrAcB6MIdQ/img-20261108-wa0012.jpg",
+    "data": "2026-11-11T03:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PF diz que mãe de deputado investigada por desvio de emendas chegou a passar R$ 750 mil via PIX para o filho em um só dia",
+    "resumo": "STF autoriza buscas em investigação obre desvio de 'emendas pix' A mãe do deputado federal baiano Neto Carletto (Avante), alvo de uma operação que cumpriu cinco mandados de busca e apreensão por suspeita de desvios de \"emendas PIX\", aparece em 98 comunicações financeiras suspeitas. Em uma delas, segundo a Polícia Federal (PF), Mariza Apar",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/11/pf-diz-que-mae-de-deputado-investigada-por-desvio-de-emendas-chegou-a-passar-r-750-mil-via-pix-para-o-filho-em-um-so-dia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gpKQJ9Vr2I72YbJPK_ze699Es30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/X/2BQAlNRBGPo0Gjgxi0Gw/foto-1-golpista-2-.png",
+    "data": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pressão para adiar implementação da reforma tributária cresce, mas deputados descartam mudança no calendário",
+    "resumo": "Entidades empresariais e representantes do setor tributário têm pressionado o governo e o Congresso Nacional a adiar para 2028 o início da implementação da reforma tributária sobre o consumo, prevista para 1º de janeiro de 2027. Nesta terça-feira (10), deputados que participaram de uma reunião com o ministro da Fazenda, Dario Durigan, des",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/11/pressao-para-adiar-implementacao-da-reforma-tributaria-cresce-mas-deputados-descartam-mudanca-no-calendario.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/r-8GpWiTLKp4jET64aIa-UMX1Y8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/k/5R7racSwChmuner9uQ8A/globo-canal-5-20231220-1859-frame-130794.jpeg",
+    "data": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Free flow: qual o prazo para pagar sem multa? Como consultar as tarifas? Veja perguntas e respostas",
+    "resumo": "Motoristas têm até 16 de novembro para pagar pedágio Free Flow atrasado Motoristas que ainda não pagaram as passagens pelo free flow começaram a receber avisos pelo WhatsApp na última terça-feira (10). O sistema, também conhecido como pedágio eletrônico, permite quitar os valores em atraso sem multa até o começo da semana que vem. 🔎 O fr",
+    "link": "https://g1.globo.com/carros/noticia/2026/11/11/free-flow-whatsapp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UrKnvN0Ap82nAFFc-0AUKxp142I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/SYcEJtSJyQGsZ5q8I33Q/g1-41-.jpg",
+    "data": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Papa faz 1ª visita ao Peru, sua 'segunda pátria', após assumir o cargo; entenda a relação do pontífice com o país",
+    "resumo": "Papa Leão XIV celebra missa para mais de meio milhão de fiéis no interior da Argentina O papa Leão XIV chega ao Peru nesta quarta-feira (11) para sua primeira visita ao país desde que assumiu o comando da Igreja Católica, em maio de 2025. Nascido em Chicago, nos Estados Unidos, o pontífice tem cidadania peruana e viveu cerca de 20 anos no",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/papa-faz-1a-visita-ao-peru-sua-segunda-patria-apos-assumir-o-cargo-entenda-a-relacao-do-pontifice-com-o-pais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XmZyXnrgyKx5o9Hu5As_GFkZvBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/G/kxOxabQeOR6LS9WYdoCg/2026-11-10t004636z-746767619-rc2okoaf3atq-rtrmadp-3-pope-latam-peru-statue.jpg",
+    "data": "2026-11-11T03:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite",
+    "resumo": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T02:59:12.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "GOP-led House report slams systemic failures in handling of Epstein case",
+    "resumo": "Decades of preferential treatment shielded Epstein and his associates, GOP-led report finds.",
+    "link": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T02:58:26.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
+    "resumo": "The tight race between Senator Cindy Hyde-Smith and her Democratic challenger, Scott Colom, has highlighted the difficulties that stringent elections laws present to voters.",
+    "link": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-02-qtbf/10nat-mississippi-senate-02-qtbf-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T02:48:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+    "resumo": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/3f67c570-dd7a-11f1-ad5a-4712ee7e64fd.png",
+    "data": "2026-11-11T02:47:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+    "resumo": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-11T02:41:16.000Z"
+  },
+  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Scientists discover why some mosquitoes love you and others don&#039;t",
@@ -9,31 +180,22 @@
     "data": "2026-11-11T02:21:13.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ministério da Educação aprova regras para o uso da IA nas creches, escolas e no ensino superior",
-    "resumo": "MEC define diretrizes para uso de inteligência artificial na educação O Ministério da Educação estabeleceu regras para o uso da inteligência artificial em todas as etapas de ensino do país. As diretrizes valem para as redes públicas e privadas, desde as creches até a faculdade, com prazo de um ano para adaptação. O texto define que a inte",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/ministerio-da-educacao-aprova-regras-para-o-uso-da-ia-nas-creches-escolas-e-no-ensino-superior.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yWHYsILKgmKupx0vBXF87mxqZ-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/k/ZczG4aTjKClI9aKBNbGA/globo-canal-4-20261110-2000-frame-134323.jpeg",
-    "data": "2026-11-11T02:08:24.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+    "resumo": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T02:12:22.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Former Iraqi awmaker Ahmed al-Alwani found dead in Beirut",
-    "resumo": "Lebanese authorities launch &#039;murder&#039; investigation after al-Alwani&#039;s body is found in an apartment in Beirut.",
+    "titulo": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+    "resumo": "Lebanese authorities investigate the killing after al-Alwani&#039;s body is found in an apartment in Beirut.",
     "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-11T02:07:15.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Ballot Deadlines Pass in Mississippi Senate Race After Considerable Struggles",
-    "resumo": "The tight race between Senator Cindy Hyde-Smith and her Democratic challenger, Scott Colom, has highlighted the difficulties that stringent elections laws present to voters.",
-    "link": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-02-qtbf/10nat-mississippi-senate-02-qtbf-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T02:05:19.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -52,15 +214,6 @@
     "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
     "data": "2026-11-11T02:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Brigadistas tentam controlar incêndio na Área de Proteção Ambiental de Alter do Chão",
-    "resumo": "Brigadistas combatem incêndios em Alter do Chão, no Pará Brigadistas tentam controlar um incêndio na Área de Proteção Ambiental de Alter do Chão, no Pará. O Ibama faz uma operação para combater ações criminosas no estado. A fiscalização se concentra nas áreas com maior número de focos de incêndio em 12 municípios do oeste e sudoeste do Pa",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/brigadistas-tentam-controlar-incendio-na-area-de-protecao-ambiental-de-alter-do-chao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/y7NqiCm4Uh2Ce_GSVfE0g0zjONI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/2/Tn6mv7RgAEWyBNEEjBiA/globo-canal-4-20261110-2000-frame-141908.jpeg",
-    "data": "2026-11-11T01:51:36.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -90,24 +243,6 @@
     "data": "2026-11-11T01:43:42.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Levantamento aponta que apenas 1/4 dos órgãos públicos avaliados cumpriram regras de transparência",
-    "resumo": "Levantamento aponta que apenas 1/4 dos órgãos públicos avaliados cumpriram regras de transparência Um levantamento dos tribunais de contas divulgado nesta terça-feira (10) revela que faltam informações sobre como o dinheiro público é gasto no Brasil. Apenas um quarto das instituições cumpre as regras de transparência. A fila à espera de u",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/levantamento-aponta-que-apenas-14-dos-orgaos-publicos-avaliados-cumpriram-regras-de-transparencia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/FqLpOZrr4A4sgACN2UkCoZbp33E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/T/FonskvQliLJfljARLM1w/globo-canal-4-20261110-2000-frame-124618.jpeg",
-    "data": "2026-11-11T01:42:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Após prisões de indígenas, DPU e Povo Terena atribui conflitos em MS à demora do Estado em demarcar terras",
-    "resumo": "PF faz operação após incêndios e destruição em fazendas de Sidrolândia i A Defensoria Pública da União (DPU) e o Conselho do Povo Terena se manifestaram, nesta terça-feira (10), sobre as prisões de indígenas realizadas pela Polícia Federal no âmbito da Operação Poké’Exa. Entre os alvos está o coordenador regional da Fundação Nacional dos ",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/10/apos-prisoes-de-indigenas-dpu-e-povo-terena-atribui-conflitos-em-ms-a-demora-do-estado-em-demarcar-terras.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Nx-rDkKkRHNc0NMDrG8rJGdAlSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/P/6C2NYgTeuP2AHAG6fD3g/hjhgmbnmn-n.png",
-    "data": "2026-11-11T01:41:43.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
@@ -115,42 +250,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
     "imagem": null,
     "data": "2026-11-11T01:36:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF determina que relatórios mencionando ministros do STF no caso Master sejam refeitos",
-    "resumo": "PF determina que relatórios mencionando ministros do STF no caso Master sejam refeitos Os relatórios da Polícia Federal com menções a ministros do Supremo nas investigações do Master, pedidos pelo presidente do STF, Edson Fachin, ficaram prontos, mas a direção da Polícia Federal mandou que eles fossem refeitos. 📱Favorite o g1 no Google e",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/pf-determina-que-relatorios-mencionando-ministros-do-stf-no-caso-master-sejam-refeitos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XwcBQPDR3XnvZ0H33BQNTjfzySU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/mBNVa9QPAkbKugouZ4vw/globo-canal-4-20261110-2000-frame-117116.jpeg",
-    "data": "2026-11-11T01:29:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Esquema de exames toxicológicos falsos para renovar CNH no RS suspende 43 habilitações e prende mulher",
-    "resumo": "Entenda esquema de exames toxicológicos falsos para renovar CNH no RS Uma operação da Polícia Civil realizada na manhã de terça-feira (10) revelou um esquema de fraude em exames toxicológicos usados na renovação da carteira de motoristas profissionais. A investigação apontou que pelo menos 43 motoristas profissionais teriam utilizado laud",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/10/esquema-exames-toxicologicos-falsos-renovar-cnh-rs-suspende-habilitacoes-prende-mulher.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IbydV2kIJXwY6tv-MaMV2PZvQDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/DUsKxBRRCTcBEpRjMQ8g/rbs-noticias-limpo-rbsn-1011-frame-22730.png",
-    "data": "2026-11-11T01:25:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Moradores destroem casa de suspeito de matar a facadas mãe e filha em Belém",
-    "resumo": "Moradores destroem e incendeiam casa de suspeito de matar mãe e filha em Belém. Reprodução/Redes sociais Moradores destruíram, na noite desta terça-feira (10), na casa do homem suspeito de matar a facadas Fernanda Keila Dias dos Santos e a filha dela, Maria Rafaela dos Santos Pacheco, de cinco anos, no bairro do Benguí, em Belém. Vídeos m",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/10/moradores-destroem-casa-de-suspeito-de-matar-mae-e-filha-em-belem.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/17VryBzaU_-SUj9TRaFv7Vd9mnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/C/R19QDqRiuI5sG2rUqtqw/1794360081746291.jpg",
-    "data": "2026-11-11T01:23:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Representantes dos empresários, trabalhadores, Congresso e governo participam de audiência pública sobre escala 5x2",
-    "resumo": "Representantes dos empresários, trabalhadores, Congresso e governo participam de audiência pública sobre escala 5x2 O ministro do Supremo Flávio Dino presidiu uma audiência pública para discutir os questionamentos sobre a entrada em vigor da escala 5x2. O ministro Flávio Dino é relator de duas ações que propõem adiar o cronograma de imple",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/representantes-dos-empresarios-trabalhadores-congresso-e-governo-participam-de-audiencia-publica-sobre-escala-5x2.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9WK-L-0rF3Pp85t3xXmoPLlrZQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/u/scbpL2TiAutLsZYGOqjA/globo-canal-4-20261110-2000-frame-109263.jpeg",
-    "data": "2026-11-11T01:17:30.000Z"
   },
   {
     "categoria": "Internacional",
@@ -162,15 +261,6 @@
     "data": "2026-11-11T01:14:40.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caso Elyne: Procurador municipal volta a hospital menos de 24h após ser levado a presídio",
-    "resumo": "Suspeito de mandar matar médica recebeu alta e teve prisão preventiva mantida O procurador municipal, ex-vereador e advogado Francisco Valadares Neto, suspeito de encomendar a morte da médica Elyne de Assis Nogueira, foi levado de volta ao Pronto-Socorro de Rio Branco no início da noite desta terça-feira (10), menos de 24 horas após ter r",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/10/caso-elyne-procurador-municipal-volta-a-hospital-apos-ser-levado-a-presidio.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QqYzbuFNLi0GBMLR5dAoh4x7dpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/j/WJIRqRRgqZyzpIPZeNAQ/midia-de-distribuicao-g1.png",
-    "data": "2026-11-11T01:13:02.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Tigray displaced families fear renewed war as hopes of returning home fade",
@@ -178,33 +268,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-11T01:11:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é investigado por furtar eletrodomésticos, rede e colcha de cama na zona rural de Boa Vista",
-    "resumo": "O crime foi investigado pela Polícia Civil de Roraima Polícia Civil/Divulgação Um homem, de 45 anos, é investigado por furtar uma chácara no Projeto de Assentamento (PA) Nova Amazônia, na zona rural de Boa Vista. A apuração do crime foi concluída nesta segunda-feira (9) após o suspeito confessar. De acordo com a Polícia Civil, o suspeito ",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/10/homem-e-investigado-por-furtar-eletrodomesticos-rede-e-colcha-de-cama-na-zona-rural-de-boa-vista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/az3Xd8Ilfh99SKXjfgg_pdRNaVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/0/mBzEznSkKCn112tbRjBA/carro-da-policia-civil.jpeg",
-    "data": "2026-11-11T01:07:43.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Operação interdita três farmácias e apreende mais de 14 mil medicamentos vendidos irregularmente na BA",
-    "resumo": "Venda de medicamentos sem receita provoca interdição de três farmácias Uma operação deflagrada na cidade de Lauro de Freitas, na Região Metropolitana de Salvador (RMS), interditou três farmácias e apreendeu mais de 14 mil medicamentos controlados, nesta terça-feira (10). Segundo a Polícia Civil (PC), o material era vendido irregularmente ",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/10/operacao-interdita-farmacias-e-apreende-medicamentos-na-ba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jPdSUuBdkRktlc15TF57ovFoULQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/2/n7UEq8R7qyBF7UfBKSJQ/whatsapp-image-2026-11-10-at-21.39.55.jpg",
-    "data": "2026-11-11T01:03:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Em 2026, passa de 8 mil o número de empresas que estão em recuperação judicial no Brasil",
-    "resumo": "Número de empresas que recorreram à justiça para renegociar dívidas cresce no Brasil O número de empresas que recorreram à Justiça para renegociar dívidas cresceu no Brasil em 2026, e os setores mais afetados estão entre os que mais movimentam a economia. Cada empresa é uma empresa. Tem as particularidades da gestão, os diferentes mercado",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/em-2026-passa-de-8-mil-o-numero-de-empresas-que-estao-em-recuperacao-judicial-no-brasil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UyA4zMAOQc-DI2ztsuvK8i8nqZ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/z/WS8v5TR0aCLh6JLeW7Qw/globo-canal-4-20261110-2000-frame-103361.jpeg",
-    "data": "2026-11-11T01:02:58.000Z"
   },
   {
     "categoria": "Internacional",
@@ -232,15 +295,6 @@
     "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-colorado-trans-suit-qmpz/10dc-colorado-trans-suit-qmpz-mediumSquareAt3X.jpg",
     "data": "2026-11-11T00:48:37.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Republicans Turn Back Effort to Impeach Hegseth",
-    "resumo": "The G.O.P. banded together to shelve impeachment articles against the defense secretary, sparing him from a damaging rebuke and potential ouster.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
-    "imagem": null,
-    "data": "2026-11-11T00:43:15.000Z"
   },
   {
     "categoria": "Internacional",
@@ -351,15 +405,6 @@
     "data": "2026-11-11T00:16:01.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Kennedys Join Suit to Block Trump’s Arch, Saying It Would Mar J.F.K. Gravesite",
-    "resumo": "The legal filing argues that the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame memorializing the former president.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-arch-wlgb/dc-arch-wlgb-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T00:11:51.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Poundland hopeful for last-minute rescue deal to stave off collapse",
@@ -371,8 +416,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
-    "resumo": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+    "titulo": "Iran war live: US House blocks Hegseth impeachment efforts, 11 Dems miss",
+    "resumo": "Despite widespread voter opposition to the US war in Iran, efforts to impeach Hegseth fail with 11 Democrats absent.",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-11T00:01:26.000Z"
@@ -457,15 +502,6 @@
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral",
     "imagem": null,
     "data": "2026-11-10T23:24:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "French far-right author Zemmour launches second bid for 2027 presidency",
-    "resumo": "Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.",
-    "link": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T23:23:12.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -558,24 +594,6 @@
     "data": "2026-11-10T22:46:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Russia expels Moldovan diplomat in tit-for-tat move",
-    "resumo": "Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.",
-    "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T22:41:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US House Republicans block Pete Hegseth impeachment effort",
-    "resumo": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-10T22:36:14.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
@@ -592,15 +610,6 @@
     "link": "https://www.dw.com/pt-br/criança-brasileira-decepou-os-próprios-dedos-dizem-autoridades-de-portugal/a-79913604?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-10T22:21:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-    "resumo": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-    "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg",
-    "data": "2026-11-10T22:17:45.000Z"
   },
   {
     "categoria": "Canadá",
@@ -664,15 +673,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-10T21:22:36.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "First day of Ukraine peace talks constructive, Zelensky says",
-    "resumo": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-10T21:21:55.000Z"
   },
   {
     "categoria": "Canadá",
@@ -1053,15 +1053,6 @@
     "data": "2026-11-10T14:45:46.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Republicans block impeachment push against Pete Hegseth",
-    "resumo": "Republicans in the U.S. House of Representatives voted Tuesday to sideline a resolution that aimed to impeach Secretary of War Pete Hegseth.",
-    "link": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f8eca9d1-9243-4b9f-b908-dcd1adc8c8b1,1794316603751/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C472%2C7477%2C4205%29%3B",
-    "data": "2026-11-10T14:42:08.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Gas prices dip below $4 but inflation remains stubbornly high",
@@ -1348,5 +1339,14 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
     "imagem": null,
     "data": "2026-11-10T01:54:15.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Alzheimer’s may have early warning signs outside the brain",
+    "resumo": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. Thi",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+    "imagem": null,
+    "data": "2026-11-10T01:47:34.000Z"
   }
 ]
