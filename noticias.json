@@ -1,102 +1,93 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista de aplicativo suspeito de tentar estuprar passageira é preso em Sorocaba",
+    "resumo": "Delegacia de Defesa da Mulher (DDM) de Sorocaba (SP) Google Street View/Reprodução Um motorista de aplicativo foi preso suspeito de tentar estuprar uma passageira, na madrugada desta quarta-feira (11), em Sorocaba (SP). Conforme apurado pela TV TEM, a vítima acionou uma corrida de moto por aplicativo. Durante o trajeto, o suspeito teria m",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/11/motorista-de-aplicativo-suspeito-de-tentar-estuprar-passageira-e-preso-em-sorocaba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/itI54dWj9iMPLx45IKnpmiLHFw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/g/TTJbrtSqCGs9AphFYn1w/ddm-sorocaba.png",
+    "data": "2026-11-11T16:22:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Após processo de cassação ser arquivado, prefeito de Caçapava diz que vai rever procedimentos sobre uso de fundo",
+    "resumo": "Após processo de cassação ser arquivado, prefeito de Caçapava diz que vai rever procedimentos sobre uso de fundo Reprodução/TV Vanguarda Um dia após a Câmara Municipal de Caçapava arquivar o processo que poderia levar à cassação de seu mandato, o prefeito Yan Lopes (Podemos) afirmou que a administração municipal vai revisar procedimentos ",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/11/apos-processo-de-cassacao-ser-arquivado-prefeito-de-cacapava-diz-que-vai-rever-procedimentos-sobre-uso-de-fundo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yDP5eAo9P9IL7N3scPwtUkwve9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/g/9U5ErkTBirHTMUpYftEA/texto-do-seu-paragrafo-2026-11-11t131035.447.png",
+    "data": "2026-11-11T16:21:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "MPRO recomenda correções em concurso do Ipam e revisão de cargos comissionados",
+    "resumo": "g1 em 1 Minuto RO: Ipam anuncia novo concurso público em Porto Velho O Ministério Público de Rondônia (MPRO) expediu recomendações administrativas ao Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho (Ipam) após investigar a criação, ampliação e ocupação de cargos comissionados no órgão, além da realização ",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/11/mpro-recomenda-correcoes-em-concurso-do-ipam-e-revisao-de-cargos-comissionados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6JuvXIRdGpmnbsuNROsZ7MFppbc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/W/Ma88XeQgAen0B1fLxTZw/copia-de-design-sem-nome.jpg",
+    "data": "2026-11-11T16:21:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Liberal",
+    "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+    "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "imagem": null,
+    "data": "2026-11-11T16:21:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Alto Tietê registra 26 casos graves e duas mortes por Covid-19 em 2026",
+    "resumo": "Mogi das Cruzes teve o maior número de casos graves Alexsander Ferraz/A Tribuna Jornal O Alto Tietê registrou 26 casos graves e duas mortes por Covid-19 em 2026, até 7 de novembro. Os dados são do Núcleo de Informações Estratégicas em Saúde (Nies), da Secretaria de Estado da Saúde de São Paulo. ➡️ O número de casos graves caiu mais de 50%",
+    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/11/alto-tiete-registra-26-casos-graves-e-duas-mortes-por-covid-19-em-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/z2lgC4ayEpyEKPXJR5zrXu4Zk64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/z/inre3NQgKUIyARVu08AQ/covid-1-.jpg",
+    "data": "2026-11-11T16:20:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pai de Felipe Araújo, João Reis é internado por pedra nos rins: ‘Dor terrível’",
+    "resumo": "João Reis é internado em Goiânia Reprodução/Instagram de João Reis O pai dos cantores Felipe e Cristiano Araújo, João Reis, foi internado em um hospital após sentir fortes dores devido à uma pedra nos rins, nesta quarta-feira (11). Segundo o empresário, ele já sofreu com 40 pedras nos rins. Apesar da dor intensa, ele publicou um registro ",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/11/pai-de-felipe-araujo-joao-reis-e-levado-a-hospital-com-pedra-nos-rins.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nl7ddFKUA8N-Izzm4rXYdFDCfE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/y/qz8jgnSuug5tyhoT7c7g/imagens-g1-27-.png",
+    "data": "2026-11-11T16:19:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça determina despejo de lutador preso por agredir vizinhas na Zona Norte do Rio",
+    "resumo": "Lutador preso por espancar vizinhas tinha sido expulso de academia A Justiça do Rio determinou que Lucas Portela Fontana Gomes, preso por agredir duas mulheres em um condomínio no Maracanã, na Zona Norte do Rio, desocupe o apartamento onde mora no prazo de 15 dias. Ele está preso preventivamente. O despejo foi determinado pela 44ª Vara Cí",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/justica-determina-despejo-de-lutador-preso-por-agredir-vizinhas-na-zona-norte-do-rio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hKn8XSypqV_QyZtCG5ivgow4lEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/c/W71fm5RISkzFkH8X7qsA/06elevador7.png",
+    "data": "2026-11-11T16:16:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Câmara de Rio Branco aprova moção de pesar pela morte do jornalista Ayres Rocha",
+    "resumo": "Homenagem reconhece trajetória e contribuição do profissional à comunicação e sociedade acreana Arquivo pessoal A Câmara de Vereadores de Rio Branco aprovou, nessa terça-feira (10), uma moção de pesar pela morte do jornalista Ayres Rocha. A homenagem tem como objetivo reconhecer a trajetória profissional e a contribuição do profissional c",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/11/camara-de-rio-branco-aprova-mocao-de-pesar-pela-morte-do-jornalista-ayres-rocha.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eNQm2dc4nHXNH8ZI-_6gSbTgkLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/c/tTPjR7RBA9E1bHjFQBOw/midia-de-distribuicao-g1-2026-10-14t082048.543.png",
+    "data": "2026-11-11T16:15:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vídeo: homem é flagrado agredindo cachorro na cabeça com pedaço de madeira em Sinop (MT)",
+    "resumo": "Homem é flagrado agredindo cachorro com pedaço de madeira em Sinop (MT) Três pessoas foram conduzidas à Central de Flagrantes, em Sinop, a 503 km de Cuiabá, na manhã desta quarta-feira (11), suspeitas de agredir um cachorro com golpes de madeira na cabeça. Segundo a Polícia Civil, o animal ficou inconsciente após as agressões e foi coloca",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/11/video-homem-e-flagrado-agredindo-cachorro-na-cabeca-com-pedaco-de-madeira-em-sinop-mt.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cDey_JPUd98GvnA6uNSGJc70pz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/2/VYaQtmRF69EXh3WdXS9A/enem-3-1-.jpg",
+    "data": "2026-11-11T16:15:26.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
-    "resumo": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
-    "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
-    "imagem": null,
-    "data": "2026-11-11T15:24:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "EPTV 1 Piracicaba ao vivo",
-    "resumo": "EPTV 1 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-1-piracicaba-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
-    "data": "2026-11-11T15:21:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Nvidia perde quase R$ 6 trilhões após caso envolvendo CEO, mais que toda a bolsa brasileira",
-    "resumo": "Cresce a pressão para que Trump esclareça desde quando ele foi alertado sobre relação de CEO da Nvidia com suposta espiã chinesa A Nvidia, uma das maiores empresas de tecnologia do mundo e principal fornecedora de chips usados no desenvolvimento da inteligência artificial, perdeu US$ 1,081 trilhão (cerca de R$ 5,8 trilhões) em valor de me",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/11/nvidia-bolsa-brasileira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/kezQz-7wC4LzsoghkEJ7vYjTlm0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/4/8AGdpST3uRBYQFKTfPuA/2025-10-28t100019z-1226650128-rc2z28a7uakr-rtrmadp-3-nvidia-developers.jpg",
-    "data": "2026-11-11T15:20:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vídeo mostra grande quantidade de peixes mortos em rio no AM; pesquisador aponta El Niño como causa",
-    "resumo": "Vídeo mostra grande quantidade de peixes mortos em rio no AM; pesquisador aponta El Niño c Um cenário de forte impacto ambiental foi registrado em um dos braços do Rio Solimões, nas proximidades da comunidade São Paulo, no Amazonas. Um vídeo gravado por um morador da região revela um trecho do rio tomado por peixes mortos, acompanhado de ",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/11/video-mostra-grande-quantidade-de-peixes-mortos-em-rio-no-am-pesquisador-aponta-el-nino-como-causa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OAhXW8zzxDDpRG9Qs5xuT-D5dhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/q/5KqaEoRyCKTYFqfc7Xhw/design-sem-nome-26-.png",
-    "data": "2026-11-11T15:20:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: homem é suspeito de se vestir de mulher e se passar por prima de moradora para furtar apartamento em Brasília",
-    "resumo": "VÍDEO: homem é suspeito de se vestir de mulher para furtar apartamento no DF Um homem é suspeito de se vestir de mulher para furtar um apartamento na Asa Norte, em Brasília (veja vídeo acima). O crime foi no dia 8 de novembro. Segundo a Polícia Civil (PCDF), o suspeito foi identificado como Bruno da Silva Ribeiro, que está foragido. Ele t",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/11/video-homem-e-suspeito-de-se-vestir-de-mulher-e-se-passar-por-prima-de-moradora-para-furtar-apartamento-em-brasilia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/lgD0SRpWP_CI1p7hNx5Jm7qitl4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/5CPx1YQY2nvBzANi4kQQ/whatsapp-image-2026-11-11-at-11.32.53.jpeg",
-    "data": "2026-11-11T15:19:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso suspeito de tentar matar vítima a pauladas após briga em bar na Zona Sudeste de Teresina",
-    "resumo": "Homem é preso suspeito de tentar matar outro a pauladas em Teresina Reprodução Um homem de 37 anos, que só teve as iniciais F.R.M.R. divulgadas pela polícia, foi preso, nesta quarta-feira (11), suspeito de tentar matar outro homem a pauladas em um bar, no bairro Novo Horizonte, na Zona Sudeste de Teresina. O crime ocorreu em setembro dest",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/11/homem-preso-teresina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/59PMwOrrJHF5LRb1PtK09YlS_kk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/RpNkHsR6OMcfrkn5IIBg/edicao-imagens-g1-2026-11-11t114449.778.jpg",
-    "data": "2026-11-11T15:19:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Batida entre dois ônibus metropolitanos e dois carros deixa 11 feridos em BH",
-    "resumo": "Batida deixa onze feridos em BH Uma batida envolvendo dois ônibus metropolitanos e dois carros deixou 11 pessoas feridas na manhã desta terça-feira (10), na Avenida dos Andradas, esquina com a Avenida Assis Chateaubriand, no Centro de Belo Horizonte. As causas do acidente serão investigadas. Segundo o Sindicato das Empresas de Transporte ",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/11/batida-entre-dois-onibus-metropolitanos-e-dois-carros-deixa-11-feridos-em-bh.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/s-N5uf2MkxRdrCfkf7nPxNsmuRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/d/HjWUfvStSczpKwG4LcGA/acidente-andradas.jpg",
-    "data": "2026-11-11T15:18:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sessão para escolha de novo presidente da Câmara de Boa Vista é cancelada por 'problema técnico'",
-    "resumo": "Sessão para escolha de novo presidente da Câmara de Boa Vista é cancelada A eleição para a nova Mesa Diretora da Câmara Municipal de Boa Vista foi cancelada pelo atual presidente da Casa, Genilson Costa (Republicanos), devido a um \"problema técnico no painel do plenário\". A sessão havia sido convocada pelo próprio parlamentar e estava pre",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/11/sessao-para-escolha-de-novo-presidente-da-camara-de-boa-vista-e-cancelada-por-problema-tecnico.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-4VmuCOB0nAax34BfMoExYKdXW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/K/M8flMkSnSXJ8UzQ4MILg/camara.jpeg",
-    "data": "2026-11-11T15:18:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Líderes discursam na sessão de alto nível da COP31; acompanhe ao vivo",
-    "resumo": "Líderes discursam na sessão de alto nível da COP31; acompanhe ao vivo Lula foi anunciado para um pronunciamento nacional, mas não falou. Mais cedo, discursou na abertura e, rouco, pediu ao ministro do Meio Ambiente que lesse outra fala.",
-    "link": "https://g1.globo.com/politica/ao-vivo/lula-cop-31-na-turquia.ghtml",
-    "imagem": null,
-    "data": "2026-11-11T15:17:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "RN tem 25% das prefeituras comandadas por mulheres; estado tem 2º maior índice do Brasil",
-    "resumo": "Gestoras municipais reunidas no Encontro de Prefeitas e Vice-Prefeitas, do Ministério das Mulheres Washington Costa/MPO O Rio Grande do Norte tinha 42 mulheres à frente de prefeituras em 2025, o equivalente a 25% dos 167 municípios do estado. O percentual coloca o RN na primeira posição do Nordeste e na segunda do Brasil em proporção de p",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/11/rn-tem-25percent-das-prefeituras-comandadas-por-mulheres-estado-tem-2o-maior-indice-do-brasil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aDcnhH0sPK60jdeeqbP6uDyNJMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/iEzEWSSMAZ1sUoLyjLMA/54323467338-c6afba0e92-k.jpg",
-    "data": "2026-11-11T15:16:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Rio Branco registra quatro assassinatos em menos de 24 horas; veja quem são as vítimas",
-    "resumo": "As quatro vítimas foram mortas a tiros nessa terça-feira (10), em Rio Branco Reprodução Quatro homens foram mortos a tiros em um intervalo de menos de 24 horas, em Rio Branco. Duas das vítimas eram monitoradas por tornozeleira eletrônica. Os crimes aconteceram entre a madrugada e a tarde dessa terça-feira (10), em bairros do Segundo Distr",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/11/rio-branco-registra-quatro-assassinatos-em-menos-de-24-horas-veja-quem-sao-as-vitimas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4RULxA4dBP_mjB2HrX4Y_BcUZSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/s/f0EzABSKq6oFn2Jv1msg/cidades-ac.jpg",
-    "data": "2026-11-11T15:14:38.000Z"
+    "titulo": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+    "resumo": "As Democrats prepared to begin oversight inquiries, it was not clear what legal basis could support the threat. The Constitution grants lawmakers immunity for legislative acts.",
+    "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/11/us/11DC-TRUMP-WARNING-PROMO/11DC-TRUMP-WARNING-PROMO-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T16:15:13.000Z"
   },
   {
     "categoria": "Clima",
@@ -105,25 +96,205 @@
     "resumo": "<p>Third day of UN talks begin but leaders of many big polluting nations absent</p><p>After a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from António Guterres, the outgoing secretary-general of the UN, who will probably not be dancing.</p><p>Guterres starts by praising Turke",
     "link": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/8cd6e42545e74ffa374a74fec29a4d9c8df470eb/919_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=77dac01f904b227ec9b0603dc1c32b49",
-    "data": "2026-11-11T15:14:27.000Z"
+    "data": "2026-11-11T16:14:42.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Dois adolescentes são apreendidos suspeitos de tráfico de drogas perto de escola em Timon, no MA",
-    "resumo": "Dois adolescentes são apreendidos suspeitos de tráfico de drogas perto de escola em Timon, no MA Divulgação/PCMA Dois adolescentes, de 15 e 17 anos, foram apreendidos na terça-feira (10), suspeitos de envolvimento com o tráfico de drogas no bairro São Francisco, em Timon, no leste do Maranhão. Segundo a Polícia Civil, a apreensão acontece",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/11/dois-adolescentes-sao-apreendidos-suspeitos-de-trafico-de-drogas-perto-de-escola-em-timon-no-ma.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2hIBX_w2KANjIHAuaXkriWlqEP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/U/bmzEsYTBareEdh9aQV5Q/montagens-1920-x-1080-px-24-.jpg",
-    "data": "2026-11-11T15:12:13.000Z"
+    "titulo": "Preparação Enem: professor de Física explica sobre os fenômenos ondulatórios",
+    "resumo": "Preparação 2026: professor de Física explica sobre os fenômenos ondulatórios O projeto Preparação, da TV Grande Rio e do g1 Petrolina, traz nesta quarta-feira (11) dicas de física para os estudantes que estão na reta final de estudos para o Exame Nacional do Ensino Médio (Enem). O segundo dia de provas será realizado no próximo domingo (1",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/preparacao-enem/noticia/2026/11/11/preparacao-enem-professor-de-fisica-explica-sobre-os-fenomenos-ondulatorios.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2K-LmlNRwBcsVYOnTIezbBPDjj8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/N/rOnB3IRgu0VNRkJTRVmQ/gr-fisica.jpg",
+    "data": "2026-11-11T16:13:15.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
+    "resumo": "An expanding legal fight over the proposed site of President Trump’s 250-foot triumphal arch looms over his visit to Arlington National Cemetery on Veterans Day.",
+    "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
+    "imagem": "https://static01.nyt.com/images/2026/09/03/multimedia/11dc-arch-arlington/03dc-arch-02-jgwz-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T16:12:51.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Mulher é presa suspeita de causar morte de namorado ao colocar fogo em casa e trancar quarto",
-    "resumo": "Jurandir Simão morreu ao sofrer queimaduras em Álvares Florence (SP) Reprodução/Facebook Uma mulher de 61 anos foi presa na noite de segunda-feira (9) suspeita de ter provocado o incêndio na casa onde morava e trancado o namorado, de 66, dentro do quarto, no bairro Estância das Mangueiras, na zona rural de Álvares Florence, no interior de",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/11/mulher-e-presa-suspeita-de-provocar-incendio-e-trancar-namorado-em-casa-no-interior-de-sp-homem-morreu.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Mcsfn5OxEQMivJoSxKxUA_8sL_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/v/nvof8qQb6qBBemR7kUkA/foto-g1-27-.png",
-    "data": "2026-11-11T15:12:00.000Z"
+    "titulo": "Líderes discursam na sessão de alto nível da COP31; acompanhe ao vivo",
+    "resumo": "Líderes discursam na sessão de alto nível da COP31; acompanhe ao vivo Lula foi anunciado no momento previsto para seu discurso, mas não falou. Mais cedo, discursou na abertura da Cúpula dos Líderes e, rouco, pediu ao ministro do Meio Ambiente que lesse outra fala.",
+    "link": "https://g1.globo.com/politica/ao-vivo/lula-cop-31-na-turquia.ghtml",
+    "imagem": null,
+    "data": "2026-11-11T16:12:44.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – business live",
+    "resumo": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>After two days of losses, Nvidia’s stock is expected to recover some lost ground today.</strong></p><p>Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time.</p><p>“The FTSE 100 advanced 0.8% to 10,835, ",
+    "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
+    "data": "2026-11-11T16:12:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: DF1 de quarta-feira, 11 de novembro de 2026",
+    "resumo": "Veja as reportagens do telejornal com as notícias do DF.",
+    "link": "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-11-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/frZwwGthXSpge5hGBccoDIqX4KA=/s01.video.glbimg.com/deo/vi/48/86/15178648",
+    "data": "2026-11-11T16:11:45.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
+    "resumo": "Military families are navigating feelings of grief, pride and anger, as well as seeking answers about the deaths of their loved ones.",
+    "link": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-iran-veterans-SWAP2-bqvw/11nat-iran-veterans-SWAP2-bqvw-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T16:09:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Argentine lawyer mocks UK’s sovereignty claim in Falklands oil case",
+    "resumo": "<p>Lawyer says Britain wrong to believe in historic doctrine that Crown has sovereignty over parts of oceans</p><p>Britain should not be permitted to act as a 17th century colonial power treating the waters around the Falkland Islands as a <em>Dominium maris Britannici</em>, Argentina has told an international tribunal.</p><p>Marcelo Kohe",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+    "imagem": "https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=140&quality=85&auto=format&fit=max&s=ce39858c6c691c56c42f9a5cf5597853",
+    "data": "2026-11-11T16:05:45.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The Moderates Who Chose Democrats. For Now.",
+    "resumo": "Does Democratic success with the political middle signal a broad realignment in the country? Or is it a temporary turn away from an unpopular president?",
+    "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-flippers-01-mzlc/00nat-flippers-01-mzlc-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T16:04:43.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
+    "resumo": "<p>Exclusive: Cutting 2030 goal would be a ‘step backwards’, say MPs, as ministers clash over proposed reductions</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates\">UK politics live – latest updates</a></p></li><li><p><a href=\"http",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
+    "imagem": "https://i.guim.co.uk/img/media/6fde6244e7862fd3018d8d71dbcebe49b6465ec6/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a1417b87a9fa02148f67a8c47e306677",
+    "data": "2026-11-11T16:01:41.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "resumo": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized in",
+    "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-11T16:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "O que é a Megaspeed: a empresa da suposta espiã envolvida com o CEO da Nvidia",
+    "resumo": "Empresa entrou no foco após o envolvimento de Jensen Huang com uma suposta espiã chinesa. Companhia especializada em datacenters está sendo investigada nos EUA por suspeita de contrabandear chips da Nvidia para a China.",
+    "link": "https://www.dw.com/pt-br/o-que-é-a-megaspeed-a-empresa-da-suposta-espiã-envolvida-com-o-ceo-da-nvidia/a-79919631?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-11T15:59:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Somali Bodyguard Was Indicted in a Bid to Incriminate Ilhan Omar",
+    "resumo": "Prosecutors used statements made during a green card interview to pressure a former bodyguard to provide evidence against the Minnesota congresswoman, his lawyer said.",
+    "link": "https://www.nytimes.com/2026/11/11/us/ilhan-omar-ex-bodyguard-indicted-abdullahi-mohamed.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-omar-bodyguard-1-gbft/11nat-omar-bodyguard-1-gbft-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T15:56:58.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The best early Black Friday deals you can already shop",
+    "resumo": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re ",
+    "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-11T15:53:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+    "resumo": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
+    "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T15:48:39.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Russia bans two French lawmakers, two journalists in tit-for-tat move",
+    "resumo": "Kremlin spokeswoman says ban responds to the expulsion of a Russian commentator who used to head RT France.",
+    "link": "https://www.aljazeera.com/news/2026/11/11/russia-bans-two-french-lawmakers-two-journalists-in-tit-for-tat-move?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T15:47:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+    "resumo": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
+    "link": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T15:40:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Kenya discharges last Ebola patient, awaits disease-free status",
+    "resumo": "Health Minister Aden Duale says Kenya will continue to exercise prevention measures until December 23.",
+    "link": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T15:34:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+    "resumo": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T15:33:38.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+    "resumo": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-11T15:30:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+    "resumo": "Representative Jim Himes, who will run the powerful intelligence committee in the new Congress, said he also planned to scrutinize contractor donations to President Trump’s construction projects.",
+    "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T15:27:51.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "ICE Officer Involved in Maine Shooting Expressed Hatred of Immigrants",
+    "resumo": "The agent talked of foreign bloodlines, denounced noncitizens and more, according to emails obtained by The Times. His fatal shooting of a Colombian-born motorist in July remains under investigation.",
+    "link": "https://www.nytimes.com/2026/11/11/us/david-brouillette-ice-maine-shooting-anti-immigrant-hatred.html",
+    "imagem": null,
+    "data": "2026-11-11T15:24:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Inside the fight against Denmark’s ‘straight up racist’ housing law",
+    "resumo": "Residents say Denmark’s ‘ghetto law’ is breaking up strong communities, as the Supreme Court prepares to rule.",
+    "link": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T15:15:10.000Z"
   },
   {
     "categoria": "Internacional",
@@ -142,6 +313,15 @@
     "link": "https://www.theguardian.com/music/2026/nov/11/coachella-lineup-2027-dua-lipa",
     "imagem": "https://i.guim.co.uk/img/media/4e4e8324b59d2f25d16e7ca0be3e87710151be80/840_0_4235_3388/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=721c51b6ff96e4f1f7f522fb66c6f698",
     "data": "2026-11-11T15:07:38.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+    "resumo": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-11T15:05:11.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -171,13 +351,13 @@
     "data": "2026-11-11T14:58:15.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – business live",
-    "resumo": "<p>Rolling coverage of the latest economic and financial news</p><p><strong>After two days of losses, Nvidia’s stock is expected to recover some lost ground today.</strong></p><p>Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time.</p><p>“The FTSE 100 advanced 0.8% to 10,835, ",
-    "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-    "data": "2026-11-11T14:56:22.000Z"
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Congresso prorroga por 60 dias MP que proíbe bets no país",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><str",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais",
+    "imagem": null,
+    "data": "2026-11-11T14:57:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -207,13 +387,13 @@
     "data": "2026-11-11T14:51:26.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
-    "resumo": "Representative Jim Himes, who will run the powerful intelligence committee in the new Congress, said he also planned to scrutinize contractor donations to President Trump’s construction projects.",
-    "link": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T14:45:10.000Z"
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "CLDF aprova reeleição de membros da Mesa Diretora",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/cldf-aprova-reeleicao-de-membros-da-mesa-diretora\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>A Câ",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/cldf-aprova-reeleicao-de-membros-da-mesa-diretora",
+    "imagem": null,
+    "data": "2026-11-11T14:50:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -234,15 +414,6 @@
     "data": "2026-11-11T14:39:08.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "The Moderates Who Chose Democrats. For Now.",
-    "resumo": "Does Democratic success with the political middle signal a broad realignment in the country? Or is it a temporary turn away from an unpopular president?",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/trump-voters-democrats-priorities.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-flippers-01-mzlc/00nat-flippers-01-mzlc-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T14:27:40.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Parts of B.C. could be without power for days as storm continues to batter province",
@@ -250,15 +421,6 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/bc-fall-rainstorm-nov-10-9.7417639?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/e777d414-51ab-4c83-bddf-01a96ab04cd9,1794370116977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1540%2C4373%2C2459%29%3B",
     "data": "2026-11-11T14:24:19.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
-    "resumo": "At least three more people were critically injured after an S.U.V. jumped the curb near a Metro station, the authorities said. The driver was charged with driving under the influence.",
-    "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-la-crash/10xp-la-crash-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T14:22:16.000Z"
   },
   {
     "categoria": "Internacional",
@@ -450,15 +612,6 @@
     "data": "2026-11-11T13:24:29.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-    "resumo": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T13:20:49.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Saques da poupança superam depósitos em R$ 8,88 bilhões em outubro",
@@ -468,24 +621,6 @@
     "data": "2026-11-11T13:20:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Schools across Italy evacuated after receiving email bomb alerts",
-    "resumo": "Italian PM Meloni says there is no danger as UK and Northern Ireland authorities also report &#039;bogus&#039; alerts.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T13:18:36.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-    "resumo": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T13:16:30.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Setor de serviços varia -0,1% em setembro, impactado pelos transportes",
@@ -493,15 +628,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/setor-de-servicos-varia-01-em-setembro-impactado-pelos-transportes",
     "imagem": null,
     "data": "2026-11-11T13:15:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US man convicted after admitting he dismembered wife but denies killing her",
-    "resumo": "A Virginia man has been convicted of murdering his wife, more than two years after she went missing.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-man-convicted-after-admitting-he-dismembered-wife-but-denies-killing-her?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T13:09:39.000Z"
   },
   {
     "categoria": "Internacional",
@@ -585,15 +711,6 @@
     "data": "2026-11-11T12:53:11.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "MP mira empresários ligados à Refit por fraude fiscal de R$ 5,5",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mp-mira-empresarios-ligados-refit-por-fraude-fiscal-de-r-55\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><st",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mp-mira-empresarios-ligados-refit-por-fraude-fiscal-de-r-55",
-    "imagem": null,
-    "data": "2026-11-11T12:50:00.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "The mystery of how hair knows where to grow may finally be solved",
@@ -601,33 +718,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
     "imagem": null,
     "data": "2026-11-11T12:48:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
-    "resumo": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T12:48:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Defesa Civil reconhece situação de emergência em 7 municípios do Sul",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/defesa-civil-reconhece-situacao-de-emergencia-em-7-municipios-do-sul\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/defesa-civil-reconhece-situacao-de-emergencia-em-7-municipios-do-sul",
-    "imagem": null,
-    "data": "2026-11-11T12:44:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Mbappe misses France training before Nations League clash with Italy",
-    "resumo": "Kylian Mbappe left the pitch during France&#039;s game in September but has been playing regularly for Real Madrid.",
-    "link": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T12:38:46.000Z"
   },
   {
     "categoria": "Ciência",
@@ -641,20 +731,11 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-    "resumo": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+    "titulo": "Six thousand Italian schools hit by threats in suspected bomb hoax",
+    "resumo": "More than 700 schools in Scotland and Northern Ireland also received hoax bomb threats. It is unclear whether the incidents are connected.",
     "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
     "data": "2026-11-11T12:30:29.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Serve Robotics wants to democratize sidewalk delivery robots",
-    "resumo": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With",
-    "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-11T12:30:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -664,15 +745,6 @@
     "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
     "imagem": null,
     "data": "2026-11-11T12:21:59.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Apple is killing its Support Community forum next week",
-    "resumo": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November [",
-    "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-11T12:19:10.000Z"
   },
   {
     "categoria": "Internacional",
@@ -709,15 +781,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-11T11:47:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Transport workers in Chile block highways in protest over surging fuel prices",
-    "resumo": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-    "link": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d32/live/746c37d0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
-    "data": "2026-11-11T11:34:50.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -792,24 +855,6 @@
     "data": "2026-11-11T10:04:13.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump to Visit Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
-    "resumo": "An expanding legal fight over the proposed site of President Trump’s 250-foot triumphal arch looms over his visit to Arlington National Cemetery on Veterans Day.",
-    "link": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
-    "imagem": "https://static01.nyt.com/images/2026/09/03/multimedia/11dc-arch-arlington/03dc-arch-02-jgwz-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T10:03:55.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Honor and Anguish: A Veterans Day When the Losses Are New",
-    "resumo": "For these military families who lost a loved one in the war with Iran, emotions run from pride to grief to anger.",
-    "link": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-iran-veterans-SWAP2-bqvw/11nat-iran-veterans-SWAP2-bqvw-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T10:03:43.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Poundland set for more time to secure a rescue deal as emergency talks continue",
@@ -844,15 +889,6 @@
     "link": "https://www.nytimes.com/2026/11/11/us/blue-texas-battleground-kansas-both-parties-wonder-if-the-map-has-shifted.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-future-map-mtbw/10pol-future-map-mtbw-mediumSquareAt3X.jpg",
     "data": "2026-11-11T10:02:37.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Somali Bodyguard Was Indicted in a Bid to Incriminate Ilhan Omar",
-    "resumo": "Prosecutors used statements made during a green card interview to pressure a former bodyguard to provide evidence against the Minnesota congresswoman, his lawyer said.",
-    "link": "https://www.nytimes.com/2026/11/11/us/ilhan-omar-ex-bodyguard-indicted-abdullahi-mohamed.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-omar-bodyguard-1-gbft/11nat-omar-bodyguard-1-gbft-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T10:02:28.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -934,15 +970,6 @@
     "link": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
     "imagem": "https://i.guim.co.uk/img/media/7fdf274bbdcb8c27b637964b07c4022b4b09c9c6/1358_19_2482_1986/master/2482.jpg?width=140&quality=85&auto=format&fit=max&s=b5d87e96e7945a41f14305106f751c62",
     "data": "2026-11-11T09:47:46.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
-    "resumo": "<p>Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfield</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates\">UK politics live – latest updates</a></p></li></ul><p>Andy Burnh",
-    "link": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-    "imagem": "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/2986_1622_2147_1718/master/2147.jpg?width=140&quality=85&auto=format&fit=max&s=2e8ae69a0b76ebcf658c92776c59ef5c",
-    "data": "2026-11-11T09:46:18.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1143,15 +1170,6 @@
     "data": "2026-11-11T00:59:32.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-    "resumo": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Au",
-    "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-11T00:34:24.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
@@ -1269,15 +1287,6 @@
     "data": "2026-11-10T17:04:55.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Alemanha vai investir 15 milhões de euros na proteção e preservação de terras indígenas no Brasil",
-    "resumo": "Repasse prometido na COP30 foi oficializado durante a COP31 em Antália, na Turquia. Fundo gerido por entidades indígenas vai decidir como aplicar recursos.",
-    "link": "https://www.dw.com/pt-br/alemanha-vai-investir-15-milhões-de-euros-na-proteção-e-preservação-de-terras-indígenas-no-brasil/a-79910794?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-10T16:26:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/10/trump-lawlessness-impunity",
     "imagem": "https://i.guim.co.uk/img/media/f1a1a9ecc72a44c465cfecb3694c8a4324de3652/713_0_7134_5708/master/7134.jpg?width=140&quality=85&auto=format&fit=max&s=3b033cc2ea7cd5e0eb929927eaa561dc",
     "data": "2026-11-10T13:00:52.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Even Martin Scorsese uses AI for storyboards. Can the art survive?",
-    "resumo": "<p>As Hollywood begins to adopt the technology, the professionals in most direct jeopardy are the illustrators mapping out directors’ first visions. They sketch out what could be lost</p><p>A film industry dominated by AI is a dystopian prospect: stories and dialogue generated by large language models, populated by <a href=\"https://www.th",
-    "link": "https://www.theguardian.com/film/2026/nov/10/storyboard-artists-ai",
-    "imagem": "https://i.guim.co.uk/img/media/c9aabe04cbc4724110ea14f7d6a4bfe25a89ef20/58_263_5069_4056/master/5069.jpg?width=140&quality=85&auto=format&fit=max&s=02f1f7dfab21a3efed52a4720e5f1919",
-    "data": "2026-11-10T13:00:24.000Z"
   }
 ]
