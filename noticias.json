@@ -1,5 +1,185 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+    "resumo": "Investigation reveals Chinese entities accessing US-restricted AI tech despite stringent export control measures.",
+    "link": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T07:26:28.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
+    "resumo": "At least three others were critically injured after an S.U.V. jumped the curb near North Hollywood Metro station, the authorities said. The cause was not immediately clear.",
+    "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
+    "imagem": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-la-crash-vjqt/10xp-la-crash-vjqt-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T07:26:18.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Is Washington rethinking its relationship with Israel?",
+    "resumo": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T07:26:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "If hackers can take over a supermarket fridge, what else is at risk?",
+    "resumo": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
+    "link": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T07:20:08.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Developing countries in limbo as rich nations delay new climate finance plans",
+    "resumo": "<p>Many governments are yet to set targets, leaving recipient countries struggling to plan and attract private investment</p><p>Developing countries have been left in limbo by the failure of some of the world’s biggest economies to flesh out their plans for new climate finance.</p><p>Poor countries are supposed to receive $300bn a year fr",
+    "link": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
+    "imagem": "https://i.guim.co.uk/img/media/86351ad07daf438734b168dc3d1f7a24e9307857/620_0_6196_4957/master/6196.jpg?width=140&quality=85&auto=format&fit=max&s=176dd85807847041c33755b45a8b128d",
+    "data": "2026-11-11T07:00:32.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "For Trump, Musk and Farage, the message is the same: voters don’t want to be hijacked by billionaires | Rafael Behr",
+    "resumo": "<p>A lesson from the US midterms is that electorates are repelled by the arrogant mega-rich buying democracy. This is a fight Labour can afford to pick </p><p>For most people, $224m (£168m) is a lot of money, especially if you spend it and get nothing in return. But Elon Musk is richer than most people. In fact, there is no one richer.</p",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-elon-musk-nigel-farage-voters-billionaires-midterms",
+    "imagem": "https://i.guim.co.uk/img/media/687f521a994edb60f5d77172edfb96a1bb1c0359/267_0_7910_6328/master/7910.jpg?width=140&quality=85&auto=format&fit=max&s=001879611c052065d008c5a9e2c9d330",
+    "data": "2026-11-11T07:00:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O que é a AME, doença rara que levou jovem a passar 21 anos em hospital em SC",
+    "resumo": "Jovem com doença rara recebe alta após 21 anos morando em hospital de SC Thalita Valter de Carvalho recebeu alta após passar 21 anos em um hospital de Jaraguá do Sul, no Norte de Santa Catarina. A paciente voltou para casa da família, onde só havia morado por três meses, no início da vida, no dia 30 de outubro. Aos três meses de idade, a ",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/11/o-que-e-ame-doenca-rara-levou-jovem-passar-21-anos-hospital-sc.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yYRl75rcVa4raaBWhBiwiiP88eM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/g/AvuhFmSteHy9g48xBNvA/jovem-de-21-anos-.png",
+    "data": "2026-11-11T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Lugares pela Memória': UnB será 1ª a receber placa lembrando luta contra a ditadura militar",
+    "resumo": "Movimento estudantil no Teatro Arena da UnB durante assembleia-greve Fora Azevedo, 1980 Divulgação/Acervo ACE UnB] O Teatro de Arena Honestino Guimarães, da Universidade de Brasília (UnB), será o primeiro espaço do país a receber uma placa do projeto Lugares pela Memória, do Ministério dos Direitos Humanos e da Cidadania (MDHC). A iniciat",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/11/lugares-pela-memoria-unb-sera-1a-a-receber-placa-lembrando-luta-contra-a-ditadura-militar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/upjhMFNC0l0D7A7i4_l3AG5VTF8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/a/S7V70PRt6nwyURH9rMSA/imagem-g1-49-.png",
+    "data": "2026-11-11T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Concursos no ES: Banestes, câmaras, prefeituras e Idaf pagam salário de até R$ 14 mil; veja como se inscrever",
+    "resumo": "Concursos no Espírito Santo: Banestes, câmaras, prefeitura e Idaf pagam salário de até R$ 14 mil Divulgação Pelo menos sete concursos estão abertos no Espírito Santo, reunindo vagas para níveis médio, técnico e superior, e com salários que chegam a R$ 14 mil. As oportunidades estão divididas no Banestes, nas Câmaras Municipais de Cachoeir",
+    "link": "https://g1.globo.com/es/espirito-santo/concursos-e-emprego/noticia/2026/11/11/concursos-no-es-banestes-camaras-prefeituras-e-idaf-pagam-salario-de-ate-r-14-mil-veja-como-se-inscrever.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/PYl7Gh_D2R5KUXDhDLsjeQiypdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/5/ZmC9r9TTe6kf7BIe1aUw/thumb-videos-g1-7-.jpg",
+    "data": "2026-11-11T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Compositor de hits como 'Antes de Dizer Adeus' e 'Farol das Estrelas', Altay Veloso lança documentário musical sobre Zumbi dos Palmares",
+    "resumo": "Compositor de hits, Altay Veloso lança documentário musical sobre Zumbi dos Palmares Após uma trajetória marcada por mais de 450 canções gravadas por grandes nomes da música brasileira, Altay Veloso leva às telas um novo projeto. O compositor de hits, como \"Antes de Dizer Adeus\" e \"Farol das Estrelas\", idealizou e escreveu a trilha sonora",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/11/compositor-altay-veloso-lanca-documentario-musical-sobre-zumbi-dos-palmares.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8jNA_qDvTlPOyl8F42nwAyD3eV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/4/3vHij3TCqXijjuvmV7eA/tamanho-certo-altay-1-3-.png",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: Cachorro que 'furtava' ração de loja no RS muda tática e 'aguarda atendimento' no caixa",
+    "resumo": "Cachorro que 'furtava' ração de loja no RS muda tática e 'aguarda atendimento' no caixa O cachorro que viralizou ao levar pacotes de ração de uma agropecuária em Arroio do Sal, no Litoral Norte do Rio Grande do Sul, mudou de estratégia e agora exige a comida diretamente no balcão da loja. A nova tática do animal foi detalhada pela adminis",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/video-cachorro-que-furtava-racao-de-loja-no-rs-muda-tatica-e-aguarda-atendimento-no-caixa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/pYNeUmEHt0QVEIep_OiPayT6qZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/9/1IWzDwS0OtOtJMFahVvA/documento.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Exposição imersiva de Mauricio de Sousa chega a BH com entrada gratuita; veja como visitar",
+    "resumo": "Exposição em BH celebra Mauricio de Sousa Os personagens da Turma da Mônica vão ganhar vida em uma exposição imersiva que estreia nesta quarta-feira (11), no Centro Cultural Banco do Brasil (CCBB), na Praça da Liberdade, em Belo Horizonte. A mostra “Viva Mauricio – Mauricio de Sousa, a experiência imersiva” reúne cenários, instalações int",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/11/exposicao-imersiva-de-mauricio-de-sousa-chega-a-bh-com-entrada-gratuita-veja-como-visitar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Qr4uja6qGjHlEA9y6qqCi0cK8m4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/u/snSp23RoejVdxk5b6EPQ/mauricio-de-sousa.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Xuxa, musical sobre Alcione, exposição da Turma da Mônica: veja agenda da semana",
+    "resumo": "Musical sobre Alcione, show de Xuxa e exposição da Turma da Mônica estão entre as atrações da agenda cultural de Belo Horizonte nesta semana. Nil Caniné/Divulgação; Leo Bertero/Divulgação; Moriva Filmes/Divulgação 30e O fim de semana em Belo Horizonte e na Região Metropolitana está com atrações para todos os gostos. O g1 preparou uma agen",
+    "link": "https://g1.globo.com/guia/guia-bh/noticia/2026/11/11/xuxa-musical-sobre-alcione-exposicao-da-turma-da-monica-veja-agenda-da-semana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/l-co9n4qH8yAVS6Oo-B0-OnDKnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/8/eEBayoTvAT9QxIIFoDsA/guia-bh-1-.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como falsos motoristas de aplicativo davam golpes em passageiras e extorquiam dinheiro das vítimas",
+    "resumo": "Polícia identifica 7 suspeitos de integrar quadrilha que roubava passageiras durante corridas por aplicativo na Grande BH Divulgação/PCMG Uma corrida por aplicativo era o início de uma sequência de roubos e extorsões contra mulheres na Grande BH. Segundo a Polícia Civil, o motorista interrompia a viagem e abria o porta-malas para que um c",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/11/como-falsos-motoristas-de-aplicativo-davam-golpes-em-passageiras-e-extorquiam-dinheiro-das-vitimas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GuCZov9hFNgVoyeydV9Ygfv1gXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/L/Ol0gcrS2ms8Z6HyNKxEQ/design-sem-nome-2026-11-10t185934.062.avif",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bebê nasce empelicada em parto de trigêmeos, e pai revela coincidência: ‘também nasci assim’",
+    "resumo": "Bebê nasce empelicada em Juiz de Fora Santa Casa de Misericórdia de Juiz de Fora/Divulgação Antes de entrar no centro cirúrgico da Santa Casa de Misericórdia de Juiz de Fora, Welington Rodrigues, pai dos trigêmeos Samuel, Gabriel e Serena conversou com o obstetra sobre o que era um nascimento empelicado. Horas depois, Serena, última dos t",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/11/bebe-nasce-empelicada-em-parto-de-trigemeos-e-pai-revela-coincidencia-tambem-nasci-assim.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FA9k6JLV_GJb4UbaqFm7X9vddWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/HdvhwNQyuRyA4tNkxWzw/parto-2.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Formiga içá torrada na manteiga vira farofa vendida a R$ 60 no interior de SP: 'Gosto de comer com cerveja gelada'",
+    "resumo": "Formiga içá torrada na manteiga vira farofa vendida a R$ 60 no interior de SP Torrada na manteiga e preparada em forma de farofa, a formiga içá chega a ser vendida por R$ 60 o pote no interior de São Paulo. Em Roseira, no Vale do Paraíba, o inseto é considerado uma iguaria e faz parte de uma tradição que atravessa gerações. \"Eu compro tod",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/11/formiga-ica-torrada-na-manteiga-vira-farofa-vendida-a-r-60-no-interior-de-sp-gosto-de-comer-com-cerveja-gelada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/WpHoMX6947cfcU6XRZr_RicWEj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/D/pCfyHhTACad3qahJQMTw/foto-g1.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Emprego: confira as 171 vagas disponíveis em Petrolina, Salgueiro e Araripina",
+    "resumo": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina, Salgueiro e Araripina quarta-feira (11). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades podem entrar em contato com a Sedepe através da",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/11/emprego-confira-as-171-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JLG8pDdVaafByRSQpF57wkerHBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/e/qzUsHXRXOsBBzAsVQDeQ/copia-de-copia-de-copia-de-copia-de-mcs.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Turista sequestrado após marcar encontro pelas redes sociais no Paraná ficou cerca de 7 horas em cativeiro no Paraguai",
+    "resumo": "Polícia Civil apura sequestro relâmpago e roubo de quase R$ 150 mil em Foz do Iguaçu Um turista de 28 anos ficou cerca de sete horas sob o poder de criminosos após ser sequestrado em Foz do Iguaçu, no oeste do Paraná, e levado à força de barco para Cidade do Leste, no Paraguai. Segundo a Polícia Civil, ele foi mantido sob ameaça de armas ",
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/11/turista-sequestrado-apos-marcar-encontro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2oamv1hnIzerQq8TA5a0BfkxmfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/gdDBdhTDiBSv9XDvLoBw/g1-pr-2026-11-09t185030.831.jpg",
+    "data": "2026-11-11T07:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+    "resumo": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+    "link": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-11T06:23:04.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
+    "resumo": "As he braces for Democrats to assume legislative control in Washington, President Trump has sought to take back center stage with some discordant maneuvers.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-ASSESS-pwbk/10DC-ASSESS-pwbk-mediumSquareAt3X.jpg",
+    "data": "2026-11-11T06:20:03.000Z"
+  },
+  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Why are Britain's streets still so polluted? Because the car industry dinosaurs do what they like, and politicians let them | George Monbiot",
@@ -7,96 +187,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/11/britain-streets-polluted-car-industry-electric-vehicles-transition",
     "imagem": "https://i.guim.co.uk/img/media/fd4398730829e419bf614e6112f2cf9e6c9b7d47/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=caf9b8bb890b71ce9971e7743f9846b1",
     "data": "2026-11-11T06:00:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quanto custa para promover uma música? Empresários respondem",
-    "resumo": "Quanto custa para promover uma música? Na última semana, o empresário Rod Bala disse ter gasto R$ 250 mil para promover a canção \"Quero É Distância\", do cantor de forró Jotavê. No vídeo publicado no seu perfil no Instagram, o executivo, que também é ex-baterista de Wesley Safadão, disse que o valor não incluía os custos com a produção mus",
-    "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/11/quanto-custa-para-promover-uma-musica-empresarios-respondem.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/d1v5B8yxrgI2AysoZoNGji8rNkU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/S/3S0tSZSDilM7gBL66shw/fotos-g1-1920-x-1080-px-2026-11-10t183007.743.png",
-    "data": "2026-11-11T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Férias em 2027: veja como emendar feriados e ganhar até sete dias extras de descanso",
-    "resumo": "Novembro terá três feriados; veja datas e possíveis emendas em 2026 Ainda faltam alguns meses para 2027 começar, mas quem gosta de planejar as férias com antecedência já pode começar a fazer as contas. Depois de um calendário generoso em 2026, o próximo ano terá menos feriados prolongados automáticos, mas ainda reserva boas oportunidades ",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/11/ferias-em-2027-veja-como-emendar-feriados-e-ganhar-ate-sete-dias-extras-de-descanso.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bo3i6huuLj89_2Cq12tKNQvfWmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/o/i/iieA7FQUeINOGqGLQgBg/alex-bertha-jyg7xhrmxiu-unsplash.jpg",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Candidatas viralizam ao mostrar lanches para o Enem; nutricionista explica o que comer durante a prova",
-    "resumo": "Candidatas viralizam ao mostrar lanches para o Enem; nutricionista dá dicas Os lanches levados por duas candidatas ao Exame Nacional do Ensino Médio (Enem), realizado no domingo (8), renderam comentários bem-humorados nas redes sociais. As estudantes Maria Luiza, de 17 anos, e Amelly Nascimento, de 19, viralizaram ao mostrar a quantidade ",
-    "link": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/11/lanches-para-o-enem-nutricionista-explica-o-que-comer.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vuJdEXJcAzdR6sT_Jucx7CYCx3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/d/nGcdJZTY2xSLB22WW46w/edicao-imagens-g1-2026-11-10t191430.938.png",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Rec'n'Play começa nesta quarta e reúne mais de 850 atividades gratuitas com atrações como Déia Freitas, Lenine e Caco Barcellos",
-    "resumo": "Rec'n'Play tem Caco Barcellos, Déia Freitas, Lenine e Fabrício Carpinejar na programação Arte/g1 A partir desta quarta-feira (11), o Bairro do Recife recebe o Rec'n'Play, festival gratuito de inovação, tecnologia, criatividade e cultura. A 8ª edição do evento segue até sábado (14) e traz na programação nomes como Caco Barcellos, Lenine, D",
-    "link": "https://g1.globo.com/pe/pernambuco/o-que-fazer-no-recife/noticia/2026/11/11/recnplay-2026-comeca.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PL61fMR0RN2ADbXxv4_wrRr16ZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/0/b63azzT7mrh9jlhNZuLg/g1-19-.jpg",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Golpe do Elon Musk': idosa que perdeu R$ 13 mil diz que falava com empresário no celular em dez perfis diferentes",
-    "resumo": "'Golpe do Elon Musk': idosa perde R$ 13 mil ao achar que falava com empresário no celular A idosa de Ribeirão Preto (SP) que diz ter perdido R$ 13 mil após passar quase dois anos comprando cartões-presente para uma pessoa que se identificava como o empresário Elon Musk no celular conversava com cerca de dez perfis falsos dele. \"Tinha um m",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/11/golpe-do-elon-musk-idosa-que-perdeu-r-13-mil-diz-que-falava-com-empresario-no-celular-em-dez-perfis-diferentes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NZHadF1fzoZdD5DJQC8GNeCLws0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/j/DHrt8rQbi7bVBBaR161g/design-sem-nome-8-.png",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Pensando em me mudar', diz casal que encontrou câmera escondido em quarto de apartamento no Ceará",
-    "resumo": "Casal encontra câmera 'espiã' no quarto e denuncia vizinho por invadir apartamento, no CE Eu estou botando grade, mas já estou pensando em mudar\", afirmou ao g1 o programador Luiz Matheus Araújo. Ele descobriu, junto com a esposa, uma câmera escondida na televisão do quarto do apartamento onde moram há poucos meses. Eles denunciam que o g",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/11/pensando-em-me-mudar-diz-casal-que-encontrou-camera-escondido-em-quarto-de-apartamento-no-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WGCUMrBKRBDslrCA3JDqRtbQUJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/p/P1GXgCQFGhOAXvlkuOZA/casal-invasao-apartamento.jpg",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Veja encontro entre os dois únicos pacientes submetidos a técnica de transplante que deixa dois corações no corpo; VÍDEO",
-    "resumo": "Estudante recebe alta após 35 dias vivendo com dois corações: \"uma nova vida\" Os dois únicos pacientes submetidos à técnica pioneira de transplante cardíaco desenvolvida pelo cirurgião brasileiro Dr. Fábio Gaiotto se encontraram. Marcelo e Lincoln passaram pelo procedimento, que mantém temporariamente os dois corações funcionando juntos. ",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/11/11/veja-encontro-entre-os-dois-unicos-pacientes-submetidos-a-tecnica-de-transplante-que-deixa-dois-coracoes-no-corpo-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yiEjCVCnOG698THDZs510h7-QPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/7BBG3cR2KGWKmb77xBaw/dois-coracoes-02.png",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "13º salário caiu na conta: pagar dívidas, guardar ou gastar? Veja como decidir",
-    "resumo": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O 13º salário chega no fim do ano e já tem muita gente de olho nesse dinheiro. Promoções, viagens e compras disputam espaço com dívidas que pesam no bolso. E janeiro já está logo ali, com despesas como IPVA, IPTU e material escolar. Nesse jogo, quitar dívidas pode ser uma boa esc",
-    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/11/o-que-fazer-com-o-13o-salario.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/25OfEmHaeLtsmhWeVwqDDbB8jhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/5/zSFatNTXidA3r36UBYEQ/thumb-horizontal-decimo-terceiro-gastar-pagar-dividas-ou-guardar-dinheiro.jpg",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "A batalha do novo Parlamento de Israel que pode decidir o futuro político de Netanyahu",
-    "resumo": "Gadi Eisenkot prometeu tirar Benjamin Netanyahu do poder, mas ainda precisa conquistar o apoio de partidos suficientes para formar um governo Reuters via BBC O novo Parlamento de Israel tomou posse nesta terça-feira (10), enquanto o líder da oposição, Gadi Eisenkot, tenta formar um governo para substituir o primeiro-ministro interino, Ben",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/11/a-batalha-do-novo-parlamento-de-israel-que-pode-decidir-o-futuro-politico-de-netanyahu.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tThj-smqWnQSi8ACCWQmY8jjeYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/P/PlK3hrS9y5RBsWVciDzA/2026-11-10t163350z-1824884664-rc23loa25nja-rtrmadp-3-israel-politics.jpg",
-    "data": "2026-11-11T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Conselheiro que assumiu presidência do TCE de MT já foi filmado jogando cheque de R$ 500 mil no lixo",
-    "resumo": "Chefe do órgão que fiscaliza o dinheiro público em MT é preso; vídeo mostra saque de R$ 500 mil em mochila 📱Favorite o g1 no Google e acompanhe as principais notícias do dia GloboPop: clique para ver os vídeos do palco do Fantástico Quem assumiu a presidência do Tribunal de Contas de Mato Grosso (TCE-MT) após o afastamento e prisão de Sé",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/11/11/conselheiro-que-assumiu-presidencia-do-tce-de-mt-ja-foi-filmado-jogando-cheque-de-r-500-mil-no-lixo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/oqw6ZukaaEcFWFgseinedcwA6OI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Z/3mEPl2QP2fQKNzMLCSLg/captura-de-tela-2026-11-10-131233-editado.png",
-    "data": "2026-11-11T06:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -111,19 +201,10 @@
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-    "resumo": "Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+    "resumo": "Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim dealing heavy blows.",
     "link": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-11T05:39:26.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
-    "resumo": "At least three others were critically injured after an S.U.V. crashed near a North Hollywood metro station, the authorities said. The cause was not immediately clear.",
-    "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10xp-la-crash/10xp-la-crash-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T05:36:02.000Z"
   },
   {
     "categoria": "Internacional",
@@ -171,24 +252,6 @@
     "data": "2026-11-11T05:00:30.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Influenciador frita ovo na calçada e prova 'onda de calor' no Recife; VÍDEO",
-    "resumo": "Influenciador frita ovo na calçada para mostrar calor no Recife Em meio às altas temperaturas que devem fazer de 2026 um dos quatro anos mais quentes já registrados no planeta, um influenciador do Recife resolveu fritar um ovo na calçada para mostrar quão intenso está o calor na cidade, diante da chegada do \"Super El Niño\". Em vídeo publi",
-    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/11/influenciador-frita-ovo-na-calcada-e-prova-onda-de-calor-no-recife-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sqdYDHq4zEkP0Kh1-8wFjoK5GMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/w/gmrJbDQbGDj3HYDnKkmg/g1-18-.jpg",
-    "data": "2026-11-11T05:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Protetor de ouvido para dormir: g1 testou 3 modelos para abafar o barulho e ter uma noite de sono em paz",
-    "resumo": "Qual tampão de ouvido escolher? G1 testou 3 modelos Fugir do barulho do trânsito ou do ronco alheio parece missão impossível, mas o bom e velho tampão de ouvido promete dar conta do recado. A questão é: qual escolher sem jogar dinheiro fora ou ficar com a orelha doendo? Nem todo modelo funciona da mesma forma e alguns incomodam bem mais d",
-    "link": "https://g1.globo.com/guia/guia-de-compras/lazer/protetor-de-ouvido-para-dormir-g1-testou-3-modelos-para-abafar-o-barulho-e-ter-uma-noite-de-sono-em-paz.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nYX1faCC6HWKkW4D-xsy2zznJdo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/7/NJzMuVRKiRJ2vbadm46g/20261110-094355.jpg",
-    "data": "2026-11-11T05:00:01.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
@@ -232,15 +295,6 @@
     "link": "https://www.nytimes.com/2026/11/10/us/politics/doj-linkedin-data-reporters-trump.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-leak-lkzf/10dc-leak-lkzf-mediumSquareAt3X.jpg",
     "data": "2026-11-11T04:00:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Section 219: the future of US-Israeli defence partnership",
-    "resumo": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T03:48:58.000Z"
   },
   {
     "categoria": "Canadá",
@@ -288,24 +342,6 @@
     "data": "2026-11-11T03:26:42.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-    "resumo": "Kennedy dynasty has filed a motion to stop Trump&#039;s arch from obscuring JFK Eternal Flame and family gravesites.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T03:21:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran opens training camp for women in readiness for war",
-    "resumo": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T03:21:32.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Republicans Turn Back Effort to Impeach Hegseth",
@@ -313,15 +349,6 @@
     "link": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
     "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hfo-hegseth-impeach-pqlg/10dc-hfo-hegseth-impeach-pqlg-mediumSquareAt3X.jpg",
     "data": "2026-11-11T03:08:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "El Salvador fires missiles on Haitian gang hideout",
-    "resumo": "El Salvador’s military fired rockets at a compound allegedly belonging to the leader of Haiti’s 400 Mawozo gang.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/el-salvador-fires-missiles-on-haitian-gang-hideout?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T03:00:23.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -493,15 +520,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
     "data": "2026-11-11T00:16:44.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
-    "resumo": "As he braces for Democrats to assume legislative control in Washington, President Trump has sought to take back center stage with some discordant maneuvers.",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-ASSESS-pwbk/10DC-ASSESS-pwbk-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T00:16:01.000Z"
   },
   {
     "categoria": "Economia",
@@ -830,7 +848,7 @@
   {
     "categoria": "Opinião",
     "fonte": "The Guardian",
-    "titulo": "Firing a manager is often more about maintaining the illusion of control",
+    "titulo": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
     "resumo": "<p>In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic</p><p>He just had to go.</p><p>His position had become untenable.</p><p><em>Leander Schaerlaeckens is the author of The Long Game: U.S. Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts,",
     "link": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
     "imagem": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc",
@@ -1224,15 +1242,6 @@
     "data": "2026-11-10T12:00:52.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
-    "resumo": "<p>However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround premature</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates\">Cop31 live – latest updates</a></p></li></ul><p>Soaring <a href=\"h",
-    "link": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
-    "imagem": "https://i.guim.co.uk/img/media/e5df2d5549bcfb88535b1f30373fa92ed4ea9333/1312_1119_3601_2881/master/3601.jpg?width=140&quality=85&auto=format&fit=max&s=1058dbf8270bc78c5d0ec940bcce991e",
-    "data": "2026-11-10T11:55:06.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "We have a new shadow president – and he can play Trump like a fiddle | Arwa Mahdawi",
@@ -1294,15 +1303,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
     "data": "2026-11-10T08:23:21.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Liberals like Messi but authoritarians prefer Ronaldo: how politics shapes sporting choices | Sean Ingle",
-    "resumo": "<p>Sport has long been regarded as great unifier but there is evidence that this era of hyper-partisanship may change that</p><p>Over the weekend, President Trump floated his latest wild idea: that the man behind the Ultimate Fighting Championship and Power Slap, the ethically dubious “sport” where competitors take turns smacking each oth",
-    "link": "https://www.theguardian.com/sport/2026/nov/10/how-politics-shapes-sporting-choices-messi-ronaldo-trump",
-    "imagem": "https://i.guim.co.uk/img/media/51d0387f0fa4f4fa12427982e5b0533a383c4769/475_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=06be9a02a5b7a0318d6ae1a5f2c0462e",
-    "data": "2026-11-10T08:00:32.000Z"
   },
   {
     "categoria": "Cultura",
