@@ -1,5 +1,194 @@
 [
   {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+    "resumo": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-12T04:18:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quinta-feira (12) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/H8i7gLrihkUvvmOijlOgFvos1VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Z/AIZuBQTPChvaNrsWgh2g/previsao-tempo-bras-lia-20261112-011514.jpeg",
+    "data": "2026-11-12T04:15:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quinta-feira (12) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3vlAmsbczga_4f8uHdFN-XQo-Kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/j0CCLMS2m7Gf2EAu6e1w/previsao-tempo-goi-nia-20261112-011458.jpeg",
+    "data": "2026-11-12T04:15:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quinta-feira (12) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XkFEEOfeAKa53G9VsFEKh4RfYYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/a/MfkEi0RY27VpGTKoUN3A/previsao-tempo-aparecida-de-goi-nia-20261112-011434.jpeg",
+    "data": "2026-11-12T04:14:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quinta-feira (12) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de c",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IdikN0mBrQBWNT9dhAOqWsdMtxc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/t/q3Hb1FSBOjVaaBvJBLJQ/previsao-tempo-cuiab-20261112-011417.jpeg",
+    "data": "2026-11-12T04:14:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quinta-feira (12) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_UQHOSGdnC7AZEjZmN_iSVJEyDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/N/vLcIRqTFq1L2B6Id1u0A/previsao-tempo-campo-grande-20261112-011400.jpeg",
+    "data": "2026-11-12T04:14:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quinta-feira (12) para Porto Alegre (RS) é de sol com algumas nuvens e chuva passageira durante o dia. À noite o tempo fica firme. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período d",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-e-chuva-passageira-durante-o-dia-a-noite-o-tempo-fica-firme.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fLL6qhDBN9ySpXHsuKRJ4rG_bcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/U/xNAIWeQ9OSdX3RucmDRw/previsao-tempo-porto-alegre-20261112-011337.jpeg",
+    "data": "2026-11-12T04:13:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quinta-feira (12) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cHeHAEL7z9MRgj-uqIE3rPZAdzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/v/joxrOeQM2mnsdBkyG7bw/previsao-tempo-caxias-do-sul-20261112-011321.jpeg",
+    "data": "2026-11-12T04:13:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quinta-feira (12) para Joinville (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tard",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-joinville-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UJYDvh7Xd72m1fKChQK18W5jrhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/kxsdeuQrS7eDkSeQ4q7Q/previsao-tempo-joinville-20261112-011305.jpeg",
+    "data": "2026-11-12T04:13:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quinta-feira (12) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UJbA8UBP43UigooSMj7UBjQRWQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/2qHS5IRqK5n49BlKZCwQ/previsao-tempo-florian-polis-20261112-011249.jpeg",
+    "data": "2026-11-12T04:12:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quinta-feira (12) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6HBZ4MdLr6BILYMY7FgctUZ8dU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/S/BdRMD1TZyjQAsBFOdTVw/previsao-tempo-maring-20261112-011232.jpeg",
+    "data": "2026-11-12T04:12:44.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quinta-feira (12) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JUinwx1EgwGcQNltNvqFwF14_1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/ylDdXSSfKOQS42Ay8iGQ/previsao-tempo-londrina-20261112-011215.jpeg",
+    "data": "2026-11-12T04:12:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quinta-feira (12) para Curitiba (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5e4bHyv9WiIEI0FV9BnY1VCprZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/NUiAi0TCG0BPtwOfbMRA/previsao-tempo-curitiba-20261112-011157.jpeg",
+    "data": "2026-11-12T04:12:09.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Famed ship SS United States sunk off coast of Florida",
+    "resumo": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
+    "data": "2026-11-12T04:03:13.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "resumo": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+    "data": "2026-11-12T04:00:30.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
+    "resumo": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T04:00:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+    "resumo": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T03:50:42.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
+    "resumo": "Mr. Revels took his seat two days after Mississippi was readmitted to the union after the Civil War. Mr. Bruce served just before white leaders ushered in the Jim Crow era.",
+    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T03:42:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+    "resumo": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+    "data": "2026-11-12T03:32:54.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Building collapse in Brooklyn kills two, injures more than a dozen",
+    "resumo": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T03:31:08.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+    "resumo": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T03:13:32.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "World&apos;s fastest ocean liner is sunk to break another record: largest artificial reef",
@@ -16,42 +205,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
     "imagem": "https://i.guim.co.uk/img/media/8fd60b61479519c751873c078dc512af7092ed65/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9c566e41195cc25e767c4ccf33bd91b5",
     "data": "2026-11-12T03:07:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Macaé promove Semana do Doador de Sangue para reforçar estoques",
-    "resumo": "Campanha municipal reforça a importância da solidariedade e busca estabilizar o banco de sangue Arquivo Secom Entre os dias 23 e 28 de novembro, o Serviço Municipal de Hemoterapia, vinculado à Secretaria de Saúde, realiza a Semana do Doador Voluntário de Sangue. A ação tem como foco valorizar os voluntários habituais, conscientizar a soci",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/12/macae-promove-semana-do-doador-de-sangue-para-reforcar-estoques.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nCbasE5OPPxrVXbef8mstvQ31rI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/x/AN2iE0RwyNKVBP01CaDA/foto-1-doacao-de-sangue.jpeg",
-    "data": "2026-11-12T03:05:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Prefeitura e Polícia Civil discutem instalação de câmeras",
-    "resumo": "O encontro teve como objetivo alinhar estratégias e fortalecer a integração Divulgação O secretário de Guarda, Trânsito e Ordem Pública de Rio das Ostras, Carlos Menegasi e o delegado da 128ª Delegacia de Polícia (128ª DP), Luis Armond, se reuniram para discutir a instalação de um sistema de câmeras de monitoramento no Município. A reuniã",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/12/prefeitura-e-policia-civil-discutem-instalacao-de-cameras.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pNW3qBV_0JINjoRCWqr1is8BsCk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/p/FNNs8hTaiL39jAK4y91Q/reuniao-de-fiscalizacao-com-mapas-e-plantas.png",
-    "data": "2026-11-12T03:04:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Antecipar os acabamentos pode deixar as próximas etapas da obra mais organizadas",
-    "resumo": "Em uma obra, alguns produtos podem esperar. Outros precisam estar definidos antes que a próxima etapa comece. Piso, revestimento, louça e metal fazem parte desse segundo grupo porque dependem de metragem, medidas, instalação e, muitas vezes, da compatibilidade com outros itens já escolhidos. Em novembro, período de maior movimento comerci",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/12/antecipar-os-acabamentos-pode-deixar-as-proximas-etapas-da-obra-mais-organizadas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qNQLb792NW7XPPeLzM9STzNb4tQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/e/v9Zbf2RieWI04BJNB33Q/foto-01.png",
-    "data": "2026-11-12T03:02:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vestibular Unesp 2027 divulga locais de prova da 1ª fase nesta quinta; saiba como consultar",
-    "resumo": "Vai prestar vestibular? Veja como encarar a maratona de provas em novembro sem surtar Freepik A Universidade Estadual Paulista (Unesp) divulga, a partir das 10h desta quinta-feira (12), a consulta aos locais de prova do vestibular 2027. Os candidatos devem verificar o endereço de exame diretamente na página da Fundação Vunesp, responsável",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/12/vestibular-unesp-2027-divulga-locais-de-prova-da-1a-fase-nesta-quinta-saiba-como-consultar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RZBHV3T31EpT2kpicxKg7qh6CLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/B/M7x7giQuWeFgFfmON6Dw/boy-studying-university-library.jpg",
-    "data": "2026-11-12T03:01:15.000Z"
   },
   {
     "categoria": "Clima",
@@ -72,78 +225,6 @@
     "data": "2026-11-12T03:00:06.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem morre após abordagem da PM em MG: o que se sabe e o que falta esclarecer",
-    "resumo": "Homem morre após abordagem da PM em MG; vídeo mostra policial jogando spray de pimenta den A morte de Maurício Pereira dos Santos, de 26 anos, após uma abordagem da Polícia Militar em Corinto, na região Central de Minas Gerais, é investigada pela Polícia Civil. O caso ocorreu na sexta-feira (6) e ganhou repercussão após a divulgação de um",
-    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/12/homem-morre-apos-abordagem-da-pm-em-mg-o-que-se-sabe-e-o-que-falta-esclarecer.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-RHnkmuheZ1P77SfWoNvzEYe24g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/H/oJ4A96RQG1ymJZBZrLuA/1200x675.png",
-    "data": "2026-11-12T03:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Maioria da população, mulheres comandam só 13% das cidades brasileiras",
-    "resumo": "Maioria da população, as mulheres comandam 13,4% das prefeituras brasileiras. Apenas 749 dos mais de 5,5 mil municípios têm uma prefeita. Nessas cidades, vivem 22,2 milhões de pessoas, o equivalente a 10,4% da população do país. Os dados são da pesquisa MUNIC 2025, divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) nes",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/maioria-da-populacao-mulheres-comandam-so-13percent-das-cidades-brasileiras.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8-leIrJ-FexMFknJ6jPriieAG-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/O/k2hF0QS8Kp30P2sAQJMg/261111-mapa-mulheres-governam-apenas-13-dos-municipios-brasileiros.jpg",
-    "data": "2026-11-12T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Apenas 7% das cidades do país não relataram eventos climáticos extremos em 4 anos, aponta IBGE",
-    "resumo": "Apenas 385 dos 5.571 municípios brasileiros (7% do total) informaram não ter registrado nenhum evento climático extremo entre 2021 e 2024. O dado é da Pesquisa de Informações Básicas Municipais (MUNIC 2025), do IBGE, que perguntou às prefeituras sobre secas, alagamentos, enchentes, enxurradas, deslizamentos e queimadas. LISTA: clique aqui",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/12/apenas-7percent-das-cidades-do-pais-nao-relataram-eventos-climaticos-extremos-em-4-anos-aponta-ibge.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YcA2QWJVx2E4zIdzBbwoO0BcPfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/G/GCEkDqTEailiXVDbExZg/261111-mapa-cidades-que-nao-foram-atingidas-por-eventos-climaticos-em-4-anos.jpg",
-    "data": "2026-11-12T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de até R$ 60 bi",
-    "resumo": "Governo envia ao Senado projeto com medidas de ajuste fiscal que prevê economia de até R$ 60 bilhões em 2027 Jornal Nacional/ Reprodução O Senado deve votar nesta quinta-feira (12) o Projeto de Lei Complementar (PLP) com as medidas de ajuste das contas públicas propostas pelo governo do presidente Luiz Inácio Lula da Silva (PT). Segundo o",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg",
-    "data": "2026-11-12T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia investiga o que causou acidente em Copacabana; carro invadiu calçada, parou em loja e 6 ficaram feridos",
-    "resumo": "Carro desgovernador invade loja e deixa feridos em Copacabana A Polícia Civil investiga o que causou o acidente que deixou seis feridos no início da noite desta quarta-feira (11) em Copacabana, depois que um carro invadiu uma calçada. Uma das hipóteses investigadas é que a idosa de 80 anos que dirigia o carro confundiu pedais e apertou o ",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/12/policia-investiga-o-que-causou-acidente-em-copacabana-carro-invadiu-calcada-parou-em-loja-e-6-ficaram-feridos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XX-DqcBrEHkEAfSTHbqi8LXeXhw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/k/MYmL4EQpiHhHDK2lNKTw/acidenteframe.jpg",
-    "data": "2026-11-12T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Governo busca apoio de empresas para destravar projeto que trata da regulação econômica das big techs",
-    "resumo": "cO governo do presidente Luiz Inácio Lula da Silva (PT) definiu como uma das prioridades a aprovação pelo Congresso Nacional até o fim do ano o projeto de lei que trata da regulação econômica das big techs e da concorrência dos mercados digitais. Técnicos da Secretaria de Comunicação Social (Secom), do Ministério da Justiça, do Ministério",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/governo-busca-apoio-de-empresas-para-destravar-projeto-que-trata-da-regulacao-economica-das-big-techs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tqDdIMd7wFo5DTXkxSzZMLRMYsQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/e/NeUAnNR5AebDAtb1tTCg/thumbnail-image001.png",
-    "data": "2026-11-12T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump",
-    "resumo": "Agente do ICE aponta arma para mulher nos EUA Reprodução As operações de fiscalização migratória e prisão de imigrantes continuam nos Estados Unidos, apesar de o presidente Donald Trump ter sinalizado uma possível mudança de tom após a derrota dos republicanos nas eleições de meio de mandato. Em diferentes regiões do país, agentes federai",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/prisoes-de-imigrantes-continuam-nos-eua-apos-derrota-republicana-nas-midterms-apesar-de-criticas-de-trump.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9gRtKJnaS1MQNQ3QAK8Q-kvaEZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/s/rwICQoQ2qv2HYdZ8AHMw/fotojet-2026-08-13t100322.416.jpg",
-    "data": "2026-11-12T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Calor volta ao Sul e Sudeste, com máximas acima dos 30°C; temporais também ganham força",
-    "resumo": "No Sudeste, a chuva deve voltar a ganhar força nesta quinta-feira, especialmente em São Paulo e Minas Gerais. J Souza/Ato press/Estadão Conteúdo O calor volta a ganhar força nesta quinta-feira (12), com temperaturas acima dos 30°C em áreas do Sul e Sudeste. Há previsão de chuva forte, raios e rajadas de vento nessas regiões e no Centro-Oe",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/12/calor-volta-ao-sul-e-sudeste-temporais-tambem-ganham-forca.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HGOTz8_64JZtTU0ICPbtQYVzhR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/P/7oglFvRhqjKBRhfutdJw/ato20251117059.jpg",
-    "data": "2026-11-12T03:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Australian teen missing in bush for six days rescued alive",
@@ -155,8 +236,8 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "New York building collapse kills one person and injures 12",
-    "resumo": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+    "titulo": "Survivor pulled from rubble of deadly building collapse in New York",
+    "resumo": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
     "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
     "data": "2026-11-12T02:33:12.000Z"
@@ -169,15 +250,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T02:22:48.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-    "resumo": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
-    "data": "2026-11-12T02:09:08.000Z"
   },
   {
     "categoria": "Internacional",
@@ -360,42 +432,6 @@
     "data": "2026-11-12T00:40:04.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why the US, Mexico and Guatemala may lose their measles-free status",
-    "resumo": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T00:33:44.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
-    "resumo": "Mr. Revels took his seat two days after Mississippi was readmitted to the union after the Civil War. Mr. Bruce served just before white leaders ushered in the Jim Crow era.",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T00:33:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Cameroon: Who is really calling the shots?",
-    "resumo": "Biya’s absences raise questions about who holds power and what comes next in Cameroon.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T00:29:33.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-    "resumo": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T00:18:46.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Hyde-Smith Concedes to Colom: ‘I Respect the Decision of Mississippi Voters’",
@@ -412,15 +448,6 @@
     "link": "https://www.nytimes.com/2026/11/11/us/elections/colom-mississippi-senate-democrats.html",
     "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-senate-powerbalance1-bwvc/11midterms-senate-powerbalance1-bwvc-mediumSquareAt3X.jpg",
     "data": "2026-11-12T00:10:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US election results could be positive for Lebanon, Hezbollah chief says",
-    "resumo": "Naim Qassem says Republican losses and Israel&#039;s election result could help Lebanon maintain sovereignty.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T00:06:50.000Z"
   },
   {
     "categoria": "Brasil",
@@ -479,7 +506,7 @@
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Some under-25s should get less benefits, Milburn review to say",
+    "titulo": "Some under-25s should get fewer benefits, Milburn review to say",
     "resumo": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
     "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
@@ -772,15 +799,6 @@
     "link": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
     "imagem": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=bc5e48c720140cea1035e0b541a65fb0",
     "data": "2026-11-11T18:43:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Famed ship SS United States to be sunk off coast of Florida",
-    "resumo": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
-    "data": "2026-11-11T18:42:27.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1125,15 +1143,6 @@
     "data": "2026-11-11T13:30:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-    "resumo": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-11T13:24:29.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "The mystery of how hair knows where to grow may finally be solved",
@@ -1231,15 +1240,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-11T07:52:05.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    "resumo": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-11T07:44:24.000Z"
   },
   {
     "categoria": "Opinião",
