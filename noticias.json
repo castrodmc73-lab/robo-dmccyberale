@@ -1,5 +1,176 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "New York building collapse kills at least two, officials say",
+    "resumo": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c33/live/96352aa0-de51-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-12T05:12:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+    "resumo": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+    "data": "2026-11-12T05:06:27.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "More than 300 migrants rescued off Spain’s Canary Islands",
+    "resumo": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T05:04:25.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
+    "resumo": "<p>Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’. His freedom would mark a new political era</p><p>A decade and a half ago, a promising figure emerged on Turkey’s political scene: Selahattin Demirtaş. A tall, talented, human rights lawyer then still in his 30s, a founder of Amnesty’s Di",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
+    "imagem": "https://i.guim.co.uk/img/media/9ba5d77a81961d6bbb2b150afadd866fc69a631c/622_134_2230_1784/master/2230.jpg?width=140&quality=85&auto=format&fit=max&s=fdd59a47e4742c3eaf8264b0569af3ad",
+    "data": "2026-11-12T05:00:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Caseiro morto por dentista trabalhava há anos para família do suspeito, que tinha passagens pela polícia; veja perfil",
+    "resumo": "Renan Venturini e Marcos Tadeu Fioravante durante aniversário de Marcos Arquivo pessoal O cirurgião-dentista Renan Venturini, preso em flagrante pelo assassinato de um caseiro em Piracicaba (SP), atuava em uma clínica no bairro Paulista e tem passagem pela polícia por ameaça, lesão corporal e violência doméstica. Além disso, o histórico j",
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/12/caseiro-morto-por-dentista-trabalhava-ha-anos-para-familia-do-suspeito-que-tinha-passagens-pela-policia-veja-perfil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/X5YAdp5H07R09htSDQnwPZMroz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/v/N3hD87TsuADBUC77kyAw/dentista-mata-caseiro.png",
+    "data": "2026-11-12T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Qual conselho um dente do siso te daria': redações de universidades dos EUA são mais fáceis do que as do Enem?",
+    "resumo": "Temas de redações para ingresso em faculdades americanas são comparados com temas do Enem. Reprodução Qual conselho um dente do siso te daria? Pode parecer uma pergunta que beira o absurdo ou que faria parte de uma grande brincadeira de imaginação. Mas essa foi uma das propostas de redação para ingresso na Universidade de Chicago, em 2022",
+    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/12/qual-conselho-um-dente-do-siso-te-daria-redacoes-de-universidades-dos-eua-sao-mais-faceis-do-que-as-do-enem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1W3R5Vd-bfN5iCkplkdglT-19Dw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/1/5LeFGcS3ehhstBZJIZ3g/edicao-imagens-g1-7-.jpg",
+    "data": "2026-11-12T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casa Branca diz que investigar governo Trump pode ser crime e ameaça democratas",
+    "resumo": "Donald Trump REUTERS/Evan Vucci A Casa Branca advertiu o deputado democrata Robert Garcia, que deve assumir a presidência do Comitê de Supervisão da Câmara dos Representantes dos Estados Unidos, que investigações contra o governo de Donald Trump podem ser consideradas criminosas e até se tornar alvo de apurações. 📱Favorite o g1 no Google",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_ySC3AJPAaBv7HIHuZ7ifRv55FA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/U6aRy9SYK029x6BuqWvQ/2026-11-04t181903z-2063892830-rc25hoadtk1m-rtrmadp-3-usa-trump.jpg",
+    "data": "2026-11-12T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quem era o homem que morreu após abordagem da PM em MG",
+    "resumo": "Homem morre após ser atingido por spray de pimenta e trancado em viatura Maurício Pereira dos Santos, de 26 anos, trabalhava em fazendas, era pai de duas crianças e vivia com a companheira em Corinto, na região Central de Minas Gerais. Ele morreu na sexta-feira (6), após uma abordagem da Polícia Militar. O caso ganhou repercussão depois q",
+    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/12/quem-era-o-homem-que-morreu-apos-abordagem-da-pm-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-RHnkmuheZ1P77SfWoNvzEYe24g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/H/oJ4A96RQG1ymJZBZrLuA/1200x675.png",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Diretor vencedor de dois Oscars fala dos efeitos da ficção sobre a realidade em seu novo filme: 'Como fake news'",
+    "resumo": "O cineasta iraniano Asghar Farhadi, vencedor de dois Oscars de Melhor Filme Internacional por \"A Separação\" (2011) e \"O Apartamento (2016)\", discute os limites entre realidade e ficção em seu novo filme, \"Contos Paralelos\". Esse é o seu primeiro longa-metragem em cinco anos, que chega aos cinemas em 12 de novembro, após ser exibido em fes",
+    "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/12/diretor-vencedor-de-dois-oscars-fala-dos-efeitos-da-ficcao-sobre-a-realidade-em-seu-novo-filme-como-fake-news.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CV6J8VJUNFhacD4mmPsLPpjxTuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/rK3u5hREKqx88PxsWitg/parallel-f02cor-2026117533.jpg",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Preso do semiaberto agride funcionário e foge durante trabalho externo no DF; vítima teve fraturas no rosto",
+    "resumo": "Mayco de Carvalho Silva é suspeito da agressão. Ele cumpria pena no regime semiaberto e trabalhava no local por meio de programa voltado à reinserção de pessoas privadas de liberdade. Seape/Divulgação Um detento do regime semiaberto que trabalhava na Administração Regional do Plano Piloto é suspeito de agredir um funcionário com socos no ",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/12/preso-do-semiaberto-agride-funcionario-e-foge-durante-trabalho-externo-no-df-vitima-teve-fraturas-no-rosto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C1vbbUUvmORlNHgWX5XrHQxHUuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/e/pQE7ngSaqopnvuQQBXqA/imagem-g1-2026-11-11t173457.036.png",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Eixão com velocidade menor, semáforos e passagens seguras: veja detalhes da decisão no DF",
+    "resumo": "Acidente deixa feridos e interdita vias no Eixão Sul, em Brasília, em imagem de abril TV Globo A Justiça do Distrito Federal determinou nesta quarta-feira (11) que a velocidade máxima no Eixão, no centro de Brasília, seja reduzida para 60 km/h. Hoje, o limite é de 80 km/h em quase toda a via – com exceção de trechos próximos a alguns aces",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/12/eixao-com-velocidade-menor-semaforos-e-passagens-seguras-veja-detalhes-da-decisao-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C9VxXfFYt_sSgtAigaY2Ug_fcpI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/s/tjFdFgSQuKW7wYZwdNAA/a1130-df1-ge-limpo-16042026-frame-35613.jpeg",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Apenas um município de Pernambuco tem política de educação antirracista consolidada nas escolas, diz TCE",
+    "resumo": "Apenas um município de PE tem política de educação antirracista consolidada nas escolas Dos 184 municípios pernambucanos, apenas Lagoa dos Gatos, no Agreste do estado, mantém uma política consolidada de educação antirracista nas escolas da rede pública. Segundo dados levantados pelo Tribunal de Contas do Estado (TCE), 63 cidades se encont",
+    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/12/apenas-um-municipio-de-pernambuco-tem-politica-de-educacao-antirracista-consolidada-nas-escolas-diz-tce.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vKW0ckcD123vP6Jgml0qr2k1g80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/X/HTdRCxQGyAH4TEKFyVSw/captura-de-tela-2026-11-05-100517.png",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Regra de três no Enem: veja dicas, macetes e saiba quando NÃO usar a fórmula",
+    "resumo": "Enem 2026: capas das provas trazem versos de 'Maria, Maria', de Milton Nascimento A regra de três é um dos assuntos mais conhecidos — e também um dos mais comentados — entre os estudantes que se preparam para segundo dia do Exame Nacional do Ensino Médio (Enem) 2026, que acontece no domingo (15). Nas redes sociais, muitos candidatos brinc",
+    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/12/regra-de-tres-no-enem-veja-dicas-macetes-e-quando-nao-usar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bzusOAKIw-u86TKmlIziJxl_Mu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/W/nrSPBzQEiyHoSEOMhnJQ/midia-de-distribuicao-g1-36-.jpg",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Busca por um novo diploma: especialista explica por que cada vez mais profissionais voltam à faculdade",
+    "resumo": "Novo diploma: por que cada vez mais profissionais voltam à faculdade Escolher uma profissão aos 17 ou 18 anos nem sempre significa seguir o mesmo caminho pelo resto da vida. Com o passar dos anos, novas experiências, mudanças de interesse e sonhos deixados de lado acabam levando muitos profissionais de volta à universidade. Seja para muda",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/12/diploma-profissionais-voltam-a-faculdade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/16gS_S9QeTcPjUEq2FvqNe6poB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/A/GTu5wvSyOKo813nE7hkA/sala-de-aula-2.jpg",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Corte internacional julga Brasil por suposta violação de direitos humanos após veto a cirurgia de mudança de sexo",
+    "resumo": "Composição atual da Corte IDH, que irá julgar o Estado brasileiro por supostas violações de direitos contra uma mulher trans que teve cirurgia de mudança de sexo negada pelo HC da Unicamp Reprodução/Corte IDH A Corte Interamericana de Direitos Humanos (Corte IDH) realiza nos dias 19 e 20 de novembro a audiência em que o Brasil será julgad",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/12/corte-internacional-julga-brasil-por-suposta-violacao-de-direitos-humanos-apos-veto-a-cirurgia-de-mudanca-de-sexo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fds6JmWFFqNLRkY7mXgXZrOvTak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/j/BrJey9QZGxNn8kZFfn3Q/design-sem-nome-2026-11-11t193726.633.jpg",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Qual é o risco de doença grave nos olhos por uso de Ozempic e Mounjaro que gerou alerta de agência dos EUA",
+    "resumo": "ozempic Getty Images/BBC A FDA, agência reguladora de medicamentos dos Estados Unidos, determinou que os fabricantes de canetas para perda de peso da classe dos agonistas de GLP-1 devem incluir em suas bulas alertas sobre aumento de risco de uma condição ocular grave associada ao uso dos medicamentos. Os fabricantes de Ozempic, Wegovy, Mo",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/12/qual-e-o-risco-de-doenca-grave-nos-olhos-por-uso-de-ozempic-e-mounjaro-que-gerou-alerta-de-agencia-dos-eua.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2jVTnH1ZQLXekp5vpnjxUPzWBxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/q/CTl5RoT7uXnVNYSWyTDw/imagem-cortada-50-.jpg",
+    "data": "2026-11-12T05:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+    "resumo": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T04:41:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Bolivia arrests former judge on suspicion of drug trafficking",
+    "resumo": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T04:40:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
+    "resumo": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T04:19:55.000Z"
+  },
+  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
@@ -9,112 +180,13 @@
     "data": "2026-11-12T04:18:33.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quinta-feira (12) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
-    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/H8i7gLrihkUvvmOijlOgFvos1VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Z/AIZuBQTPChvaNrsWgh2g/previsao-tempo-bras-lia-20261112-011514.jpeg",
-    "data": "2026-11-12T04:15:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quinta-feira (12) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3vlAmsbczga_4f8uHdFN-XQo-Kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/j0CCLMS2m7Gf2EAu6e1w/previsao-tempo-goi-nia-20261112-011458.jpeg",
-    "data": "2026-11-12T04:15:08.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quinta-feira (12) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XkFEEOfeAKa53G9VsFEKh4RfYYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/a/MfkEi0RY27VpGTKoUN3A/previsao-tempo-aparecida-de-goi-nia-20261112-011434.jpeg",
-    "data": "2026-11-12T04:14:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quinta-feira (12) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de c",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IdikN0mBrQBWNT9dhAOqWsdMtxc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/t/q3Hb1FSBOjVaaBvJBLJQ/previsao-tempo-cuiab-20261112-011417.jpeg",
-    "data": "2026-11-12T04:14:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quinta-feira (12) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_UQHOSGdnC7AZEjZmN_iSVJEyDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/N/vLcIRqTFq1L2B6Id1u0A/previsao-tempo-campo-grande-20261112-011400.jpeg",
-    "data": "2026-11-12T04:14:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quinta-feira (12) para Porto Alegre (RS) é de sol com algumas nuvens e chuva passageira durante o dia. À noite o tempo fica firme. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período d",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-e-chuva-passageira-durante-o-dia-a-noite-o-tempo-fica-firme.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/fLL6qhDBN9ySpXHsuKRJ4rG_bcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/U/xNAIWeQ9OSdX3RucmDRw/previsao-tempo-porto-alegre-20261112-011337.jpeg",
-    "data": "2026-11-12T04:13:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quinta-feira (12) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/cHeHAEL7z9MRgj-uqIE3rPZAdzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/v/joxrOeQM2mnsdBkyG7bw/previsao-tempo-caxias-do-sul-20261112-011321.jpeg",
-    "data": "2026-11-12T04:13:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quinta-feira (12) para Joinville (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tard",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-joinville-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UJYDvh7Xd72m1fKChQK18W5jrhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/kxsdeuQrS7eDkSeQ4q7Q/previsao-tempo-joinville-20261112-011305.jpeg",
-    "data": "2026-11-12T04:13:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quinta-feira (12) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UJbA8UBP43UigooSMj7UBjQRWQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/2qHS5IRqK5n49BlKZCwQ/previsao-tempo-florian-polis-20261112-011249.jpeg",
-    "data": "2026-11-12T04:12:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quinta-feira (12) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6HBZ4MdLr6BILYMY7FgctUZ8dU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/S/BdRMD1TZyjQAsBFOdTVw/previsao-tempo-maring-20261112-011232.jpeg",
-    "data": "2026-11-12T04:12:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quinta-feira (12) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JUinwx1EgwGcQNltNvqFwF14_1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/7/ylDdXSSfKOQS42Ay8iGQ/previsao-tempo-londrina-20261112-011215.jpeg",
-    "data": "2026-11-12T04:12:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quinta-feira (12) para Curitiba (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/12/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5e4bHyv9WiIEI0FV9BnY1VCprZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/NUiAi0TCG0BPtwOfbMRA/previsao-tempo-curitiba-20261112-011157.jpeg",
-    "data": "2026-11-12T04:12:09.000Z"
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "A massive new simulation reveals how the universe emerged from darkness",
+    "resumo": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations co",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+    "imagem": null,
+    "data": "2026-11-12T04:07:24.000Z"
   },
   {
     "categoria": "Internacional",
@@ -160,15 +232,6 @@
     "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
     "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
     "data": "2026-11-12T03:42:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-    "resumo": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-    "data": "2026-11-12T03:32:54.000Z"
   },
   {
     "categoria": "Internacional",
@@ -235,15 +298,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Survivor pulled from rubble of deadly building collapse in New York",
-    "resumo": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
-    "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
-    "data": "2026-11-12T02:33:12.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Indonesian VP resigns over education qualification row",
     "resumo": "Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
@@ -288,6 +342,15 @@
     "data": "2026-11-12T01:50:36.000Z"
   },
   {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+    "resumo": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geo",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+    "imagem": null,
+    "data": "2026-11-12T01:45:09.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "A viral ad and a Trump rally visit helped Colom compete in Mississippi.",
@@ -324,15 +387,6 @@
     "data": "2026-11-12T01:25:58.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Israel strikes intensive care at Gaza’s Nasser Hospital",
-    "resumo": "Gaza&#039;s Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T01:20:55.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Colom’s win fuels Democratic hopes for next year’s race for governor.",
@@ -358,15 +412,6 @@
     "link": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/bc0e07d8-d4d4-4770-8bb2-483f9f3f7176,1794443832717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
     "data": "2026-11-12T01:14:10.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Former Italian Red Brigades member escapes house arrest in Argentina",
-    "resumo": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T01:04:28.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -403,24 +448,6 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/c3fe644b-bbb9-43bf-94bd-6dc78c61c7c5,1794443225536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1603%2C4284%2C2409%29%3B",
     "data": "2026-11-12T00:47:39.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-    "resumo": "Chip giant&#039;s stock price falls more than 8 percent amid speculation over co-founder&#039;s position.",
-    "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T00:43:26.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-    "resumo": "Guard at memorial site can be heard yelling at group to &#039;maintain an atmosphere of silence and respect at all times&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T00:42:37.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -466,6 +493,15 @@
     "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg",
     "data": "2026-11-12T00:05:40.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Scientists discover that necks didn&#039;t evolve for the reason we thought",
+    "resumo": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals turn their heads, necks may have emerged as part of the anatomical changes that allowed them to move using their front li",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
+    "imagem": null,
+    "data": "2026-11-11T23:49:03.000Z"
   },
   {
     "categoria": "Brasil",
@@ -1098,15 +1134,6 @@
     "data": "2026-11-11T14:56:11.000Z"
   },
   {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Why did it take so long to unmask Brand and Walliams? Because noughties culture told girls like me abuse was normal | Rhiannon Lucy Cosslett",
-    "resumo": "<p>As a survivor of the era, I welcome this reckoning – and I salute the women who were brave enough to bring it about</p><p>Mr Justice Bennathan’s sentencing remarks in the trial of <a href=\"https://www.theguardian.com/news/2026/nov/09/russell-brand-victims-impact-statements\">Russell Brand</a> hit me like a train, and I know I’m not the ",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/russell-brand-david-walliams-noughties-culture-girls-women",
-    "imagem": "https://i.guim.co.uk/img/media/e335d00880e417da803d99d3629f8311025e56fb/180_0_2639_2111/master/2639.jpg?width=140&quality=85&auto=format&fit=max&s=0f73cd57d2738f712a3b56791faef863",
-    "data": "2026-11-11T14:55:39.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Following big Democratic wins, these swing voters are looking for results",
@@ -1321,32 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-10T22:52:15.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Trump’s FCC nominee avoids questions from Democrats on Carr’s ‘censorship agenda’",
-    "resumo": "<p>Senators pressured Danielle Thumann, senior counsel to FCC chair Brendan Carr, to speak about agency’s actions toward ABC and Jimmy Kimmel</p><p>During a contentious Tuesday hearing on her nomination by Donald Trump to serve as a Federal Communications Commission (FCC) commissioner, Senate Democrats hammered Danielle Thumann about rece",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-fcc-nominee-danielle-thumann",
-    "imagem": "https://i.guim.co.uk/img/media/a2cb32ecf19a365e2b32c21c195ec235f179c9bf/229_225_3798_3039/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=c9683037cc3d96c190f4b996f0479e64",
-    "data": "2026-11-10T19:19:46.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
-    "resumo": "<p>In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic</p><p>He just had to go.</p><p>His position had become untenable.</p><p><em>Leander Schaerlaeckens is the author of The Long Game: U.S. Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts,",
-    "link": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
-    "imagem": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&quality=85&auto=format&fit=max&s=472682f084253969868dfa7463a1c7bc",
-    "data": "2026-11-10T19:03:04.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-    "resumo": "<p>Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute</p><p>The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal.</p><p>Ellie Re",
-    "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-    "imagem": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=140&quality=85&auto=format&fit=max&s=35f0b486f371c4981f8f6f278cadd89d",
-    "data": "2026-11-10T19:01:33.000Z"
   }
 ]
