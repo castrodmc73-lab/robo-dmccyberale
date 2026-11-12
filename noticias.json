@@ -1,5 +1,329 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "New York building collapse kills at least two, officials say",
+    "resumo": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
+    "data": "2026-11-12T10:40:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T10:39:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+    "resumo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+    "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T10:39:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+    "resumo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T10:39:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+    "resumo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T10:38:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Foto da Chapada dos Veadeiros sob a Via Láctea vence prêmio mundial",
+    "resumo": "Foto da Chapada dos Veadeiros vence prêmio mundial A Via Láctea, um morro e dezenas de chuveirinhos iluminados em uma noite na Chapada dos Veadeiros, em Goiás. Este é enquadramento da fotografia tirada pelo brasiliense Marcio Cabral, que venceu o Grande Prêmio Global do 17º Greenstorm Photography Festival. A obra é intitulada 'Pandora' e ",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/12/foto-da-chapada-dos-veadeiros-vence-premio-mundial.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/123He8lCwKGbeuEp7aBTxhkuWdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/J/kgJkNQS9GA3qRVFBgQAw/padrao-foto-texto-g1-2026-11-12t071603.270.jpg",
+    "data": "2026-11-12T10:38:10.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Who could replace Jensen Huang as Nvidia's chief executive?",
+    "resumo": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-12T10:37:00.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "UK economy grows at fastest rate for more than two years",
+    "resumo": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
+    "data": "2026-11-12T10:35:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Passageiros quebram janelas e caminham pelos trilhos após trem da Linha 8-Diamante apresentar falha na Grande SP",
+    "resumo": "Trem da Linha 8-Diamante apresenta falha entre as estações General Miguel Costa e Carapicuíba, na Grande SP, nesta quinta-feira (12). Herminio Bernardo/TV Globo Passageiros de um trem da Linha 8-Diamante, operada pela Motiva (antiga ViaMobilidade), precisaram desembarcar pelas portas e janelas da composição e caminhar pelos trilhos após u",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/12/trem-da-linha-8-diamante-apresenta-falha-entre-as-estacoes-general-miguel-costa-e-carapicuiba-e-passageiros-andam-pelos-trilhos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/E9BuTKMcTOqNvr_EC8Er0Pz7Yh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/9/GHQahqQjq9FASfVmdClQ/whatsapp-image-2026-11-12-at-07.24.45.jpeg",
+    "data": "2026-11-12T10:34:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é assassinado a tiros em rua no litoral do Piauí; atiradores fugiram em moto",
+    "resumo": "Quais as diferenças entre o homicídio culposo e doloso? Daniel Costa da Visitação, de 27 anos, foi morto a tiros na noite de quarta-feira (11), na Rua Anhanguera, no Bairro Piauí, em Parnaíba, litoral do Piauí. Segundo a Polícia Militar do Piauí (PMPI), dois homens em uma motocicleta são suspeitos de cometer o crime e fugiram após os disp",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/12/homem-assassinado-litoral-piaui.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/oTPUQkzMgvTXV8EMx6Kzd0hkm5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/6umJLtTUuBwHwJTrZnoQ/edicao-imagens-g1-2026-11-12t073209.437.png",
+    "data": "2026-11-12T10:34:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Parque Estadual Serra da Boa Esperança inaugura duas novas trilhas para visitantes no Sul de Minas",
+    "resumo": "Parque Estadual Serra da Boa Esperança inaugura duas novas trilhas para visitantes no Sul de Minas Gruta do Branquinho / Crédito: IEF / Divulgação O Parque Estadual Serra da Boa Esperança, gerenciado pelo Instituto Estadual de Florestas (IEF) e localizado entre os municípios de Boa Esperança e Ilicínea, no Sul de Minas, inaugurou duas nov",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/12/parque-estadual-serra-da-boa-esperanca-inaugura-duas-novas-trilhas-para-visitantes-no-sul-de-minas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dSiUn0Gor6T23s79LKa-lgcl0oM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/j/f3SpDdTaa9WOCW5ACmqg/trilha.png",
+    "data": "2026-11-12T10:33:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Famílias denunciam furtos e vandalismo em túmulos no cemitério de Cássia, MG",
+    "resumo": "Famílias denunciam furtos e vandalismo em túmulos no cemitério de Cássia, MG Famílias que têm parentes sepultados no cemitério de Cássia (MG) denunciam furtos e atos de vandalismo em túmulos. Segundo coveiros, mais de 20 sepulturas foram alvo de criminosos apenas na madrugada de segunda-feira (9). A Prefeitura de Cássia informou que vai i",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/12/familias-denunciam-furtos-e-vandalismo-em-tumulos-no-cemiterio-de-cassia-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/blj0F4WLSzJWM5mTpUjYuZLw-LA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/T/HnYeGnSzah5PfZCmNheg/cemiteriocassia.png",
+    "data": "2026-11-12T10:33:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Banestes abre concurso com 645 vagas e salários de até R$ 6,3 mil no ES; veja como participar",
+    "resumo": "Agência do Banestes. Espírito Santo Ricardo Medeiros/Rede Gazeta O Banco do Estado do Espírito Santo (Banestes) abriu dois concursos públicos com 645 vagas para formação de cadastro de reserva. As oportunidades são para profissionais de níveis médio e superior, com salários iniciais de até R$ 6.393,38, além de benefícios como auxílio-refe",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/banestes-abre-concurso-com-645-vagas-e-salarios-de-ate-r-63-mil-no-es-veja-como-participar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aUyTs-FK6ZIx94a52ihL2Y2z1vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/C/H4fdfkTpu6L5kz1hY3qw/thumb-fotos-2026-11-05t072206.088.jpg",
+    "data": "2026-11-12T10:32:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vespasiano suspende aulas em todas as escolas municipais por seis dias após casos de sarna",
+    "resumo": "Vespasiano suspende aulas por seis dias após casos de sarna em escolas As aulas da rede municipal de Vespasiano, na Grande BH, serão suspensas até a próxima terça-feira, período de seis dias que inclui o fim de semana, após a confirmação de casos de escabiose, também conhecida como sarna humana, em escolas da cidade. Cinco casos foram reg",
+    "link": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/11/12/vespasiano-suspende-aulas-em-todas-as-escolas-municipais-por-seis-dias-apos-casos-de-sarna.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/b9HusKYIMU0UQ0N37HEwFK6S4HQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/Qm3tYVT6iXym1kjcxYZQ/captura-de-tela-2026-11-12-071145.png",
+    "data": "2026-11-12T10:31:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ex-senador Roberto Rocha é impedido de embarcar após PF identificar arma sem registro no MA",
+    "resumo": "Ex-senador Roberto Rocha é impedido de embarcar após PF identificar arma sem registro O ex-senador Roberto Rocha (PRTB) foi abordado na noite de quarta-feira (11), no Aeroporto Internacional de São Luís, após a identificação de uma arma de fogo sem registro durante o procedimento de embarque para Brasília, segundo a assessoria do ex-parla",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/12/roberto-rocha-impedido-embarcar-arma-sem-registro-aeroporto-sao-luis.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/P3abL3u5GzRRgObjB8KTlVxZZ6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/AFPDvlSnSMJXa6yU6IDg/roberto-rocha.png",
+    "data": "2026-11-12T10:30:19.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
+    "resumo": "At Tougaloo College, supporters danced and wept and over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era.",
+    "link": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-Black-voters-rejoice-hjvw/12pol-Black-voters-rejoice-hjvw-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T10:19:10.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
+    "resumo": "<p>World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day</p><p><strong>Zack Polanski</strong>, leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today programme. Saying he was “not at all reassured” by the prime minister’s words, he d",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
+    "imagem": "https://i.guim.co.uk/img/media/314a310756f9e5747210ab28b8608e38e80fc95f/429_0_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=476eef8b5cbe754c89ac539c8d56e9b3",
+    "data": "2026-11-12T10:17:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "British woman missing from cruise ship in Atlantic",
+    "resumo": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
+    "data": "2026-11-12T10:13:35.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+    "resumo": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg",
+    "data": "2026-11-12T10:08:38.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Why New England’s Republican Governors Withstood the Blue Wave",
+    "resumo": "The low-key approach modeled by Gov. Phil Scott of Vermont and Gov. Kelly Ayotte of New Hampshire may gain new relevance as their party looks to recover from a national drubbing.",
+    "link": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
+    "imagem": null,
+    "data": "2026-11-12T10:02:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+    "resumo": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+    "data": "2026-11-12T10:02:32.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+    "resumo": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T10:02:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Mega-Sena sorteia prêmio de R$ 20 milhões nesta quinta-feira",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-20-milhoes-nesta-quinta-feira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stro",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-20-milhoes-nesta-quinta-feira",
+    "imagem": null,
+    "data": "2026-11-12T10:02:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "How the Legacy of Torture Has Vexed the Quest for 9/11 Justice",
+    "resumo": "From coerced confessions to the creation of an alternative court system, years of U.S. government decisions doomed speedy trial prospects.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/torture-9-11.html",
+    "imagem": "https://static01.nyt.com/images/2026/10/28/multimedia/00dc-torture-bvgz/00dc-torture-bvgz-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T10:00:45.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "San Antonio Fights Plan to Turn Warehouse Into ICE Detention Center",
+    "resumo": "The city’s lawsuit is part of a wave of legal challenges slowing the Trump administration’s effort to build immigration detention centers across the country.",
+    "link": "https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html",
+    "imagem": null,
+    "data": "2026-11-12T10:00:24.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "At least 23 states considered laws governing ICE and schools this year",
+    "resumo": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+    "resumo": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/2000x1328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Trump proposed a &apos;secret weapon&apos; to police colleges. It will soon become reality",
+    "resumo": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6027967",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "How Scott Colom defied the odds to go from district attorney to Mississippi&apos;s Democratic US Senator",
+    "resumo": "In a state that hasn&apos;t had a Democrat in office since 1980 and hasn&apos;t sent a Black Senator to Washington since the 1870s, Colom&apos;s win represents a massive upset in state politics.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5691x3794+0+0/resize/5691x3794!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F25%2F1303b95b4baab6e90f92ff3ca35d%2Fgettyimages-2303031468.jpg",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Senators don&apos;t always share bill text online before votes. They should, advocates say",
+    "resumo": "The text of what lawmakers are considering isn&apos;t always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4533x3023+0+0/resize/4533x3023!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F3f%2Fa146a5c849b3b3a4269fb15cbf1e%2Fgettyimages-2222437745.jpg",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+    "resumo": "The Kennedy Center&apos;s former president Richard Grenell was a paid board member of Ticketmaster&apos;s parent company at the same time the two parties were negotiating.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2400+0+0/resize/3000x2400!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2Ff0%2F260c15a4496fb338884153b1eb75%2Fgettyimages-2219714294.jpg",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Indonesia's vice-president resigns after academic credentials questioned",
+    "resumo": "The Constitutional Court and the Supreme Court ruled last month that the documents Gibran Rakabuming Raka submitted regarding his overseas education didn't meet election requirements.",
+    "link": "https://www.cbc.ca/news/world/indonesia-vice-president-resigns-9.7418723?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c64db74c-c978-460e-bcbf-b377141c0150,1794460330912/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C433%2C8307%2C4672%29%3B",
+    "data": "2026-11-12T09:57:39.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Missing teen found alive after 6 days in the Australian woodlands",
+    "resumo": "A 17-year-old boy with autism was found alive Thursday after six days lost in eastern Australian woodlands.",
+    "link": "https://www.cbc.ca/news/world/missing-teen-found-australia-9.7418731?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/2d673017-a046-48e2-969d-e243f260bfbb,1794471217169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C2057%2C1157%29%3B",
+    "data": "2026-11-12T09:54:54.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+    "resumo": "An Israeli airstrike targeting the Nasser Hospital in southern Gaza killed six people and wounded at least a dozen more, Gaza's Health Ministry said.",
+    "link": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3a840d87-433a-4cb1-a76b-562ca86638af,1794465518816/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C5500%2C3093%29%3B",
+    "data": "2026-11-12T09:53:34.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "resumo": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+    "data": "2026-11-12T09:43:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+    "resumo": "For decades, these bases allowed the US to wage faraway wars. Now, Iran has changed that calculation.",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T09:38:00.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
@@ -9,96 +333,6 @@
     "data": "2026-11-12T09:29:30.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Alerta de bomba na estação de trem de Calais, na França, fecha local e causa atrasos",
-    "resumo": "Alerta de bomba em estação ferroviária do norte da França afeta circulação de trens Um alerta de bomba está em vigor na estação ferroviária de Calais -Frethun, no norte da França, informaram as autoridades locais nesta quarta-feira. O alerta de bomba também está afetando viagens ferroviárias internacionais. O alerta pode ter impacto no tr",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/alerta-de-bomba-na-estacao-de-trem-de-calais-na-franca-fecha-local-e-causa-atrasos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Ip0BYfF5qb7TVhpDKdjzHRyNt5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/lVoNTxTy6GaZ9BlW6XUw/2026-11-11t120257z-60906279-rc2nloae0mmd-rtrmadp-3-europe-security-schools-italy.jpg",
-    "data": "2026-11-12T09:28:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Peixe de 70 kg capturado por pescador no PI é típico da Amazônia e considerado invasor",
-    "resumo": "Pescador captura peixe de 70 kg em lagoas do Rio Parnaíba, em Uruçuí O peixe de 70 kg capturado pelo pescador profissional José Barros da Rocha Filho, de 47 anos, na noite de terça-feira (10), é uma espécie típica da Amazônia, mas considerada invasora na bacia do Rio Parnaíba, no Piauí. Conhecido como pirarucu, o animal pode ultrapassar d",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/12/peixe-capturado-no-pi-amazonia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Yg1xrWxQOmfWbzSuKwmDdb4DrZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/H7CTxZSKmTuQ6zF0NV6w/edicao-imagens-g1-2026-11-11t130952.958.jpg",
-    "data": "2026-11-12T09:25:16.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
-    "resumo": "<p>World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day</p><p><strong>Zack Polanski</strong>, leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today programme. Saying he was “not at all reassured” by the prime minister’s words, he d",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-    "imagem": "https://i.guim.co.uk/img/media/8bb38451c48fb8cbd4f0bd7018619c3fa2b03583/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2f9f8bba3bc3eaf4ff0b5b6c59d4251f",
-    "data": "2026-11-12T09:24:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Deputado estadual Caio Roberto é alvo de operação da PF, na PB",
-    "resumo": "Deputado estadual Caio Roberto é alvo de operação da PF, na PB Reprodução / TV Cabo Branco A Polícia Federal (PF) cumpriu um mandado judicial na residência do deputado estadual Caio Roberto (MDB), nesta quinta-feira (12), durante uma operação realizada na região metropolitana de João Pessoa. O imóvel fica em um condomínio no bairro de Int",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/12/deputado-estadual-caio-roberto-e-alvo-de-operacao-da-pf-na-pb.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/idxUGJvJ5tJbtQT9fD6CbksPgcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/e/3rb5nDSWGdsfKsMLBWIA/captura-de-tela-2026-11-12-062222.jpg",
-    "data": "2026-11-12T09:22:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "AO VIVO: assista à programação da NSC TV",
-    "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
-    "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
-    "imagem": null,
-    "data": "2026-11-12T09:16:57.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ataques da Rússia causam apagão em 9 regiões da Ucrânia",
-    "resumo": "Bombeiros trabalham no local de um prédio de apartamentos danificado após um ataque de drone russo em Kien REUTERS/Gleb Garanich Os ataques realizados pela Rússia durante a madrugada desta quinta-feira (12) causam apagões em nove regiões da Ucrânia, segundo autoridades ucranianas. De acordo com o o vice-ministro da Energia, Artem Nekrasov",
-    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/12/ataques-da-russia-causam-apagao-em-9-regioes-da-ucrania.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qYrvt_NJ-OZkBpa0BC3SPcXbvUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/N/OnSJgVSTO7qX7svL6lsw/2026-11-12t072311z-744820898-rc27moaqcdlz-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
-    "data": "2026-11-12T09:16:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dois homens são mortos a tiros dentro de bar no interior do Ceará",
-    "resumo": "Dois homens são mortos a tiros dentro de bar em Itaiçaba, no interior do Ceará. Internet/ Reprodução Dois homens foram mortos a tiros dentro de um bar no município de Itaiçaba, a 162 quilômetros de distância de Fortaleza, na noite desta terça-feira (10). Segundo testemunhas, as vítimas estavam se divertindo no estabalecimento quando foram",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/12/dois-homens-sao-mortos-a-tiros-dentro-de-bar-no-interior-do-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6xV3Ux5sFHrmVHeT050VEVmXpeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/L/jtoyIWSjm8iKtVaw5uVQ/tiro-2.jpg",
-    "data": "2026-11-12T09:15:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Bom Dia ES",
-    "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
-    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
-    "data": "2026-11-12T09:13:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Conheça nova casa de onça-pintada preta do Paraná que viajou mais de 2 mil km para conhecer ‘namorado’ no Tocantins",
-    "resumo": "Onça-pintada nascida em Foz do Iguaçu viaja para o Tocantins com o objetivo de reprodução A onça-pintada Jataí, que nasceu em Foz do Iguaçu, no oeste do Paraná, terá como nova casa uma reserva de 5 mil hectares no Tocantins, dedicada à preservação de animais silvestres e à conservação do Cerrado brasileiro. O local, chamado Reserva Conser",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/12/conheca-nova-casa-de-onca-pintada-preta.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/O-HEvPUQjvDiENLJfGItuQ1wgi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/7rShrAQBGtrh9naMsI0g/g1-pr-2026-11-11t152445.611.jpg",
-    "data": "2026-11-12T09:11:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como crânio de possível escravizado morto na Bahia foi parar em Havard? Carta escrita há mais de 100 anos explica",
-    "resumo": "Crânio de escravizado levado ilegalmente para os Estados Unidos volta à Bahia Uma carta escrita nos anos 1800 explica como um crânio de um possível escravizado morto em Salvador foi parar na universidade de Havard, nos Estado Unidos, onde permaneceu por 190 anos. O resto mortal foi devolvido na quarta-feira (11), em uma cerimônia na reito",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/12/como-cranio-de-possivel-escravizado-morto-na-bahia-foi-parar-em-havard-carta-escrita-ha-mais-de-100-anos-explica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Tqg9sz_zYwRg5nQlGyoR5tI05cM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/r/6mR4sCRgywOtrpHFoyQg/11caixa.jpeg",
-    "data": "2026-11-12T09:02:03.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
@@ -106,42 +340,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T09:01:24.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "resumo": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-    "data": "2026-11-12T09:00:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O menor bioma brasileiro que reúne milhares de espécies e depende das águas que nascem no Cerrado",
-    "resumo": "O Pantanal é a maior área úmida de água doce do mundo. SOS Pantanal/Reprodução O Pantanal é a maior área úmida de água doce do mundo, com cerca de 190 mil km². Localizado principalmente nos estados de Mato Grosso do Sul e Mato Grosso, o bioma também se estende por territórios da Bolívia e do Paraguai, conforme a organização SOS Pantanal. ",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/12/o-menor-bioma-brasileiro-que-reune-milhares-de-especies-e-depende-das-aguas-que-nascem-no-cerrado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xBCBhf5xDhcf5co_fa8aRCyltrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/W/ITMq7pSY2ZY8oBem1iQg/design-sem-nome-35-.png",
-    "data": "2026-11-12T09:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cientista do AP que criou kit solar para castanheiros recebe prêmio 'Menina Inspiradora do Ano' em SP",
-    "resumo": "Pesquisadora amapaense Manuelle da Costa Pereira durante o evento. Divulgação/Mulheres Inspiradoras A pesquisadora amapaense Manuelle da Costa Pereira, de 23 anos, foi homenageada em São Paulo na terça-feira (10) com o prêmio 'Menina Inspiradora do Ano 2026', durante a cerimônia Mulheres Inspiradoras do Ano. A honraria reconhece o trabalh",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/12/cientista-do-ap-que-criou-kit-solar-para-castanheiros-recebe-premio-menina-inspiradora-do-ano-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EXjb2afkftBqVU53DWetPB2RC10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/HCoYO1Rpm8DPyT01NOnw/v2-382652d0-33fe-4200-8108-48ab95edef3e.jpg",
-    "data": "2026-11-12T09:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Conheça as cidades onde mineradora estrangeira encontrou concentração de terras raras no TO",
-    "resumo": "Águas termais de Jaú do Tocantins Divulgação/Prefeitura de Jaú do Tocantins Palmeirópolis e Jaú do Tocantins ganharam destaque após uma mineradora estrangeira identificar elementos de terras raras pesadas nas duas regiões. Com tradições nortistas e um ritmo musical que mescla forró e sertanejo, as cidades são conhecidas pela forte cultura",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/12/conheca-as-cidades-onde-mineradora-estrangeira-encontrou-concentracao-de-terras-raras-no-to.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/d7nwuzOzVV8FxGMGA4Rlxf2oyhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/B5zcC4SB2hgeWthlB8iw/foto-e-montagem-vertical-7-.png",
-    "data": "2026-11-12T09:00:01.000Z"
   },
   {
     "categoria": "Canadá",
@@ -155,19 +353,19 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "American Airlines resumes flights to Haiti, providing a vital route into the country",
-    "resumo": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. government advises people to avoid all travel to the Caribbean nation due to security concerns.",
-    "link": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/7e96e5f3-1502-44a7-836e-923d0db155c4,1794282575087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C3561%2C2003%29%3B",
+    "titulo": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+    "resumo": "American AI giant Anthropic's expected debut on the Nasdaq has one money manager recalling the dot-com bubble of the 2000s.",
+    "link": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3089b97b-00bb-4a00-a2eb-cb698da75b94,1794419114145/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
     "data": "2026-11-12T09:00:00.000Z"
   },
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
-    "resumo": "American AI giant Anthropic's expected debut on the Nasdaq has one money manager recalling the dot-com bubble of the 2000s.",
-    "link": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/3089b97b-00bb-4a00-a2eb-cb698da75b94,1794419114145/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+    "titulo": "American Airlines resumes flights to Haiti, providing a vital route into the country",
+    "resumo": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. government advises people to avoid all travel to the Caribbean nation due to security concerns.",
+    "link": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/7e96e5f3-1502-44a7-836e-923d0db155c4,1794282575087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C3561%2C2003%29%3B",
     "data": "2026-11-12T09:00:00.000Z"
   },
   {
@@ -196,15 +394,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
     "data": "2026-11-12T08:46:57.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "UK economy grows at fastest rate for more than two years",
-    "resumo": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
-    "data": "2026-11-12T08:46:52.000Z"
   },
   {
     "categoria": "Internacional",
@@ -290,8 +479,8 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-    "resumo": "The head teacher of the school has been arrested to assist police investigations.",
+    "titulo": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+    "resumo": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
     "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
     "data": "2026-11-12T07:45:52.000Z"
@@ -351,24 +540,6 @@
     "data": "2026-11-12T06:37:06.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "It is time for a change of leadership in the Democratic Party in the US",
-    "resumo": "The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T06:26:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "New York building collapse kills at least two, officials say",
-    "resumo": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-    "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
-    "data": "2026-11-12T05:12:56.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
@@ -403,24 +574,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
     "data": "2026-11-12T04:03:13.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-    "resumo": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
-    "data": "2026-11-12T04:00:30.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
-    "resumo": "Mr. Revels took his seat two days after Mississippi was readmitted to the union after the Civil War. Mr. Bruce served just before white leaders ushered in the Jim Crow era.",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T03:42:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -464,7 +617,7 @@
     "titulo": "Australian teen missing in bush for six days rescued alive",
     "resumo": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
     "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png",
     "data": "2026-11-12T02:40:18.000Z"
   },
   {
@@ -549,15 +702,6 @@
     "data": "2026-11-12T01:00:04.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
-    "resumo": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead.",
-    "link": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
-    "imagem": null,
-    "data": "2026-11-12T00:52:41.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Poundland set for more time to secure a rescue deal as emergency talks continue",
@@ -565,15 +709,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
     "data": "2026-11-12T00:49:05.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Series of storms leaves B.C. woman with tree stuck on her house for days",
-    "resumo": "As B.C. continues to batten down its hatches amid the third in a series of major fall storms, one resident who saw a tree fall onto her house last Friday says it'll have to remain in place as high winds continue to batter the province.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c3fe644b-bbb9-43bf-94bd-6dc78c61c7c5,1794443225536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1603%2C4284%2C2409%29%3B",
-    "data": "2026-11-12T00:47:39.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -592,15 +727,6 @@
     "link": "https://www.nytimes.com/2026/11/11/us/elections/hyde-smith-concedes-senate-colom.html",
     "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-hyde-smith-concession1-kvhg/11midterms-hyde-smith-concession1-kvhg-mediumSquareAt3X.jpg",
     "data": "2026-11-12T00:17:58.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Colom’s Victory Pads Democrats’ Majority in the Senate",
-    "resumo": "The victory in Mississippi gives Democrats 55 seats as they await results in the Alaska race, leaving them short of a 60-seat supermajority but cushioning their margin of control.",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/colom-mississippi-senate-democrats.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-senate-powerbalance1-bwvc/11midterms-senate-powerbalance1-bwvc-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T00:10:34.000Z"
   },
   {
     "categoria": "Brasil",
@@ -639,15 +765,6 @@
     "data": "2026-11-11T23:46:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "2 dead, 4 critically injured after building collapses in New York City",
-    "resumo": "Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction site, killing at least two people and trapping others beneath the wreckage.",
-    "link": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/2e2d94e5-a59b-44bf-a35d-149f1baf1c52,1794439880244/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C512%2C7008%2C3942%29%3B",
-    "data": "2026-11-11T23:42:52.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Democrat Scott Colom wins the closest Senate race in the country",
@@ -673,24 +790,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-amplia-capacidade-de-11-plataformas-sem-novos-investimentos",
     "imagem": null,
     "data": "2026-11-11T23:19:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Colom’s win came down to a slow count of a few thousand ballots.",
-    "resumo": "A tally of late-arriving mail-in ballots and ballots that had been cast provisionally proved critical in handing an upset victory to Scott Colom in Mississippi.",
-    "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/coloms-win-came-down-to-a-slow-count-of-a-few-thousand-ballots",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-slowcount-pgmh/11midterms-slowcount-pgmh-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T23:15:57.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "5 Things to Know About Democrat Scott Colom, Mississippi’s Next Senator",
-    "resumo": "Mr. Colom, a prosecutor, will become the first Black senator elected from Mississippi since Reconstruction, more than 150 years ago.",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-senate-race.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-colom-five-things-qmfw/11midterms-colom-five-things-qmfw-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T23:06:05.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -732,7 +831,7 @@
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "resumo": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+    "resumo": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
     "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-11T22:44:36.000Z"
@@ -763,15 +862,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
     "data": "2026-11-11T22:26:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/projeto-quer-retirar-r-105-bi-em-subsidios-ao-diesel-da-meta-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/projeto-quer-retirar-r-105-bi-em-subsidios-ao-diesel-da-meta-fiscal",
-    "imagem": null,
-    "data": "2026-11-11T22:13:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -855,15 +945,6 @@
     "data": "2026-11-11T20:09:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Why is gasoline suddenly under $4 a gallon?",
-    "resumo": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8054x5369+0+0/resize/8054x5369!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fb1%2F79ee5cd14420a25d6111b7bf6a03%2Fgettyimages-2248589851.jpg",
-    "data": "2026-11-11T19:59:14.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
@@ -891,15 +972,6 @@
     "data": "2026-11-11T18:43:25.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-    "resumo": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-    "data": "2026-11-11T18:38:45.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "The Guardian view on Maga after the midterms: doubling down on Trumpism | Editorial",
@@ -925,15 +997,6 @@
     "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-11T18:13:52.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-    "resumo": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-    "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-11T18:04:58.000Z"
   },
   {
     "categoria": "Canadá",
@@ -981,15 +1044,6 @@
     "data": "2026-11-11T17:35:20.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-    "resumo": "Senegal&apos;s breakdancers have been practicing for their country&apos;s historic hosting of the Youth Olympic Games this month. It&apos;s the first time Africa is hosting an Olympic event.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2Fdc%2F0abbbb464785bfcf43a99355caab%2Ffarflungpostcard-s.jpg",
-    "data": "2026-11-11T17:23:10.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
@@ -1017,15 +1071,6 @@
     "data": "2026-11-11T17:00:29.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Kennedy relatives join the fight against Trump&apos;s arch, alleging harm to JFK&apos;s grave",
-    "resumo": "Nine members of the Kennedy family have joined the legal fight against Trump&apos;s D.C. arch, arguing it would disrupt views and cast shadows over their ancestors&apos; graves at Arlington National Cemetery.",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x3280+0+0/resize/4928x3280!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2F43%2F12c339b145589ddeb9b1b1023327%2Fgettyimages-186224659.jpg",
-    "data": "2026-11-11T16:59:32.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
@@ -1033,15 +1078,6 @@
     "link": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
     "imagem": "https://i.guim.co.uk/img/media/044714e910b9f6cd9660b9352db5413917bde16a/434_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=20e5b3d30c7e0c5ef23afc9003d1ecf7",
     "data": "2026-11-11T16:44:36.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "What&apos;s behind democratic socialists&apos; historic victories in the midterms?",
-    "resumo": "Historian and <em>The New Yorker</em> writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence.",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6037432",
-    "data": "2026-11-11T16:41:48.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1152,15 +1188,6 @@
     "data": "2026-11-11T14:56:11.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Following big Democratic wins, these swing voters are looking for results",
-    "resumo": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
-    "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdf%2Fcb%2Fbe76a06e4e18b09c5d3ff76cdaf8%2Fswing-shift-midterm.jpg",
-    "data": "2026-11-11T14:19:42.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Killing of journalist underscores deteriorating conditions in Ecuador",
@@ -1177,15 +1204,6 @@
     "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/11/100-years-of-route-66-in-pictures",
     "imagem": "https://i.guim.co.uk/img/media/975b080b9d7701c679ac18734d53c477c4077063/501_0_6500_5200/master/6500.jpg?width=140&quality=85&auto=format&fit=max&s=6833a8a816a211486c828b0cb2e39985",
     "data": "2026-11-11T14:00:51.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-    "resumo": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7854x5236+0+0/resize/7854x5236!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fe5%2Fc440fa07484eafad83691a255e57%2Fap26314378728116.jpg",
-    "data": "2026-11-11T13:30:00.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1330,23 +1348,5 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
     "imagem": "https://i.guim.co.uk/img/media/456a998e975976898ff984ee0e99403b099a5195/238_0_2524_2020/master/2524.jpg?width=140&quality=85&auto=format&fit=max&s=9a261b4e1fd50c37b84f2205d342473b",
     "data": "2026-11-11T01:18:56.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-    "resumo": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-    "imagem": null,
-    "data": "2026-11-11T00:59:32.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "Robot vessels take on the dangerous work of mine hunting",
-    "resumo": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-11T00:19:13.000Z"
   }
 ]
