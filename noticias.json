@@ -1,5 +1,293 @@
 [
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "The National | Canadians honour their veterans",
+    "resumo": "Nov. 11, 2026 | Canadians mark Remembrance Day with tributes to soldiers past and present, including those lost and injured in the fire at CFB Wainwright. A Quebec pilot dies during an honorary formation flight. And, authorities move against Ryan Wedding's alleged money launderers.",
+    "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
+    "data": "2026-11-12T02:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "New York building collapse kills one person and injures 12",
+    "resumo": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+    "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
+    "data": "2026-11-12T01:34:58.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+    "resumo": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T01:33:09.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.",
+    "resumo": "",
+    "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction",
+    "imagem": "https://static01.nyt.com/images/2026/11/08/multimedia/11midterms-black-senator-version-topart-hqfj/11midterms-black-senator-version-topart-hqfj-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T01:30:04.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+    "resumo": "He was the most-cited legal scholar of the latter half of the 20th century and an unapologetic iconoclast, favoring pragmatism over judicial tradition. He was 87.",
+    "link": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11posner-fvcz/11posner-fvcz-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T01:25:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Após encontros em Abu Dhabi, negociação entre Rússia e Ucrânia para o fim da guerra não avança",
+    "resumo": "Termina sem avanço tentativa de negociação de paz entre Ucrânia e Rússia Rússia e Ucrânia terminaram sem avanços os dois dias de encontros para negociar o fim da guerra. Foram as primeiras negociações de paz em nove meses. De concreto, Rússia e Ucrânia concordaram em libertar mil prisioneiros de guerra - a maior iniciativa desde o início ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/apos-encontros-em-abu-dhabi-negociacao-entre-russia-e-ucrania-para-o-fim-da-guerra-nao-avanca.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SMOzng-cnxsL9FXFmVgZycwonOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/3/eqtGlHQeaRnq1FaBdCXg/globo-canal-4-20261111-2000-frame-112250.jpeg",
+    "data": "2026-11-12T01:24:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+    "resumo": "Gaza&#039;s Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T01:20:55.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Colom’s win fuels Democratic hopes for next year’s race for governor.",
+    "resumo": "Scott Colom’s victory in the Senate race is fueling hopes among Democrats that the campaign for governor could be competitive next year.",
+    "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-2027-governor-campaign",
+    "imagem": null,
+    "data": "2026-11-12T01:20:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "USF abre vagas para inserção gratuita de DIU em Campo Grande; veja como agendar",
+    "resumo": "Mulher segurando DIU. Foto: Rodrigo Nunes/Ministério da Saúde/Divulgação. A Unidade de Saúde da Família (USF) Doutor Albino Coimbra Filho, no bairro Santa Carmélia, em Campo Grande, está com agendamento aberto para a inserção do dispositivo intrauterino (DIU) de cobre, método contraceptivo de alta eficácia. O atendimento será realizado na",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/usf-abre-vagas-para-insercao-gratuita-de-diu-em-campo-grande-veja-como-agendar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZSNnDIvVWf42CH81qWOlfjhBMcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/j/PwZj4ST8uCXzJpoxnvXw/design-sem-nome-54-.jpg",
+    "data": "2026-11-12T01:19:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mais de 6 mil escolas na Itália recebem ameaça de bomba: 'Se acontecesse alguma coisa, não poderia me perdoar', diz diretora",
+    "resumo": "Ameaças de bomba esvaziam mais de 300 escolas, na Itália Ameaças de bomba esvaziaram mais de 300 escolas na Itália. As mochilas ficaram nas salas de aula. Do lado de fora, professores tentavam tranquilizar os alunos. Não era simulação, nem exercício de segurança. Em 300 escolas de toda a Itália, as aulas foram interrompidas por uma ameaça",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/mais-de-6-mil-escolas-na-italia-recebem-ameaca-de-bomba-se-acontecesse-alguma-coisa-nao-poderia-me-perdoar-diz-diretora.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tIBeMLUw8FGve0Az-badt88d-uI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/e/biiBBpRzWeFS81O5A9yw/globo-canal-4-20261111-2000-frame-109842.jpeg",
+    "data": "2026-11-12T01:18:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carolina Dieckmann canta Preta Gil em festa pré-casamento em Fernando de Noronha; VÍDEO",
+    "resumo": "Carolina Dieckmann canta em festa pré-casamento em Fernando de Noronha A atriz Carolina Dieckmann soltou a voz e cantou a música Sinais de Fogo, sucesso da amiga Preta Gil, durante a festa pré-casamento do diretor teatral Leo Fuchs e do professor Gustavo Oliveira, em Fernando de Noronha, nesta quarta-feira (11). Ela também animou os convi",
+    "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/11/carolina-dieckmann-canta-preta-gil-em-festa-pre-casamento-em-fernando-de-noronha-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qn2F9HwlaoxHteDdegp4sdGBZzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/Bnrr5USNuoffMmXswDAg/carolina-comprieta-noivo.jpg",
+    "data": "2026-11-12T01:17:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Americanas tem prejuízo de R$ 352 milhões no 3º trimestre",
+    "resumo": "Clientes fizeram fila na frente das Lojas Americanas, no Salvador Shopping Divulgação A rede varejista Americanas, que saiu da recuperação judicial em outubro, registrou prejuízo líquido de R$ 352 milhões no terceiro trimestre de 2026, segundo balanço divulgado nesta quarta-feira (11). No mesmo período do ano passado, a companhia havia re",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/11/prejuizo-americanas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4IG-veu1XWSrheIAsU7RWbOw2_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/j/Yyd6iURFC27KBmNzNpJw/whatsapp-image-2023-11-24-at-07.30.15.jpeg",
+    "data": "2026-11-12T01:15:50.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier",
+    "resumo": "A soldier guarding the Tomb of the Unknown Soldier at Arlington National Cemetery issued a verbal reprimand to a group of advisers and staffers with U.S. War Secretary Pete Hegseth following a Veterans Day ceremony.",
+    "link": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/bc0e07d8-d4d4-4770-8bb2-483f9f3f7176,1794443832717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
+    "data": "2026-11-12T01:14:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Espanha tem dia de greve geral pela primeira vez em 14 anos",
+    "resumo": "Espanha tem 1ª greve geral em 14 anos e protestos se espalham pelo país A Espanha teve nesta quarta-feira (11) um dia de greve geral. Alguns atos terminaram em confronto com a polícia, com mais de 60 presos. Um mar de guarda-chuvas tomou as ruas do Centro de Madri. Nem mesmo o forte temporal impediu os manifestantes de continuarem protest",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/espanha-tem-dia-de-greve-geral-pela-primeira-vez-em-14-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/HaHvjWLBtr0CfLNHhM8LBzarHYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/f/R5SmBASYGyZC0qLsmn5w/globo-canal-4-20261111-2000-frame-103330.jpeg",
+    "data": "2026-11-12T01:10:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Após avanço em investigação, polícia diz que atropelamento que matou mãe e filha foi motivado por discussão em balneário",
+    "resumo": "Suspeito de feminicídios em Campos Lindos é procurado O atropelamento que resultou na morte de Diana Vieira dos Santos, de 28 anos, e da filha, Laila Vieira dos Santos, de 7 anos, no último sábado (7), supostamente foi motivado por uma discussão iniciada dentro de um balneário em Campos Lindos, no norte do Tocantins. A informação foi divu",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/11/apos-avanco-em-investigacao-policia-diz-que-atropelamento-que-matou-mae-e-filha-foi-motivado-por-discussao-em-balneario.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ySQe2olDqak6J_xc6rCPOjUSbb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/3/R03DibRQyk3aSlyJFplQ/foto-e-montagem-vertical-22-.jpg",
+    "data": "2026-11-12T01:06:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia Civil de Minas Gerais investiga morte de um homem depois de abordagem da PM",
+    "resumo": "Morte de homem após ação da PM em Minas é alvo de investigação A Polícia Civil e a Corregedoria da Polícia Militar investigam a morte de um homem depois de uma abordagem da PM em Minas Gerais. Imagens gravadas por testemunhas mostram um policial jogando spray de pimenta no porta-malas da viatura, onde Maurício Pereira dos Santos estava pr",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/policia-civil-de-minas-gerais-investiga-morte-de-um-homem-depois-de-abordagem-da-pm.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KpM1KebdxiAcQzrsKk4o0DK8TTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/E/G9tX8BRPyQWETOvLsaBA/globo-canal-4-20261111-2000-frame-98755.jpeg",
+    "data": "2026-11-12T01:05:12.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Former Italian Red Brigades member escapes house arrest in Argentina",
+    "resumo": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T01:04:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "No Rio, mais de 5 milhões de pessoas vivem em áreas dominadas pelo tráfico de drogas ou por milícias",
+    "resumo": "No Rio, mais de 5 milhões de pessoas vivem em áreas dominadas pelo tráfico de drogas ou por milícias Jornal Nacional/ Reprodução Mais de 5 milhões de pessoas vivem em áreas dominadas pelo tráfico ou por milícias no Rio de Janeiro. Pela primeira vez, o governo do estado revela um mapa dos territórios ocupados por esses grupos criminosos. C",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/no-rio-mais-de-5-milhoes-de-pessoas-vivem-em-areas-dominadas-pelo-trafico-de-drogas-ou-por-milicias.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/s1fBv3Y9oqCBgTfq_ohhvm64Hns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/q/nvK4nNSbOTwWMyv7AzGA/globo-canal-4-20261111-2000-frame-95843.jpeg",
+    "data": "2026-11-12T01:00:14.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The Man at the Center of Scott Colom’s Protein Ad",
+    "resumo": "Russ Hudson was not expecting to become famous. But his deadpan drawl in Scott Colom’s viral protein ad made him a Mississippi sensation.",
+    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-senate-protein-ad.html",
+    "imagem": null,
+    "data": "2026-11-12T01:00:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+    "resumo": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg",
+    "data": "2026-11-12T01:00:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TCE suspende licitação de R$ 2,3 milhões para coleta de lixo no interior de Roraima",
+    "resumo": "Atividades serão oferecidas por meio da Secretaria da prefeitura do Cantá Semculte/Cantá/Divulgação O Tribunal de Contas de Roraima (TCE-RR) suspendeu a licitação dos serviços de coleta, transporte e destinação de lixos da prefeitura do Cantá, município ao Norte de Roraima. A decisão desta quarta-feira (10) impede o contrato de R$ 2.326.2",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/11/tce-suspende-licitacao-de-r-23-milhoes-para-coleta-de-lixo-no-interior-de-roraima.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yC-Pm0vV5TZCtWb58VoVykiiv0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/I/4/NEB8MERRikEPrhTwopIg/prefeittura-de-canta.jpg",
+    "data": "2026-11-12T00:57:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "+Milionária hoje: resultado do concurso 406 e números sorteados",
+    "resumo": "Resultado da +Milionária g1 Veja abaixo os números do sorteio do concurso 406 da +Milionária realizado nesta quarta-feira (11): Dezenas: 3 - 6 - 14 - 26 - 36 - 42 Trevos: 3 - 5 Confira o resultado do sorteio da +Milionária. Veja quantas apostas foram premiadas no concurso 406: Ninguém conseguiu os 6 acertos, e a premiação acumulou para R$",
+    "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/11/milionaria-hoje-resultado-do-concurso-406-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/o_Gk_lkedt2jwbjRMON6tHFVeZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/TgxGKTSfArj40jbm4oHQ/maismilionaria-406-murqi.jpeg",
+    "data": "2026-11-12T00:55:48.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
+    "resumo": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead.",
+    "link": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
+    "imagem": null,
+    "data": "2026-11-12T00:52:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Golfinho de 3 metros de comprimento é encontrado morto em praia de SC",
+    "resumo": "Golfinho de 3 metros é encontrado morto em praia de São Francisco do Sul, SC Um golfinho com mais de 3 metros de comprimento foi encontrado morto na Praia da Enseada, em São Francisco do Sul, no Norte de Santa Catarina. A carcaça foi levada para a base do Projeto de Monitoramento de Praias da Bacias de Santos (PMP-BS), onde passará por ex",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/11/golfinho-encontrado-morto-praia-sao-francisco-sul.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/akkGlT15slV47BE5Aenvpp62RmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Y/O4rrfRR3CWBT2Eq37Dow/golfinho-sao-francisco-do-sul-1.jpg",
+    "data": "2026-11-12T00:52:39.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+    "resumo": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+    "data": "2026-11-12T00:49:05.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Series of storms leaves B.C. woman with tree stuck on her house for days",
+    "resumo": "As B.C. continues to batten down its hatches amid the third in a series of major fall storms, one resident who saw a tree fall onto her house last Friday says it'll have to remain in place as high winds continue to batter the province.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c3fe644b-bbb9-43bf-94bd-6dc78c61c7c5,1794443225536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1603%2C4284%2C2409%29%3B",
+    "data": "2026-11-12T00:47:39.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+    "resumo": "Chip giants stock price falls more than 8 percent amid speculation over co-founder&#039;s position.",
+    "link": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T00:43:26.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+    "resumo": "Guard at memorial site can be heard yelling at group to &#039;maintain an atmosphere of silence and respect at all times&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T00:42:37.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Hyde-Smith Blocked Colom’s Path to the Bench. Now He’s Replacing Her.",
+    "resumo": "Ms. Hyde-Smith, a Republican, blocked Scott Colom from consideration for a U.S. District Court vacancy in Mississippi. Mr. Colom will take her Senate seat in January.",
+    "link": "https://www.nytimes.com/2026/11/11/us/elections/hyde-smith-blocked-coloms-path-to-the-bench-now-hes-replacing-her.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/11midterms-blue-slip-judicial/11midterms-blue-slip-judicial-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T00:40:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Why the US, Mexico and Guatemala may lose their measles-free status",
+    "resumo": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T00:33:44.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
+    "resumo": "Mr. Revels took his seat two days after Mississippi was readmitted to the union after the Civil War. Mr. Bruce served just before white leaders ushered in the Jim Crow era.",
+    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T00:33:30.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Cameroon: Who is really calling the shots?",
+    "resumo": "Biya’s absences raise questions about who holds power and what comes next in Cameroon.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T00:29:33.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
@@ -7,6 +295,15 @@
     "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
     "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
     "data": "2026-11-12T00:21:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+    "resumo": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T00:18:46.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -20,119 +317,11 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "In Major Upset, Scott Colom, a Democrat, Wins Mississippi Senate Seat",
-    "resumo": "Scott Colom, a Democrat and prosecutor, is the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11nat-ms-senate-colom-nyt-pczh/11nat-ms-senate-colom-nyt-pczh-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T00:17:13.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
-    "resumo": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead.",
-    "link": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
-    "imagem": null,
-    "data": "2026-11-12T00:15:25.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inscrições para novos alunos da rede municipal de Salvador começam na quinta-feira",
-    "resumo": "Inscrições para novos alunos da rede municipal de Salvador estão abertas Valter Pontes/Secom PMS As inscrições para o cadastro de novos alunos da rede municipal de ensino de Salvador começam nesta quinta-feira (12) e seguem até o dia 21 de dezembro. O procedimento deve ser realizado, preferencialmente, pelo site da Secretaria Municipal de",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/11/inscricoes-para-novos-alunos-da-rede-municipal-de-salvador.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3V1IKaGhXc1SYqKMmceDVN5vmvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/y/Rtl6nIRIGc1dKFUZsZig/matricula-salvador-fotovalterpontessecompms.jpg",
-    "data": "2026-11-12T00:13:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vice-prefeito diz que seguirá denunciando a própria Prefeitura de SP: 'Não devo respeito a político', 'não tenho medo de cara feia'",
-    "resumo": "Vice-prefeito de São Paulo revela nova denúncias contra administração municipal O vice-prefeito de São Paulo, coronel Ricardo Augusto de Mello Araújo (PL), apresentou cinco representações a órgãos de controle sobre suspeitas de irregularidades em contratos e serviços da própria Prefeitura de São Paulo. Uma delas aponta possíveis desvios d",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/vice-prefeito-diz-que-seguira-denunciando-a-propria-prefeitura-de-sp-nao-devo-respeito-a-politico-nenhum-nao-tenho-medo-de-cara-feia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dq_Q7ePfkQFaM_gsb7Zzm2k3VEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/5/B0UXDrSUOg6vhS8bbNzw/fotojet-2026-11-10t202645.736.jpg",
-    "data": "2026-11-12T00:13:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de envolvimento na morte de ex-subtenente da PM morre em confronto com policiais no Ceará",
-    "resumo": "Vídeo flagrou emboscada que terminou com ex-subtenente da PM morto no Ceará. Um suspeito de matar um ex-subtenente da Polícia Militar morreu em confronto com policiais, nesta quarta-feira (11), em Canindé, no interior do Ceará. Francisco Mikael Carneiro Nascimento, de 24 anos, teria envolvimento na morte de Romildo Freitas da Rocha. O ex-",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/11/suspeito-de-envolvimento-na-morte-de-ex-subtenente-da-pm-morre-em-confronto-com-policiais-no-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qmtEvMPLFP_TAIez4EkzyjCXLDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/D/fJ7qp9T1mqcO6jcQZaJQ/suspeito-caninde.jpg",
-    "data": "2026-11-12T00:12:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Operação prende 10 acusados de participar de esquema bilionário de sonegação do grupo Refit",
-    "resumo": "Operação do Ministério Público do Rio prende 10 acusados de participar de esquema de sonegação fiscal do Grupo Refit Uma operação do Ministério Público do Rio prendeu dez pessoas acusadas de participar de um esquema de sonegação fiscal do grupo Refit. Os investigadores chegaram ao círculo mais próximo de Ricardo Magro, dono da Refinaria d",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/operacao-prende-10-acusados-de-participar-de-esquema-bilionario-de-sonegacao-do-grupo-refit.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sPn7ZPYHKLvUnv19OrjmzmJDS9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/S/6YSsKATOulFtYFPp1Dgw/globo-canal-4-20261111-2000-frame-71399.jpeg",
-    "data": "2026-11-12T00:11:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Matrículas nas escolas da rede estadual e municipal; veja cronogramas e documentos",
-    "resumo": "Cadastro de vagas para novos alunos da rede municipal de Goiânia começa nesta terça-feira A Prefeitura de Goiânia divulgou o cronograma de matrículas para o ano letivo de 2027 na rede municipal de ensino. As matrículas também estão abertas para escolas estaduais e podem ser solicitadas por meio do portal oficial do Governo de Goiás, de 9 ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/11/matriculas-nas-escolas-da-rede-estadual-e-municipal-veja-cronogramas-e-documentos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Pek0HTXvlSfdeXV7qWKvbR6j-Ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/8/v/mkDoILTKWkPH83sB7I6g/sala-de-aula-goias.png",
-    "data": "2026-11-12T00:10:50.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Colom’s Victory Pads Democrats’ Majority in the Senate",
     "resumo": "The victory in Mississippi gives Democrats 55 seats as they await results in the Alaska race, leaving them short of a 60-seat supermajority but cushioning their margin of control.",
     "link": "https://www.nytimes.com/2026/11/11/us/elections/colom-mississippi-senate-democrats.html",
     "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-senate-powerbalance1-bwvc/11midterms-senate-powerbalance1-bwvc-mediumSquareAt3X.jpg",
     "data": "2026-11-12T00:10:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Presidente de Câmara sofre lesão no olho após ser atingido por celular durante briga com controlador-geral",
-    "resumo": "Álefe Matias foi atingido por um aparelho celular durante briga na Câmara Reprodução/Instagram e Arquivo pessoal O vereador e presidente da Câmara de Turvânia, no oeste do estado, Álefe Matias Neves e Silva (MDB), de 31 anos, sofreu uma lesão em um dos olhos depois de ser atingido com um celular durante briga com o controlador-geral da Ca",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/11/presidente-de-camara-sofre-lesao-no-olho-apos-ser-atingido-por-celular-durante-briga-com-controlador-geral.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8XgxJieDrNTJdmPutA1HWmtvzOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/1E0CB5Rn2qA8LY8mzaow/co-16-.jpg",
-    "data": "2026-11-12T00:09:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 11 de novembro de 2026",
-    "resumo": "Reveja os vídeos do telejornal.",
-    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quarta-feira-11-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DEqcaDmNbJcU7GX6L4XVDyY_sJw=/s01.video.glbimg.com/deo/vi/64/04/15180464",
-    "data": "2026-11-12T00:09:05.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: NSC Notícias de quarta-feira, 11 de novembro de 2026",
-    "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
-    "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/11/videos-nsc-noticias-de-quarta-feira-11-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7pbKGZu27usdxOeA4UW8dcPE7Lc=/s01.video.glbimg.com/deo/vi/11/01/15180111",
-    "data": "2026-11-12T00:08:57.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Long Before Scott Colom, There Was Hiram Revels and Blanche Bruce.",
-    "resumo": "Mr. Revels took his seat two days after Mississippi was readmitted to the union after the Civil War. Mr. Bruce served just before white leaders ushered in the Jim Crow era.",
-    "link": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T00:08:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Prefeitura de Taubaté anuncia troca de comando nas secretarias de segurança e esportes",
-    "resumo": "Prefeitura de Jacareí começa vacinação itinerante A Prefeitura de Taubaté anunciou, nesta quarta-feira (11), mudanças na composição do secretariado municipal. As alterações envolvem a secretaria de Segurança Pública e a secretaria de Esportes, Lazer e Qualidade de Vida. Na Secretaria de Segurança Pública, Carlos Alberto de Souza retorna a",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/11/prefeitura-de-taubate-anuncia-troca-de-comando-nas-secretarias-de-seguranca-e-esportes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-DVuioDqJxslCtywok1_XV6Nn-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/0/vAf0HXQGKzu4km5tk4cw/whatsapp-image-2024-12-11-at-10.20.05.jpeg",
-    "data": "2026-11-12T00:06:59.000Z"
   },
   {
     "categoria": "Internacional",
@@ -144,13 +333,13 @@
     "data": "2026-11-12T00:06:50.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Here’s the latest.",
-    "resumo": "",
-    "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/heres-the-latest",
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "BNDES recebe selo Diamante de transparência pública pela quarta vez",
+    "resumo": "<p><strong>O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) recebeu, pela quarta vez consecutiva, o selo Diamante do Radar Nacional da Transparência Pública. Neste ano, a instituição alcançou 100% de pontuação na avaliação, resultado inédito entre os órgãos federais.</strong><img src=\"https://agenciabrasil.ebc.com.br/ebc.png",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bndes-recebe-selo-diamante-de-transparencia-publica-pela-quarta-vez",
     "imagem": null,
-    "data": "2026-11-12T00:06:47.000Z"
+    "data": "2026-11-12T00:06:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -162,58 +351,13 @@
     "data": "2026-11-12T00:05:40.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
-    "resumo": "A Pentagon spokesman said the sentinel had “reminded everyone to maintain decorum” after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday.",
-    "link": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-12T00:04:19.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-    "resumo": "Israel orders military to step up preparations for a possible attack on Iran, as Tehran says will retaliate if attacked.",
+    "titulo": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+    "resumo": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T00:00:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Governo federal propõe adiar início do pagamento da CBS",
-    "resumo": "Governo federal propõe adiar início do pagamento da CBS O governo vai propor adiar o início do pagamento da contribuição sobre bens e serviços. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A CBS é parte da reforma tributária e entra em vigor no dia 1° de janeiro de 2027. A nova contribuição sobre bens e serviços é u",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/governo-federal-propoe-adiar-inicio-do-pagamento-da-cbs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/iZR_5xmbBxWKCEpey_crjwGABwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/j/PJ5BfhQjAbTBYigiuBKg/globo-canal-4-20261111-2000-frame-68250.jpeg",
-    "data": "2026-11-12T00:00:07.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Capitão Simplício de Moraes Cunha, autor da Canção da PM do PI, morre aos 94 anos",
-    "resumo": "Morre aos 95 anos o capitão Simplício de Moraes Cunha, autor da Canção da PM do Piauí Reprodução/PMPI Morreu nesta quarta-feira (11) Simplício de Moraes Cunha, capitão da reserva e autor da melodia da Canção da Polícia Militar do Piauí (PMPI), aos 94 anos. A morte foi confirmada pela corporação por meio de nota. Segundo a Polícia Militar,",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/11/morre-capitao-simplicio-moraes-pm-piaui.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/by2x4VoLiKn46tyRuVT77Yo17p0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/lo6Rb9SQm5uw76sO8B3Q/edicao-imagens-g1-2026-11-11t180555.991.png",
-    "data": "2026-11-11T23:58:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Farmácia é interditada por suspeita de venda irregular de anabolizantes e medicamentos abortivos no PI",
-    "resumo": "Farmácia é interditada por venda irregular de anabolizantes e rebites em Parnaíba Uma farmácia foi interditada nesta quarta-feira (11) em Parnaíba, no litoral do Piauí, após a Vigilância Sanitária encontrar indícios da venda irregular de medicamentos de controle especial. Entre os produtos identificados estão anabolizantes, medicamentos c",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/11/farmacia-interditada-parnaiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TZw9JaWF24okH3T8EyOPyw6rjHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/s/Ax8cfZQN2ZgSlBhpVuBQ/edicao-imagens-g1-8-.jpg",
-    "data": "2026-11-11T23:53:50.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-    "resumo": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg",
-    "data": "2026-11-11T23:52:30.000Z"
   },
   {
     "categoria": "Internacional",
@@ -223,6 +367,24 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-11T23:50:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Precariedade do sistema prisional entra no debate da maioridade penal",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal",
+    "imagem": null,
+    "data": "2026-11-11T23:46:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
+    "imagem": null,
+    "data": "2026-11-11T23:46:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -333,15 +495,6 @@
     "data": "2026-11-11T23:00:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Israeli strikes hit medical complex as nine killed across Gaza",
-    "resumo": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T22:55:37.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
@@ -379,15 +532,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-    "resumo": "The move comes months after the government of Javier Milei designated Iran&#039;s IRGC as a &#039;terrorist organisation&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T22:34:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Volkswagen interrompe plano de modernização devido a restrições financeiras",
     "resumo": "Montadora anunciou que irá abandonar projeto de modernização em larga escala em função de sua atual situação econômica. Representantes dos funcionários acusam a direção de priorizar lucros de curto prazo.",
@@ -414,15 +558,6 @@
     "data": "2026-11-11T22:13:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-    "resumo": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T22:10:12.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Receita retém R$ 35 milhões em itens irregulares no Porto de Vitória",
@@ -430,15 +565,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-retem-r-35-milhoes-em-itens-irregulares-no-porto-de-vitoria",
     "imagem": null,
     "data": "2026-11-11T22:10:00.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-    "resumo": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-    "data": "2026-11-11T22:08:56.000Z"
   },
   {
     "categoria": "Internacional",
@@ -450,15 +576,6 @@
     "data": "2026-11-11T22:07:37.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Viva Maria recebe a Homenagem do Ano do Prêmio Engenho de Comunicação",
-    "resumo": "<p><strong>O programa Viva Maria, da Rádio Nacional, recebeu a Homenagem do Ano na 22ª edição do Prêmio Engenho de Comunicação. A premiação reconheceu o pioneirismo da atração, apresentada pela jornalista Mara Régia, na escuta e no acolhimento das mulheres ao longo de seus 45 anos de história.</strong><img src=\"https://agenciabrasil.ebc.c",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/viva-maria-recebe-homenagem-do-ano-do-premio-engenho-de-comunicacao",
-    "imagem": null,
-    "data": "2026-11-11T22:07:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Um quarto dos alemães deseja regime autoritário de direita",
@@ -468,15 +585,6 @@
     "data": "2026-11-11T22:07:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Toffoli vota por fim da imunidade para crime patrimonial contra mulher",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/toffoli-vota-por-fim-da-imunidade-para-crime-patrimonial-contra-mulher\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/toffoli-vota-por-fim-da-imunidade-para-crime-patrimonial-contra-mulher",
-    "imagem": null,
-    "data": "2026-11-11T22:06:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Jess Wilson and Ben Carroll have missed a historic chance to show they understand the scale of the hard-right threat",
@@ -484,15 +592,6 @@
     "link": "https://www.theguardian.com/australia-news/commentisfree/2026/nov/12/jess-wilson-ben-carroll-missed-opportunity-hard-right-threat-vic-elections-ntwnfb",
     "imagem": "https://i.guim.co.uk/img/media/b620d7eb2609a970e8c54ae4e39d414a4281b19c/0_180_2151_1720/master/2151.jpg?width=140&quality=85&auto=format&fit=max&s=0a0fc522797281f84b42cb3226ee0321",
     "data": "2026-11-11T22:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Enem 2026: entenda como funciona a Teoria da Resposta ao Item",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-entenda-como-funciona-teoria-da-resposta-ao-item\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Uma",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-entenda-como-funciona-teoria-da-resposta-ao-item",
-    "imagem": null,
-    "data": "2026-11-11T22:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -511,15 +610,6 @@
     "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
     "imagem": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127",
     "data": "2026-11-11T21:59:07.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
-    "resumo": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.",
-    "link": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/00dc-justice-jbhl/00dc-justice-jbhl-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T21:59:02.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -549,24 +639,6 @@
     "data": "2026-11-11T21:42:20.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Deadline nears to claim piece of $11-million CIBC mutual funds settlement",
-    "resumo": "Investors who held units of a CIBC mutual fund or a Renaissance mutual fund on or before Sept. 5, 2025 might be eligible for compensation. The deadline to apply is Nov. 18.",
-    "link": "https://www.cbc.ca/news/business/cibc-mutual-fund-settlement-11-million-9.7418367?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/36589a49-27ec-49b7-926f-24240f44c85b,1794430964612/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C76%2C5256%2C2956%29%3B",
-    "data": "2026-11-11T21:38:17.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Quebec government to table bill restricting access to English-language colleges",
-    "resumo": "Next year will mark half a century since the adoption of Quebec's Charter of the French Language, and the Parti Québécois government intends to mark the milestone by reforming the law, says Pascal Bérubé, the minister of the French language.",
-    "link": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f56f2377-42b5-4e80-8f90-7588bce7cdb2,1794430914705/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4500%2C2531%29%3B",
-    "data": "2026-11-11T21:35:14.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "UE está longe da meta de cortar emissões no transporte em 90% até 2050",
@@ -574,51 +646,6 @@
     "link": "https://www.dw.com/pt-br/ue-está-longe-da-meta-de-cortar-emissões-no-transporte-em-90-até-2050/a-79912043?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-11T21:04:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-    "resumo": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T21:03:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Thousands march to mark Poland’s Independence Day",
-    "resumo": "Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T21:02:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hoax bomb threats target schools across Italy, UK and Ireland",
-    "resumo": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T21:01:42.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Oil production nears pre-Iran war levels, OPEC says",
-    "resumo": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
-    "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T20:45:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Gaza goalkeeper killed in Israeli attack",
-    "resumo": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-11T20:44:34.000Z"
   },
   {
     "categoria": "Internacional",
@@ -639,15 +666,6 @@
     "data": "2026-11-11T20:17:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Biden Calls His Disastrous 2024 Debate Performance ‘Not Very Consequential’",
-    "resumo": "A debate against Donald Trump in which Mr. Biden, then the president, repeatedly lost his train of thought led to widespread Democratic pressure to end his campaign, which Mr. Biden eventually did.",
-    "link": "https://www.nytimes.com/2026/11/11/us/politics/biden-debate-trump-comments-interview.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-biden-debate-chqm/11pol-biden-debate-chqm-mediumSquareAt3X.jpg",
-    "data": "2026-11-11T20:14:42.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Vítimas polonesas do nazismo apelam à sociedade civil alemã",
@@ -655,15 +673,6 @@
     "link": "https://www.dw.com/pt-br/vítimas-polonesas-do-nazismo-apelam-à-sociedade-civil-alemã/a-79919393?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-11T20:09:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "African writing award probe finds 'no evidence' winning story was AI generated",
-    "resumo": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-    "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg",
-    "data": "2026-11-11T20:00:54.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -709,6 +718,15 @@
     "link": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
     "imagem": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=bc5e48c720140cea1035e0b541a65fb0",
     "data": "2026-11-11T18:43:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Famed ship SS United States to be sunk off coast of Florida",
+    "resumo": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
+    "data": "2026-11-11T18:42:27.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1026,15 +1044,6 @@
     "data": "2026-11-11T14:55:39.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Flooding prompts evacuation order for part of Pemberton as storm batters B.C.",
-    "resumo": "The Village of Pemberton issued an evacuation order for a number of properties due to flooding on Wednesday, as heavy rain continued to pound parts of British Columbia.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/bc-fall-rainstorm-nov-10-9.7417639?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e777d414-51ab-4c83-bddf-01a96ab04cd9,1794370116977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1540%2C4373%2C2459%29%3B",
-    "data": "2026-11-11T14:24:19.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Following big Democratic wins, these swing voters are looking for results",
@@ -1087,15 +1096,6 @@
     "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7854x5236+0+0/resize/7854x5236!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fe5%2Fc440fa07484eafad83691a255e57%2Fap26314378728116.jpg",
     "data": "2026-11-11T13:30:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-    "resumo": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-    "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg",
-    "data": "2026-11-11T13:25:47.000Z"
   },
   {
     "categoria": "Internacional",
