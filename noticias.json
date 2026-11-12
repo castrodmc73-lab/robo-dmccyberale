@@ -1,66 +1,183 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+    "resumo": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F48%2Fbcd0e3834c77ade3e983e6858561%2Fap26316273240387.jpg",
+    "data": "2026-11-12T09:29:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Alerta de bomba na estação de trem de Calais, na França, fecha local e causa atrasos",
+    "resumo": "Alerta de bomba em estação ferroviária do norte da França afeta circulação de trens Um alerta de bomba está em vigor na estação ferroviária de Calais -Frethun, no norte da França, informaram as autoridades locais nesta quarta-feira. O alerta de bomba também está afetando viagens ferroviárias internacionais. O alerta pode ter impacto no tr",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/alerta-de-bomba-na-estacao-de-trem-de-calais-na-franca-fecha-local-e-causa-atrasos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Ip0BYfF5qb7TVhpDKdjzHRyNt5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/lVoNTxTy6GaZ9BlW6XUw/2026-11-11t120257z-60906279-rc2nloae0mmd-rtrmadp-3-europe-security-schools-italy.jpg",
+    "data": "2026-11-12T09:28:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Peixe de 70 kg capturado por pescador no PI é típico da Amazônia e considerado invasor",
+    "resumo": "Pescador captura peixe de 70 kg em lagoas do Rio Parnaíba, em Uruçuí O peixe de 70 kg capturado pelo pescador profissional José Barros da Rocha Filho, de 47 anos, na noite de terça-feira (10), é uma espécie típica da Amazônia, mas considerada invasora na bacia do Rio Parnaíba, no Piauí. Conhecido como pirarucu, o animal pode ultrapassar d",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/12/peixe-capturado-no-pi-amazonia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Yg1xrWxQOmfWbzSuKwmDdb4DrZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/H7CTxZSKmTuQ6zF0NV6w/edicao-imagens-g1-2026-11-11t130952.958.jpg",
+    "data": "2026-11-12T09:25:16.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
-    "titulo": "Cop31: ‘The crisis is upon us now’, Burnham tells climate summit",
+    "titulo": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
     "resumo": "<p>World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day</p><p><strong>Zack Polanski</strong>, leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today programme. Saying he was “not at all reassured” by the prime minister’s words, he d",
     "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-    "imagem": "https://i.guim.co.uk/img/media/2c401b6bc4cc25a43c31aef0b8f8571fdd2d1c56/269_0_2709_2168/master/2709.jpg?width=140&quality=85&auto=format&fit=max&s=689b4dcce9a560d3b0b4c610cc3a3ed1",
-    "data": "2026-11-12T08:33:15.000Z"
+    "imagem": "https://i.guim.co.uk/img/media/8bb38451c48fb8cbd4f0bd7018619c3fa2b03583/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2f9f8bba3bc3eaf4ff0b5b6c59d4251f",
+    "data": "2026-11-12T09:24:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Deputado estadual Caio Roberto é alvo de operação da PF, na PB",
+    "resumo": "Deputado estadual Caio Roberto é alvo de operação da PF, na PB Reprodução / TV Cabo Branco A Polícia Federal (PF) cumpriu um mandado judicial na residência do deputado estadual Caio Roberto (MDB), nesta quinta-feira (12), durante uma operação realizada na região metropolitana de João Pessoa. O imóvel fica em um condomínio no bairro de Int",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/12/deputado-estadual-caio-roberto-e-alvo-de-operacao-da-pf-na-pb.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/idxUGJvJ5tJbtQT9fD6CbksPgcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/e/3rb5nDSWGdsfKsMLBWIA/captura-de-tela-2026-11-12-062222.jpg",
+    "data": "2026-11-12T09:22:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "AO VIVO: assista à programação da NSC TV",
+    "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
+    "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T09:16:57.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ataques da Rússia causam apagão em 9 regiões da Ucrânia",
+    "resumo": "Bombeiros trabalham no local de um prédio de apartamentos danificado após um ataque de drone russo em Kien REUTERS/Gleb Garanich Os ataques realizados pela Rússia durante a madrugada desta quinta-feira (12) causam apagões em nove regiões da Ucrânia, segundo autoridades ucranianas. De acordo com o o vice-ministro da Energia, Artem Nekrasov",
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/12/ataques-da-russia-causam-apagao-em-9-regioes-da-ucrania.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qYrvt_NJ-OZkBpa0BC3SPcXbvUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/N/OnSJgVSTO7qX7svL6lsw/2026-11-12t072311z-744820898-rc27moaqcdlz-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
+    "data": "2026-11-12T09:16:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dois homens são mortos a tiros dentro de bar no interior do Ceará",
+    "resumo": "Dois homens são mortos a tiros dentro de bar em Itaiçaba, no interior do Ceará. Internet/ Reprodução Dois homens foram mortos a tiros dentro de um bar no município de Itaiçaba, a 162 quilômetros de distância de Fortaleza, na noite desta terça-feira (10). Segundo testemunhas, as vítimas estavam se divertindo no estabalecimento quando foram",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/12/dois-homens-sao-mortos-a-tiros-dentro-de-bar-no-interior-do-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6xV3Ux5sFHrmVHeT050VEVmXpeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/L/jtoyIWSjm8iKtVaw5uVQ/tiro-2.jpg",
+    "data": "2026-11-12T09:15:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Bom Dia ES",
+    "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
+    "data": "2026-11-12T09:13:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Conheça nova casa de onça-pintada preta do Paraná que viajou mais de 2 mil km para conhecer ‘namorado’ no Tocantins",
+    "resumo": "Onça-pintada nascida em Foz do Iguaçu viaja para o Tocantins com o objetivo de reprodução A onça-pintada Jataí, que nasceu em Foz do Iguaçu, no oeste do Paraná, terá como nova casa uma reserva de 5 mil hectares no Tocantins, dedicada à preservação de animais silvestres e à conservação do Cerrado brasileiro. O local, chamado Reserva Conser",
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/12/conheca-nova-casa-de-onca-pintada-preta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/O-HEvPUQjvDiENLJfGItuQ1wgi8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/7rShrAQBGtrh9naMsI0g/g1-pr-2026-11-11t152445.611.jpg",
+    "data": "2026-11-12T09:11:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como crânio de possível escravizado morto na Bahia foi parar em Havard? Carta escrita há mais de 100 anos explica",
+    "resumo": "Crânio de escravizado levado ilegalmente para os Estados Unidos volta à Bahia Uma carta escrita nos anos 1800 explica como um crânio de um possível escravizado morto em Salvador foi parar na universidade de Havard, nos Estado Unidos, onde permaneceu por 190 anos. O resto mortal foi devolvido na quarta-feira (11), em uma cerimônia na reito",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/12/como-cranio-de-possivel-escravizado-morto-na-bahia-foi-parar-em-havard-carta-escrita-ha-mais-de-100-anos-explica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Tqg9sz_zYwRg5nQlGyoR5tI05cM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/r/6mR4sCRgywOtrpHFoyQg/11caixa.jpeg",
+    "data": "2026-11-12T09:02:03.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+    "resumo": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T09:01:24.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-    "resumo": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
-    "data": "2026-11-12T08:26:50.000Z"
+    "titulo": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "resumo": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
+    "data": "2026-11-12T09:00:15.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Jovem autista desaparece após sair de casa no RJ e ser localizado em delegacia no litoral de SP",
-    "resumo": "Caio Oliveira Sabino dos Santos, de 29 anos, foi visto a última vez no 3º Distrito Policial de Praia Grande (SP) Arquivo Pessoal Um jovem de 29 anos, diagnosticado com autismo, desapareceu depois de sair de casa, no Rio de Janeiro (RJ), e embarcar em um ônibus com destino a São Paulo (SP). Segundo familiares, Caio Oliveira Sabino dos Sant",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/12/jovem-autista-desaparece-apos-sair-de-casa-no-rj-e-ser-localizado-em-delegacia-no-litoral-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ojpBHDT04LmLMJpUtn64yVYHPRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/T/p6JSetR2m4dOt4ANVInQ/caio.jpg",
-    "data": "2026-11-12T08:22:37.000Z"
+    "titulo": "O menor bioma brasileiro que reúne milhares de espécies e depende das águas que nascem no Cerrado",
+    "resumo": "O Pantanal é a maior área úmida de água doce do mundo. SOS Pantanal/Reprodução O Pantanal é a maior área úmida de água doce do mundo, com cerca de 190 mil km². Localizado principalmente nos estados de Mato Grosso do Sul e Mato Grosso, o bioma também se estende por territórios da Bolívia e do Paraguai, conforme a organização SOS Pantanal. ",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/12/o-menor-bioma-brasileiro-que-reune-milhares-de-especies-e-depende-das-aguas-que-nascem-no-cerrado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xBCBhf5xDhcf5co_fa8aRCyltrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/W/ITMq7pSY2ZY8oBem1iQg/design-sem-nome-35-.png",
+    "data": "2026-11-12T09:00:01.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Jovem acusado de roubo é absolvido após ser reconhecido por RG perdido nove meses antes do crime",
-    "resumo": "Justiça absolve jovem reconhecido por foto de RG perdido 9 meses antes de roubo no litoral de SP Reprodução e Divulgação/SAP A Justiça de São Vicente, no litoral de São Paulo, absolveu, por falta de provas, um jovem de 26 anos acusado de participar de um roubo a uma residência em 2021. Ele havia sido reconhecido pelas vítimas, mas, segund",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/12/jovem-acusado-de-roubo-e-absolvido-apos-ser-reconhecido-por-rg-perdido-nove-meses-antes-do-crime.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mlZiOJTFqYmxW4h5P4QHGc8BkJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/r/CVMUEjS5CSSJKdWXwVag/inserir-um-titulo-2026-11-11t171343.219.jpg",
-    "data": "2026-11-12T08:22:11.000Z"
+    "titulo": "Cientista do AP que criou kit solar para castanheiros recebe prêmio 'Menina Inspiradora do Ano' em SP",
+    "resumo": "Pesquisadora amapaense Manuelle da Costa Pereira durante o evento. Divulgação/Mulheres Inspiradoras A pesquisadora amapaense Manuelle da Costa Pereira, de 23 anos, foi homenageada em São Paulo na terça-feira (10) com o prêmio 'Menina Inspiradora do Ano 2026', durante a cerimônia Mulheres Inspiradoras do Ano. A honraria reconhece o trabalh",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/12/cientista-do-ap-que-criou-kit-solar-para-castanheiros-recebe-premio-menina-inspiradora-do-ano-em-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/EXjb2afkftBqVU53DWetPB2RC10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/HCoYO1Rpm8DPyT01NOnw/v2-382652d0-33fe-4200-8108-48ab95edef3e.jpg",
+    "data": "2026-11-12T09:00:01.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Como a APS acredita que hackers invadiram os sistemas do Porto de Santos",
-    "resumo": "Porto de Santos funciona normalmente após ataque cibernético à autoridade portuária A Autoridade Portuária de Santos (APS) acredita que um vírus já estava instalado nos equipamentos da companhia e foi acionado por uma queda de energia na sexta-feira (6), o que resultou no ataque hacker que deixou os sistemas administrativos indisponíveis.",
-    "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/12/como-a-aps-acredita-que-hackers-invadiram-os-sistemas-do-porto-de-santos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/svBh39pO3fvYl7Gder2UDIhE-8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/0/PQWzsLRRqlr0ODmt5KoQ/aps-erro.jpg",
-    "data": "2026-11-12T08:21:21.000Z"
+    "titulo": "Conheça as cidades onde mineradora estrangeira encontrou concentração de terras raras no TO",
+    "resumo": "Águas termais de Jaú do Tocantins Divulgação/Prefeitura de Jaú do Tocantins Palmeirópolis e Jaú do Tocantins ganharam destaque após uma mineradora estrangeira identificar elementos de terras raras pesadas nas duas regiões. Com tradições nortistas e um ritmo musical que mescla forró e sertanejo, as cidades são conhecidas pela forte cultura",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/12/conheca-as-cidades-onde-mineradora-estrangeira-encontrou-concentracao-de-terras-raras-no-to.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/d7nwuzOzVV8FxGMGA4Rlxf2oyhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/B5zcC4SB2hgeWthlB8iw/foto-e-montagem-vertical-7-.png",
+    "data": "2026-11-12T09:00:01.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Entenda o que é 'volume morto' e por que a seca na barragem do Poxim liga o sinal de alerta na Grande Aracaju",
-    "resumo": "Nível da barragem do Poxim apresenta nova queda e opera com 21,2% da capacidade Com o nível da barragem do Poxim, responsável pelo abastecimento da Grande Aracaju, reduzido a apenas 21,2% de sua capacidade devido aos impactos do El Niño, o governo do estado iniciou uma corrida contra o tempo e uma preocupação com o chamado \"volume morto\".",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/12/volume-morto-barragem-do-poxim-grande-aracaju.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_xNauyw4C1tTRSwF9BFd1C0QYdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/C/oftcBcTuCQiANJOizgbA/crop-foto-23-.jpg",
-    "data": "2026-11-12T08:15:14.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "LinkedIn, Monster take down over 1,000 fake job postings after CBC investigation",
+    "resumo": "More than 1,500 misleading job postings on LinkedIn and Monster were actually connected to a multi-level marketing company, a CBC News visual investigation has found.",
+    "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4698d13a-5ae6-41a5-9a0c-1c9a185a70cf,1794348315810/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-12T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Cão 'gari'? Cachorro caramelo carrega saco de lixo e diverte moradores no interior de MG",
-    "resumo": "Cachorro caramelo carrega saco de lixo e diverte moradores no interior de MG O serviço de coleta de lixo ganhou um \"gari\" de quatro patas em Carmo do Cajuru, no Centro-Oeste de Minas Gerais. Um cachorro caramelo foi flagrado andando pelas ruas com um saco grande de lixo na boca. A cena inusitada foi registrada em vídeo pelo influenciador ",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/12/video-cao-gari-cachorro-caramelo-carrega-saco-de-lixo-e-diverte-moradores-no-interior-de-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/A5Id7fn2gnEVIz5WuLcVhlaePS8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/Q/ZIk9krSWG9lZqQJwA4Aw/cachorro03.jpg",
-    "data": "2026-11-12T08:15:06.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "American Airlines resumes flights to Haiti, providing a vital route into the country",
+    "resumo": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. government advises people to avoid all travel to the Caribbean nation due to security concerns.",
+    "link": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/7e96e5f3-1502-44a7-836e-923d0db155c4,1794282575087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C3561%2C2003%29%3B",
+    "data": "2026-11-12T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+    "resumo": "American AI giant Anthropic's expected debut on the Nasdaq has one money manager recalling the dot-com bubble of the 2000s.",
+    "link": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3089b97b-00bb-4a00-a2eb-cb698da75b94,1794419114145/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+    "data": "2026-11-12T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Shelter workers raise alarm as severe stomach bug hits Montreal's homeless population",
+    "resumo": "A severe stomach bug has spread through Montreal's homeless population, raising concern among shelter workers who say not enough is being done to contain it.",
+    "link": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9f8ec592-880a-4433-8704-f595ca5587f1,1794426846169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C5043%2C2836%29%3B",
+    "data": "2026-11-12T09:00:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -69,7 +186,61 @@
     "resumo": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
     "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-12T08:14:54.000Z"
+    "data": "2026-11-12T08:59:08.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+    "resumo": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg",
+    "data": "2026-11-12T08:46:57.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "UK economy grows at fastest rate for more than two years",
+    "resumo": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
+    "data": "2026-11-12T08:46:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "India bypasses own rules to buy Israeli phone-hacking tech",
+    "resumo": "India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+    "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T08:40:08.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Earth&#039;s fiery birth may have created hundreds of oceans&#039; worth of water",
+    "resumo": "Earth&#039;s water may have been born in the planet&#039;s fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans&#039; worth during Earth&#039;s formation. The findings sug",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+    "imagem": null,
+    "data": "2026-11-12T08:38:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+    "resumo": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T08:35:20.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+    "resumo": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T08:34:45.000Z"
   },
   {
     "categoria": "Internacional",
@@ -79,15 +250,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T08:12:40.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "UK economy grows at fastest rate for more than two years",
-    "resumo": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
-    "data": "2026-11-12T08:11:44.000Z"
   },
   {
     "categoria": "Internacional",
@@ -108,69 +270,6 @@
     "data": "2026-11-12T08:00:13.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cavado meteorológico deve trazer chuvas na região e Defesa Civil faz alerta para temporais nesta quinta (12)",
-    "resumo": "Veja a previsão do tempo A Defesa Civil de São Paulo emitiu um alerta para o retorno das instabilidades no estado. No Vale do Paraíba e na região bragantina, a previsão é de chuva localmente forte nesta quinta-feira (12), principalmente durante a tarde, com possibilidade de temporais. O meteorologista Gustavo Escobar, do Instituto Naciona",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/12/cavado-meteorologico-deve-trazer-chuvas-na-regiao-e-defesa-civil-faz-alerta-para-temporais-nesta-quinta-12.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/84UcoWzgfa2wN7eMsAQTHywteps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/M/0VBSXBRR2IPbwMNNjDrQ/foto-g1-2026-10-16t181436.347.png",
-    "data": "2026-11-12T08:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Queda de Peña, uma 'implosão controlada' dos governistas para manter o poder no Paraguai",
-    "resumo": "Polícia do Paraguai consegue entrar no bunker da casa o ex-presidente Santiago Peña O colapso de um banco derrubou o presidente do Paraguai, mas foi o próprio partido governista que decidiu o destino dele. O impeachment de Santiago Peña expôs uma disputa de poder dentro do histórico Partido Colorado, que tenta preservar a hegemonia políti",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/queda-de-pena-uma-implosao-controlada-dos-governistas-para-manter-o-poder-no-paraguai.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/931fvwvhca_M4XOgqnybEMDgDR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/tvjNW7SseODUS6B9GLtQ/2026-11-05t162617z-2095193189-rc28k9aom5wk-rtrmadp-3-paraguay-politics.jpg",
-    "data": "2026-11-12T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Terceira vítima atingida por caminhonete que matou mulher e criança está em estado gravíssimo na UTI, diz irmã",
-    "resumo": "Suspeito de feminicídios em Campos Lindos é procurado Mariza Vieira, de 38 anos, atropelada intencionalmente pelo ex-companheiro enquanto pilotava uma motocicleta em Campos Lindos, no norte do Tocantins, segue internada em estado gravíssimo na Unidade de Terapia Intensiva (UTI) do Hospital Regional de Araguaína (HRA). O crime aconteceu no",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/12/terceira-vitima-atingida-por-caminhonete-que-matou-mulher-e-crianca-esta-em-estado-gravissimo-na-uti-diz-irma.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RJqifv-EojJtvMRKypTrpOfV0ag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/c/uW5v70TUGzjni4g3rIgw/copia-de-modelo-foto-fundo-borrado-24-.png",
-    "data": "2026-11-12T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Creche pública com surto de sarna já havia suspendido aulas duas vezes por infecção em Dourados",
-    "resumo": "Escabiose, ou sarna humana, causa lesões na pele e muita coceira Magnific O Centro de Educação Municipal Infantil (Ceim) Recanto Raízes, em Dourados (MS), suspendeu as aulas nesta quarta-feira (11) após um surto de sarna que atingiu 40 pessoas, entre crianças e funcionários. A unidade já havia interrompido as atividades outras duas vezes,",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/12/creche-publica-com-surto-de-sarna-ja-havia-suspendido-aulas-duas-vezes-por-infeccao-em-dourados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hd1wrlRD9peKY-W__mq-JynqTsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/9/1Pr7BVQ2igTPnaBFUWGA/sarna1.jpg",
-    "data": "2026-11-12T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Grávida, 'Rainha da Maisena' aumenta dose diária de amido de milho para controlar doença rara: 'Quase meio quilo'",
-    "resumo": "**VOU INSERIR VÍDEO AUTOMÁTICO APÓS EDIÇÃO** A rotina de Letícia Ramos, conhecida nas redes sociais como a 'Rainha da Maisena', ganhou um novo ingrediente: a maternidade. Aos 35 anos, a moradora de Uberaba, no Triângulo Mineiro, convive desde a infância com uma doença genética rara que a faz consumir amido de milho diariamente. Grávida do",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/12/gravida-rainha-da-maisena-aumenta-dose-diaria-de-amido-de-milho-para-controlar-doenca-rara-quase-meio-quilo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QWwDFypyrY9_mdPZFNyfOlNww3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/L/pV3Mw6Tz6EipcHEIVqpQ/design-sem-nome-3-.png",
-    "data": "2026-11-12T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Moradora que perdeu 17 familiares nas chuvas de Juiz de Fora conquista casa própria 9 meses após tragédia",
-    "resumo": "Moradora que perdeu familiares nas chuvas em Juiz de Fora conquista casa própria Quase nove meses após sobreviver ao deslizamento que destruiu o apartamento onde morava e perder 17 familiares no Bairro Parque Burnier, em Juiz de Fora, Renata Garcia Silva e os três filhos receberam as chaves da casa própria. O novo imóvel fica a poucos qui",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/12/moradora-que-perdeu-17-familiares-nas-chuvas-de-juiz-de-fora-conquista-casa-propria-9-meses-apos-tragedia.ghtml",
-    "imagem": null,
-    "data": "2026-11-12T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Complexo Cultural Yolanda e Edson Queiroz inaugura quatro andares com exposições de artes visuais em Fortaleza",
-    "resumo": "Museu da Fundação Edson Queiroz é o primeiro equipamento inaugurado no Complexo Cultural Yolanda e Edson Queiroz. Ismael Soares/ SVM Quatro pavimentos com exposições de artes visuais e de acesso gratuito ao público fazem parte do Museu da Fundação Edson Queiroz. O equipamento cultural integra o Complexo Cultural Yolanda e Edson Queiroz, q",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/12/complexo-cultural-yolanda-e-edson-queiroz-inaugura-quatro-andares-com-exposicoes-de-artes-visuais-em-fortaleza.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Jte3LiwKhg0RtG89gFiPrnBSZ0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/s/qNbHekQ0Gad3Mn7w6nwQ/whatsapp-image-2026-11-11-at-14.51.33.jpeg",
-    "data": "2026-11-12T08:00:00.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
@@ -182,7 +281,7 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+    "titulo": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
     "resumo": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
     "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2c/live/a70e9220-de61-11f1-a701-fddedf244c16.jpg",
@@ -262,48 +361,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "From Pong to GTA VI: Play your way through 50 years of video games",
-    "resumo": "Video games are now a $200bn business. Play through the six games that tell the story of how they got there.",
-    "link": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T06:17:48.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-    "resumo": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg",
-    "data": "2026-11-12T06:12:05.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "New York building collapse kills at least two, officials say",
     "resumo": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
     "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
     "data": "2026-11-12T05:12:56.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "French guard collapses as Macron rushes to help",
-    "resumo": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T05:11:15.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "More than 300 migrants rescued off Spain’s Canary Islands",
-    "resumo": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T05:04:25.000Z"
   },
   {
     "categoria": "Opinião",
@@ -313,15 +376,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
     "imagem": "https://i.guim.co.uk/img/media/9ba5d77a81961d6bbb2b150afadd866fc69a631c/622_134_2230_1784/master/2230.jpg?width=140&quality=85&auto=format&fit=max&s=fdd59a47e4742c3eaf8264b0569af3ad",
     "data": "2026-11-12T05:00:11.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-    "resumo": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T04:41:17.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -560,29 +614,11 @@
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "From Paris to DC - why offices are being turned into apartments",
+    "titulo": "Office buildings emptied out but are filling up again - as homes",
     "resumo": "Office buildings with low occupancy rates are being transformed into flats.",
     "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg",
     "data": "2026-11-12T00:05:40.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Scientists discover that necks didn&#039;t evolve for the reason we thought",
-    "resumo": "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution. Rather than evolving to help animals turn their heads, necks may have emerged as part of the anatomical changes that allowed them to move using their front li",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
-    "imagem": null,
-    "data": "2026-11-11T23:49:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
-    "imagem": null,
-    "data": "2026-11-11T23:46:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -590,6 +626,15 @@
     "titulo": "Precariedade do sistema prisional entra no debate da maioridade penal",
     "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal",
+    "imagem": null,
+    "data": "2026-11-11T23:46:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
     "imagem": null,
     "data": "2026-11-11T23:46:00.000Z"
   },
@@ -637,24 +682,6 @@
     "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/coloms-win-came-down-to-a-slow-count-of-a-few-thousand-ballots",
     "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-slowcount-pgmh/11midterms-slowcount-pgmh-mediumSquareAt3X.jpg",
     "data": "2026-11-11T23:15:57.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Mississippi's Scott Colom secures Senate seat in another midterm win for Democrats",
-    "resumo": "Mississippi Democrat Scott Colom will be the state's first Black senator since the post-Civil War Reconstruction era. Colom's victory also offers Democrats an unexpected boost in their effort to win control of the U.S. Senate.",
-    "link": "https://www.cbc.ca/news/world/scott-colom-mississippi-senate-democrats-9.7418482?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/fb6c2f77-3bea-4704-b802-9f5417a4ddcb,1794435542893/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C8301%2C4669%29%3B",
-    "data": "2026-11-11T23:14:39.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Canada says Russian hockey players with visas will still be barred from world junior championship",
-    "resumo": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.",
-    "link": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/93afb7d9-70b1-45cf-93d0-032938ab5bf2,1794438551864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C5518%2C3103%29%3B",
-    "data": "2026-11-11T23:09:18.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -738,15 +765,6 @@
     "data": "2026-11-11T22:26:18.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Halifax’s Brian Ahern, who produced albums by Anne Murray and Johnny Cash, dead at 81",
-    "resumo": "A Halifax-born music producer who played a big role in helping encourage fellow Bluenoser Anne Murray to pursue a career in music and later produced albums by artists such as Johnny Cash and Emmylou Harris is being remembered for the mark he left on the music industry.",
-    "link": "https://www.cbc.ca/news/canada/nova-scotia/brian-ahern-halifax-obituary-music-producer-9.7418309?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f1866dfa-3371-4611-9e12-fcd52d1bb4ba,1794429229414/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3324%2C1869%29%3B",
-    "data": "2026-11-11T22:13:50.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Projeto quer retirar R$ 10,5 bi em subsídios ao diesel da meta fiscal",
@@ -799,24 +817,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-11T21:54:21.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Various beers under Molson Coors banner recalled Canada-wide",
-    "resumo": "Various beers, both alcoholic and non-alcoholic, under the Molson Coors banner have been recalled across Canada due to pieces of metal, according to Health Canada.",
-    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/molson-coors-recall-nl-9.7418429?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.6435900,1741809322000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
-    "data": "2026-11-11T21:46:02.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Deadline nears to claim piece of $11-million CIBC mutual funds settlement",
-    "resumo": "Investors who held units of a CIBC mutual fund or a Renaissance mutual fund on or before Sept. 5, 2025 might be eligible for compensation. The deadline to apply is Nov. 18.",
-    "link": "https://www.cbc.ca/news/business/cibc-mutual-fund-settlement-11-million-9.7418367?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/36589a49-27ec-49b7-926f-24240f44c85b,1794430964612/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C76%2C5256%2C2956%29%3B",
-    "data": "2026-11-11T21:38:17.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1206,15 +1206,6 @@
     "data": "2026-11-11T12:32:48.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-    "resumo": "Defense Secretary Pete Hegseth has been spared from the House&apos;s impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-    "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-    "imagem": null,
-    "data": "2026-11-11T12:21:59.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "New Indian mega library rocked by scandal over 'AI-generated books'",
@@ -1348,5 +1339,14 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
     "imagem": null,
     "data": "2026-11-11T00:59:32.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Robot vessels take on the dangerous work of mine hunting",
+    "resumo": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-11T00:19:13.000Z"
   }
 ]
