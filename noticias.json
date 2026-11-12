@@ -1,66 +1,138 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PRF apreende dois carros de luxo com placas falsas para fraudar pedágio em MG",
+    "resumo": "Carros de luxo apreendidos pela PRF com placas falsas PRF/Divulgação A Polícia Rodoviária Federal (PRF) apreendeu, nesta quarta-feira (11), dois carros de luxo com placas falsas, na BR-381, em João Monlevade, na região na regial central de Minas Gerais. Os veículos foram abordados após passarem por pedágios eletrônicos. As apreensões ocor",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/12/prf-apreende-dois-carros-de-luxo-com-placas-falsas-para-fraudar-pedagio-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/r5QpN4mOIPJUj2RkhZPX2jucZ44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/a/Ynp7tsSumtRp5A7EpDkg/0-00-jor-carros-placas-falsas.mxf.png",
+    "data": "2026-11-12T11:31:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Bom Dia ES",
+    "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
+    "data": "2026-11-12T11:30:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bom Dia Cidade",
+    "resumo": "Bom Dia Cidade Transmissão encerrada.",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/bom-dia-cidade-ribeirao-preto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg",
+    "data": "2026-11-12T11:30:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Bahia",
+    "resumo": "Assista aos telejornais da TV Bahia",
+    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T11:30:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cabo do Exército morre afogado ao tentar atravessar represa com amigos em Campo Grande",
+    "resumo": "O cabo do Exército Brasileiro Gabriel Henrique Cardozo, de 20 anos, morreu afogado na quarta-feira (11), ao tentar atravessar uma represa a nado, em Campo Grande. Ele estava acompanhado de outros três militares, que tentaram socorrê-lo, mas não conseguiram encontrá-lo. Gabriel Henrique Cardozo, de 20 anos, morreu afogado em uma represa em",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/12/cabo-do-exercito-morre-afogado-ao-tentar-atravessar-represa-com-amigos-em-campo-grande.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Hwf9gmegAXMkVM50jIZin5MI3Lc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/d/sxvbR3R1OK44LALjNGpQ/cabo-1-.png",
+    "data": "2026-11-12T11:28:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Escândalos amorosos podem levar a afastamento de CEO da Nvidia",
+    "resumo": "Após revelação de caso com suposta espiã chinesa, mídia dos EUA relata sobre outro romance extraconjugal, desta vez com uma subordinada. Jensen Huang pode estar às vésperas de perder liderança da empresa.",
+    "link": "https://www.dw.com/pt-br/escândalos-amorosos-podem-levar-a-afastamento-de-ceo-da-nvidia/a-79928053?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-12T11:28:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Abastecimento de água é retomado em Porto Alegre após interrupção; saiba quando será normalizado o serviço",
+    "resumo": "Abastecimento de água é retomado em Porto Alegre após interrupção Quase 24 horas após a interrupção na Estação de Tratamento de Água (ETA) Menino Deus, o abastecimento de água foi retomado em Porto Alegre. O retorno da água ocorre de forma gradual, com previsão de normalização até a na manhã de sexta-feira (13). O Departamento Municipal d",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/12/abastecimento-agua-retomado-porto-alegre-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5u0FMf_yJhiyTdwg9noprZz7ux8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/O/0dLHfWQQOOcdkua4mwAw/g1-25-.jpg",
+    "data": "2026-11-12T11:26:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pousada Garoa: MP denuncia dono, ex-fiscal e homem apontado como autor de incêndio com 11 mortes em Porto Alegre",
+    "resumo": "Pousada Garoa: Ministério Público denuncia três pessoas por incêndio com 11 mortes no RS Três pessoas foram denunciadas pelo Ministério Público do Rio Grande do Sul (MPRS) na quarta-feira (11) pelo incêndio na Pousada Garoa, no Centro de Porto Alegre. A tragédia causou 11 mortes e deixou 12 feridos na madrugada de 26 de abril de 2024. O l",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/12/mp-denuncia-tres-incendio-pousada-garoa-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VFVYX_Nfr9bG1xmsIeqtGphFjxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/E/BfnoTkTMWpdtn1XtBsNw/g1-3-.jpg",
+    "data": "2026-11-12T11:25:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente de 16 anos flagrado espancando cachorro em Cajuru, SP, é liberado",
+    "resumo": "Imagens mostram filhote de husky sendo agredida a chutes e arrastada pela calçada em Cajuru (SP) Câmera de segurança O adolescente de 16 anos detido após ser flagrado por câmeras de segurança agredindo uma cachorra da raça husky siberiano foi liberado após ser ouvido pela polícia. O caso aconteceu na última segunda-feira (9) e o jovem foi",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/12/adolescente-de-16-anos-flagrado-espancando-cachorro-em-cajuru-sp-e-liberado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ScrKf-CDE5JGADy6SsU1sI2kbEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/WC5LC7Ty6X1ZuqQhh5Jg/molduras-g1-rp.jpg",
+    "data": "2026-11-12T11:24:47.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "New York building collapse kills at least two, officials say",
     "resumo": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
     "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
-    "data": "2026-11-12T10:40:49.000Z"
+    "data": "2026-11-12T11:23:41.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-    "imagem": null,
-    "data": "2026-11-12T10:39:47.000Z"
+    "titulo": "Criminosos executam homem com 16 tiros na Santa Lúcia, em Maceió",
+    "resumo": "Homem foi assassinado na Santa Lúcia Polícia Científica Um homem foi assassinado com 16 tiros na noite de quarta-feira (11), no bairro da Santa Lúcia, em Maceió. Segundo testemunhas, os criminosos chegaram em um Ka, de cor vermelha, desceram do veículo e executaram a vítima. 📱Participe do canal do g1 Alagoas De acordo com a Polícia Milit",
+    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/12/criminosos-executam-homem-com-16-tiros-na-santa-lucia-em-maceio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/WHSlX7xKVjdm1zusEJYeyzgEJ0U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/p/E/cBf7g3TcKcKd60fJAGqA/iml.jpeg",
+    "data": "2026-11-12T11:22:49.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-    "imagem": null,
-    "data": "2026-11-12T10:39:24.000Z"
+    "titulo": "Falha em trem provoca caos na Linha 8-Diamante na Grande SP; ASSISTA",
+    "resumo": "Falha em trem provoca caos na Linha 8-Diamante na Grande SP; ASSISTA Passageiros quebram janelas e caminham pelos trilhos; relatos falam em 40 minutos parado. Composição ficou parada por cerca de 40 minutos entre as estações General Miguel Costa e Carapicuíba;. Passageiros relataram pessoas passando mal e deixaram o trem pelas portas e ja",
+    "link": "https://g1.globo.com/sp/sao-paulo/ao-vivo/falha-em-trem-provoca-caos-na-linha-8-diamante-na-grande-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UIAxQuqEXybye6c2FaojTbOrnOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/v/AZbkRwTDGw52BypmiPGw/acervo-bdsp-limpo-20261112-0530-frame-204723.jpeg",
+    "data": "2026-11-12T11:22:49.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-    "imagem": null,
-    "data": "2026-11-12T10:39:03.000Z"
+    "titulo": "Ator que interpreta Leonardo no filme da dupla revela que seu 1º papel foi interpretando Leandro: 'História linda'",
+    "resumo": "Filme sobre a história de Leandro e Leonardo começa a ser gravado em Goiás O filme 'Não Aprendi Dizer Adeus', que retrata a infância humilde do cantor Leonardo com o irmão Leandro, está sendo gravado na Cidade de Goiás, no interior goiano. Um fato curioso ganhou destaque: o ator carioca André Luiz Frambach, de 29 anos, que interpreta o ca",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/12/ator-que-interpreta-leonardo-no-filme-da-dupla-revela-que-seu-1o-papel-foi-interpretando-leandro-historia-linda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/U4L7jGTM3kjLxmZO7sjTjkbNqHU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/q/vNWb4gTvAByT8zEY67XQ/png-3-.png",
+    "data": "2026-11-12T11:21:28.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-    "imagem": null,
-    "data": "2026-11-12T10:38:43.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Foto da Chapada dos Veadeiros sob a Via Láctea vence prêmio mundial",
-    "resumo": "Foto da Chapada dos Veadeiros vence prêmio mundial A Via Láctea, um morro e dezenas de chuveirinhos iluminados em uma noite na Chapada dos Veadeiros, em Goiás. Este é enquadramento da fotografia tirada pelo brasiliense Marcio Cabral, que venceu o Grande Prêmio Global do 17º Greenstorm Photography Festival. A obra é intitulada 'Pandora' e ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/12/foto-da-chapada-dos-veadeiros-vence-premio-mundial.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/123He8lCwKGbeuEp7aBTxhkuWdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/J/kgJkNQS9GA3qRVFBgQAw/padrao-foto-texto-g1-2026-11-12t071603.270.jpg",
-    "data": "2026-11-12T10:38:10.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
+    "categoria": "Economia",
+    "fonte": "BBC Business",
     "titulo": "Who could replace Jensen Huang as Nvidia's chief executive?",
     "resumo": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
     "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-12T10:37:00.000Z"
+    "data": "2026-11-12T11:21:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Regina Torné, a Glória de 'Chaves', morre aos 82 anos",
+    "resumo": "Regina Torné, a Glória de 'Chaves' Reprodução A atriz mexicana Regina Torné, conhecida no Brasil por interpretar Glória no seriado “Chaves”, morreu aos 82 anos, nesta quarta-feira (11). A informação foi confirmada pela Asociación Nacional de Actores (ANDA), entidade que representa os artistas do México, nas redes sociais. Em nota, a insti",
+    "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/11/12/regina-tome-a-gloria-de-chaves-morre-aos-82-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zpm4lNws3kcZwyd8RDjVl1wUwqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/u/0XXYEYSLuAqumODyRCoQ/reginatorne.png",
+    "data": "2026-11-12T11:20:52.000Z"
   },
   {
     "categoria": "Economia",
@@ -68,71 +140,107 @@
     "titulo": "UK economy grows at fastest rate for more than two years",
     "resumo": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
     "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb4c/live/4af5abf0-de6a-11f1-9115-cfe6d179af3a.jpg",
-    "data": "2026-11-12T10:35:05.000Z"
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-12T11:20:25.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
+    "resumo": "<p>Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts</p><p>One thing we all know about the tech billionaires is they are super-smart. We know this largely because they never stop telling us. The “<a href=\"https://www.newyorker.com/podcast/political-scen",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
+    "imagem": "https://i.guim.co.uk/img/media/03c8cb4f126e4ac044519697304d0f093e91e3a6/0_1_5000_3999/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=31a1975ae3c07664152339a25f69b320",
+    "data": "2026-11-12T11:17:51.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: ‘No one is coming to rescue us,’ Greta Thunberg tells climate summit",
+    "resumo": "<p>World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day</p><p><strong>Zack Polanski</strong>, leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today programme. Saying he was “not at all reassured” by the prime minister’s words, he d",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
+    "imagem": "https://i.guim.co.uk/img/media/314a310756f9e5747210ab28b8608e38e80fc95f/429_0_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=476eef8b5cbe754c89ac539c8d56e9b3",
+    "data": "2026-11-12T11:12:13.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Yella Beezy found guilty in murder-for-hire of fellow Dallas rapper",
+    "resumo": "Rapper Yella Beezy was found guilty on Wednesday of hiring the gunman who fatally shot rapper MO3 in a brazen daylight attack on a busy Dallas interstate in 2020.",
+    "link": "https://www.cbc.ca/news/entertainment/us-dallas-verdict-beezy-noble-shooting-9.7418743?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c4af815f-64f8-400a-bc8c-9b5fe5051e73,1794479997765/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C78%2C3292%2C1851%29%3B",
+    "data": "2026-11-12T11:10:43.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
+    "resumo": "<p>Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for voters</p><p>Donald Trump is the “biggest loser we’ve seen in a long time” for scrapping action on the climate crisis and ceding the clean energy race to China, former US secretary of state John Kerry has said.</p><p>Kerry, ",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+    "imagem": "https://i.guim.co.uk/img/media/32fe1f2eeb72c44b90ada00f0318f0c0c6262cf9/302_0_3013_2411/master/3013.jpg?width=140&quality=85&auto=format&fit=max&s=990b959e58b895488acae001c37bd63c",
+    "data": "2026-11-12T11:00:48.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi",
+    "resumo": "<p>Voters remembered Trump’s many promises to avoid the same kind of regime-change wars started by his predecessors</p><p>For much of his political career, Donald Trump ranted at past US presidents who got the US entangled in endless foreign conflicts. He used it as a cudgel to belittle his predecessors, calling George W Bush’s decision <",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/12/trump-war-republicans-midterms",
+    "imagem": "https://i.guim.co.uk/img/media/ee29f564a7889b4623c80d4a811989f2ff537b9e/429_0_6015_4814/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=33cebee9f0477d42582068769c0057af",
+    "data": "2026-11-12T11:00:46.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
+    "resumo": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI&#039;s future at the Web Summit in Lisbon.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T10:53:23.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+    "resumo": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T10:49:41.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Some under-25s should get fewer benefits, Milburn review to say",
+    "resumo": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-12T10:49:27.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Enviados dos EUA se reúnem com Putin após negociações de paz",
+    "resumo": "Witkoff e Kushner chegam a Moscou após nova rodada de conversas para pôr fim à guerra na Ucrânia. Maiores entraves envolvem o futuro dos territórios ocupados e o papel da Europa na elaboração de um acordo de paz.",
+    "link": "https://www.dw.com/pt-br/enviados-dos-eua-se-reúnem-com-putin-após-negociações-de-paz/a-79927773?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-12T10:49:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Manchester United sack Michael Carrick as manager",
+    "resumo": "Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.",
+    "link": "https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T10:33:29.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Passageiros quebram janelas e caminham pelos trilhos após trem da Linha 8-Diamante apresentar falha na Grande SP",
-    "resumo": "Trem da Linha 8-Diamante apresenta falha entre as estações General Miguel Costa e Carapicuíba, na Grande SP, nesta quinta-feira (12). Herminio Bernardo/TV Globo Passageiros de um trem da Linha 8-Diamante, operada pela Motiva (antiga ViaMobilidade), precisaram desembarcar pelas portas e janelas da composição e caminhar pelos trilhos após u",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/12/trem-da-linha-8-diamante-apresenta-falha-entre-as-estacoes-general-miguel-costa-e-carapicuiba-e-passageiros-andam-pelos-trilhos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/E9BuTKMcTOqNvr_EC8Er0Pz7Yh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/9/GHQahqQjq9FASfVmdClQ/whatsapp-image-2026-11-12-at-07.24.45.jpeg",
-    "data": "2026-11-12T10:34:51.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é assassinado a tiros em rua no litoral do Piauí; atiradores fugiram em moto",
-    "resumo": "Quais as diferenças entre o homicídio culposo e doloso? Daniel Costa da Visitação, de 27 anos, foi morto a tiros na noite de quarta-feira (11), na Rua Anhanguera, no Bairro Piauí, em Parnaíba, litoral do Piauí. Segundo a Polícia Militar do Piauí (PMPI), dois homens em uma motocicleta são suspeitos de cometer o crime e fugiram após os disp",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/12/homem-assassinado-litoral-piaui.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/oTPUQkzMgvTXV8EMx6Kzd0hkm5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/6umJLtTUuBwHwJTrZnoQ/edicao-imagens-g1-2026-11-12t073209.437.png",
-    "data": "2026-11-12T10:34:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Parque Estadual Serra da Boa Esperança inaugura duas novas trilhas para visitantes no Sul de Minas",
-    "resumo": "Parque Estadual Serra da Boa Esperança inaugura duas novas trilhas para visitantes no Sul de Minas Gruta do Branquinho / Crédito: IEF / Divulgação O Parque Estadual Serra da Boa Esperança, gerenciado pelo Instituto Estadual de Florestas (IEF) e localizado entre os municípios de Boa Esperança e Ilicínea, no Sul de Minas, inaugurou duas nov",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/12/parque-estadual-serra-da-boa-esperanca-inaugura-duas-novas-trilhas-para-visitantes-no-sul-de-minas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dSiUn0Gor6T23s79LKa-lgcl0oM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/j/f3SpDdTaa9WOCW5ACmqg/trilha.png",
-    "data": "2026-11-12T10:33:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Famílias denunciam furtos e vandalismo em túmulos no cemitério de Cássia, MG",
-    "resumo": "Famílias denunciam furtos e vandalismo em túmulos no cemitério de Cássia, MG Famílias que têm parentes sepultados no cemitério de Cássia (MG) denunciam furtos e atos de vandalismo em túmulos. Segundo coveiros, mais de 20 sepulturas foram alvo de criminosos apenas na madrugada de segunda-feira (9). A Prefeitura de Cássia informou que vai i",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/12/familias-denunciam-furtos-e-vandalismo-em-tumulos-no-cemiterio-de-cassia-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/blj0F4WLSzJWM5mTpUjYuZLw-LA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/T/HnYeGnSzah5PfZCmNheg/cemiteriocassia.png",
-    "data": "2026-11-12T10:33:20.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Banestes abre concurso com 645 vagas e salários de até R$ 6,3 mil no ES; veja como participar",
-    "resumo": "Agência do Banestes. Espírito Santo Ricardo Medeiros/Rede Gazeta O Banco do Estado do Espírito Santo (Banestes) abriu dois concursos públicos com 645 vagas para formação de cadastro de reserva. As oportunidades são para profissionais de níveis médio e superior, com salários iniciais de até R$ 6.393,38, além de benefícios como auxílio-refe",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/banestes-abre-concurso-com-645-vagas-e-salarios-de-ate-r-63-mil-no-es-veja-como-participar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aUyTs-FK6ZIx94a52ihL2Y2z1vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/C/H4fdfkTpu6L5kz1hY3qw/thumb-fotos-2026-11-05t072206.088.jpg",
+    "fonte": "Agência Brasil",
+    "titulo": "Praias do Rio vão ter boletins de balneabilidade duas vezes por semana",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/praias-do-rio-vao-ter-boletins-de-balneabilidade-duas-vezes-por-semana\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/praias-do-rio-vao-ter-boletins-de-balneabilidade-duas-vezes-por-semana",
+    "imagem": null,
     "data": "2026-11-12T10:32:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vespasiano suspende aulas em todas as escolas municipais por seis dias após casos de sarna",
-    "resumo": "Vespasiano suspende aulas por seis dias após casos de sarna em escolas As aulas da rede municipal de Vespasiano, na Grande BH, serão suspensas até a próxima terça-feira, período de seis dias que inclui o fim de semana, após a confirmação de casos de escabiose, também conhecida como sarna humana, em escolas da cidade. Cinco casos foram reg",
-    "link": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/11/12/vespasiano-suspende-aulas-em-todas-as-escolas-municipais-por-seis-dias-apos-casos-de-sarna.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/b9HusKYIMU0UQ0N37HEwFK6S4HQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/Qm3tYVT6iXym1kjcxYZQ/captura-de-tela-2026-11-12-071145.png",
-    "data": "2026-11-12T10:31:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ex-senador Roberto Rocha é impedido de embarcar após PF identificar arma sem registro no MA",
-    "resumo": "Ex-senador Roberto Rocha é impedido de embarcar após PF identificar arma sem registro O ex-senador Roberto Rocha (PRTB) foi abordado na noite de quarta-feira (11), no Aeroporto Internacional de São Luís, após a identificação de uma arma de fogo sem registro durante o procedimento de embarque para Brasília, segundo a assessoria do ex-parla",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/12/roberto-rocha-impedido-embarcar-arma-sem-registro-aeroporto-sao-luis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/P3abL3u5GzRRgObjB8KTlVxZZ6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/o/AFPDvlSnSMJXa6yU6IDg/roberto-rocha.png",
-    "data": "2026-11-12T10:30:19.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -144,13 +252,13 @@
     "data": "2026-11-12T10:19:10.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
-    "resumo": "<p>World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third day</p><p><strong>Zack Polanski</strong>, leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today programme. Saying he was “not at all reassured” by the prime minister’s words, he d",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-    "imagem": "https://i.guim.co.uk/img/media/314a310756f9e5747210ab28b8608e38e80fc95f/429_0_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=476eef8b5cbe754c89ac539c8d56e9b3",
-    "data": "2026-11-12T10:17:04.000Z"
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "“Há mais memória no celular do que na relação”, diz escritor",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/ha-mais-memoria-no-celular-do-que-na-relacao-diz-escritor\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Foi n",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/ha-mais-memoria-no-celular-do-que-na-relacao-diz-escritor",
+    "imagem": null,
+    "data": "2026-11-12T10:14:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -182,7 +290,7 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
+    "titulo": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
     "resumo": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
     "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
@@ -227,10 +335,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "At least 23 states considered laws governing ICE and schools this year",
-    "resumo": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
+    "titulo": "How Scott Colom defied the odds to go from district attorney to Mississippi&apos;s Democratic US Senator",
+    "resumo": "In a state that hasn&apos;t had a Democrat in office since 1980 and hasn&apos;t sent a Black Senator to Washington since the 1870s, Colom&apos;s win represents a massive upset in state politics.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5691x3794+0+0/resize/5691x3794!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F25%2F1303b95b4baab6e90f92ff3ca35d%2Fgettyimages-2303031468.jpg",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+    "resumo": "The Kennedy Center&apos;s former president Richard Grenell was a paid board member of Ticketmaster&apos;s parent company at the same time the two parties were negotiating.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2400+0+0/resize/3000x2400!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2Ff0%2F260c15a4496fb338884153b1eb75%2Fgettyimages-2219714294.jpg",
     "data": "2026-11-12T10:00:00.000Z"
   },
   {
@@ -245,24 +362,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Trump proposed a &apos;secret weapon&apos; to police colleges. It will soon become reality",
-    "resumo": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6027967",
-    "data": "2026-11-12T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "How Scott Colom defied the odds to go from district attorney to Mississippi&apos;s Democratic US Senator",
-    "resumo": "In a state that hasn&apos;t had a Democrat in office since 1980 and hasn&apos;t sent a Black Senator to Washington since the 1870s, Colom&apos;s win represents a massive upset in state politics.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5691x3794+0+0/resize/5691x3794!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F25%2F1303b95b4baab6e90f92ff3ca35d%2Fgettyimages-2303031468.jpg",
-    "data": "2026-11-12T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "Senators don&apos;t always share bill text online before votes. They should, advocates say",
     "resumo": "The text of what lawmakers are considering isn&apos;t always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
@@ -272,10 +371,28 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
-    "resumo": "The Kennedy Center&apos;s former president Richard Grenell was a paid board member of Ticketmaster&apos;s parent company at the same time the two parties were negotiating.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2400+0+0/resize/3000x2400!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2Ff0%2F260c15a4496fb338884153b1eb75%2Fgettyimages-2219714294.jpg",
+    "titulo": "Trump proposed a &apos;secret weapon&apos; to police colleges. It will soon become reality",
+    "resumo": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6027967",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "At least 23 states considered laws governing ICE and schools this year",
+    "resumo": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
+    "data": "2026-11-12T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Halifax-area hospitals see pest control budgets soar amid mice, pigeon infestations",
+    "resumo": "CBC News has learned that several Halifax-area hospitals have been dealing with soaring costs to deal with mice and pigeon infestations. Nova Scotia Health says it could take years to rid its facilities of the mice issue.",
+    "link": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/f3203b57-fab3-4a06-98bd-d2ac24d330be,1794335437187/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C642%2C860%2C483%29%3B",
     "data": "2026-11-12T10:00:00.000Z"
   },
   {
@@ -327,7 +444,7 @@
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-    "resumo": "The victims included a surgeon, and at least a dozen more were injured. Israel said it was targeting a Hamas commander and other militants.",
+    "resumo": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants.",
     "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2F48%2Fbcd0e3834c77ade3e983e6858561%2Fap26316273240387.jpg",
     "data": "2026-11-12T09:29:30.000Z"
@@ -376,15 +493,6 @@
     "link": "https://www.cbc.ca/news/canada/montreal/montreal-homeless-shigellosis-9.7418320?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/9f8ec592-880a-4433-8704-f595ca5587f1,1794426846169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C5043%2C2836%29%3B",
     "data": "2026-11-12T09:00:00.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Some under-25s should get fewer benefits, Milburn review to say",
-    "resumo": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-12T08:59:08.000Z"
   },
   {
     "categoria": "Internacional",
@@ -505,39 +613,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
-    "resumo": "Netanyahu&#039;s fight for political survival turns the parliament&#039;s opening into a scene of insults and acrimony.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T06:49:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
     "resumo": "<p>In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang</p><p></p><p>Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually in",
     "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
     "imagem": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e7cc781873a609353d81df20f9e53",
     "data": "2026-11-12T06:43:31.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Indonesia vice president resigns amid dispute over eligibility",
-    "resumo": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T06:38:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sheikh Hasina must return to Bangladesh to face her sentence",
-    "resumo": "Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T06:37:06.000Z"
   },
   {
     "categoria": "Opinião",
@@ -749,18 +830,18 @@
   {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
-    "titulo": "Precariedade do sistema prisional entra no debate da maioridade penal",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal",
+    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
     "imagem": null,
     "data": "2026-11-11T23:46:00.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
-    "titulo": "Letramento digital precisa vir antes de uso da IA, diz Unesco",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/letramento-digital-precisa-vir-antes-de-uso-da-ia-diz-unesco",
+    "titulo": "Precariedade do sistema prisional entra no debate da maioridade penal",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/precariedade-do-sistema-prisional-entra-no-debate-da-maioridade-penal",
     "imagem": null,
     "data": "2026-11-11T23:46:00.000Z"
   },
@@ -810,15 +891,6 @@
     "data": "2026-11-11T23:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-042-e-fecha-r-556-com-foco-em-pacote-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>O dólar ",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-042-e-fecha-r-556-com-foco-em-pacote-fiscal",
-    "imagem": null,
-    "data": "2026-11-11T22:51:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
@@ -835,15 +907,6 @@
     "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-11T22:44:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Pacote fiscal prevê 120 dias para Congresso discutir supersalários",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios",
-    "imagem": null,
-    "data": "2026-11-11T22:40:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -999,15 +1062,6 @@
     "data": "2026-11-11T18:13:52.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Pilot killed in plane crash during Remembrance Day event in Quebec's Beauce region",
-    "resumo": "Wednesday's fatal crash took place in a wooded area close to the local airport in Saint-Georges, Que., about 100 kilometres south of Quebec City.",
-    "link": "https://www.cbc.ca/news/canada/montreal/aircraft-crash-beuce-saint-georges-qc-9.7418143?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c1712566-3f8b-41e3-93c9-870a872f87aa,1794422750884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B",
-    "data": "2026-11-11T18:03:55.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "AfD revolta romenos com acusação de fraude em benefício social alemão",
@@ -1107,24 +1161,6 @@
     "data": "2026-11-11T16:00:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Sleeping driver in self-driving vehicle woken up, stopped and charged in Ottawa",
-    "resumo": "Provincial police in Ottawa said they stopped and charged a driver who was asleep in her self-driving Tesla during Tuesday rush hour on Highway 417.",
-    "link": "https://www.cbc.ca/news/canada/ottawa/self-driving-vehicle-ottawa-highway-417-9.7417941?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/691af024-3e94-43cf-afa6-9971a6ff54df,1794412336076/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C359%2C1536%2C864%29%3B",
-    "data": "2026-11-11T15:59:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "O que é a Megaspeed: a empresa da suposta espiã envolvida com o CEO da Nvidia",
-    "resumo": "Companhia entrou no foco após o envolvimento de Jensen Huang com uma suposta espiã chinesa. Firma especializada em datacenters está sendo investigada nos EUA por suspeita de contrabandear chips da Nvidia para a China.",
-    "link": "https://www.dw.com/pt-br/o-que-é-a-megaspeed-a-empresa-da-suposta-espiã-envolvida-com-o-ceo-da-nvidia/a-79919631?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-11T15:59:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The best early Black Friday deals you can already shop",
@@ -1141,15 +1177,6 @@
     "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/sharge-pixel-140-charger-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-11T15:30:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Escolas de Reino Unido, Irlanda e Itália recebem ameaças de bomba",
-    "resumo": "Reino Unido e Irlanda não recomendaram evacuação de instituições por duvidarem das mensagens. Itália esvaziou ao menos 300 colégios após ameaça por e-mail.",
-    "link": "https://www.dw.com/pt-br/escolas-de-reino-unido-irlanda-e-itália-recebem-ameaças-de-bomba/a-79918052?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-11T15:11:00.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1321,32 +1348,5 @@
     "link": "https://www.theguardian.com/books/2026/nov/11/social-resistance-secret-history-central-europe-gay-saunas-vratislav-manak-wittgenstein",
     "imagem": "https://i.guim.co.uk/img/media/4ae4f8907c36226e5e42c5557118c62db892b76e/146_285_3170_2537/master/3170.jpg?width=140&quality=85&auto=format&fit=max&s=0fc9eed36af5b107ca34f5728011481c",
     "data": "2026-11-11T05:00:31.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Trump could be about to sell out Ukraine. Europe must get its act together, fast | Paul Taylor",
-    "resumo": "<p>A deal giving Moscow a slice of Ukrainian territory and sanctions relief could be on the table in weeks – yet European leaders are busy squabbling</p><p>Donald Trump has lost substantial power over domestic policy after last week’s devastating midterm losses, but his ability to cement his legacy by upending US foreign policy remains la",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-sell-out-ukraine-europe-leaders",
-    "imagem": "https://i.guim.co.uk/img/media/075ec7980c878b7583f71144baf98eec30d2da5a/1315_19_2223_1778/master/2223.jpg?width=140&quality=85&auto=format&fit=max&s=ed18f09570566d6ecb265a1d05e4bb5e",
-    "data": "2026-11-11T05:00:30.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-    "resumo": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-    "imagem": null,
-    "data": "2026-11-11T01:36:04.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
-    "resumo": "<p>Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit</p><p>Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from ",
-    "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-    "imagem": "https://i.guim.co.uk/img/media/456a998e975976898ff984ee0e99403b099a5195/238_0_2524_2020/master/2524.jpg?width=140&quality=85&auto=format&fit=max&s=9a261b4e1fd50c37b84f2205d342473b",
-    "data": "2026-11-11T01:18:56.000Z"
   }
 ]
