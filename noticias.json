@@ -1,5 +1,266 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+    "resumo": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-12T19:23:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casos de Covid-19 voltam a subir no ES e testes positivos triplicam em poucas semanas; veja orientações",
+    "resumo": "Covid-19 em alta no ES: especialista explica se aumento está dentro de esperado O Espírito Santo tem registrado uma tendência contínua de alta nos casos de Covid-19 nas últimas semanas, acompanhando o movimento observado em outras partes do país. Dados de vigilância epidemiológica do estado indicam que a taxa de positividade dos testes pa",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/12/casos-de-covid-19-voltam-a-subir-no-es-e-testes-positivos-triplicam-em-poucas-semanas-veja-orientacoes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NU4l6wH20jAiARmSTDKFyPkU020=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/S/FBO3SFT5qbu8zlOGWBjg/para-o-g1-58-.jpg",
+    "data": "2026-11-12T19:21:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PF fiscaliza empresas de segurança privada e encerra atividades irregulares no RN",
+    "resumo": "PF encerra serviços irregulares de segurança privada no RN Divulgação / PF A Polícia Federal fiscalizou dez empresas de segurança privada no Rio Grande do Norte nesta quinta-feira (12), durante a Operação Segurança Legal X. A ação ocorreu em Natal, Parnamirim, Pureza e Serra Caiada e identificou a prestação de serviços sem autorização da ",
+    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/12/pf-fiscaliza-empresas-de-seguranca-privada-e-encerra-atividades-irregulares-no-rn.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yvFjrqG4dMVk7SxW1J2WH51dNzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/E/x7MZnnRieFbkBA1kmLXQ/071f8f87-fc17-49f4-8258-b2850cd4f9ed-1-.jpeg",
+    "data": "2026-11-12T19:20:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso suspeito de estuprar adolescente de 13 anos em Morros, no MA",
+    "resumo": "Homem é preso suspeito de estuprar adolescente de 13 anos em Morros, no MA Reprodução/ PC-MA Um homem foi preso em flagrante nessa quarta-feira (11), suspeito de estuprar uma adolescente de 13 anos em Morros, a 100 km de São Luís. Segundo a Polícia Civil do Maranhão (PC-MA), o suspeito convivia maritalmente com a vítima há cerca de dois m",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/12/homem-e-preso-suspeito-de-estuprar-adolescente-de-13-anos-em-morros-no-ma.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DASyDQ6FgoeTRXXZoWkE1_P4Jh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/7/WENHj1RByWp1HRaER0vg/montagens-1920-x-1080-px-16-.png",
+    "data": "2026-11-12T19:20:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "‘Me deram um ano de vida, já se passaram 15’: pesquisas clínicas driblam má-fama e dão a pacientes com câncer acesso a tratamento de ponta",
+    "resumo": "Francisca Iraci, de 52 anos, vive há mais de uma década sob acompanhamento de um protocolo experimental. Arquivo Pessoal Francisca Iraci, professora de 52 anos, ouviu dos médicos que teria cerca de um ano de vida. Isso foi há mais de uma década. Hoje, com o câncer de mama estável, ela dança forró por horas e viaja sempre que pode, e credi",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/12/me-deram-um-ano-de-vida-ja-se-passaram-15-pesquisas-clinicas-driblam-ma-fama-e-dao-a-pacientes-com-cancer-acesso-a-tratamento-de-ponta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/clT9m-y_afaM43XBSrXtpaKjivc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/i/WcxfUKQKSBgxXVIwAB4w/whatsapp-image-2025-07-31-at-12.31.06-1-.jpeg",
+    "data": "2026-11-12T19:19:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TRF5 afasta determinação de desmontagem de capela na Praia do Saco em Estância",
+    "resumo": "Capela de Nossa Senhora da Boa Viagem, localizada na Praia do Saco, em Estância. Erick O'Hara/Governo de Sergipe A Terceira Turma do Tribunal Regional Federal da 5ª Região (TRF5) decidiu, nesta quinta-feira (12), afastar a determinação de desmontagem e realocação da Capela de Nossa Senhora da Boa Viagem, localizada na Praia do Saco, em Es",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/12/trf5-afasta-determinacao-de-desmontagem-de-capela-na-praia-do-saco-em-estancia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gprPVhfJiCwVw7wM7OeKgQEigP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/N/6B3bylTnAF9NBuU8iJMw/crop-foto-40-.jpg",
+    "data": "2026-11-12T19:16:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carlos Eduardo Ferreira Pinto é escolhido para chefiar o Ministério Público de MG",
+    "resumo": "Carlos Eduardo Ferreira Pinto foi escolhido pelo governador Mateus Simões para comandar o Ministério Público de Minas Gerais no biênio 2027-2028. MPMG/Divulgação O governador de Minas Gerais, Mateus Simões, anunciou, nesta quinta-feira (12), a escolha do promotor de Justiça Carlos Eduardo Ferreira Pinto para o cargo de procurador-geral de",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/12/carlos-eduardo-ferreira-pinto-e-escolhido-para-chefiar-o-ministerio-publico-de-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qVoHvqoZbK3vd7UnzS7j0SLfM0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/5SL67ARhGoG1JKHSdBeA/carlos-eduardo-ferreira-pinto.jpg",
+    "data": "2026-11-12T19:16:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Petrobras confirma tentativa de ataque hacker a sites da companhia",
+    "resumo": "Petrobras confirma tentativa de ataque cibernético a sites da companhia Fernando Frazão/Agência Brasil; Reprodução Petrobras e g1 Santos A Petrobras confirmou que o site externo da companhia e o portal da Agência Petrobras foram alvo de uma tentativa de ataque cibernético na quarta-feira (11). Segundo a estatal, a ocorrência provocou lent",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/12/petrobras-confirma-tentativa-de-ataque-hacker-a-sites-da-companhia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lneyYF5fldC_Xu8ZRjDs2ogpKfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/T/nrOH2DS4KSHxDPv1qsIw/g1-phed-67-.png",
+    "data": "2026-11-12T19:15:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudante de medicina é afastado de faculdade após suspeita de caso de estupro em Ribeirão Preto, SP",
+    "resumo": "O Centro Universitário Barão de Mauá, em Ribeirão Preto (SP), afastou o estudante de medicina de 18 anos citado em um caso de estupro de vulnerável contra uma aluna da instituição. Segundo nota divulgada nesta quinta-feira (12), ele vai ficar afastado enquanto durar o inquérito administrativo aberto para apurar o caso. O boletim de ocorrê",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/12/estudante-de-medicina-e-afastado-de-faculdade-apos-suspeita-de-caso-de-estupro-em-ribeirao-preto-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/J7A06calbiDXqD3zoZAdlMQtzEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/d/eI8b2VRKiRqdJ5QM69cA/barao-maua.jpg",
+    "data": "2026-11-12T19:15:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O que são os chips H200, no centro da polêmica que levou à renúncia do CEO da Nvidia",
+    "resumo": "Os desafios de suceder Huang na Nvidia No centro da polêmica que levou à renúncia do CEO da Nvidia, Jensen Huang, nesta quinta-feira (12), está um pequeno componente: o chip H200, um dos mais avançados da empresa americana e que está sujeito a controles de exportação pelos Estados Unidos. O ex-CEO da Nvidia admitiu ter traído sua esposa c",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/chips-h200-nvidia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qzGXHWVepETrr4Gx_Bp4Ihvnp0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/H/Kj02I8SLSC2q4YOPpzug/nvidia-jensen-huang-h200.png",
+    "data": "2026-11-12T19:15:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Acidente entre moto e caminhão deixa dois feridos na Rio-Santos, em Angra dos Reis",
+    "resumo": "Duas pessoas ficaram feridas após um acidente entre uma moto e um caminhão nesta quinta-feira (12) na Rio-Santos, em Angra dos Reis (RJ). O caso aconteceu na altura do km 482, no bairro Sapinhatuba I. Segundo a Polícia Rodoviária Federal, o acionamento aconteceu às 13h30 para o atendimento na pista sentido Rio de Janeiro (RJ). De acordo c",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/12/acidente-entre-moto-e-caminhao-deixa-dois-feridos-na-rio-santos-em-angra-dos-reis.ghtml",
+    "imagem": null,
+    "data": "2026-11-12T19:15:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Entenda como os R$ 2 milhões da decoração de Natal poderão ser aplicados em áreas como saúde e transporte em Juiz de Fora",
+    "resumo": "Entenda para onde pode ir o dinheiro da decoração de Natal cancelada em Juiz de Fora O que acontece com o dinheiro público quando uma despesa prevista pela prefeitura deixa de ser realizada? Em Juiz de Fora, essa dúvida surgiu após a decisão do Executivo de não fazer a licitação para a decoração de Natal de 2026, estimada em R$ 1.932.400.",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/12/entenda-como-os-r-2-milhoes-da-decoracao-de-natal-poderao-ser-aplicados-em-areas-como-saude-e-transporte-em-juiz-de-fora.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/sONOqvQDooV8OScdeFv80LmtN5Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/p/6czSAxRACmwXABwM8K7g/natal-11-pjf.jpg",
+    "data": "2026-11-12T19:15:02.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Mercedes suspende todos os investimentos na Alemanha e avalia fechar fábricas",
+    "resumo": "Montadora alemã cita custos elevados, queda da demanda, tarifas e concorrência chinesa para justificar a suspensão de investimentos na Alemanha e a possibilidade de fechamento de unidades no país.",
+    "link": "https://www.dw.com/pt-br/mercedes-suspende-todos-os-investimentos-na-alemanha-e-avalia-fechar-fábricas/a-79935095?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-12T19:15:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Animais silvestres mantidos em cativeiro por casal são apreendidos em Sorocaba",
+    "resumo": "Polícia Civil de Sorocaba (SP) apreendeu oito animais silvestres mantidos em cativeiro, entre eles, três macacos-prego Polícia Civil/Divulgação A Polícia Civil de Sorocaba (SP) apreendeu na quarta-feira (11) oito animais silvestres que eram mantidos em cativeiro por um casal em um imóvel na região do Jardim Bandeirantes, na zona leste do ",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/12/animais-silvestres-mantidos-em-cativeiro-por-casal-sao-apreendidos-em-sorocaba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0B7jcnp4zQLOQWr4K7DQ2A-EcAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/f/5SLyqXQgGXFdZevAUHxA/edicao-g1-agenda-2026-11-12t111528.641.png",
+    "data": "2026-11-12T19:14:21.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "House Passes Competing Veterans Bills in a Fight Over Funding",
+    "resumo": "Legislation addressing the retirement pay of veterans with combat-related disabilities is making its way through Congress, but could collapse amid a funding clash.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/house-veterans-benefits-bill-funding.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-cong-veterans-gvlc/12dc-cong-veterans-gvlc-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T19:12:20.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Microsoft Outlook is down",
+    "resumo": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, whic",
+    "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-12T19:07:21.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+    "resumo": "<p>Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker</p><ul><li><p>Analysis: <a href=\"https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached\">Jensen Huang built an AI ki",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "imagem": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+    "data": "2026-11-12T19:01:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+    "resumo": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T18:58:49.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+    "resumo": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-12T18:51:48.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Como opera a indústria internacional de exércitos de mercenários",
+    "resumo": "A existência de soldados mercenários é tão antiga quanto a própria guerra, mas o conflito na Ucrânia lhes conferiu uma nova visibilidade. Eles operam em várias partes do mundo, entre diferentes níveis de legalidade.",
+    "link": "https://www.dw.com/pt-br/como-opera-a-indústria-internacional-de-exércitos-de-mercenários/a-79931353?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-12T18:48:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+    "resumo": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-12T18:47:35.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "&apos;Punch in the gut&apos;: Homes sales fall to their lowest in 16 years",
+    "resumo": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5308+0+0/resize/8192x5308!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2F99%2Fb8658ed24ce8afe9d884ffc536e5%2Fgettyimages-2270294552.jpg",
+    "data": "2026-11-12T18:44:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
+    "resumo": "James &#039;Fergie&#039; Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T18:41:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Congresso aprova 24 projetos com crédito suplementar para ministérios",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-24-projetos-com-credito-suplementar-para-ministerios\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-24-projetos-com-credito-suplementar-para-ministerios",
+    "imagem": null,
+    "data": "2026-11-12T18:33:00.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan",
+    "resumo": "<p>At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous</p><p>One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one man do not come to carry outsized consequences.</p><p",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy",
+    "imagem": "https://i.guim.co.uk/img/media/94f67f1dc5dfedf7b61aecb8ae7a5d8b7a8026e6/0_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8efd0fb4d9f13fdd7326215965b1499",
+    "data": "2026-11-12T18:29:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+    "resumo": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-12T18:28:59.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Will the Supreme Court Thwart Congressional Investigations?",
+    "resumo": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T18:27:08.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Home sales in the US are at their lowest level since 2016",
+    "resumo": "The sale of previously owned homes dropped 5.5 percent in October, the lowest level since August 2010.",
+    "link": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T18:26:28.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "What to know about the Logan Circle shooting in Washington, DC",
+    "resumo": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T18:22:04.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
@@ -10,21 +271,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Corpo é encontrado com marcas de tiros em área de mangue, na Grande João Pessoa",
-    "resumo": "Corpo é encontrado em região de mangue de Bayeux, na PB Reprodução Flávio Fernandes. O corpo de um homem foi encontrado em uma área de mangue no município de Bayeux, na Grande João Pessoa, nesta quinta-feira (12). A informação foi confirmada pela Polícia Civil. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp Segundo a polícia, o co",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/12/corpo-e-encontrado-com-marcas-de-tiros-em-area-de-mangue-na-grande-joao-pessoa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XVwGaFkbPhrqjoa-cPM7QOWp93c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/3/wdy41KSzGLzBTajH39lA/whatsapp-image-2026-11-12-at-15.02.38.jpeg",
-    "data": "2026-11-12T18:17:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Feriado da Proclamação da República: veja o que abre e fecha em Fortaleza neste domingo (15)",
-    "resumo": "Feriado da Proclamação da República: veja o que abre e fecha em Fortaleza O dia da Proclamação da República, celebrado neste domingo (15) em todo o Brasil, deve modificar o funcionamento de alguns serviços e comércios em Fortaleza. Neste ano, o feriado coincidiu com o segundo domingo de aplicação das provas do Exame Nacional do Ensino Méd",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/12/feriado-da-proclamacao-da-republica-veja-o-que-abre-e-fecha-em-fortaleza-neste-domingo-15.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ChGA9UK2LugnNGLFwl8-MuAEjGQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/V/h/7GhR74QeGGMs6gduND1Q/shopping-2.jpg",
-    "data": "2026-11-12T18:17:25.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Quase 70 milhões já emitiram a nova Carteira de Identidade Nacional",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/quase-70-milhoes-ja-emitiram-nova-carteira-de-identidade-nacional\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/quase-70-milhoes-ja-emitiram-nova-carteira-de-identidade-nacional",
+    "imagem": null,
+    "data": "2026-11-12T18:16:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -36,58 +288,13 @@
     "data": "2026-11-12T18:15:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Festival gospel gratuito reúne artistas nacionais e arrecada alimentos para projetos sociais em Manaus",
-    "resumo": "Influenciadora cristã Rayssa Buq, pastor Bernie Moore e Fernanda Brum Reprodução/Redes Sociais O Gospelmente Festval será realizado neste sábado (14), das 16h às 23h, na Praia da Ponta Negra, na Zona Oeste de Manaus. O evento terá apresentações de artistas nacionais, participação de um pastor dos Estados Unidos e uma campanha de arrecadaç",
-    "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/12/festival-gospel-gratuito-reune-artistas-nacionais-e-arrecada-alimentos-para-projetos-sociais-em-manaus.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/w9_U5PngBEQEr_6d-06Ffc7F7CI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/W/4TxUcXQBCSFxX9ecZVNQ/influenciadora-crista-rayssa-buq-pastor-bernie-moore-e-fernanda-brum-fotos-reproducao-redes-sociais-.jpg",
-    "data": "2026-11-12T18:14:38.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "U.S. army guard given medal by Hegseth day after Tomb of the Unknown Soldier reprimand",
     "resumo": "U.S. War Secretary Pete Hegseth has given a top award to the service member who scolded him and his staff at the Tomb of the Unknown Soldier following a Veterans Day ceremony at Arlington National Cemetery.",
     "link": "https://www.cbc.ca/news/world/us-pentagon-hegseth-arlington-controversy-medal-9.7419227?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/5562f8ce-ba24-4e3d-bb4c-4429c8c6dcbc,1794506275031/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C58%2C2064%2C1161%29%3B",
+    "imagem": "https://i.cbc.ca/ais/c4755284-bb97-4f6c-946f-a1edd5ed186c,1794510354041/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-12T18:14:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso suspeito de tráfico de drogas em Barra Mansa",
-    "resumo": "Homem é preso suspeito de tráfico de drogas no bairro Metalúrgico em Barra Mansa Divulgação/Polícia Militar Um homem, de 24 anos, suspeito de tráfico de drogas foi preso após tentar fugir de policiais militares nesta quarta-feira (12) no bairro Metalúrgico, em Barra Mansa (RJ). O caso aconteceu durante um patrulhamento de rotina da Políci",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/12/homem-e-preso-suspeito-de-trafico-de-drogas-em-barra-mansa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vGkgijjPZETVaHXF5IO_Vmo15YQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/E/ZlcOMxSnupZeMP2iMMWg/whatsapp-image-2026-11-12-at-14.41.17.jpeg",
-    "data": "2026-11-12T18:12:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Campanha de Natal da Câmara arrecada presentes para idosos em Juiz de Fora",
-    "resumo": "Câmara de Juiz de Fora vai arrecadar presentes para doar a idosos Freepik A Câmara Municipal de Juiz de Fora iniciou nesta semana uma campanha de Natal para presentear pessoas que vivem em instituições de longa permanência da cidade. A ação, chamada \"Faça um Idoso Ainda Mais Feliz\", segue até 8 de dezembro. Neste ano, a campanha vai benef",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/12/campanha-de-natal-da-camara-arrecada-presentes-para-idosos-em-juiz-de-fora.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/o6PK52FhfCszm9eiBexaCchnM6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/k/N5MkVlScynkYA4wFbYlg/legis.jpeg",
-    "data": "2026-11-12T18:10:49.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de atropelar e matar o ciclista Bruno Barbosa na BR-494 é preso em Perdigão",
-    "resumo": "O suspeito de atropelar e matar o ciclista Bruno Barbosa, de 35 anos, na BR-494, em Divinópolis, foi preso na manhã desta quinta-feira (12) na cidade de Perdigão. A informação foi divulgada pela Polícia Civil durante uma coletiva de imprensa que trouxe detalhes do caso. O acidente ocorreu na manhã do dia 20 de junho, na altura do km 25 da",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/12/suspeito-de-atropelar-e-matar-o-ciclista-bruno-barbosa-na-br-494-e-preso-em-perdigao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GZs-UWgmC-MuOeiSASNPQqBs0J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/5/rHBAhyQmSBsnBj62IXtQ/whatsapp-image-2026-06-20-at-15.32.26-1-.jpeg",
-    "data": "2026-11-12T18:07:32.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Filhotes de marreco são salvos de perseguição de gato por morador no interior de SP",
-    "resumo": "Filhotes de marreco são resgatados por morador no interior de SP Um morador de Adamantina (SP) encontrou 13 filhotes de marreco desacompanhados da mãe nesta quarta-feira (11), no bairro Jardim Brasil. Os animais estavam sendo rodeados por um gato quando foram localizados. Para garantir a segurança dos filhotes, o morador os levou até uma ",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/12/filhotes-de-marreco-sao-resgatados-por-morador-no-interior-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GfzNZBfZ1RXHOggyNXPVP_CBjfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/4/nAxrHATxuK0bONw8G7xg/1200x800-3-2026-11-11t201548.492.jpg",
-    "data": "2026-11-12T18:07:31.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -99,42 +306,6 @@
     "data": "2026-11-12T18:06:54.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Conexão Cirúrgica: Hospital Unimed Teresina apresenta avanços a médicos cooperados",
-    "resumo": "Conexão Cirúrgica reuniu médicos cooperados no Hospital Unimed Primavera. Unimed Teresina A Unimed Teresina reuniu médicos cooperados, cirurgiões e equipes assistenciais nesta quarta-feira (11), no Hospital de Alta Complexidade Unimed Primavera (HUP), para apresentar as inovações que estão transformando a rotina da unidade hospitalar. O “",
-    "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/11/12/conexao-cirurgica-hospital-unimed-teresina-apresenta-avancos-a-medicos-cooperados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/byrLhVyts25Korr_sIISFCvbLjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/q/IlkkeMTHWhIK6VgVRWTA/conexao-1-.jpeg",
-    "data": "2026-11-12T18:03:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Região de Rio Preto concentra 81% das multas aplicadas em SP nos primeiros 12 dias da Piracema, diz Polícia Ambiental",
-    "resumo": "Região de Rio Preto concentra 81% das autuações da Piracema no estado de SP A região de São José do Rio Preto, no interior de São Paulo, concentrou 81,5% de todas as autuações registradas no estado durante os primeiros 12 dias do período de Piracema, segundo a Polícia Militar Ambiental. Durante o período de restrição, exemplares de espéci",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/12/regiao-de-rio-preto-concentra-81percent-das-multas-aplicadas-em-sp-nos-primeiros-12-dias-da-piracema-diz-policia-ambiental.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QjARZuo6_-ldVTzHetivUJZyxyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/a/aIqWiOSFGGdiRVTjguKQ/g1-44-.jpg",
-    "data": "2026-11-12T18:03:50.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ifac recebe autorização para 51 novos cargos efetivos e prevê concurso público em 2027",
-    "resumo": "Ifac recebe autorização para 51 novos cargos efetivos O Instituto Federal do Acre (Ifac) recebeu autorização para incorporar 51 novos cargos efetivos destinados a técnicos administrativos em educação. A medida foi oficializada pelo Ministério da Educação (MEC), por meio da Portaria nº 801, de 10 de novembro de 2026, publicada no Diário Of",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/12/ifac-recebe-autorizacao-para-51-novos-cargos-efetivos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9Q45CnoybJSEYNQOnqO9FO-GxWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/b/7FyqRcR7WTsebrK9CsIw/whatsapp-image-2025-08-27-at-10.13.14.jpeg",
-    "data": "2026-11-12T18:03:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: chuva de granizo provoca danos em estradas rurais e na rede elétrica em Piraju",
-    "resumo": "Temporal com queda de granizo atinge Piraju Uma chuva acompanhada de granizo e descargas elétricas atingiu Piraju (SP) na madrugada desta quinta-feira (12) e provocou estragos na cidade. Segundo a prefeitura, a chuva causou danos em estradas da zona rural e na rede elétrica do Departamento Municipal de Serviços, o que também comprometeu o",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/12/video-chuva-de-granizo-provoca-danos-em-estradas-rurais-e-na-rede-eletrica-em-piraju.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DshzW5W7UpbsrsarNMDdBxgGd7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/M/mAggAcR1isVjnq7AxeAw/chuva-de-granizo.jpeg",
-    "data": "2026-11-12T18:03:10.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Al Jazeera reports from Gaza hospital attacked by Israel",
@@ -142,15 +313,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T18:03:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Três motos irregulares são apreendidas em Volta Redonda",
-    "resumo": "Três motos são apreendidas em Volta Redonda Divulgação/Semop-GMVR Três motocicletas irregulares foram apreendidas na quarta-feira (11) e quinta-feira (12) nos bairros Sessenta, Belmonte e Vila Santa Cecília, em Volta Redonda (RJ). Os veículos foram localizados durante fiscalização e patrulhamento preventivo. Segundo a Guarda Municipal de ",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/12/tres-motos-irregulares-sao-apreendidas-em-volta-redonda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/f5D5Yf0HB1xZrbH8aW-6hhGK0E4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/F/VeXojkRgWz3IAeZZ1vEg/whatsapp-image-2026-11-12-at-14.34.41.jpeg",
-    "data": "2026-11-12T18:02:56.000Z"
   },
   {
     "categoria": "Internacional",
@@ -187,15 +349,6 @@
     "link": "https://www.dw.com/pt-br/jensen-huang-como-a-nvidia-perdeu-seu-ceo-rock-star/a-79934546?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-12T17:58:00.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-    "resumo": "<p>Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker</p><ul><li><p>Analysis: <a href=\"https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached\">Jensen Huang built an AI ki",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "imagem": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
-    "data": "2026-11-12T17:54:15.000Z"
   },
   {
     "categoria": "Internacional",
@@ -245,20 +398,11 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "One Shot Dead and Four Wounded Around Washington, D.C., Condo Building",
+    "titulo": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
     "resumo": "The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said.",
     "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
     "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
     "data": "2026-11-12T17:42:19.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-    "resumo": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-12T17:36:10.000Z"
   },
   {
     "categoria": "Economia",
@@ -324,6 +468,15 @@
     "data": "2026-11-12T17:18:13.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Report of children confined in locker at Quebec school draws minister's condemnation",
+    "resumo": "The students were allegedly placed in a metal locker as a disciplinary measure. The Education Ministry is in touch with the investigating authorities to better understand what took place.",
+    "link": "https://www.cbc.ca/news/canada/montreal/children-lockers-mille-iles-9.7419194?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.7539858,1794504132433/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3B",
+    "data": "2026-11-12T17:15:42.000Z"
+  },
+  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
@@ -367,15 +520,6 @@
     "link": "https://www.cbc.ca/news/health/prostate-cancer-screening-update-50s-9.7419249?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/1aa69947-273f-48a6-8bad-608c57acddc5,1794501265377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3B",
     "data": "2026-11-12T17:07:37.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Will the Supreme Court Thwart Congressional Investigations?",
-    "resumo": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T17:05:35.000Z"
   },
   {
     "categoria": "Canadá",
@@ -450,15 +594,6 @@
     "data": "2026-11-12T16:54:12.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-    "resumo": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg",
-    "data": "2026-11-12T16:52:53.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino",
@@ -502,15 +637,6 @@
     "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
     "imagem": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=7cfa06cdcb4667eba9b5bc5076513530",
     "data": "2026-11-12T16:39:47.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-    "resumo": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-12T16:31:12.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -576,24 +702,6 @@
     "data": "2026-11-12T16:12:53.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Cities Have a New Tactic to Block ICE Jails: Run Out the Clock",
-    "resumo": "A lawsuit by San Antonio is part of a wave of legal challenges slowing the Trump administration’s effort to build immigration detention centers across the country.",
-    "link": "https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html",
-    "imagem": null,
-    "data": "2026-11-12T16:10:06.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-    "resumo": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T16:07:16.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
@@ -619,15 +727,6 @@
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/alcolumbre-reafirma-que-decisao-sobre-cpmi-do-banco-master-cabe-ele",
     "imagem": null,
     "data": "2026-11-12T15:46:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Four people shot in Washington DC",
-    "resumo": "A major police operation is underway in Washington DC where four people have reportedly been shot",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T15:42:07.000Z"
   },
   {
     "categoria": "Brasil",
@@ -666,15 +765,6 @@
     "data": "2026-11-12T15:30:23.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Conheça as novas diretrizes da educação profissional e tecnológica",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/conheca-novas-diretrizes-da-educacao-profissional-e-tecnologica\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/conheca-novas-diretrizes-da-educacao-profissional-e-tecnologica",
-    "imagem": null,
-    "data": "2026-11-12T15:30:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
@@ -702,24 +792,6 @@
     "data": "2026-11-12T15:25:59.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Reúso de computadores pelo governo brasileiro gera economia de água",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reuso-de-computadores-pelo-governo-brasileiro-gera-economia-de-agua\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reuso-de-computadores-pelo-governo-brasileiro-gera-economia-de-agua",
-    "imagem": null,
-    "data": "2026-11-12T15:24:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Manchester United sacked manager Michael Carrick",
-    "resumo": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T15:21:43.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Israel ataca hospital em Gaza, apesar de cessar-fogo",
@@ -729,15 +801,6 @@
     "data": "2026-11-12T15:20:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "A power bank that can quickly charge three gadgets is just $49",
-    "resumo": "Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal happening on the black or silver-colored models for $48.99 (originally $85.79) at Amazon. The 25,000mAh / 90Wh battery [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-12T15:19:58.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
@@ -745,15 +808,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
     "data": "2026-11-12T15:18:20.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "UK court finds two Iranian men guilty of spying for Iran",
-    "resumo": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a &#039;violent attack&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T15:15:48.000Z"
   },
   {
     "categoria": "Economia",
@@ -909,15 +963,6 @@
     "data": "2026-11-12T13:02:46.000Z"
   },
   {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan",
-    "resumo": "<p>At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous</p><p>One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one man do not come to carry outsized consequences.</p><p",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy",
-    "imagem": "https://i.guim.co.uk/img/media/94f67f1dc5dfedf7b61aecb8ae7a5d8b7a8026e6/0_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8efd0fb4d9f13fdd7326215965b1499",
-    "data": "2026-11-12T13:00:41.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
@@ -925,15 +970,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
     "data": "2026-11-12T12:56:55.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-    "resumo": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-12T12:39:39.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -993,7 +1029,7 @@
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
-    "resumo": "<p>Rallies take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks</p><p>Starbucks baristas, students, elected officials and allies are holding rallies at <a href=\"https://starbucksworkersunited.controlshift.app/events?link_id=2&amp;can_id=debd8d2ad19f005d15f9bbdff314d42a&amp;source=email-no",
+    "resumo": "<p>Rallies will take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks</p><p>Starbucks baristas, students, elected officials and allies are planning rallies at <a href=\"https://starbucksworkersunited.controlshift.app/events?link_id=2&amp;can_id=debd8d2ad19f005d15f9bbdff314d42a&amp;source=em",
     "link": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
     "imagem": "https://i.guim.co.uk/img/media/ffdfa7a208647db76be86a3c05984b8303af9ed1/376_0_5493_4394/master/5493.jpg?width=140&quality=85&auto=format&fit=max&s=7f8e4df24f7ae34a73f5445ad1df3cdc",
     "data": "2026-11-12T11:00:48.000Z"
@@ -1026,15 +1062,6 @@
     "data": "2026-11-12T11:00:46.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Lockdowns are happening at Whitehorse jail for wrong reasons, advocates say",
-    "resumo": "Inmates at Whitehorse Correctional Centre faced unscheduled lockdowns almost every second day this year, adding up to hundreds of additional hours confined to their cells. Lawyers say that affects mental health, access to programming and court proceedings.",
-    "link": "https://www.cbc.ca/news/canada/north/lockdowns-are-happening-at-whitehorse-jail-for-wrong-reasons-advocates-say-9.7416639?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/9f8de511-f3be-486d-a9c1-e8c67800e6e8,1794350684309/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B",
-    "data": "2026-11-12T11:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Enviados dos EUA se reúnem com Putin após negociações de paz",
@@ -1058,7 +1085,7 @@
     "titulo": "Why New England’s Republican Governors Withstood the Blue Wave",
     "resumo": "The low-key approach modeled by Gov. Phil Scott of Vermont and Gov. Kelly Ayotte of New Hampshire may gain new relevance as their party looks to recover from a national drubbing.",
     "link": "https://www.nytimes.com/2026/11/12/us/scott-vermont-ayotte-nh-governor-republican.html",
-    "imagem": null,
+    "imagem": "https://static01.nyt.com/images/2026/11/12/us/12nat-vermont-gov-promo-01/12nat-vermont-gov-promo-01-mediumSquareAt3X.png",
     "data": "2026-11-12T10:02:42.000Z"
   },
   {
@@ -1078,15 +1105,6 @@
     "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/12/postwar-japan-met-museum-photos",
     "imagem": "https://i.guim.co.uk/img/media/387e127bcc535bef2f186397620984928752e98c/363_0_6192_4957/master/6192.jpg?width=140&quality=85&auto=format&fit=max&s=5cd7dc065914ad3757dfe4ab4860bdb8",
     "data": "2026-11-12T10:00:15.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-    "resumo": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/2000x1328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG",
-    "data": "2026-11-12T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1240,24 +1258,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-11T22:07:37.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Um quarto dos alemães deseja regime autoritário de direita",
-    "resumo": "Avanço do partido de ultradireita AfD em eleições na Alemanha aponta para nova tendência: preconceito, ressentimento e extremismo estão em ascensão. Estudo aponta para nível mais baixo de satisfação com a democracia.",
-    "link": "https://www.dw.com/pt-br/um-quarto-dos-alemães-deseja-regime-autoritário-de-direita/a-79924717?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-11T22:07:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "UE está longe da meta de cortar emissões no transporte em 90% até 2050",
-    "resumo": "Frotas mais limpas estão transformando a mobilidade no continente. Mas muitas cidades ainda avançam devagar rumo à sustentabilidade.",
-    "link": "https://www.dw.com/pt-br/ue-está-longe-da-meta-de-cortar-emissões-no-transporte-em-90-até-2050/a-79912043?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-11T21:04:00.000Z"
   },
   {
     "categoria": "Internacional",
