@@ -1,30 +1,327 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Lula diz que 'nenhum país tem mais autoridade do que o Brasil para tratar de clima'",
-    "resumo": "",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/12/lula-diz-que-nenhum-pais-tem-mais-autoridade-do-que-o-brasil-para-tratar-de-clima.ghtml",
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Some under-25s should get fewer benefits, Milburn review to say",
+    "resumo": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-12T17:32:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Democratas ampliam domínio no Senado nos EUA com vitória no Mississipi",
+    "resumo": "Em mais um duro revés para Trump, Scott Colom acrescenta mais uma vitória democrata em bastiões dos republicanos, naquela que pode ter sido a reviravolta mais extraordinária em eleições de meio de mandato.",
+    "link": "https://www.dw.com/pt-br/democratas-ampliam-domínio-no-senado-nos-eua-com-vitória-no-mississipi/a-79933955?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
-    "data": "2026-11-12T16:33:05.000Z"
+    "data": "2026-11-12T17:29:00.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Prefeitura de Aracaju diz que processo para transformar Guarda Municipal em Polícia Municipal está em andamento",
-    "resumo": "Guarda Municipal de Aracaju Sergio Silva/PMA/Arquivo A Prefeitura de Aracaju informou, nesta quinta-feira (12), que o processo para transformar a Guarda Municipal em Polícia Municipal está em andamento. Segundo a prefeitura, a nomenclatura já foi alterada na legislação municipal em janeiro deste ano. No entanto, as atribuições ainda não m",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/12/prefeitura-de-aracaju-diz-que-processo-para-transformar-guarda-municipal-em-policia-municipal-esta-em-andamento.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4z_WdV_eu9AKlYQX83FsE88K6Qg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/u/uL5ZuGRxWzzUHy4oLv9w/guarda-aracaju.jpg",
-    "data": "2026-11-12T16:32:26.000Z"
+    "titulo": "Hospital Metropolitano em Campinas tem pedra fundamental lançada e obra de 36 meses é iniciada",
+    "resumo": "Projeto do novo Hospital Metropolitano, que será construído em Campinas Divulgação/Secretaria Estadual de Saúde O lançamento da pedra fundamental do Hospital Metropolitano de Campinas, nesta quinta-feira (12), marcou o início oficial das obras da unidade. Participaram do evento o governador Tarcísio de Freitas (Republicanos), e o prefeito",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/12/hospital-metropolitano-em-campinas-tem-pedra-fundamental-lancada-e-obra-de-36-meses-e-iniciada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GdnE40YV9YHanioV9wwhBeNhznA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/p/DaHVAdSZ6KSCLFQUoSWA/whatsapp-image-2026-11-12-at-13.59.06.jpeg",
+    "data": "2026-11-12T17:22:57.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Ken Paxton Divorce Is Finalized, His Lawyer Says",
+    "resumo": "His wife, Angela Paxton, filed for divorce last year, citing “biblical grounds” for doing so, and referring to adultery.",
+    "link": "https://www.nytimes.com/2026/11/12/us/ken-paxton-divorce.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12nat-Paxton-2bf--ljmf/12nat-Paxton-2bf--ljmf-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T17:22:33.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "5 Shot in Washington D.C.’s Logan Circle Neighborhood",
+    "resumo": "The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said.",
+    "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T17:20:46.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Mulher é assaltada por dupla em motocicleta na porta de casa em Rio das Ostras",
-    "resumo": "Mulher é assaltada por dupla em moto enquanto se despedia de amiga em Rio das Ostras Uma mulher foi assaltada por dois homens em uma motocicleta na noite de domingo (8), na Rua Maria Bela, em Rio das Ostras, na Região dos Lagos do Rio. O crime aconteceu por volta das 21h30, enquanto ela se despedia de uma amiga na porta de casa, no bairro",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/12/mulher-e-assaltada-por-dupla-em-motocicleta-na-porta-de-casa-em-rio-das-ostras.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dTwwZ5ui-BFbENqTWe81-gEH6qI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/27SFAlSkimlWpwYif8gA/assalto-em-rio-das-ostras-foto.jpg",
-    "data": "2026-11-12T16:31:48.000Z"
+    "titulo": "Reforma Tributária exige atenção dos empresários na formação de preços para 2027",
+    "resumo": "Reforma Tributária exige atenção dos empresários na formação de preços para 2027 Crédito: Divulgação Com a chegada de 2027 e o avanço da implementação da Reforma Tributária, empresários e profissionais precisam estar atentos às mudanças que podem impactar diretamente a gestão financeira e os resultados dos negócios. Para ajudar a compreen",
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/especial-publicitario/acil/associacao-comercial-e-industrial-de-limeira/noticia/2026/11/12/reforma-tributaria-exige-atencao-dos-empresarios-na-formacao-de-precos-para-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mDSzY4jv95IZnzLQF3j3vdsH07Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/LqlNotRlAKYfmB5bXsDw/imagem-1.png",
+    "data": "2026-11-12T17:18:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Grávida de 7 meses é transportada dentro de rede em local de difícil acesso no Acre; VÍDEO",
+    "resumo": "Grávida de 7 meses é resgatada em rede em área isolada no Acre Uma jovem, grávida de sete meses, foi resgatada nessa quarta-feira (11), no Seringal Palmaripé, Rio Jurupari, em um local de difícil acesso em Feijó, no interior do Acre. Não foram divulgados nome nem idade da mulher. Nas imagens, divulgadas pelo Corpo de Bombeiros, é possível",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/12/gravida-de-7-meses-e-transportada-dentro-de-rede-em-local-de-dificil-acesso-no-acre-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/O37CWB8tLfPAxzoJg-gh0mScf1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/w/wlAA07QBO86y8om1EZkw/midia-de-distribuicao-g1-2026-11-12t102845.790.png",
+    "data": "2026-11-12T17:17:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fachin marca reunião com STJ e do TSE para discutir a proposta de reforma do sistema de Justiça",
+    "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, deve se reunir na próxima semana com ministros da Corte, além de representantes do Superior Tribunal de Justiça (STJ) e do Tribunal Superior Eleitoral (TSE), para discutir a proposta de reforma do sistema Judiciário brasileiro. O encontro foi programado diante do avanço do praz",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/12/fachin-marca-reuniao-com-stj-e-do-tse-para-discutir-a-proposta-de-reforma-do-sistema-de-justica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5PA600aLwbfQ7RdbAEelnbPukuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/i/rSi4FWTVmVuQP6CYBtHg/55518635084-8a79024e70-k.jpg",
+    "data": "2026-11-12T17:17:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casal é preso após polícia encontrar mais de 20 gaiolas com pássaros silvestres em Timon",
+    "resumo": "Polícia apreende mais de 20 gaiolas com pássaros silvestres em Timon A Polícia Civil do Maranhão (PC-MA) apreendeu mais de 20 gaiolas com pássaros silvestres encontrados em uma casa durante uma operação em Timon, a 430 km de São Luís. O imóvel pertence a um homem que já estava sendo investigado pela polícia por tráfico de drogas na cidade",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/12/casal-e-preso-apos-policia-encontrar-mais-de-20-gaiolas-com-passaros-silvestres-em-timon.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/18SsiOKFLrMskQ4zvJLMO-apz0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/R/EECy8XRdWWhHx6B2Sn8Q/montagens-1920-x-1080-px-14-.png",
+    "data": "2026-11-12T17:14:58.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+    "resumo": "<p>The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives</p><p>Here for lovers of Dickens – and fans of subtext – is an unexpectedly watchable new movie version of A Christmas Carol starring a top-hatted and heavily madeup Johnny",
+    "link": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+    "imagem": "https://i.guim.co.uk/img/media/3469927fefcac2dcf0c7e9e0fc56bb606ad79688/301_0_3598_2878/master/3598.jpg?width=140&quality=85&auto=format&fit=max&s=72628dc308735a3e21246398287113c5",
+    "data": "2026-11-12T17:14:58.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Democrats want to stop Trump&apos;s arch, golf course and more. What are their options?",
+    "resumo": "As Trump&apos;s arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7886x5257+0+0/resize/7886x5257!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F00%2F45ae5e5c4173a2bbdfc2feb574d7%2Fgettyimages-2303515786.jpg",
+    "data": "2026-11-12T17:13:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça determina funcionamento de hemodiálise após funcionários paralisarem atividades em hospital de Campina Grande",
+    "resumo": "Justiça determina funcionament de hemodiálise após funcionários paralisarem atividades em hospital de Campina Grande Reprodução/TV Cabo Branco A 1ª Vara da Fazenda Pública de Campina Grande determinou o funcionamento contínuo e seguro do serviço de hemodiálise no Hospital Antônio Targino, nesta quinta-feira (12), após funcionários com sal",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/12/justica-determina-funcionament-de-hemodialise-apos-funcionarios-paralisarem-atividades-em-hospital-de-campina-grande.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/9P76bNXerxmMVr_kZYtzDL2Jqq0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/E/j/CBl1LOS9mUx4vOyoMACA/whatsapp-image-2023-07-18-at-17.28.58.jpeg",
+    "data": "2026-11-12T17:13:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quinta-feira, 12 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/12/videos-eptv-1-sul-de-minas-de-quinta-feira-12-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tF0QKitRRtQrgsXEIOY9lH9Eotk=/s01.video.glbimg.com/deo/vi/75/24/15182475",
+    "data": "2026-11-12T17:13:09.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "CBC announces Hockey Night in Canada broadcast team for PWHL season",
+    "resumo": "In forming its broadcast team for the return of Hockey Night in Canada with Professional Women’s Hockey League coverage, CBC Sports has turned to broadcasters, journalists, and former players.",
+    "link": "https://www.cbc.ca/sports/hockey/pwhl/hockey-night-in-canada-pwhl-broadcast-team-9.7419253?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/8b5b8b61-c8c4-4773-8678-a562ac016554,1794502066182/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B",
+    "data": "2026-11-12T17:12:32.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "resumo": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-12T17:11:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Passageiro morre após táxi capotar e pegar fogo na AM-010, em Manaus",
+    "resumo": "Carro foi totalmente consumido pelas chamas Divulgação Antônio Lima de Silva de 40 anos morreu após o táxi em que estava capotar e pegar fogo na manhã desta quinta-feira (12), na rodovia AM-010, na Zona Norte de Manaus. Outras três pessoas ficaram feridas. Segundo o Corpo de Bombeiros Militar do Amazonas (CBMAM), o acidente ocorreu entre ",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/12/passageiro-morre-apos-taxi-capotar-e-pegar-fogo-na-am-010-em-manaus.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-bc0i2gnfrnlQydkvEDH3oPBqBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/E/PO5aUnTdS1TocesstKbQ/design-sem-nome-2026-11-12t113133.085.png",
+    "data": "2026-11-12T17:10:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pacientes acamados de Sumaré estão há dois meses sem receber dieta líquida da prefeitura",
+    "resumo": "Pacientes relatam falta de dieta enteral fornecida pela Prefeitura de Sumaré Pacientes acamados de Sumaré (SP) estão há pelo menos dois meses sem receber a dieta líquida fornecida pela prefeitura. O alimento especial, que é o único meio de nutrição para pessoas que usam sonda, é um direito garantido pelo Sistema Único de Saúde (SUS). A in",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/12/pacientes-acamados-de-sumare-estao-ha-dois-meses-sem-receber-dieta-liquida-da-prefeitura.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0ZJ9zz7RB0uX9pdYC0W_CVp7n-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/y/Ai3PENRo2AhFQLCrHctQ/dieta-enteral.png",
+    "data": "2026-11-12T17:10:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Paisagista percorre 21 estados em busca de plantas nativas desconehcidas para jardins",
+    "resumo": "'O Brasil ainda não aprendeu a plantar o Brasil': paisagista revela potencial de espécies nativas Pamela Faccin A arquiteta e paisagista Pamela Faccin percorreu 21 estados brasileiros e os seis biomas do país para pesquisar a flora nativa. Há mais de dez anos, ela estuda espécies brasileiras e busca ampliar o uso dessas plantas em jardins",
+    "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/12/paisagista-percorre-21-estados-em-busca-de-plantas-nativas-desconehcidas-para-jardins.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/A1FvDqS_GPp1WYWKGbzowjQ4l2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/zdwIknTdK73lsmtoyt6w/a-35-.png",
+    "data": "2026-11-12T17:09:38.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "The U.S. is now urging middle-aged men to routinely screen for prostate cancer. What about Canada?",
+    "resumo": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to U.S. guidelines. It comes a month after the Canadian Cancer Society urged a new national advisory body to update its prostate cancer guidelines.",
+    "link": "https://www.cbc.ca/news/health/prostate-cancer-screening-update-50s-9.7419249?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1aa69947-273f-48a6-8bad-608c57acddc5,1794501265377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3B",
+    "data": "2026-11-12T17:07:37.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Will the Supreme Court Thwart Congressional Investigations?",
+    "resumo": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
+    "data": "2026-11-12T17:05:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Univás conquista Selo Instituição Socialmente Responsável 2026–2027 da ABMES",
+    "resumo": "Univás conquista Selo Instituição Socialmente Responsável 2026–2027 da ABMES Crédito: Divulgação. A Universidade do Vale do Sapucaí (Univás) conquistou, mais uma vez, o Selo Instituição Socialmente Responsável 2026–2027, concedido pela Associação Brasileira de Mantenedoras de Ensino Superior (ABMES), em reconhecimento à sua participação n",
+    "link": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/fuvs/noticia/2026/11/12/univas-conquista-selo-instituicao-socialmente-responsavel-2026-2027-da-abmes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bbzmQkBEIzbDeAWoaAc2B4A1A8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/e/3TBOQZS0aF2i4X2e0bBQ/1.png",
+    "data": "2026-11-12T17:05:27.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+    "resumo": "<p>Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom</p><p><strong>Too big – and too well-connected – to sack? </strong></p><p>Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his s",
+    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "imagem": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
+    "data": "2026-11-12T17:05:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de quinta-feira, 12 de novembro de 2026",
+    "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
+    "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/12/videos-jornal-do-almoco-florianopolis-de-quinta-feira-12-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/47gwZwdhDtfeCR2wL66vtoCfQ0Y=/s01.video.glbimg.com/deo/vi/14/19/15181914",
+    "data": "2026-11-12T17:04:37.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+    "resumo": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - ",
+    "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-12T17:00:17.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "25 years later, Xbox is trying to reinvent itself again",
+    "resumo": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach [&#8230;]",
+    "link": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-12T17:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "AI chatbots are recommending fake retail websites, study finds",
+    "resumo": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a sele",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-12T17:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "More game developers are starting to use generative AI",
+    "resumo": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
+    "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-12T17:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Google Wallet can finally unlock doors with digital home keys",
+    "resumo": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone \"over the coming weeks,\" according to Google's announcement. This was ",
+    "link": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258229_Aqara_U400_Smart_Lock_JTuohy_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-12T16:56:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+    "resumo": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T16:55:10.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "resumo": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+    "data": "2026-11-12T16:54:12.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+    "resumo": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb93/live/054a0170-de1d-11f1-9d68-c1daaffc01f2.jpg",
+    "data": "2026-11-12T16:52:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/congresso-muda-orcamento-favor-da-copa-do-mundo-de-futebol-feminino\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/congresso-muda-orcamento-favor-da-copa-do-mundo-de-futebol-feminino",
+    "imagem": null,
+    "data": "2026-11-12T16:47:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Italy vs France LIVE: UEFA Nations League",
+    "resumo": "Follow updates from the Group A1 clash, including the build-up, analysis and live text commentary of the game.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/12/italy-vs-france-live-uefa-nations-league?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T16:45:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Prominent Israeli settler denied entry into France",
+    "resumo": "Israel criticises Yossi Dagan&#039;s entry ban, labelling it &#039;unacceptable&#039; amid tensions over illegal settlement policies.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T16:44:49.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+    "resumo": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02e2/live/fc549cd0-deb0-11f1-8fb5-a771a656a227.jpg",
+    "data": "2026-11-12T16:43:36.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+    "resumo": "<p>Swedish activist criticised world governments for their failure to prevent environmental breakdown </p><p>The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her first appearance at the annual UN climate talks in ",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+    "imagem": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=7cfa06cdcb4667eba9b5bc5076513530",
+    "data": "2026-11-12T16:39:47.000Z"
   },
   {
     "categoria": "Internacional",
@@ -46,93 +343,30 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "MP da Paraíba prevê gastos de mais de R$ 12 milhões com iPhones 18 Pro Max",
-    "resumo": "MP da Paraíba prevê gastos de mais de R$ 12 milhões com iPhones 18 Pro Max Krystine Carneiro/G1 O Ministério Público da Paraíba (MPPB) prevê gastos de R$ R$ 12.322.968 para a locação, em regime de comodato, de 280 IPhones 18 Pro Max, para serem usados no atendimento institucional. Uma licitação foi aberta pelo órgão para a contratação de ",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/12/mp-da-paraiba-preve-gastos-de-mais-de-r-12-milhoes-com-iphones-18-pro-max.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ZVI1LEzMQjmrTsm_qTOwhwQiP88=/s.glbimg.com/jo/g1/f/original/2017/07/29/mppb.jpg",
-    "data": "2026-11-12T16:28:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal da Manhã Alagoas de quinta-feira, 12 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/al/alagoas/edicao/2026/11/12/videos-jornal-da-manha-alagoas-de-quinta-feira-12-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GvO2bsi7fe0b6dTfxF8FDEfming=/s01.video.glbimg.com/deo/vi/07/19/15181907",
-    "data": "2026-11-12T16:27:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Influenciadora chora após ter perfil bloqueado por divulgar sites de apostas ilegais",
-    "resumo": "Influenciadora chora após ter conta desativada a pedido do Ministério da Justiça A influenciadora Mirely Gomes publicou, nesta quinta-feira (12), um vídeo chorando após descobrir que sua conta no Instagram tinha sido bloqueada pela Meta, a pedido do Ministério da Justiça, por divulgar sites de apostas. Mirely tinha mais de 800 mil seguido",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/12/influenciadora-chora-apos-ter-perfil-bloqueado-por-divulgar-sites-de-apostas-ilegais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xvHMUP4hHJ_8AkINxV0hQ5_yFC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/v/8O9tOjQPAqouuHZsqhMg/design-sem-nome-13-.jpg",
-    "data": "2026-11-12T16:26:57.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Litoral de SP tem 71 praias impróprias para banho no fim de semana do feriado da Proclamação da República; veja a lista",
-    "resumo": "Praia Grande, em Ubatuba (SP) Reprodução/EPTV O litoral de São Paulo está com 71 praias impróprias para banho, segundo boletim de balneabilidade divulgado pela Companhia Ambiental do Estado de São Paulo (Cetesb) nesta quinta-feira (12). Do total das praias classificadas como impróprias, 20 estão no Litoral Norte, enquanto outras 51 estão ",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/12/litoral-de-sp-tem-71-praias-improprias-para-banho-no-fim-de-semana-do-feriado-da-proclamacao-da-republica-veja-a-lista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IpteNJ-cg60SiEk54ohEglOCreI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/4/g/AjaBZnQ7GUEMrqoJw9BA/ubatuba.jpg",
-    "data": "2026-11-12T16:26:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motociclista é arremessado e morre após batida com carro na MG-401, em Verdelândia",
-    "resumo": "Motociclista bateu em um carro da Prefeitura de Manga Reprodução Um motociclista, de 27 anos, morreu após uma colisão com um carro na MG-401, em Verdelândia, na noite desta quarta-feira (11). Segundo a Polícia Militar, com o impacto da batida, o motociclista foi arremessado para uma área de vegetação às margens da rodovia e morreu no loca",
-    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/12/motociclista-e-arremessado-e-morre-apos-batida-com-carro-na-mg-401-em-verdelandia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mXqjugV8YQHDASXfNoe8iyndgdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Z/yy9BqzTcCx8uaXNpH2ww/verdelandia.jpeg",
-    "data": "2026-11-12T16:26:22.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-    "resumo": "<p>Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom</p><p><strong>Too big – and too well-connected – to sack? </strong></p><p>Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his s",
-    "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-    "imagem": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec",
-    "data": "2026-11-12T16:25:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "ICE efetuou 491 mil prisões e 483 mil deportações em um ano, diz balanço",
-    "resumo": "Atriz brasileira detida pelo ICE é autorizada a voltar voluntariamente ao Brasil O Serviço de Imigração e Alfândega dos Estados Unidos (ICE) afirmou que efetuou 491 mil prisões e 483 mil deportações em seu último ano fiscal, de 1º de outubro de 2025 a 30 de setembro de 2026, segundo balanço divulgado nesta quinta-feira (12). Os dados do D",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/ice-anuncia-balanco-de-491-mil-prisoes-e-483-mil-deportacoes-em-2026.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+    "resumo": "<p><strong>A Petrobras firmou um acordo para se tornar 100% dona da empresa Logum Logística, que atua no transporte, movimentação e armazenamento de etanol.</strong><img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1708576&o=rss\" style=\"width:1px; height:1px; display:inline;\" /><img src=\"https://agenciabrasil.ebc.com.br/ebc.gif?id=170",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum",
     "imagem": null,
-    "data": "2026-11-12T16:23:24.000Z"
+    "data": "2026-11-12T16:25:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "ExpoBeleza 2026 deve reunir mais de 7 mil visitantes e 100 expositores em Manaus; confira programação",
-    "resumo": "ExpoBeleza debate oportunidades e empreendedorismo no setor ) A ExpoBeleza 2026 será realizada neste domingo (15) e próxima segunda-feira (16), no Centro de Convenções Vasco Vasques, em Manaus. O evento espera receber mais de 7 mil visitantes e reunir mais de 100 expositores em um espaço dedicado a negócios, lançamentos, tendências e capa",
-    "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/12/expobeleza-2026-deve-reunir-mais-de-7-mil-visitantes-e-100-expositores-em-manaus-confira-programacao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MkZDgffdaK9J751Ok-EhzLXV6DA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/8/Acs5EFRju1W1PAVYZ0eg/expobeleza-2026-deve-reunir-mais-de-7-mil-visitantes-e-100-expositores-em-manaus-foto-divulgacao.jpg",
-    "data": "2026-11-12T16:22:33.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+    "resumo": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-12T16:23:29.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição desta quinta-feira, 12 de novembro de 2026",
-    "resumo": "Veja os vídeos do Jornal Anhanguera 1ª Edição desta quinta-feira, 12 de novembro de 2026.",
-    "link": "https://g1.globo.com/go/goias/edicao/2026/11/12/videos-jornal-anhanguera-1-edicao-desta-quinta-feira-12-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hN-1m8xr714F44gJuehiu-pLB4M=/s01.video.glbimg.com/deo/vi/14/20/15182014",
-    "data": "2026-11-12T16:21:57.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Júri de PM acusado de matar jovem em Santa Isabel é adiado pela 2ª vez",
-    "resumo": "Vídeo mostra momento em que PM de folga atira e mata jovem em Santa Isabel O júri popular do policial militar Thiago Cavalcante de Melo, acusado de matar a tiros Matheus Nunes Siqueira, de 22 anos, em Santa Isabel, foi adiado pela segunda vez nesta quinta-feira (12). O julgamento, que começaria às 9h, foi remarcado para o dia 4 de março d",
-    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/12/juri-de-pm-acusado-de-matar-jovem-em-santa-isabel-e-adiado-pela-2a-vez.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rNQwPG3NxSKRTM9v_LPtpSYydcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/D/5YX5IkQ7G6Xe0k59vxyA/captura-de-tela-2026-05-28-104152.png",
-    "data": "2026-11-12T16:21:51.000Z"
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Seth Meyers on Trump’s midterms denial: ‘Watching you go through the motions is bumming me out’",
+    "resumo": "<p>Late-night hosts discuss US president’s questioning of historic midterms defeat and his unpopular ‘triumphal arch’</p><p>Late-night hosts tore into <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> going through the motions on election denial and his self-centered tribute for US Veterans Day.</p> <a href=\"https",
+    "link": "https://www.theguardian.com/culture/2026/nov/12/seth-meyers-trump-midterms-denial-late-night",
+    "imagem": "https://i.guim.co.uk/img/media/af67e4e4f30e3953e89a3d0d74206b66a747b927/293_0_1327_1062/master/1327.jpg?width=140&quality=85&auto=format&fit=max&s=373151f6c776e8d8b48d2a9642ed93b0",
+    "data": "2026-11-12T16:20:05.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -142,6 +376,15 @@
     "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2712+0+0/resize/4200x2712!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F28%2Fe0b304fb402992a333f7b1c8f4ce%2Fgettyimages-492615386.jpg",
     "data": "2026-11-12T16:20:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-reestruturacao-de-carreiras-na-receita-ibama-e-inss\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-reestruturacao-de-carreiras-na-receita-ibama-e-inss",
+    "imagem": null,
+    "data": "2026-11-12T16:18:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -171,15 +414,6 @@
     "data": "2026-11-12T16:07:16.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-    "resumo": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-    "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-12T16:02:10.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
@@ -187,15 +421,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
     "imagem": "https://i.guim.co.uk/img/media/a9b714c28273bbad18b8ff4cc307ca1d7cd2c806/53_0_4468_3575/master/4468.jpg?width=140&quality=85&auto=format&fit=max&s=fde30f874205e12cb88451b4d594b62c",
     "data": "2026-11-12T16:01:03.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Ontario minister of colleges, universities speaks amid backlash to student loan changes",
-    "resumo": "Ontario Minister of Colleges, Universities, Research Excellence and Security Nolan Quinn will hold a news conference in Toronto at 11 a.m. Thursday amid mounting backlash over recent changes to the Ontario Student Assistance Program.",
-    "link": "https://www.cbc.ca/player/play/9.7418481?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b26f069b-16ac-4633-86f4-3f3ea86d5da8,1794435404750/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-12T16:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -311,7 +536,7 @@
     "titulo": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
     "resumo": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
     "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X.jpg",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-12T15:23:06.000Z"
   },
   {
@@ -340,15 +565,6 @@
     "link": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ecoflow.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-12T15:19:58.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "5 Shot in Washington D.C.’s Logan Circle Neighborhood",
-    "resumo": "The shooting took place outside a gym in Logan Circle, not far from the White House. A suspect was barricaded in a building, the police said.",
-    "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T15:18:44.000Z"
   },
   {
     "categoria": "Internacional",
@@ -417,7 +633,7 @@
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war",
-    "resumo": "U.S. President Donald Trump's envoys met with President Vladimir Putin on Thursday as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations.",
+    "resumo": "U.S. President Donald Trump's envoys met with Russian President Vladimir Putin on Thursday as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations.",
     "link": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/e1756611-daf1-4c11-a669-0d6e2f04c3af,1794492045675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5258%2C2957%29%3B",
     "data": "2026-11-12T14:48:39.000Z"
@@ -459,33 +675,6 @@
     "data": "2026-11-12T14:40:20.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "COP30 fortaleceu multilateralismo, diz Corrêa do Lago",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop30-fortaleceu-multilateralismo-diz-correa-do-lago\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>O pr",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop30-fortaleceu-multilateralismo-diz-correa-do-lago",
-    "imagem": null,
-    "data": "2026-11-12T14:39:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Migrant caravan sets out from southern Mexico bound for US after midterms",
-    "resumo": "Many migrants stranded in southern Mexico say the Democrats&#039; win in Congress has given them new hope of entering the US.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T14:38:42.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Justiça determina que valor do triplex em Guarujá deve ir para OAS",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-determina-que-valor-do-triplex-em-guaruja-deve-ir-para-oas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-determina-que-valor-do-triplex-em-guaruja-deve-ir-para-oas",
-    "imagem": null,
-    "data": "2026-11-12T14:38:00.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "‘Joni Mitchell sang Both Sides, Now over the phone to me’: folk music legend Judy Collins on her 87 remarkable years",
@@ -513,24 +702,6 @@
     "data": "2026-11-12T14:28:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-    "resumo": "Sustainable stalemate or slow-motion strangulation? The current &#039;equilibrium&#039; is inherently unstable, experts say.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T14:27:54.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "resumo": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
-    "data": "2026-11-12T14:27:30.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
@@ -540,15 +711,6 @@
     "data": "2026-11-12T14:23:52.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-    "resumo": "Israel&#039;s military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T14:23:01.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Indonesia&apos;s VP resigns as his eligibility and academic credentials are questioned",
@@ -556,24 +718,6 @@
     "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x5538+0+0/resize/8307x5538!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F8d%2F5c5ffceb462b8ea3b73a40e7f598%2Fap26316172354988.jpg",
     "data": "2026-11-12T14:22:50.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "At least five people shot, one killed, in central Washington, DC",
-    "resumo": "Authorities say the suspected shooter has been apprehended, after he shot himself.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T14:19:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Anvisa manda recolher lotes de insumos para canetas emagrecedoras",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-manda-recolher-lotes-de-insumos-para-canetas-emagrecedoras",
-    "imagem": null,
-    "data": "2026-11-12T14:19:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -603,15 +747,6 @@
     "data": "2026-11-12T14:13:58.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "I reviewed the Apple HomeView, ask me anything",
-    "resumo": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on [&#8230;]",
-    "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE102.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-12T14:10:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "When the after dinner mints come out, we’re back in our childhood again | Melanie Tait",
@@ -639,49 +774,13 @@
     "data": "2026-11-12T14:00:42.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The pricey new Apple TV 4K is still the best streamer around",
-    "resumo": "I'm sitting in front of my TV, puppy nuzzled up next to me, with four HomePods spread around my living room - two flanking my TV and one at either end of my couch - connected to the brand new Apple TV 4K. Young Anakin Skywalker hits the throttle and flies through the room. There [&#8230;]",
-    "link": "https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE30.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-12T14:00:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "I tried Google’s AI glasses and Meta’s finally got real competition",
-    "resumo": "It's a weird time to launch a new pair of smart glasses. These last few years, Meta has been the dominant player in pushing a fragile smart glasses resurgence. Unfortunately, its privacy reputation led to the \"pervert glasses\" moniker. Smart glasses have never been more unpopular. But in the past week, I've been demoing some [&#8230;]",
-    "link": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/androidxr8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-12T14:00:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
-    "resumo": "The HomeView nails everything I want from a smart display. It's superb at controlling my smart home; it's an excellent hands-free kitchen companion, a good speaker, and a gorgeous digital photo frame. It's also the first Apple smart speaker with Siri AI, which is an improvement, if still slow at times. But Apple has fallen [&#8230;]",
-    "link": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE74.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-12T14:00:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-    "resumo": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, presid",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-12T13:53:16.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
-    "resumo": "He was the most-cited legal scholar of the latter half of the 20th century and an unapologetic iconoclast, favoring pragmatism over judicial tradition. He was 87.",
-    "link": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/11/multimedia/11posner-fvcz/11posner-fvcz-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T13:40:10.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+    "resumo": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-12T13:58:49.000Z"
   },
   {
     "categoria": "Cultura",
@@ -700,15 +799,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-12T13:27:09.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Some under-25s should get fewer benefits, Milburn review to say",
-    "resumo": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-12T13:16:59.000Z"
   },
   {
     "categoria": "Internacional",
@@ -736,15 +826,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy",
     "imagem": "https://i.guim.co.uk/img/media/94f67f1dc5dfedf7b61aecb8ae7a5d8b7a8026e6/0_0_2057_1645/master/2057.jpg?width=140&quality=85&auto=format&fit=max&s=d8efd0fb4d9f13fdd7326215965b1499",
     "data": "2026-11-12T13:00:41.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
-    "resumo": "American AI giant Anthropic's expected debut on the Nasdaq has one money manager recalling the dot-com bubble of the 2000s.",
-    "link": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/3089b97b-00bb-4a00-a2eb-cb698da75b94,1794419114145/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
-    "data": "2026-11-12T13:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -819,6 +900,15 @@
     "data": "2026-11-12T11:17:51.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Five new miniature frog species found in eastern Himalayas",
+    "resumo": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+    "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6413/live/e56f4d60-de76-11f1-9115-cfe6d179af3a.jpg",
+    "data": "2026-11-12T11:07:19.000Z"
+  },
+  {
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
@@ -853,6 +943,15 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/12/trump-war-republicans-midterms",
     "imagem": "https://i.guim.co.uk/img/media/ee29f564a7889b4623c80d4a811989f2ff537b9e/429_0_6015_4814/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=33cebee9f0477d42582068769c0057af",
     "data": "2026-11-12T11:00:46.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Lockdowns are happening at Whitehorse jail for wrong reasons, advocates say",
+    "resumo": "Inmates at Whitehorse Correctional Centre faced unscheduled lockdowns almost every second day this year, adding up to hundreds of additional hours confined to their cells. Lawyers say that affects mental health, access to programming and court proceedings.",
+    "link": "https://www.cbc.ca/news/canada/north/lockdowns-are-happening-at-whitehorse-jail-for-wrong-reasons-advocates-say-9.7416639?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9f8de511-f3be-486d-a9c1-e8c67800e6e8,1794350684309/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B",
+    "data": "2026-11-12T11:00:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -909,24 +1008,6 @@
     "data": "2026-11-12T10:00:15.000Z"
   },
   {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
-    "resumo": "<p><strong>Nintendo Switch/2, PlayStation 4/5, Xbox One/series X/S, PC; Denkiworks/Inpleron Limited</strong><br>This gentle game of fixing and fetching, in which you play as a furry post office worker on a BMX, has a slow, calming magic that delights in routine and restoration</p><p>Arriving alongside <a href=\"https://www.theguardian.com/",
-    "link": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
-    "imagem": "https://i.guim.co.uk/img/media/6dcecd6a49a7e5c0997e8ed24c020ad53e667d88/169_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=b96f91b8c54368bb5ed155c288c4fe24",
-    "data": "2026-11-12T10:00:15.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "At least 23 states considered laws governing ICE and schools this year",
-    "resumo": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
-    "data": "2026-11-12T10:00:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
@@ -938,10 +1019,10 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "How Scott Colom defied the odds to go from DA to Mississippi&apos;s Democratic U.S. Senator",
-    "resumo": "In a state that hasn&apos;t had a Democrat in office since 1980 and hasn&apos;t sent a Black Senator to Washington since the 1870s, Colom&apos;s win represents a massive upset in state politics.",
-    "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5691x3794+0+0/resize/5691x3794!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F25%2F1303b95b4baab6e90f92ff3ca35d%2Fgettyimages-2303031468.jpg",
+    "titulo": "At least 23 states considered laws governing ICE and schools this year",
+    "resumo": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
     "data": "2026-11-12T10:00:00.000Z"
   },
   {
@@ -965,20 +1046,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Canada has the opportunity to become a global LNG leader, new report says",
-    "resumo": "Canada’s only liquified natural gas facility began operating last year, yet the country has an opportunity to scale up that industry and become one of the top natural gas exporters in the world, according to a new report.",
-    "link": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.7516694,1746231528000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
-    "data": "2026-11-12T10:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Mice, pigeon infestations at Halifax-area hospitals lead to soaring pest-control costs",
-    "resumo": "CBC News has learned that several Halifax-area hospitals have been dealing with soaring costs to deal with mice and pigeon infestations. Nova Scotia Health says it could take years to rid its facilities of the mice issue.",
-    "link": "https://www.cbc.ca/news/canada/nova-scotia/qeii-dartmouth-general-dealing-with-mice-infestations-9.7416733?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b3461431-4960-4ba4-96c2-02a2113f7277,1794493299623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
-    "data": "2026-11-12T10:00:00.000Z"
+    "titulo": "Israeli strike on a Gaza hospital kills 6 people, including surgeon, health authorities say",
+    "resumo": "An Israeli airstrike on southern Gaza's main hospital overnight killed at least six Palestinians, including a surgeon and a teenage boy, medics said, the latest Israeli attack to undermine a year-old ceasefire in the war-shattered territory.",
+    "link": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3a840d87-433a-4cb1-a76b-562ca86638af,1794465518816/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C5500%2C3093%29%3B",
+    "data": "2026-11-12T09:53:34.000Z"
   },
   {
     "categoria": "Canadá",
@@ -1008,15 +1080,6 @@
     "data": "2026-11-12T09:00:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-    "resumo": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-    "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg",
-    "data": "2026-11-12T08:46:57.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Earth&#039;s fiery birth may have created hundreds of oceans&#039; worth of water",
@@ -1026,15 +1089,6 @@
     "data": "2026-11-12T08:38:42.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-    "resumo": "<p>Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses</p><ul><li><p><a href=\"https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest\">Business live – latest updates</a></p></li></ul><p>The water company bonus ban is se",
-    "link": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-    "imagem": "https://i.guim.co.uk/img/media/81aadbb5c16eb191abb66b6c2a2be94335c99380/0_0_6793_5434/master/6793.jpg?width=140&quality=85&auto=format&fit=max&s=5f4110b594db4938109e4b5d97d0e694",
-    "data": "2026-11-12T07:59:52.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Oranges investigated after four girls die in suspected Uganda school poisoning",
@@ -1042,15 +1096,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
     "data": "2026-11-12T07:45:52.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Public Access Afterworld by Jane Schoenbrun review – horror in the TV static",
-    "resumo": "<p>The Teenage Sex and Death at Camp Miasma writer-director’s first novel is a wry, hugely fun journey into the dark world behind our screens</p><p>Public Access Afterworld is the first novel by Jane Schoenbrun, director of cult-hit horror film I Saw the TV Glow and the more recent Teenage Sex and Death at Camp Miasma; movies in which scr",
-    "link": "https://www.theguardian.com/books/2026/nov/12/public-access-afterworld-by-jane-schoenbrun-review-horror-in-the-tv-static",
-    "imagem": "https://i.guim.co.uk/img/media/b863b3c209b802dbd25ea88f044237a8405251dc/1719_4_4272_3418/master/4272.jpg?width=140&quality=85&auto=format&fit=max&s=142ee471214f87da051c1826b255664c",
-    "data": "2026-11-12T07:00:12.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1089,15 +1134,6 @@
     "data": "2026-11-12T04:07:24.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-    "resumo": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
-    "data": "2026-11-12T04:03:13.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
@@ -1105,15 +1141,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
     "imagem": "https://i.guim.co.uk/img/media/8fd60b61479519c751873c078dc512af7092ed65/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9c566e41195cc25e767c4ccf33bd91b5",
     "data": "2026-11-12T03:07:16.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Australian teen missing in bush for six days rescued alive",
-    "resumo": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png",
-    "data": "2026-11-12T02:40:18.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1141,15 +1168,6 @@
     "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction",
     "imagem": "https://static01.nyt.com/images/2026/11/08/multimedia/11midterms-black-senator-version-topart-hqfj/11midterms-black-senator-version-topart-hqfj-mediumSquareAt3X.jpg",
     "data": "2026-11-12T01:30:05.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Colom’s win fuels Democratic hopes for next year’s race for governor.",
-    "resumo": "Scott Colom’s victory in the Senate race is fueling hopes among Democrats that the campaign for governor could be competitive next year.",
-    "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-2027-governor-campaign",
-    "imagem": null,
-    "data": "2026-11-12T01:20:05.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1251,15 +1269,6 @@
     "data": "2026-11-11T18:25:56.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Equador vive permanente estado de exceção sem melhora na segurança",
-    "resumo": "Estratégia linha-dura do presidente Daniel Noboa serve mais para legimitação política do que combate ao crime, avaliam analistas.",
-    "link": "https://www.dw.com/pt-br/equador-vive-permanente-estado-de-exceção-sem-melhora-na-segurança/a-79922564?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-11T18:14:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Why does Pete Hegseth call himself secretary of war? ‘Dopey but dangerous’ wouldn’t fit on a badge | Emma Brockes",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent",
     "imagem": "https://i.guim.co.uk/img/media/c60a76edbc157e500d840b681f10beec7ef9b650/946_0_4777_3822/master/4777.jpg?width=140&quality=85&auto=format&fit=max&s=c6e16539d1a8fd01ec28e557d507ac42",
     "data": "2026-11-11T11:00:47.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-    "resumo": "<p>‘The post-election wish list is about to run into harsh fiscal reality: there is no money’</p><p>Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn US politics toward building a ne",
-    "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-    "imagem": "https://i.guim.co.uk/img/media/07a0f439eb97562ba66c202a2de731facf252107/569_0_5465_4372/master/5465.jpg?width=140&quality=85&auto=format&fit=max&s=3dcbcf803b3e2858de7228608b765158",
-    "data": "2026-11-11T11:00:46.000Z"
   }
 ]
