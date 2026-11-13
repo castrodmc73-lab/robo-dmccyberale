@@ -2,20 +2,200 @@
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Resumão diário do JN: Dino mantém em 16 de dezembro o início da escala 5x2; escândalos extraconjugais derrubam Jensen Huang da presidência da Nvidia",
-    "resumo": "A inadimplência do agronegócio subiu e o lucro do Banco do Brasil despencou. A inflação desacelerou, mas continua acima do teto da meta com alta dos alimentos. O plenário do Senado votou as medidas de ajuste fiscal do governo. O ministro Flávio Dino manteve em 16 de dezembro o início da escala 5x2, mas flexibilizou as regras para as folga",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/resumao-diario-do-jn-dino-mantem-em-16-de-dezembro-o-inicio-da-escala-5x2-escandalos-extraconjugais-derrubam-jensen-huang-da-presidencia-da-nvidia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png",
-    "data": "2026-11-13T00:48:03.000Z"
+    "titulo": "Condenado por homicídio é localizado e preso pela Polícia Civil em Búzios",
+    "resumo": "Após a captura, Lucas foi levado para a sede da delegacia, onde foram realizados os procedimentos legais. Polícia Civil Um homem condenado por homicídio e que estava foragido da Justiça foi preso nesta quinta-feira (12), na região da Praia da Ferradura, em Armação dos Búzios, na Região dos Lagos. Identificado como Lucas da Silva Pinto, el",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/12/condenado-por-homicidio-e-localizado-e-preso-pela-policia-civil-em-buzios.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CbNvnOrskEx7uYO9FhJIbjXav4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/RDPBQIQ0mDmM3Cg610Ow/preso-buzios.png",
+    "data": "2026-11-13T02:00:00.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "resumo": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+    "data": "2026-11-13T01:53:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Em Lima, milhares de jovens fazem uma vigília com Papa Leão XIV no Estádio Nacional do Peru",
+    "resumo": "Papa Leão XIV faz vigília de oração com milhares de jovens no Estádio Nacional do Peru O papa fez nesta quinta-feira (12) o segundo dia de viagem ao Peru, país onde morou por quase 20 anos. Na noite desta quinta-feira (12), Leão XIV participou de uma vigília com milhares de jovens no Estádio Nacional, em Lima. Os enviados especiais, Felip",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/em-lima-milhares-de-jovens-fazem-uma-vigilia-com-papa-leao-xiv-no-estadio-nacional-do-peru.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/70Iq-dOYCs9g6J4vuqflpjzlF7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/T/OEaCUrSg21iAa5ipOBDA/globo-canal-4-20261112-2000-frame-133126.jpeg",
+    "data": "2026-11-13T01:49:01.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "resumo": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T01:44:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+    "resumo": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T01:43:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O Arco Norte ganha peso; o que Itacoatiara pode ganhar com a rota dos grãos?",
+    "resumo": "A nova usina tera investimentos na ordem de R$ 30 milhões e vai fornecer energia elétrica para alimentar diretamente os três guindastes Konecranes em operação no porto Super Terminais. Naine Carvalho/Rede Amazônica Na próxima terça-feira (17), o Super Porto Verde prevê transferir 30,3 mil toneladas de milho de barcaças para um navio com d",
+    "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/11/12/o-arco-norte-ganha-peso-o-que-itacoatiara-pode-ganhar-com-a-rota-dos-graos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Eu6Yl75zTJQfHhczDUpwiCQ1TxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/1/Pzh4u5Q9y1OBKJCRNkaw/captura-de-tela-2025-07-02-114540.png",
+    "data": "2026-11-13T01:35:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça torna réu Milton Leite, ex-presidente da Câmara Municipal de São Paulo",
+    "resumo": "Milton Leite se torna réu por promover interesses do PCC A Justiça tornou réu o ex-presidente da Câmara Municipal de São Paulo Milton Leite. Ele é acusado de promover os interesses do PCC no transporte público da maior cidade do país. Milton Leite está preso em um centro de detenção provisória em Guarulhos, na Grande São Paulo. Ele foi tr",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/justica-torna-reu-milton-leite-ex-presidente-da-camara-municipal-de-sao-paulo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DVxuapJOMo9YlS5dw22FOqFOt-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/n/BUL3DCTcWDoSc7umYJLg/globo-canal-4-20261112-2000-frame-122278.jpeg",
+    "data": "2026-11-13T01:33:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ruas escolhe delegado Lauro Rangel para comandar a Segurança Pública do RJ; Robson da Costa será secretário da Polícia Civil",
+    "resumo": "Governador eleito do RJ, Douglas Ruas (PL) Thiago Lontra/Alerj O delegado da Polícia Civil Lauro César Lethier Rangel será o secretário de Segurança Pública do Rio de Janeiro no governo de Douglas Ruas (PL), que começa em janeiro de 2027. O nome será anunciado oficialmente nesta sexta-feira (13), durante um evento na sede da Fecomércio RJ",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/12/douglas-ruas-escolhe-cupula-da-seguranca-publica-do-rj.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/pV690tDgyJt7rq3Ijl3Y6omPdeE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/b/sY50DwSpCDGaj2Twy69g/23ruas.jpg",
+    "data": "2026-11-13T01:32:02.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "titulo": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
     "resumo": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
     "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
     "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
-    "data": "2026-11-13T00:46:55.000Z"
+    "data": "2026-11-13T01:28:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vídeo: bombeira civil é presa suspeita de matar homem no Centro das Tapioqueiras, em Fortaleza",
+    "resumo": "Bombeira civil é presa suspeita de matar homem no Centro das Tapioqueiras, em Fortaleza. A bombeira Nataly Batista Amaral foi presa, nesta quinta-feira (12), suspeita de matar um homem a tiros no Centro das Tapioqueiras, no bairro Messejana, em Fortaleza. O companheiro dela, Antônio Almeida Aguiar, também foi capturado. Uma câmera de segu",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/12/video-bombeira-civil-e-presa-suspeita-de-matar-homem-no-centro-das-tapioqueiras-em-fortaleza.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/q6GN1CpUGXFdvrpY9rdkg3vqAac=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/fo38tvTEO3XCQxIpW1AA/bombeira-nataly-amaral.jpg",
+    "data": "2026-11-13T01:28:35.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+    "resumo": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
+    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4799x3199+0+0/resize/4799x3199!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2F97%2Fb2168dc9402c9b30f325585f85b5%2Fap26316685909733.jpg",
+    "data": "2026-11-13T01:26:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Na COP31, Lula volta a cobrar investimentos dos países mais ricos para preservação de florestas",
+    "resumo": "Termina na Turquia reunião de líderes da COP31 Terminou nesta quinta-feira (12) a reunião de líderes na COP31, na Turquia. O presidente Lula voltou a cobrar investimentos dos países mais ricos para preservação de florestas. \"O clima é uma questão de segurança nacional”. O alerta foi do primeiro-ministro britânico, Andy Burnham, o único lí",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/na-cop31-lula-volta-a-cobrar-investimentos-dos-paises-mais-ricos-para-preservacao-de-florestas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/OC49Lak97iIWpANK8CvvF03gky4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/P/7X1A8vROmapxNDAKKUmQ/globo-canal-4-20261112-2000-frame-114437.jpeg",
+    "data": "2026-11-13T01:24:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: Soldado dá bronca em secretário de Guerra dos EUA por risadas e recebe medalha",
+    "resumo": "Soldado dá bronca no secretário de Guerra dos EUA Um soldado do Exército dos Estados Unidos deu uma bronca no secretário de Guerra, Pete Hegseth, e em integrantes da comitiva dele após ouvir risadas durante uma visita ao Túmulo do Soldado Desconhecido, no Cemitério Nacional de Arlington. O episódio aconteceu na quarta-feira (11). Veja no ",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/12/video-soldado-da-bronca-em-secretario-de-guerra-dos-eua-por-risadas-e-recebe-medalha.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/30q4ssZpGoUUqHqWLj2r_-YQgDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/r/TreksjSPytP1VpfB8D3A/hw708mywmaalifl.jpg",
+    "data": "2026-11-13T01:17:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Condenado a 8 anos por estuprar vizinha adolescente é preso em Boa Vista",
+    "resumo": "Ele foi preso nesta quinta-feira (12) Polícia Civil/Divulgação Um homem, de 23 anos, condenado por estuprar a vizinha, de 13 anos, foi preso nesta quinta-feira (12), no bairro Centenário, na zona Oeste de Boa Vista. Ele foi condenado a 8 anos, 10 meses e 7 dias de prisão em regime fechado. De acordo com a sentença judicial, o crime ocorre",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/12/condenado-a-8-anos-por-estuprar-vizinha-adolescente-e-preso-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ArpybP8Td08KfFYnsBIRAtVyPH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/j/C0AlJQQZmdJGFBGuMbLg/condenado-preso.jpg",
+    "data": "2026-11-13T01:15:52.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "‘Even a snail would agree’: Greta Thunberg ridicules Australia’s slow climate action",
+    "resumo": "<p>Comments came as Indigenous activist Rikki Dank urged the Australian PM to heed the calls for action on climate change</p><p>An Indigenous climate activist who is taking the Australian government to the UN human rights committee over its coal and gas exports stood alongside Greta Thunberg at the Cop summit to demand Anthony Albanese “s",
+    "link": "https://www.theguardian.com/environment/2026/nov/12/start-listening-indigenous-activist-implores-albanese-to-block-new-coal-oil-and-gas",
+    "imagem": "https://i.guim.co.uk/img/media/306ce124dee6b76004389c3bd4a643ec2a802008/1334_163_5422_4337/master/5422.jpg?width=140&quality=85&auto=format&fit=max&s=ccddfc1150430e14d2c1b9d8d61d703d",
+    "data": "2026-11-13T01:14:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Itapira alega colapso no sistema de captação de água e decreta emergência hídrica; entenda",
+    "resumo": "Falta de água tem afetado moradores em Itapira (SP) Reprodução/EPTV Alegando colapso do sistema de captação, tratamento e distribuição de água tratada, a Prefeitura de Itapira (SP) decretou emergência hídrica nesta quinta-feira (12). A medida tem validade de até 180 dias, e poderá ser revogada caso seja regularizado o abastecimento na cid",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/12/itapira-alega-colapso-no-sistema-de-captacao-de-agua-e-decreta-emergencia-hidrica-entenda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KRBcFajAkDSfXc99vbx1U7DJWZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/s/d2E6BbRAyjXp6S4FRSdw/vlcsnap-2026-11-10-21h19m18s328.png",
+    "data": "2026-11-13T01:13:45.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
+    "resumo": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
+    "data": "2026-11-13T01:12:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Representantes dos EUA se reúnem com os presidentes da Rússia e da Ucrânia após negociações de paz não avançarem",
+    "resumo": "Representantes dos Estados Unidos se reúnem com presidentes da Ucrânia e da Rússia para destravar negociações de paz Representantes dos Estados Unidos se reuniram com os presidentes da Rússia e da Ucrânia depois de uma nova rodada de negociações de paz sem avanços decisivos. Foi a décima reunião presencial de Steve Witkoff com Vladimir Pu",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/representantes-dos-eua-se-reunem-com-os-presidentes-da-russia-e-da-ucrania-apos-negociacoes-de-paz-nao-avancarem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/foDS9eus-e9TmkbS-nGoxGn5vjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/a/fH7ZrxQGi4YJjmxsLkPA/globo-canal-4-20261112-2000-frame-108765.jpeg",
+    "data": "2026-11-13T01:12:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Campos tem previsão de chuva à tarde nesta sexta; máxima chega a 27°C",
+    "resumo": "Confira a previsão do tempo para esta quinta-feira: 12 de novembro de 2026 A sexta-feira (13) será de sol entre muitas nuvens e possibilidade de pancadas de chuva à tarde em Campos dos Goytacazes, no Norte Fluminense. Segundo o Climatempo, as temperaturas devem variar entre 20°C e 27°C. A sensação térmica chega a 30°C. A previsão indica 8",
+    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/12/campos-tem-previsao-de-chuva-a-tarde-nesta-sexta-maxima-chega-a-27c.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/W7hdgrXXkLSBf34lhsy6HziP3Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/O/zW5VF9ThKBGSaAKeZ7eA/whatsapp-image-2023-04-08-at-14.46.42.jpeg",
+    "data": "2026-11-13T01:11:16.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
+    "resumo": "The Fire Department said the search for victims on Flatbush Avenue was over, while city investigators began looking into an excavation occurring next door.",
+    "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-mediumSquareAt3X.jpg",
+    "data": "2026-11-13T01:11:13.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Australian footballers will not be charged after hotel incident, police say",
+    "resumo": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+    "data": "2026-11-13T01:03:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+    "imagem": null,
+    "data": "2026-11-13T00:54:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -28,39 +208,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dupla é apreendida por suspeita de furto de motocicleta no pátio de delegacia em Angra dos Reis",
-    "resumo": "Dupla é apreendida por suspeita de furto de motocicleta no pátio de delegacia em Angra dos Reis Divulgação/Polícia Civil Um jovem, de 19 anos, e um adolescente, de 17 anos, foram apreendidos nesta quinta-feira (12) por suspeita de furtar uma motocicleta que estava no pátio da delegacia de Angra dos Reis (RJ). O veículo havia sido recupera",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/12/dupla-e-apreendida-por-suspeita-de-furto-de-motocicleta-no-patio-de-delegacia-em-angra-dos-reis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/b-Nr9z8pefBDk-S4WZnca3xVl7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/n/BKynMWRyWTZKBVHdXMAg/whatsapp-image-2026-11-12-at-21.41.44-1-.jpeg",
-    "data": "2026-11-13T00:46:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Banco do Brasil atribui queda no lucro principalmente à inadimplência do agronegócio; ações caíram mais de 8%",
-    "resumo": "Ações do Banco do Brasil encerram em queda de mais de 8% na bolsa de valores brasileira As ações do Banco do Brasil caíram nesta quinta-feira (12) mais de 8% na bolsa de valores. O BB divulgou na quarta-feira (11), depois do fechamento do mercado, uma queda no lucro acima das expectativas e atribuiu o resultado, principalmente, à inadimpl",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/banco-do-brasil-atribui-queda-no-lucro-principalmente-a-inadimplencia-do-agronegocio-acoes-cairam-mais-de-8percent.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nZxKRUXOotyFiNUSqcgw5ydzBVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/m/xQN0eFSimYyv46EaeeSQ/globo-canal-4-20261112-2000-frame-82652.jpeg",
-    "data": "2026-11-13T00:43:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quinta-feira, 12 de novembro de 2026",
-    "resumo": "Confira os destaques desta edição.",
-    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quinta-feira-12-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vgsszK9blMm40jea0RBgM9X5mfw=/s01.video.glbimg.com/deo/vi/24/38/15183824",
-    "data": "2026-11-13T00:43:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Senado aprova texto-base do projeto de ajuste fiscal",
-    "resumo": "Senado aprova texto-base do projeto de ajuste fiscal Proposta do governo promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto foi aprovado por 45 votos a 31. O Senado aprovou o texto-base do Projeto de Lei Complementar (PLP) com as medidas de ajuste das contas públicas propostas pelo governo Lula.. O",
-    "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CvZFyFXgPBVZoMsW3hAcdjrPnMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/nmrPtYRlOquPE3T9GPQQ/55649695989-636e0aaabd-k.jpg",
-    "data": "2026-11-13T00:35:23.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
+    "resumo": "<p><strong>O Supremo Tribunal Federal (STF) confirmou, nesta quinta-feira (12), a validade da decisão que homologou um acordo para encerrar os processos judiciais sobre perdas financeiras de poupadores provocadas por planos econômicos das décadas de 1980 e 1990.</strong><img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1708655&o=rss\" ",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-encerra-processo-sobre-perdas-inflacionarias-em-planos-economicos",
+    "imagem": null,
+    "data": "2026-11-13T00:35:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -70,69 +223,6 @@
     "link": "https://www.cbc.ca/news/politics/indigenous-inuit-women-carney-budget-9.7419887?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B",
     "data": "2026-11-13T00:34:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "MS contrata quase R$ 7 milhões em cisternas para agricultores, indígenas e quilombolas",
-    "resumo": "Cisterna em residência. MDS. O Governo de Mato Grosso do Sul firmou um contrato de R$ 6.979.726,95 para a implantação de cisternas destinadas a famílias de baixa renda que vivem na zona rural do estado. Entre os modelos previstos está a instalação de cisternas de ferrocimento, com capacidade para armazenar até 16 mil litros de água. O ext",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/12/ms-contrata-r-7-milhoes-em-cisternas-para-agricultores-familiares-indigenas-e-quilombolas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xBfTBLRcVTXWSoNPNlxY7TdIQwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/1/6EsVX2Rem5q3f6xe8Bfg/design-sem-nome-58-.jpg",
-    "data": "2026-11-13T00:32:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "São José da Lapa suspende aulas em todas as escolas municipais após quatro casos de sarna humana",
-    "resumo": "Escabiose, ou sarna humana, causa lesões na pele e muita coceira Magnific A Prefeitura de São José da Lapa, na Grande BH, suspendeu as aulas em todas as escolas municipais nesta sexta-feira (13) para a higienização dos espaços, como medida preventiva contra a escabiose, conhecida como sarna humana. A cidade tem quatro casos confirmados: d",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/12/sao-jose-da-lapa-suspende-aulas-em-todas-as-escolas-municipais-apos-quatro-casos-de-sarna-humana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hd1wrlRD9peKY-W__mq-JynqTsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/9/1Pr7BVQ2igTPnaBFUWGA/sarna1.jpg",
-    "data": "2026-11-13T00:32:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Timemania hoje: resultado do concurso 2467 e números sorteados",
-    "resumo": "Resultado da Timemania g1 Veja abaixo os números do sorteio do concurso 2467 da Timemania realizado nesta quinta-feira (12): Dezenas: 2 - 11 - 12 - 23 - 31 - 65 - 67 Time do Coração: RETRO BRASIL/PE Confira o resultado do sorteio da Timemania. Veja quantas apostas foram premiadas no concurso 2467: Ninguém conseguiu os 7 acertos, e a premi",
-    "link": "https://g1.globo.com/loterias/timemania/noticia/2026/11/12/timemania-hoje-resultado-do-concurso-2467-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BTiTF9N_Xq145qlUqa-SLZT9oOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/W/16FpcFRFatR4NOAV0hXw/timemania-2467-kdtix.jpeg",
-    "data": "2026-11-13T00:31:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Lotofácil hoje: resultado do concurso 3828 e números sorteados",
-    "resumo": "Resultado da Lotofácil g1 Veja abaixo os números do sorteio do concurso 3828 da Lotofácil realizado nesta quinta-feira (12): 3 - 5 - 7 - 8 - 11 - 13 - 14 - 15 - 18 - 19 - 20 - 21 - 22 - 23 - 25 Confira o resultado do sorteio da Lotofácil. Veja quantas apostas foram premiadas no concurso 3828: 15 acertos: 1 aposta ganhadora, que vai recebe",
-    "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/12/lotofacil-hoje-resultado-do-concurso-3828-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9aUkN3a7-0cZbOfsr4qWTzOcj_c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/o/fJEOP6QW2QqoIM3wLwqQ/lotofacil-3828-efqqj.jpeg",
-    "data": "2026-11-13T00:31:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dia de Sorte hoje: resultado do concurso 1346 e números sorteados",
-    "resumo": "Resultado da Dia de Sorte g1 Veja abaixo os números do sorteio do concurso 1346 da Dia de Sorte realizado nesta quinta-feira (12): Dezenas: 4 - 5 - 6 - 16 - 19 - 27 - 28 Mês da Sorte: Novembro Confira o resultado do sorteio da Dia de Sorte. Veja quantas apostas foram premiadas no concurso 1346: Ninguém conseguiu os 7 acertos, e a premiaçã",
-    "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/12/dia-de-sorte-hoje-resultado-do-concurso-1346-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/W0FCQI1huRYYXTZ242180Z-AtBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/u/BxAjTeQPapL2jSOobc4w/diadesorte-1346-fspgl.jpeg",
-    "data": "2026-11-13T00:31:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quina hoje: resultado do concurso 7166 e números sorteados",
-    "resumo": "Resultado da Quina g1 Veja abaixo os números do sorteio do concurso 7166 da Quina realizado nesta quinta-feira (12): 19 - 31 - 61 - 67 - 69 Confira o resultado do sorteio da Quina. Veja quantas apostas foram premiadas no concurso 7166: Ninguém conseguiu os 5 acertos, e a premiação acumulou para R$ 11 milhões; 4 acertos: 24 apostas ganhado",
-    "link": "https://g1.globo.com/loterias/quina/noticia/2026/11/12/quina-hoje-resultado-do-concurso-7166-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1pzdTmVeJ1VREE5SByOSqdsHVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/k/zbeznNTpaJqkMXP481hg/quina-7166-ybfdj.jpeg",
-    "data": "2026-11-13T00:31:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-13T00:30:36.000Z"
   },
   {
     "categoria": "Brasil",
@@ -205,15 +295,6 @@
     "link": "https://www.nytimes.com/2026/11/12/us/anthony-clark-dead.html",
     "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/xp-clark-top/xp-clark-top-mediumSquareAt3X.jpg",
     "data": "2026-11-12T23:57:37.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
-    "resumo": "The Fire Department said the search for victims on Flatbush Avenue was over, while city investigators began looking into an excavation occurring next door.",
-    "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T23:53:15.000Z"
   },
   {
     "categoria": "Internacional",
@@ -349,15 +430,6 @@
     "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-12T23:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
-    "resumo": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T22:55:52.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -513,15 +585,6 @@
     "data": "2026-11-12T21:31:33.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Sara dos Santos é ouro no boxe nos Jogos Olímpicos da Juventude",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/sara-dos-santos-e-ouro-no-boxe-nos-jogos-olimpicos-da-juventude\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/sara-dos-santos-e-ouro-no-boxe-nos-jogos-olimpicos-da-juventude",
-    "imagem": null,
-    "data": "2026-11-12T21:30:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
@@ -538,15 +601,6 @@
     "link": "https://www.cbc.ca/sports/hockey/world-juniors-russia-valdislav-tretiak-9.7419768?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B",
     "data": "2026-11-12T21:21:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Copa do Mundo Feminina: taça está em exposição na sede da CBF",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copa-do-mundo-feminina-taca-esta-em-exposicao-na-sede-da-cbf\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>E",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copa-do-mundo-feminina-taca-esta-em-exposicao-na-sede-da-cbf",
-    "imagem": null,
-    "data": "2026-11-12T21:21:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -630,15 +684,6 @@
     "data": "2026-11-12T20:29:06.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Microsoft users report outages amid tech giant 'connectivity issues'",
-    "resumo": "Users worldwide report issues after tech giant says its infrastructure has been hit by \"elevated load\"",
-    "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1712/live/c0529370-deda-11f1-a75a-dbf83836672c.jpg",
-    "data": "2026-11-12T20:25:29.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "What’s at stake in the renewed tensions over the Falkland Islands?",
@@ -655,24 +700,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T20:15:47.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Regional security dominates European talks in Dublin amid hybrid attacks",
-    "resumo": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T20:12:21.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Democrats gather in Denver to debate party’s future after US midterm wins",
-    "resumo": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T20:10:31.000Z"
   },
   {
     "categoria": "Internacional",
@@ -981,15 +1008,6 @@
     "data": "2026-11-12T15:34:00.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 as it happened: ‘No one is coming to rescue us,’ Greta Thunberg tells climate summit",
-    "resumo": "<p>World leaders including UK prime minister Andy Burnham addressed the summit today, as talks near the end of the first week</p><p><strong>Zack Polanski</strong>, leader of the Green party in the UK, criticised Andy Burnham’s Cop31 speech on Radio 4’s Today programme. Saying he was “not at all reassured” by the prime minister’s words, he",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-    "imagem": "https://i.guim.co.uk/img/media/d3682f0d76da6396a255b243a53cf8e99370bd6a/555_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=ba7f5e0a0a6544231c52a533381c2eba",
-    "data": "2026-11-12T15:30:23.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
@@ -1062,15 +1080,6 @@
     "data": "2026-11-12T14:28:59.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Indonesia&apos;s VP resigns as his eligibility and academic credentials are questioned",
-    "resumo": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn&apos;t meet election requirements.",
-    "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8307x5538+0+0/resize/8307x5538!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F8d%2F5c5ffceb462b8ea3b73a40e7f598%2Fap26316172354988.jpg",
-    "data": "2026-11-12T14:22:50.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "When the after dinner mints come out, we’re back in our childhood again | Melanie Tait",
@@ -1087,15 +1096,6 @@
     "link": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
     "imagem": "https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=b70cb5a1fb4d4215ea4bfc914078a7a6",
     "data": "2026-11-12T14:00:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-    "resumo": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-    "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-12T13:58:49.000Z"
   },
   {
     "categoria": "Cultura",
