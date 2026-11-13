@@ -1,12 +1,12 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Condenado por homicídio é localizado e preso pela Polícia Civil em Búzios",
-    "resumo": "Após a captura, Lucas foi levado para a sede da delegacia, onde foram realizados os procedimentos legais. Polícia Civil Um homem condenado por homicídio e que estava foragido da Justiça foi preso nesta quinta-feira (12), na região da Praia da Ferradura, em Armação dos Búzios, na Região dos Lagos. Identificado como Lucas da Silva Pinto, el",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/12/condenado-por-homicidio-e-localizado-e-preso-pela-policia-civil-em-buzios.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CbNvnOrskEx7uYO9FhJIbjXav4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/RDPBQIQ0mDmM3Cg610Ow/preso-buzios.png",
-    "data": "2026-11-13T02:00:00.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "resumo": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+    "data": "2026-11-13T02:39:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -15,7 +15,79 @@
     "resumo": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
     "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
-    "data": "2026-11-13T01:53:55.000Z"
+    "data": "2026-11-13T02:38:02.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+    "resumo": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-vanhollen-kvwt/12dc-vanhollen-kvwt-mediumSquareAt3X.jpg",
+    "data": "2026-11-13T02:37:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump moots toppling Cuba authorities before leaving office",
+    "resumo": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T02:33:28.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Maryland's Van Hollen to challenge Schumer for Senate leadership post",
+    "resumo": "Democratic Sen. Chris Van Hollen of Maryland said Thursday that he will run for Senate majority leader in the next Congress, setting up a challenge to Democratic Leader Chuck Schumer after the party swept to power in the midterm elections.",
+    "link": "https://www.cbc.ca/news/world/van-hollen-senate-leadership-challenge-schumer-9.7420238?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/ec460f5d-b31d-4039-aeac-e2ef6787273a,1794536069703/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C351%2C6000%2C3375%29%3B",
+    "data": "2026-11-13T02:33:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Australian footballers will not be charged after hotel incident, police say",
+    "resumo": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
+    "data": "2026-11-13T02:33:07.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
+    "resumo": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
+    "data": "2026-11-13T02:23:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Drauzio Varella é eleito para a Academia Brasileira de Letras; ele ocupará a cadeira que era do jornalista Zuenir Ventura",
+    "resumo": "Drauzio Varella é eleito para a Academia Brasileira de Letras O médico e escritor Drauzio Varella foi eleito para a Academia Brasileira de Letras. Ele vai ocupar a cadeira que era do jornalista Zuenir Ventura. Como a votação dos imortais também é secreta, a primeira imagem é do fim da eleição, quando os 37 votos foram incinerados. Eleito ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/drauzio-varella-e-eleito-para-a-academia-brasileira-de-letras-ele-ocupara-a-cadeira-que-era-do-jornalista-zuenir-ventura.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-aA7WX89YpfNmkz85I4DQQ7AYFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/d/VOGvVAT8AVd3xZyJmKOA/globo-canal-4-20261112-2000-frame-158133.jpeg",
+    "data": "2026-11-13T02:04:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+    "resumo": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+    "data": "2026-11-13T02:01:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Condenado por homicídio é localizado e preso pela Polícia Civil em Búzios",
+    "resumo": "Após a captura, Lucas foi levado para a sede da delegacia, onde foram realizados os procedimentos legais. Polícia Civil Um homem condenado por homicídio e que estava foragido da Justiça foi preso nesta quinta-feira (12), na região da Praia da Ferradura, em Armação dos Búzios, na Região dos Lagos. Identificado como Lucas da Silva Pinto, el",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/12/condenado-por-homicidio-e-localizado-e-preso-pela-policia-civil-em-buzios.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CbNvnOrskEx7uYO9FhJIbjXav4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/J/RDPBQIQ0mDmM3Cg610Ow/preso-buzios.png",
+    "data": "2026-11-13T02:00:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -144,15 +216,6 @@
     "data": "2026-11-13T01:13:45.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
-    "resumo": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-republicans-south-04-cjpt/12pol-republicans-south-04-cjpt-mediumSquareAt3X.jpg",
-    "data": "2026-11-13T01:12:10.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Representantes dos EUA se reúnem com os presidentes da Rússia e da Ucrânia após negociações de paz não avançarem",
@@ -162,15 +225,6 @@
     "data": "2026-11-13T01:12:06.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Campos tem previsão de chuva à tarde nesta sexta; máxima chega a 27°C",
-    "resumo": "Confira a previsão do tempo para esta quinta-feira: 12 de novembro de 2026 A sexta-feira (13) será de sol entre muitas nuvens e possibilidade de pancadas de chuva à tarde em Campos dos Goytacazes, no Norte Fluminense. Segundo o Climatempo, as temperaturas devem variar entre 20°C e 27°C. A sensação térmica chega a 30°C. A previsão indica 8",
-    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/12/campos-tem-previsao-de-chuva-a-tarde-nesta-sexta-maxima-chega-a-27c.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/W7hdgrXXkLSBf34lhsy6HziP3Xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/O/zW5VF9ThKBGSaAKeZ7eA/whatsapp-image-2023-04-08-at-14.46.42.jpeg",
-    "data": "2026-11-13T01:11:16.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
@@ -178,15 +232,6 @@
     "link": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
     "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-collapse-print-01-plmq/12met-collapse-print-01-plmq-mediumSquareAt3X.jpg",
     "data": "2026-11-13T01:11:13.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Australian footballers will not be charged after hotel incident, police say",
-    "resumo": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
-    "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg",
-    "data": "2026-11-13T01:03:59.000Z"
   },
   {
     "categoria": "Brasil",
@@ -349,15 +394,6 @@
     "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F54%2F5f034a3f48afb04565b5438e329b%2Fmdt-holscher.jpg",
     "data": "2026-11-12T23:36:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-    "resumo": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-    "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-    "data": "2026-11-12T23:34:05.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -621,15 +657,6 @@
     "data": "2026-11-12T21:03:09.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-    "resumo": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-12T21:00:42.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Here are the 25 original Xbox games you can now play on PC",
@@ -691,15 +718,6 @@
     "link": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-12T20:25:21.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Qatar Under-17 World Cup is on despite US pull out",
-    "resumo": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T20:15:47.000Z"
   },
   {
     "categoria": "Internacional",
@@ -774,15 +792,6 @@
     "data": "2026-11-12T19:13:45.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "House Passes Competing Veterans Bills in a Fight Over Funding",
-    "resumo": "Legislation addressing the retirement pay of veterans with combat-related disabilities is making its way through Congress, but could collapse amid a funding clash.",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/house-veterans-benefits-bill-funding.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-cong-veterans-gvlc/12dc-cong-veterans-gvlc-mediumSquareAt3X.jpg",
-    "data": "2026-11-12T19:12:20.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Como opera a indústria internacional de exércitos de mercenários",
@@ -826,15 +835,6 @@
     "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8115x5410+0+0/resize/8115x5410!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F0b%2Fc07dd0af43e4a0d64518c8759694%2Fap26316491465482.jpg",
     "data": "2026-11-12T18:15:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Hegseth awards medal to Arlington soldier who scolded his group on decorum",
-    "resumo": "U.S. War Secretary Pete Hegseth has given a top award to the service member who scolded him and his staff at the Tomb of the Unknown Soldier following a Veterans Day ceremony at Arlington National Cemetery.",
-    "link": "https://www.cbc.ca/news/world/us-pentagon-hegseth-arlington-controversy-medal-9.7419227?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c4755284-bb97-4f6c-946f-a1edd5ed186c,1794510354041/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-12T18:14:30.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1134,6 +1134,15 @@
     "data": "2026-11-12T12:56:55.000Z"
   },
   {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Crows can make decisions twice as fast as humans, scientists discover",
+    "resumo": "Crows may be even smarter than we thought, and their brains are astonishingly fast. Researchers at the University of Tübingen discovered that crows can make visual decisions twice as quickly as humans and monkeys, taking just 235 milliseconds on average to identify the direction of moving dots while maintaining remarkable accuracy.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm",
+    "imagem": null,
+    "data": "2026-11-12T12:17:19.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "As principais medidas do ajuste fiscal a ser votado pelo Senado",
@@ -1141,6 +1150,33 @@
     "link": "https://www.dw.com/pt-br/as-principais-medidas-do-ajuste-fiscal-a-ser-votado-pelo-senado/a-79928149?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-12T12:01:00.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "AI-powered bionic eye breakthrough could help the blind see again",
+    "resumo": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual&#039;s brain responds to electrical stimulation, the technology could bring researchers closer to resto",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+    "imagem": null,
+    "data": "2026-11-12T11:55:55.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+    "resumo": "NASA&#039;s Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet&#039;s potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles away, suggests the building bloc",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+    "imagem": null,
+    "data": "2026-11-12T11:37:06.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "A new treasure map reveals where Earth&#039;s lost prehistoric life may be hiding",
+    "resumo": "A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth&#039;s ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fos",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm",
+    "imagem": null,
+    "data": "2026-11-12T11:24:47.000Z"
   },
   {
     "categoria": "Economia",
@@ -1204,6 +1240,15 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/12/trump-war-republicans-midterms",
     "imagem": "https://i.guim.co.uk/img/media/ee29f564a7889b4623c80d4a811989f2ff537b9e/429_0_6015_4814/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=33cebee9f0477d42582068769c0057af",
     "data": "2026-11-12T11:00:46.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
+    "resumo": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetically separate despite living side by sid",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
+    "imagem": null,
+    "data": "2026-11-12T10:47:43.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1278,15 +1323,6 @@
     "data": "2026-11-12T03:07:16.000Z"
   },
   {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-    "resumo": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geo",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-    "imagem": null,
-    "data": "2026-11-12T01:45:09.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
@@ -1312,41 +1348,5 @@
     "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
     "imagem": "https://i.guim.co.uk/img/media/cd25034beb904557d3f8a78d430e0aa9575904a1/138_0_1375_1100/master/1375.jpg?width=140&quality=85&auto=format&fit=max&s=76de433ff11fe982b02669e8d251ee2e",
     "data": "2026-11-11T19:00:33.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "The Guardian view on Maga after the midterms: doubling down on Trumpism | Editorial",
-    "resumo": "<p>Republicans know that the president’s folly and excesses cost them the elections. That doesn’t mean they’re ready to challenge him</p><p>Shortly after polls closed last Tuesday, with the scale of the Republican trouncing in the midterms still becoming apparent, Donald Trump briefly adopted an oddly conciliatory tone. He <a href=\"https:",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/the-guardian-view-on-maga-after-the-midterms-doubling-down-on-trumpism",
-    "imagem": "https://i.guim.co.uk/img/media/c49fb68e16b6a7ae88561816da5a2e30fc8105f1/285_0_2850_2280/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=a5acba58bcaaff6e20bfaaed22a03c24",
-    "data": "2026-11-11T18:25:56.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Why does Pete Hegseth call himself secretary of war? ‘Dopey but dangerous’ wouldn’t fit on a badge | Emma Brockes",
-    "resumo": "<p>He has survived blame for the US midterms disaster and dodged an impeachment vote, but it will be one battle after another now – and he can’t win them all</p><p>Like the brief, wondrous cycle of the mayfly, we may come to look back on the career of Pete Hegseth, the US secretary of defence who cheekily rebranded himself <a href=\"https:",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment",
-    "imagem": "https://i.guim.co.uk/img/media/63c3cac7e7ff6547e76f995d2ec6cc6fe8f75606/841_0_4489_3592/master/4489.jpg?width=140&quality=85&auto=format&fit=max&s=db4b47dfdb171c5e62879d659c74426a",
-    "data": "2026-11-11T17:35:20.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "It’s impeachment season! After the attempt on Pete Hegseth, will Donald Trump be next? | Arwa Mahdawi",
-    "resumo": "<p>Trump has already made history as the only president to be impeached twice. After the Republicans’ thrashing in the midterms, could there be a third attempt?</p><p>The days are getting shorter, the nights are getting longer and some Republicans are getting nervous. After a long stretch of impunity, it’s impeachment season in the US. Wh",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/11/impeachment-pete-hegseth-donald-trump",
-    "imagem": "https://i.guim.co.uk/img/media/3ef4aba55bf2269e2b5615407bb595fe9e4e27d8/422_0_3643_2915/master/3643.jpg?width=140&quality=85&auto=format&fit=max&s=696db7994e8c8f81fc0762cf5565eeb2",
-    "data": "2026-11-11T17:00:55.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
-    "resumo": "<p>Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on the publishing world’s genre wars</p><p>As M John Harrison was announced as the Booker prize winner on Monday evening, the 81-year-old looked gobsmacked. Decades into his career, and long overlooked by the mainstream literary establishment, he had just won a pr",
-    "link": "https://www.theguardian.com/books/2026/nov/11/m-john-harrison-booker-science-fiction",
-    "imagem": "https://i.guim.co.uk/img/media/044714e910b9f6cd9660b9352db5413917bde16a/434_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=20e5b3d30c7e0c5ef23afc9003d1ecf7",
-    "data": "2026-11-11T16:44:36.000Z"
   }
 ]
