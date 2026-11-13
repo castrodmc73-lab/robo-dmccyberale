@@ -1,99 +1,279 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "What we know about the global Microsoft outage",
+    "resumo": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-13T12:31:49.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Pedestre morre atropelado por dois veículos na Rodovia Luiz de Queiroz em Piracicaba",
-    "resumo": "Um pedestre de 41 anos morreu atropelado na Rodovia Luiz de Queiroz (SP-304) na noite desta quinta-feira (12), em Piracicaba (SP). Segundo a Polícia Militar Rodoviária (PMR), a vítima atravessava a rodovia quando foi atingida por um veículo de grande porte. \"Em seguida, um outro automóvel o atropelou novamente. Ambos os veículos não foram",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/13/pedestre-morre-atropelado-por-dois-veiculos-na-rodovia-luiz-de-queiroz-em-piracicaba.ghtml",
+    "titulo": "VÍDEOS: Bom Dia Cidade Sul de Minas de sexta-feira, 13 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/13/videos-bom-dia-cidade-sul-de-minas-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Coy0yRJxQ6lIlTNWdS2pm5_g-XU=/s01.video.glbimg.com/deo/vi/90/45/15184590",
+    "data": "2026-11-13T12:31:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carro bate em poste de energia elétrica e trecho é interditado em Santarém",
+    "resumo": "Poste de concreto quebra após colisão e fica inclinado sobre a Avenida Tancredo Neves, em Santarém. Redes Sociais Um carro bateu em um poste de energia elétrica e provocou a interdição de um trecho da Avenida Tancredo Neves, entre as ruas 20 e 22, em Santarém, no oeste do Pará. O acidente aconteceu na manhã desta-sexta (13) e mobilizou ag",
+    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/13/carro-bate-em-poste-de-energia-eletrica-e-trecho-e-interditado-em-santarem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7t3_3pP4Osq7xtd7o07B69pJgRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/t/TFGZU2SVe6uBcP5iULsw/whatsapp-image-2026-11-13-at-08.55.48.jpeg",
+    "data": "2026-11-13T12:31:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Irã exibe arsenal militar em Teerã: 'EUA acabarão falhando e desistirão'",
+    "resumo": "Uma exposição apresentando mísseis, drones e sistemas de defesa aérea desenvolvidos pelo próprio Irã está sendo realizada em Teerã. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Organizado pela Força Aeroespacial do Corpo da Guarda Revolucionária Islâmica do Irã (IRGC), o evento ocorreu no Parque Aeroespacial Nacional de Tee",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-exibe-arsenal-militar-em-teera-eua-acabarao-falhando-e-desistirao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GGSzShIxzkpnYuvmd9YK8MQkV2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/3oIFe5QNqsT3U1GSTFJg/misseis.png",
+    "data": "2026-11-13T12:30:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Gérard Depardieu desiste de recorrer de condenação por agressões sexuais após divulgação de vídeo que flagra assédio em figurante",
+    "resumo": "Vídeo mostra o ator Gerárd Depardieu tentando levantar vestido de figurante durante gravações de 'Turf', filme de 2013. Reprodução/Mediapart/Le Média O ator francês Gérard Depardieu desistiu de recorrer de sua condenação por agressão sexual contra duas mulheres durante uma gravação em 2021, segundo a AFP. A decisão, confirmada por uma fon",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/gerard-depardieu-desiste-de-recorrer-de-sua-condenacao-por-agressoes-sexuais-apos-divulgacao-de-video-que-flagra-assedio-em-figurante-de-filme.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3s2T6gGSni6I6-Lb6c3M3aP7HAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/R/QaMmTaTqq0Sf1i8U3ZAQ/design-sem-nome-5-.png",
+    "data": "2026-11-13T12:28:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pelo menos seis pessoas morrem após prédio desabar no Quênia",
+    "resumo": "Desabamento no Quênia deixa vítimas fatais em 13 de novembro de 2026. Reuters Pelo menos seis pessoas morreram nesta sexta-feira (13) depois de um prédio em construção desabar perto de Nairóbi, capital do Quênia. De acordo com a imprensa local, o acidente ocorreu semanas depois de um outro edifício também ter desabado na capital queniana.",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/desabamento-quenia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/W2bZsQGub5FJlmaKeclWXmha-7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/a/cV7x4FRhWpkzG3DyAAVA/2026-11-13t114051z-1564948445-rc2zmoax0no1-rtrmadp-3-kenya-accident.jpg",
+    "data": "2026-11-13T12:27:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PUC-Rio anuncia autorização do MEC para curso de Medicina com aulas previstas para 2027",
+    "resumo": "PUC reformou andar de prédio para abrigar o curso de Medicina Divulgação/PUC-Rio A Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) anunciou nesta sexta-feira (13) que recebeu autorização do Ministério da Educação (MEC) para oferecer o curso de graduação em Medicina. Segundo a instituição, a nova formação recebeu conceito 5, n",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/puc-rio-anuncia-autorizacao-do-mec-para-curso-de-medicina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cLw_tt5aUrfLZCiufWKp2sFT000=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/m/Yw8QCeR4W5tZlmEAsvjA/13puc.jpeg",
+    "data": "2026-11-13T12:24:41.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "resumo": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
+    "data": "2026-11-13T12:22:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é morto a tiros na zona rural de Fervedouro, MG",
+    "resumo": "Um homem de 42 anos foi morto a tiros na tarde desta quinta-feira (12), na zona rural de Fervedouro, na Zona da Mata mineira. O crime ocorreu por volta das 17h, na região conhecida como Morro da Braúna, próximo à Fazenda Santa Cruz. Segundo a Polícia Militar (PM), a vítima foi encontrada caída ao lado de uma motocicleta, com perfurações p",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/13/homem-e-morto-a-tiros-na-zona-rural-de-fervedouro-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Qqdd-Y3KZskNzLXNstSonZHtKUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/q/sBNteyQbKLMJFe4SzUpA/sirene-policia-1-.jpeg",
+    "data": "2026-11-13T12:20:17.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
+    "resumo": "<p>Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit</p><p>Far away from the conference centre, Norway’s supreme court has declared the state’s decision to award three permits for oil and gasfields in the North Sea invalid, as it had no",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=140&quality=85&auto=format&fit=max&s=f7bb07f1e290b4309adc1a90cb22c45a",
+    "data": "2026-11-13T12:19:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é condenado a oito anos por tentativa de homicídio após briga por venda de animais no MA",
+    "resumo": "Martelo da Justiça. Reprodução Um homem identificado como João Luiz de Oliveira foi condenado a oito anos de prisão por tentar matar José do Egito Costa após uma discussão sobre a venda de animais, no município de Matões, no Maranhão. O julgamento foi realizado nessa quarta-feira (11), na Vara Única da Comarca de Matões. 📲 Clique aqui e ",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/13/homem-e-condenado-a-oito-anos-por-tentativa-de-homicidio-apos-briga-por-venda-de-animais-no-ma.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IN_m6FjT92fN9-0E5eav2DcqUgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/f/Dn79RxTGaAJH8CInoTyw/martelo-2.jpg",
+    "data": "2026-11-13T12:14:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Suspeito de liderar ataque a acampamento do MST na PB não é encontrado durante operação",
+    "resumo": "Polícia Civil cumpre 15 mandados em investigação sobre ataque a acampamento do MST na Paraíba Reprodução / Polícia Civil O homem que é apontado pela Polícia Civil como líder e mentor do ataque ao Acampamento Marilene Dantas, ligado ao Movimento dos Trabalhadores Rurais Sem Terra (MST), em Caaporã, no Litoral Sul da Paraíba, não foi encont",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/13/suspeito-de-liderar-ataque-a-acampamento-do-mst-na-pb-nao-e-encontrado-durante-operacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cGZSe-Dh4LIErWZQ9f8wtQyAtt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/e/xs5mppTOK6ms9Bf0C3Hw/whatsapp-image-2026-11-13-at-06.38.16.jpeg",
+    "data": "2026-11-13T12:13:40.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "More than 100 companies and groups linked to fossil fuels represented at Cop31, study says",
+    "resumo": "<p>Delegations outnumber those of some countries most vulnerable to climate impacts, such as Nepal, which suffered glacier collapse</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates\">Cop31 live – latest updates</a></p></li></ul><p>More than 100 corporation",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/cop31-companies-and-groups-linked-to-fossil-fuels-delegations",
+    "imagem": "https://i.guim.co.uk/img/media/9ed7c5b3d662143fb76fe1e358511d14a7192d8f/514_0_3729_2985/master/3729.jpg?width=140&quality=85&auto=format&fit=max&s=02e974e8a7b2d3699be5f36f483941de",
+    "data": "2026-11-13T12:13:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carreta tomba e congestiona a rodovia Anchieta, SP; VÍDEO",
+    "resumo": "Carreta tomba na Anchieta e causa congestionamento; VÍDEO Uma carreta tombou e bloqueou parcialmente a rodovia Anchieta, na altura de Cubatão (SP), na manhã desta sexta-feira (13). Ninguém ficou ferido. De acordo com a Ecovias, o acidente ocorreu às 6h40, no km 42 da rodovia, na pista sentido litoral. Por conta do tombamento, a concession",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/13/carreta-tomba-e-congestiona-a-rodovia-anchieta-sp-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FH7noDtWwbzoRYy-waljkLa1tHI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/8lA5VVTRahVriBpm7sZw/neymar-2012-95-.jpg",
+    "data": "2026-11-13T12:07:31.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+    "resumo": "Nvidia&apos;s chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
     "imagem": null,
-    "data": "2026-11-13T11:30:10.000Z"
+    "data": "2026-11-13T12:07:12.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bom Dia Cidade",
-    "resumo": "Bom Dia Cidade Transmissão encerrada.",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/bom-dia-cidade-ribeirao-preto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg",
-    "data": "2026-11-13T11:29:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Por que europeus como Rosalía podem concorrer ao Grammy Latino?",
-    "resumo": "Rosalía vence o Grammy Latino VALERIE MACON/AFP A cantora catalã Rosalía levou cinco prêmios no Grammy Latino na noite desta quinta-feira (12), em Las Vegas, nos Estados Unidos. Também foi dela o prêmio de Álbum do Ano, principal categoria da noite, pelo disco \"Lux (The Complete Works)\". Assim como em outros anos, a vitória da cantora, de",
-    "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/13/por-que-europeus-como-rosalia-podem-concorrer-ao-grammy-latino.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xUnIsrdMA_JjdDRI1k-jD24jIGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/K0BvjBT0qAZCUfojGPsg/afp-20261113-d7cg6zx-v1-midres-27thannuallatingrammyawardsshow.jpg",
-    "data": "2026-11-13T11:29:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Trecho da Avenida Gil Martins será interditado para obras de drenagem em Teresina",
-    "resumo": "Av. Gil Martins será interditada por 30 dias para obras de drenagem em Teresina TV Clube Um trecho da Avenida Gil Martins, no cruzamento com a Avenida Pedro Freitas, em Teresina, será interditado a partir desta sexta-feira (13), às 17h, para a realização de uma obra de drenagem. Segundo a prefeitura, a previsão é que a interdição dure cer",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/13/avenida-gil-martins-teresina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/adf_06QorMNkAgpraz-IpJ1XWk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/NaDBQxS22znGWxDHHe8Q/edicao-imagens-g1-10-.jpg",
-    "data": "2026-11-13T11:26:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Promoção e confusão em loja em Salvador",
-    "resumo": "Promoções da Black Friday causaram uma fila gigante em uma loja de variedades na Avenida Sete, um dos principais pontos de comércio de Salvador, nesta sexta-feira (13). LEIA TAMBÉM: PF apura uso 'político-eleitoral' de emendas PIX de deputado federal; mãe e pai do parlamentaram foram alvo de operação PF diz que mãe de deputado investigada",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/13/promocao-e-confusao-em-loja-em-salvador.ghtml",
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+    "resumo": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-13T11:26:52.000Z"
+    "data": "2026-11-13T12:06:56.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+    "resumo": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
+    "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2333+0+0/resize/3500x2333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F65%2F514674db4b93b8f60b71b8a5ea99%2Fkindness-7.jpg",
+    "data": "2026-11-13T12:06:28.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+    "resumo": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38e/live/5b3b2f70-df4c-11f1-a48c-75dd2efdacb5.jpg",
+    "data": "2026-11-13T12:06:18.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Mega-Sena 3084: 11 apostas do interior de PE acertam quadra, confira resultado",
-    "resumo": "G1 | Loterias - Mega-Sena 3085 11 apostas do interior de Pernambuco acertaram números no concurso 3085 da Mega-Sena. O sorteio foi realizado na quinta-feira (12), em São Paulo. Nenhuma aposta do Brasil acertou as seis dezenas e o prêmio principal acumulou em R$ 27 milhões. Os números sorteados foram: 10 - 27 - 29 - 37 - 39 - 59 ✅ Receba a",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/13/mega-sena-3084-11-apostas-do-interior-de-pe-acertam-quadra-confira-resultado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PiWlLi5ewKcoHIeUBaB5eWHX9Yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png",
-    "data": "2026-11-13T11:26:05.000Z"
+    "titulo": "Falha no Outlook, Teams e Copilot rende memes nas redes sociais",
+    "resumo": "Serviços Microsoft caem em 70 países; empresa faz reparos A queda de serviços da Microsoft virou tema de memes nas redes sociais. Usuários têm relatado dificuldades para acessar o Outlook, o Teams e o assistente de inteligência artificial Copilot. Segundo o Downdetector, plataforma que monitora falhas em serviços digitais, as reclamações ",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/falha-no-outlook-teams-e-copilot-rende-memes-nas-redes-sociais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BMfExYeW6e4pEf8o9s4D8yL1mjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/O/CW5igtTQWt8YVPuFaewA/2026-11-13t111641z-1329254727-rc2f6casymv4-rtrmadp-3-microsoft-outages.jpg",
+    "data": "2026-11-13T12:04:32.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Alckmin na Agricultura poderia melhorar a relação do governo Lula com o agro",
-    "resumo": "Lula e Alckmin antes de viagem à Colômbia Ricardo Stuckert/PR Com a volta de Carlos Fávaro ao Senado, há quem aposte no nome de Geraldo Alckmin para assumir o Ministério da Agricultura. A possibilidade é mencionada em razão da boa relação que ele manteve com o agronegócio quando foi governador de São Paulo. A vaga, porém, é do PSD, partid",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/13/alckmin-agricultura-governo-lula-agro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PfHod86ii8hnUCl9p6Y9fRsnK8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/Z/rSEkyAQBKfSYFR8EkJOA/54736326720-4e0e5370bd-o.jpg",
-    "data": "2026-11-13T11:22:13.000Z"
+    "titulo": "Grupo que organiza manifestação em defesa do Zoo de Sorocaba defende investimentos e melhorias",
+    "resumo": "Parque Zoológico Municipal Quinzinho de Barros, em Sorocaba Paulo Ochandio / Secom Sorocaba Um grupo de ativistas convocou pelas redes sociais uma manifestação para domingo (15), às 10h, em frente ao Zoológico Municipal “Quinzinho de Barros”, em Sorocaba (SP). O ato busca defender a continuidade das atividades do parque e cobrar investime",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/13/grupo-que-organiza-manifestacao-em-defesa-do-zoo-de-sorocaba-defende-investimentos-e-melhorias.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nX1ZWZkfmD0op82kf1Qh7Uba0sk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/h/V90K7sTm6TZrk6gf2M9Q/2007-06-16-aerea-zoologico-quinzinho-de-barros-ft-paulo-ochandio-194-13.jpg",
+    "data": "2026-11-13T12:03:46.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "A super El Niño brings life and death to the California coast: ‘Like nothing we’ve ever seen’",
+    "resumo": "<p>Water temperatures are climbing the charts, high tides are swallowing the shoreline and vital parts of the food web that feed ocean diversity are disappearing</p><p>On a picturesque autumn afternoon last week, the beaches of California’s Monterey Bay were teeming with life and death.</p><p>A cadre of shorebirds charged and retreated in",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+    "imagem": "https://i.guim.co.uk/img/media/4c83e9108430ac54db7734e9eb8276e8a668f6d8/980_691_3466_2773/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=82a02550e0e4b45cb1928d583a188ded",
+    "data": "2026-11-13T12:00:19.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "El Niño will increase risk of death in childbirth for millions, say midwives",
+    "resumo": "<p>Effects of extreme weather expected in countries that already have high maternal and newborn death rates</p><p>El Niño stokes a higher risk of death in childbirth for millions of women in the world’s harshest crisis zones, midwives have warned.</p><p>Converging waves of weather – floods, cyclones and extreme heat – forecast to peak in ",
+    "link": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
+    "imagem": "https://i.guim.co.uk/img/media/bb8e40dbab3cd113ca4102dc6a07312f0852079e/947_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=729bb69e4e5ad648895bc725d483b36f",
+    "data": "2026-11-13T12:00:18.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Democrats fumbled the Hegseth impeachment. That could be a blessing in disguise | Claire Finkelstein",
+    "resumo": "<p>The failed move could lead to a more robust effort against the defense secretary in the next Congress. Here’s how it could look</p><p>A traffic jam, combined with disorganization on the part of Democrats, enabled House Republicans to scuttle the representative Thomas Massie’s articles of impeachment against Pete Hegseth on Wednesday.</",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-hegseth-impeachment",
+    "imagem": "https://i.guim.co.uk/img/media/94c9336643b6523a69f9d8a8eb56ea0d2490e9e7/165_0_1649_1319/master/1649.jpg?width=140&quality=85&auto=format&fit=max&s=41e00663d60f78546fa5b6db12107165",
+    "data": "2026-11-13T12:00:18.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Let’s talk about Jensen Huang’s many affairs!",
+    "resumo": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-13T12:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+    "resumo": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T11:59:34.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+    "resumo": "The office of Stephen Miller, President Trump’s new chief of staff, outlined a new policy that seeks to show independence from special interests.",
+    "link": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-lobbyists-jhbk/12dc-trump-lobbyists-jhbk-mediumSquareAt3X.jpg",
+    "data": "2026-11-13T11:56:50.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "India cancels visa of Norwegian journalist who questioned Modi",
+    "resumo": "The Norwegian journalist who questioned PM Narendra Modi over press freedom has had her visa to India cancelled.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/india-cancels-visa-of-norwegian-journalist-who-questioned-modi?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T11:54:08.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+    "resumo": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T11:51:57.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "What we know so far about the Microsoft outage",
+    "resumo": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-13T11:43:27.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é detido com quase 6 kg de drogas dentro de ônibus em Sapucaia",
-    "resumo": "Mais 5kg de drogas são apreendidas dentro de ônibus em Sapucaia Divulgação/Polícia Militar Um homem foi preso com quase 6 kg de drogas dentro de um ônibus na madrugada desta sexta-feira (13), em Sapucaia (RJ). O caso aconteceu no distrito de Jamapará. Segundo a Polícia Militar, os agentes estavam realizando uma fiscalização quando abordar",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/13/homem-e-preso-com-quase-6-kg-de-drogas-dentro-de-onibus-em-sapucaia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vMVRrhSbTd7l5YxjdOw3rQGd44U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/2/fP4NkOTp6BDvxyb9AB1g/whatsapp-image-2026-11-13-at-07.25.01.jpeg",
-    "data": "2026-11-13T11:21:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Microsoft descarta ataque hacker após falha global afetar Outlook, Teams e Copilot",
-    "resumo": "Outlook fora do ar: serviços da Microsoft apresentam instabilidade nesta quinta A Microsoft descartou nesta sexta-feira (13) que um ataque hacker tenha provocado a falha global que afeta o serviço de e-mail Outlook, o aplicativo Teams e o assistente de IA Copilot. A empresa afirmou ter obtido os primeiros \"resultados positivos\" na recuper",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-descarta-ataque-hacker-apos-falha-global-afetar-outlook-teams-e-copilot.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PSVL39DHfG5N55Me4YRdToemxTQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/b/H/woqlKySeG6BsfeEK1gfg/2021-09-09t184655z-2067533641-rc2imp9qsldc-rtrmadp-3-health-coronavirus-microsoft.jpg",
-    "data": "2026-11-13T11:21:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de liderar grupo que aplicava golpes na Paraíba é preso no Ceará",
-    "resumo": "Suspeito de liderar grupo que aplicava golpes na Paraíba é preso no Ceará A Polícia Civil da Paraíba prendeu, na manhã desta sexta-feira (13), um homem suspeito de liderar uma associação criminosa especializada em golpes que causaram prejuízo superior a R$ 100 mil. Ele foi localizado em Maracanaú, na Região Metropolitana de Fortaleza, Cea",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/13/suspeito-de-liderar-grupo-que-aplicava-golpes-na-paraiba-e-preso-no-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4tBK8Hh_TAmYuTG7H61ppKpfZyQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/s/WGMHJ0RumDGsOH1NLlTQ/whatsapp-video-2026-11-13-at-07.23.46-00-00-19.jpg",
-    "data": "2026-11-13T11:18:05.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Paulistas dominam finalistas do Prêmio TV Brasil Petrobras Para Elas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/paulistas-dominam-finalistas-do-premio-tv-brasil-petrobras-para-elas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/paulistas-dominam-finalistas-do-premio-tv-brasil-petrobras-para-elas",
+    "imagem": null,
+    "data": "2026-11-13T11:31:00.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Live: Microsoft struggles to restore services as outage hits global users",
-    "resumo": "As global outage affects users worldwide, Microsoft admits fixes are not going &#039;as expected&#039;.",
+    "resumo": "As disruption affects users worldwide, Microsoft admits fixes are not going &#039;as expected&#039;.",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-13T11:18:01.000Z"
@@ -108,33 +288,6 @@
     "data": "2026-11-13T11:18:00.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
-    "resumo": "<p>Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit</p><p><strong>‘I want governments to put human rights at the centre of decisions’</strong></p><p>During this first week of Cop31 I’ve been speaking to young climate activists at the U",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=140&quality=85&auto=format&fit=max&s=f7bb07f1e290b4309adc1a90cb22c45a",
-    "data": "2026-11-13T11:15:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incêndio destrói lanchonete e deixa uma pessoa ferida na Zona Sul de Aracaju",
-    "resumo": "Incêndio destrói lanchonete e deixa uma pessoa ferida na Zona Sul de Aracaju Uma lanchonete ficou destruída após um incêndio na noite desta quinta-feira (12), no bairro Grageru, na Zona Sul de Aracaju. Uma pessoa sofreu queimaduras e foi encaminhada a um hospital por populares antes da chegada das equipes de resgate. Segundo o Corpo de Bo",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/13/incendio-destroi-lanchonete-na-zona-sul-de-aracaju.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/n6BhsR3y1QY0unSu-TUwhKdUmKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/khMzv9Qyy2faFADoP81g/fogo-lanchonete.jpg",
-    "data": "2026-11-13T11:15:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caminhoneiro morre após bater em carreta e tombar na SP-294 em Bauru",
-    "resumo": "Motorista de caminhão morre em um acidente com três veículos na SP-294, em Bauru (SP) Portal CCM — ARTESP (ccm.artesp.sp.gov.br) Um motorista de caminhão, que tinha 48 anos e era morador de Parapuã (SP), morreu em um acidente envolvendo três veículos na noite de quinta-feira (12), no km 353 da Rodovia Comandante João Ribeiro de Barros (SP",
-    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/13/caminhoneiro-morre-apos-bater-em-carreta-e-tombar-na-sp-294-em-bauru.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/98WnwVBnH3XgX7mCuzKwtDaHlWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/y/47NmDPQIas9EGWkLoBsQ/novo-projeto-2026-11-13t072254.036.png",
-    "data": "2026-11-13T11:14:51.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "GPs, police and pharmacies among UK services affected by Microsoft outage",
@@ -142,15 +295,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg",
     "data": "2026-11-13T11:09:16.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "How the Microsoft outage has been felt worldwide",
-    "resumo": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-    "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38e/live/5b3b2f70-df4c-11f1-a48c-75dd2efdacb5.jpg",
-    "data": "2026-11-13T11:05:10.000Z"
   },
   {
     "categoria": "Opinião",
@@ -168,6 +312,15 @@
     "resumo": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That&apos;s started to change. A crackdown for some highly potent products related to kratom is coming.",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3040+0+0/resize/4000x3040!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F5b%2F108062ce4ba3bd3c837c527aedad%2Fgettyimages-2274290236.jpg",
+    "data": "2026-11-13T11:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Guns, swords and pepper spray: Bishnoi-linked extortionists attacked in apparent retaliation",
+    "resumo": "Documents obtained by CBC News reveal the existence of a previously unreported Bishnoi cell known as the Baweja group. Members have been tied to multiple shootings and extortion threats in Alberta and B.C.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-extortion-baweja-atip-9.7415879?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/95fe5df3-ead5-4931-a1b0-f2197804bfb3,1794268709377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C328%2C184%29%3B",
     "data": "2026-11-13T11:00:00.000Z"
   },
   {
@@ -196,15 +349,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-13T10:54:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "What we know about the global Microsoft outage",
-    "resumo": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-13T10:53:40.000Z"
   },
   {
     "categoria": "Internacional",
@@ -378,24 +522,6 @@
     "data": "2026-11-13T10:00:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "These swing voters have low expectations for divided government",
-    "resumo": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2F69%2F173dc4d44d5fbd59132f058b1921%2Fgettyimages-2302892700.jpg",
-    "data": "2026-11-13T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "These two voter turnout trends explain what happened across the South in the election",
-    "resumo": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5331x3554+0+0/resize/5331x3554!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F00%2F1c863ac042edb4d8ad73de4ad62f%2Fgettyimages-2304690832.jpg",
-    "data": "2026-11-13T10:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "With every rainfall, Gaza risks losing access to power and healthcare",
@@ -430,15 +556,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
     "data": "2026-11-13T09:29:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Pope Leo XIV warns on pressures facing modern families",
-    "resumo": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T09:11:37.000Z"
   },
   {
     "categoria": "Canadá",
@@ -478,39 +595,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Who gets to tell the world’s news?",
-    "resumo": "A look back at the Global South&#039;s early efforts to challenge Western dominance of international news.",
-    "link": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T08:51:11.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US Senate summons Nvidia’s Huang, Lutnick to testify",
-    "resumo": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T08:49:59.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Storm Charles causes floods and flight cancellations across southern Europe",
     "resumo": "<p>Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week </p><p>Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Ma",
     "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
     "imagem": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e",
     "data": "2026-11-13T08:49:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Washington residents hold vigil after deadly shooting",
-    "resumo": "Residents gathered in Washington, DC, to mourn victims of a shooting that left one person dead and four others wounded.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-washington-dc-shooting-vigil?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T08:06:44.000Z"
   },
   {
     "categoria": "Opinião",
@@ -540,15 +630,6 @@
     "data": "2026-11-13T07:01:43.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
-    "resumo": "<p>Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating</p><p>Children’s exposure to home wood-burning could be as significant as exposure to traffic exhaust, suggests <a href=\"https://www.sciencedirect.com/science/article/pii/S0013935126019742?via%3Dihub\">new research</a> across six E",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
-    "imagem": "https://i.guim.co.uk/img/media/19d4ea7474c5c562ef867a64234a9343bedc2da0/190_0_4756_3805/master/4756.jpg?width=140&quality=85&auto=format&fit=max&s=ec21eaaff15085c46f902ff3232f1163",
-    "data": "2026-11-13T06:00:12.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
@@ -556,24 +637,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/13/progressive-pessimism-right-defeat-us-midterms-brazil-hungary",
     "imagem": "https://i.guim.co.uk/img/media/343657b477d0348e42067184dd580e952b74dcec/534_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=b75f1e9cb445dd4e70337dd0c82b135e",
     "data": "2026-11-13T06:00:12.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
-    "resumo": "The office of Stephen Miller, President Trump’s new chief of staff, outlined a new policy that seeks to show independence from special interests.",
-    "link": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-lobbyists-jhbk/12dc-trump-lobbyists-jhbk-mediumSquareAt3X.jpg",
-    "data": "2026-11-13T05:24:15.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "World is now in ‘age of electricity’, energy agency chief says",
-    "resumo": "<p>Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge</p><p>The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said.</p><p>Fatih Birol, the executive director of the International E",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-    "imagem": "https://i.guim.co.uk/img/media/d7cea311df5be9b1bdd1181313c38b00091aec76/487_563_6176_4941/master/6176.jpg?width=140&quality=85&auto=format&fit=max&s=d303a3ce4603f18a241b3bdc6373974f",
-    "data": "2026-11-13T05:00:11.000Z"
   },
   {
     "categoria": "Opinião",
@@ -648,15 +711,6 @@
     "data": "2026-11-13T02:38:02.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Maryland's Van Hollen to challenge Schumer for U.S. Senate leadership post",
-    "resumo": "Democratic Sen. Chris Van Hollen of Maryland said Thursday that he will run for Senate majority leader in the next Congress, setting up a challenge to Democratic Leader Chuck Schumer after the party swept to power in the midterm elections.",
-    "link": "https://www.cbc.ca/news/world/van-hollen-senate-leadership-challenge-schumer-9.7420238?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/ec460f5d-b31d-4039-aeac-e2ef6787273a,1794536069703/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C351%2C6000%2C3375%29%3B",
-    "data": "2026-11-13T02:33:19.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Will the Eurovision Song Contest succeed in Asia?",
@@ -729,6 +783,15 @@
     "data": "2026-11-13T00:46:07.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "At Issue | Has Ottawa mishandled Stellantis talks?",
+    "resumo": "At Issue this week: Industry Minister Mélanie Joly is 'fed up' with Stellantis for selling its Brampton assembly plant, but can she do anything about it? Prime Minister Carney skips the UN climate conference. And Quebec pursues its own U.S. trade talks.",
+    "link": "https://www.cbc.ca/player/play/9.7420121?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3ae6ac9d-1890-413a-b28f-fa6211dbe7bf,1794529527068/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-13T00:43:00.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
@@ -774,15 +837,6 @@
     "data": "2026-11-13T00:11:44.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Pilot killed in Quebec Remembrance Day crash had lifelong passion for flying, friends say",
-    "resumo": "Friends of Daniel Parent — the man killed in a plane crash during a Remembrance Day event in Saint-Georges-de-Beauce, Que., — are remembering him for being an excellent and experienced pilot.",
-    "link": "https://www.cbc.ca/news/canada/montreal/remembrance-day-plane-crash-beauce-9.7419917?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/08db83f3-2193-4e48-9982-dbe013637455,1794523646846/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1575%2C885%29%3B",
-    "data": "2026-11-13T00:09:19.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Tesouro Nacional identifica vazamento de dados de 30 mil cadastros",
@@ -819,19 +873,10 @@
     "data": "2026-11-12T23:30:52.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Professora é demitida de escola em SC após foto em apoio a Lula",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professora-e-demitida-de-escola-em-sc-apos-foto-em-apoio-lula\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professora-e-demitida-de-escola-em-sc-apos-foto-em-apoio-lula",
-    "imagem": null,
-    "data": "2026-11-12T23:25:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Microsoft Outlook is still down",
-    "resumo": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multip",
+    "resumo": "Microsoft Outlook continues to be unavailable for people, businesses, and public services across the globe, leaving people unable to access their email, either through the web or apps. Reports around the issue starting rolling in at around 1PM ET on Thursday, with Microsoft since confirming that the outage is impacting Microsoft 365 featu",
     "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-12T23:24:13.000Z"
@@ -934,15 +979,6 @@
     "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-12T21:28:53.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Here are the 25 original Xbox games you can now play on PC",
-    "resumo": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just [&#8230;]",
-    "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,93.955555555556",
-    "data": "2026-11-12T21:00:00.000Z"
   },
   {
     "categoria": "Clima",
@@ -1161,15 +1197,6 @@
     "data": "2026-11-12T15:34:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-    "resumo": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
-    "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-12T15:26:39.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
@@ -1321,32 +1348,5 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/12/trump-war-republicans-midterms",
     "imagem": "https://i.guim.co.uk/img/media/ee29f564a7889b4623c80d4a811989f2ff537b9e/429_0_6015_4814/master/6015.jpg?width=140&quality=85&auto=format&fit=max&s=33cebee9f0477d42582068769c0057af",
     "data": "2026-11-12T11:00:46.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "A butterfly that fooled scientists for 200 years finally reveals its secrets",
-    "resumo": "Researchers have discovered that a familiar tropical butterfly actually belongs to three nearly identical species, including one previously unknown to science. Hidden ultraviolet wing patterns and DNA differences revealed the truth, leaving scientists puzzled about how the butterflies remain genetically separate despite living side by sid",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
-    "imagem": null,
-    "data": "2026-11-12T10:47:43.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Punks, sex workers and society in transition: documenting postwar Japan – in pictures",
-    "resumo": "<p><a href=\"https://www.metmuseum.org/exhibitions/a-long-shadow-postwar-japan-through-the-lens\">A Long Shadow: Postwar Japan Through the Lens</a> will be the first show of Japanese photography in more than three decades at New York’s Metropolitan Museum of Art. The exhibit brings together 15 intergenerational artists as well as photograph",
-    "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/12/postwar-japan-met-museum-photos",
-    "imagem": "https://i.guim.co.uk/img/media/387e127bcc535bef2f186397620984928752e98c/363_0_6192_4957/master/6192.jpg?width=140&quality=85&auto=format&fit=max&s=5cd7dc065914ad3757dfe4ab4860bdb8",
-    "data": "2026-11-12T10:00:15.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Earth&#039;s fiery birth may have created hundreds of oceans&#039; worth of water",
-    "resumo": "Earth&#039;s water may have been born in the planet&#039;s fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans&#039; worth during Earth&#039;s formation. The findings sug",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-    "imagem": null,
-    "data": "2026-11-12T08:38:42.000Z"
   }
 ]
