@@ -1,75 +1,210 @@
 [
   {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+    "resumo": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ef/live/f4cadd80-df41-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-13T09:37:33.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Quem são as vítimas que morreram em engavetamento com ambulância na BR-153 no Tocantins",
-    "resumo": "Duas pessoas morrem em acidente na BR-153 A colisão na BR-153 que destruiu uma ambulância da Secretaria de Saúde de Rio dos Bois, na região central do Tocantins, tirou a vida do motorista do município, Weliton Corrêa Nolêto, de 40 anos, e da passageira Gildete Carvalho Pires, de 53 anos. O acidente provocou comoção no estado, com homenage",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/13/quem-sao-as-vitimas-que-morreram-em-engavetamento-com-ambulancia-na-br-153-no-tocantins.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mlc1cc7j9PtP1m5KmQT_naEb7A8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/W/98y8FGThK53h0oBBdx1A/foto-e-montagem-vertical.png",
-    "data": "2026-11-13T08:25:01.000Z"
+    "titulo": "Assista ao Bom Dia Cidade Campinas",
+    "resumo": "Assista ao Bom Dia Cidade Campinas Acompanhe diariamente o telejornal da EPTV pela internet.",
+    "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/assista-ao-bom-dia-cidade-campinas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+    "data": "2026-11-13T09:35:55.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "What we know about the global Microsoft outage",
+    "resumo": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94f/live/05203e60-df46-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-13T09:34:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Piscinões' de Campinas: como funcionam os reservatórios subterrâneos que prometem reduzir enchentes",
+    "resumo": "Piscinões: como funcionam os reservatórios para combater enchentes em Campinas As obras dos chamados \"piscinões\" de Campinas (SP) avançam em diferentes pontos da cidade e fazem parte da principal aposta da Prefeitura para reduzir os alagamentos que historicamente atingem a Avenida Princesa d'Oeste, a região central e outros pontos da baci",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/13/piscinoes-de-campinas-como-funcionam-os-reservatorios-subterraneos-que-prometem-reduzir-enchentes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gFU8lNyk8Gki8_5lelFhWa-cz5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/q/xByquXQsyffjeGJ1w7pg/design-sem-nome-5-.png",
+    "data": "2026-11-13T09:30:49.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Heat pumps: How much heat does your home really need?",
+    "resumo": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-13T09:29:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lá Vem o Enem: resolva questões de física sobre qualidade fisiológica do som",
+    "resumo": "Lá Vem o Enem: Confira como ondas sonoras podem ser assunto na prova de física Reprodução/TV Cabo Branco O professor de Física Haron reuniu explicações e exemplos sobre as três qualidades fisiológicas do som para estudantes que vão fazer o segundo dia de provas do Exame Nacional do Ensino Médio 2026 (Enem). O conteúdo aborda altura, inten",
+    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/13/la-vem-o-enem-resolva-questoes-de-fisica-sobre-qualidade-fisiologica-do-som.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZXIAVTJrCtKZkE52mo5aTy-LbIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/M/D/qZ0t5hQiSTcSIQj73uRA/ondas-sonoras.png",
+    "data": "2026-11-13T09:28:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Incêndio atinge residência na Zona Norte de SP; bombeiros enviam cinco viaturas",
+    "resumo": "Um incêndio atinge uma residência na Rua Gervásio Leite Rebelo, Vila Nova Cachoeirinha, na Zona Norte de São Paulo, na manhã desta sexta-feira (13). O Corpo de Bombeiros foi acionado às 5h06 para combater as chamas. De acordo com a corporação, há muito fogo no local. Cinco viaturas foram empenhadas na ocorrência, e as equipes iniciaram o ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/incendio-atinge-residencia-na-zona-norte-de-sp-bombeiros-enviam-cinco-viaturas.ghtml",
+    "imagem": null,
+    "data": "2026-11-13T09:24:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Inscrições para concurso da Defensoria Pública da Paraíba terminam nesta sexta (13)",
+    "resumo": "Defensoria Pública da Paraíba Defensoria Pública da Paraíba O prazo de inscrição para o concurso da Defensoria Pública da Paraíba (DPPB) termina nesta sexta-feira (13). O certame oferece 20 vagas para cargos de nível médio e superior, além de cadastro de reserva. Os salários variam entre R$ 4.042,50 e R$ 5.197,50. ✅ Clique aqui para segui",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/13/inscricoes-para-concurso-da-defensoria-publica-da-paraiba-terminam-nesta-sexta-13.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/swCe3uLEMs-13b-wRzpAvC8Hkg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/E/C/lA53BgTKGlekPQWouXDQ/defensoria-publica-da-paraiba.jpg",
+    "data": "2026-11-13T09:23:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem pula de segundo andar de prédio para escapar de incêndio no RS",
+    "resumo": "Homem pula de segundo andar de prédio para escapar de incêndio no RS Arquivo pessoal Um incêndio atingiu um prédio residencial em Gravataí, na Região Metropolitana de Porto Alegre, na noite de quinta-feira (12). Durante a ocorrência, um homem pulou do segundo andar do edifício, localizado na Avenida Dorival Cândido da Luz, para fugir das ",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/13/incendio-predio-gravatai-rs-feridos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZZqgba9jJQDeLw69KKrnVoOdDII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/C/XQmHp4SUmp3YFrvwa56w/g1-27-.jpg",
+    "data": "2026-11-13T09:23:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
+    "resumo": "Termina sem avanço tentativa de negociação de paz entre Ucrânia e Rússia A Ucrânia fez uma de suas maiores ofensivas contra a Rússia na madrugada desta sexta-feira (13), lançando quase 1,2 mil drones contra o território vizinho. Segundo informações do Ministério da Defesa russo e autoridades locais, \"os sistemas de defesa aérea intercepta",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4EtGsdgWlGW0bSTIjzy2iVvKTpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/nhnYqfSK2G8BbAF0R0Wg/2026-11-13t050636z-1933880309-rc2qmoada9wy-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
+    "data": "2026-11-13T09:17:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Draco tenta prender 24 em operação contra o Comando Vermelho na Baixada Fluminense",
+    "resumo": "Homem é preso na Operação Conexão Baixada Divulgação/PCERJ A Polícia Civil do RJ iniciou, nesta sexta-feira (13), a Operação Conexão Baixada, contra um grupo ligado ao Comando Vermelho (CV) investigado por controlar comunidades, explorar o tráfico de drogas e tentar expandir o domínio da facção na Baixada Fluminense. Até a última atualiza",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/policia-civil-deflagra-operacao-conexao-baixada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zXHyzq18CmzxO0I1Lhe0g8-FAYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/6/ifM27jQoqABs8uTMplwg/13draco1.jpeg",
+    "data": "2026-11-13T09:15:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Aos 91 anos, Claudette Soares faz o presente sorrir com o álbum 'O mundo é ruim para quem não sabe esperar'",
+    "resumo": "Claudette Soares lança álbum com músicas inéditas à altura do passado da cantora carioca de 91 anos Fábio Audi / Divulgação ♫ CRÍTICA DE ÁLBUM Título: “O mundo é ruim para quem não sabe esperar” Artista: Claudette Soares Cotação: ★ ★ ★ ★ 1/2 ♬ “Faço o presente sorrir / É assim que eu sei andar / [...] / A lágrima que chega / A lágrima que",
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/13/aos-91-anos-claudette-soares-faz-o-presente-sorrir-com-o-album-o-mundo-e-ruim-para-quem-nao-sabe-esperar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0RmNAd15TdBmyfuWywI5X2ok8Fc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/4NseF4T4SwMA28JWZrYA/claudette2026.jpg",
+    "data": "2026-11-13T09:13:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "AO VIVO: assista à programação da NSC TV",
+    "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
+    "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+    "imagem": null,
+    "data": "2026-11-13T09:12:03.000Z"
   },
   {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
-    "resumo": "<p>Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit</p><p>The UK government still has no plans to publish an explosive report showing the national security risk from <a href=\"https://www.theguardian.com/environment/2026/sep/24/explaine",
+    "resumo": "<p>Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit</p><p>Greenpeace has unveiled a 6-metre tall Trojan horse next to a town hall in Antalya to draw attention to the fossil fuel industry’s expansion through plastic.</p><p>The installat",
     "link": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=140&quality=85&auto=format&fit=max&s=f7bb07f1e290b4309adc1a90cb22c45a",
-    "data": "2026-11-13T08:24:37.000Z"
+    "data": "2026-11-13T09:09:24.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Aterros sanitários do RJ têm 18 meses para começar a tratar chorume no próprio local",
-    "resumo": "Aterros sanitários do RJ têm 18 meses para começar a tratar chorume no próprio local Os 13 aterros sanitários do estado do Rio de Janeiro terão 18 meses para se adequar a uma nova regra e passar a tratar o chorume no próprio local. A determinação está em um decreto publicado pelo governo estadual no Diário Oficial e prevê que, depois dess",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/aterros-sanitarios-do-rj-tem-meses-para-comecar-a-tratar-chorume-no-proprio-local.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/m6S3JzkTDrdftJBBk5aRtmHexMs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/i/cclLZMTtOHEI5LrnxbPQ/rj2-limpo-20261112-1830-frame-111167.jpeg",
-    "data": "2026-11-13T08:20:43.000Z"
+    "titulo": "Assista ao Bom Dia ES",
+    "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
+    "data": "2026-11-13T09:03:43.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "VÍDEO: Homem entra no Dique do Tororó, em Salvador, para salvar cadela que nadava há horas",
-    "resumo": "Homem entra no Dique do Tororó para salvar cadela em Salvador Um homem entrou no Dique do Tororó, em Salvador, para resgatar uma cadela que estava nadando há mais de duas horas e não conseguia retornar à margem. O caso aconteceu na Pinguim é encontrado em porto de Salvador e marca primeiro resgate do ano na Bahia quinta-feira (12) e chamo",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/13/homem-entra-no-dique-do-tororo-em-salvador-para-salvar-cadela-que-nadava-ha-horas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nLwNYHjjhmqI3c__Z2LRs4Ex4vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/g/iw3BprR6mge60bYLWVXA/design-sem-nome-2026-11-12t210410.965.png",
-    "data": "2026-11-13T08:20:23.000Z"
+    "titulo": "Como escolher uma profissão? especialista aponta caminhos que podem ajudar estudantes",
+    "resumo": "Como escolher uma profissão? especialista aponta caminhos que podem ajudar estudantes Como escolher uma profissão? Essa é uma das dúvidas mais comuns entre vestibulandos às vésperas dos processos seletivos. Segundo a psicóloga e orientadora educacional do Colégio Oficina do Estudante, Mariana Viviani, encontrar uma resposta satisfatória e",
+    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/13/como-escolher-uma-profissao-especialista-aponta-caminhos-que-podem-ajudar-estudantes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/oE90UIT0HSX46j45nH3TcPope7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/FZsaaVSt2qcHW5DYesRQ/como-escolher-a-profissao-certa.jpg",
+    "data": "2026-11-13T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Com turnê de Xuxa em MG, fã relembra promessa para conseguir ir ao show da cantora em Uberlândia: ‘Procissão para São Judas’",
-    "resumo": "Xuxa relembra passagem por Uberlândia As lembranças de fãs de Xuxa sobre passagens da apresentadora por Minas Gerais ganharam destaque nas redes sociais após uma publicação feita pela cantora na quarta-feira (11). Ao anunciar a chegada da turnê 'O Último Voo da Nave' ao estado, a Rainha dos Baixinhos também relembrou apresentações anterio",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/13/com-turne-de-xuxa-em-mg-fa-relembra-promessa-para-conseguir-ir-ao-show-da-cantora-em-uberlandia-procissao-para-sao-judas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/G9cf9XJp9-b0ROpEQLHmUmDpGjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/U/NvNCuSRA698AscK0CGzw/design-sem-nome-1-.png",
-    "data": "2026-11-13T08:20:06.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "They called her 'Mommy': Vulnerable senior dies after 2 strangers take over her life",
+    "resumo": "Two men moved into an elderly Toronto woman's home and began claiming to be like her sons. She quickly gave them powers of attorney and signed a will, leaving them everything. Then she died.",
+    "link": "https://www.cbc.ca/news/canada/vulnerable-senior-death-9.7416801?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3b1275bb-c966-4e56-b06c-753471de51a9,1794414486400/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C1099%2C618%29%3B",
+    "data": "2026-11-13T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de matar PM aposentado é investigado por ataque a motorista baleado na cabeça",
-    "resumo": "Motorista é baleado na cabeça e atinge árvore com o carro no litoral de SP A Polícia Civil investiga se João Furquim, apontado como possível autor do tiro que matou o policial militar aposentado Emerson Manzo, de 55 anos, também participou da tentativa de assalto que deixou um motorista de aplicativo gravemente ferido após ser baleado na ",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/13/suspeito-de-matar-pm-aposentado-e-investigado-por-ataque-a-motorista-baleado-na-cabeca.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rQmbLvTk_jyw0wc4QsrOw46vmsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/w/AHBAMpRBAopmsx0PfR6A/neymar-2012-89-.jpg",
-    "data": "2026-11-13T08:15:08.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "We tested 6 popular apps to see what data they collect and share. Here’s what we found",
+    "resumo": "Marketplace tested six of the most popular Android and iOS apps in Canada — Tim Hortons, PC Optimum, Weather Network, Facebook, Amazon and YouTube — to find out what data they collect and where it goes.",
+    "link": "https://www.cbc.ca/news/canada/app-data-privacy-9.7417814?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/ebfa9ee4-0018-4316-93cc-3632925f1a45,1794339272237/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1100%2C618%29%3B",
+    "data": "2026-11-13T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Com piscinas vazias e sem cassino, navio inédito no Brasil suspende viagens pela 2ª vez",
-    "resumo": "Conheça o navio espanhol que abriu a temporada de cruzeiros A Corazul Cruzeiros adiou para 30 de novembro a retomada das viagens do navio Buenavista, após problemas relatados por passageiros durante a viagem inaugural. É a segunda vez que a empresa suspende as saídas da embarcação, que permanece em Santos, no litoral de São Paulo. De acor",
-    "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/13/com-piscinas-vazias-e-sem-cassino-navio-inedito-no-brasil-suspende-viagens-pela-2a-vez.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/kDS2H-4_bPHK7vCrYtzV5W2EIQE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/y/m4b67CTRirBA6m7SYkDA/cruzeiro-porto.jpg",
-    "data": "2026-11-13T08:14:38.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Countries vulnerable to climate disaster push for faster, easier access to finance at COP31",
+    "resumo": "Developing countries want to make finance for climate adaptation and disaster relief a top priority at the COP31 summit in Turkey in light of the recent devastating floods in Nepal — a tragedy that has laid bare the inadequacy of current programs, experts say.",
+    "link": "https://www.cbc.ca/news/science/cop31-climate-finance-nepal-9.7417460?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/edc7af31-434d-46b0-af95-a5d2cf2195c8,1794355862392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
+    "data": "2026-11-13T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jovem acusado de arrancar olho do avô vai a júri popular no litoral de SP",
-    "resumo": "Idoso de 77 anos é esfaqueado por neto e tem rosto desfigurado Hariel Borges da Silva, o jovem preso e acusado de arrancar um olho e desfigurar o rosto do avô em Santos, no litoral de São Paulo, vai a júri popular. Segundo o documento da decisão, obtido pelo g1, o julgamento foi marcado para 2 de dezembro, às 9h30. O jovem tinha 18 anos q",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/13/jovem-acusado-de-arrancar-olho-do-avo-vai-a-juri-popular-no-litoral-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/z0A206COWh5_ER7wDd8hlCnJTN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/S/muInioRPyXiyqOLps0Zg/neto-avo.jpg",
-    "data": "2026-11-13T08:14:15.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Ex Ottawa Uber driver admits to giving 12-year-old girl 'secret admirer' candy, prowling house after delivery",
+    "resumo": "A 45-year-old former Uber Eats delivery driver has pleaded guilty to harassing a 12-year-old girl with \"secret admirer\" messages and candy, as well as prowling her home at night, after he met her while dropping off an order she had placed.",
+    "link": "https://www.cbc.ca/news/canada/ottawa/ex-uber-driver-45-admits-to-giving-12-year-old-girl-secret-admirer-candy-prowling-house-after-delivery-9.7418889?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b5efdfb8-37e1-47e4-a6b2-76761b4c1c4e,1779928792413/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C3%2C1909%2C1073%29%3B",
+    "data": "2026-11-13T09:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Who gets to tell the world’s news?",
+    "resumo": "A look back at the Global South&#039;s early efforts to challenge Western dominance of international news.",
+    "link": "https://www.aljazeera.com/features/longform/2026/11/13/who-gets-to-tell-the-worlds-news?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T08:51:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+    "resumo": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T08:49:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Storm Charles causes floods and flight cancellations across southern Europe",
+    "resumo": "<p>Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week </p><p>Storm Charles has brought destructive weather to the Iberian peninusla this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Ma",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+    "imagem": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e",
+    "data": "2026-11-13T08:49:19.000Z"
   },
   {
     "categoria": "Internacional",
@@ -81,24 +216,6 @@
     "data": "2026-11-13T08:06:44.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dia Mundial da Gentileza pede prosa e bolo de queijo com gostinho de Minas; veja receita",
-    "resumo": "Tânia Costta, apresentadora do Integração Notícia, e Dona Dirce, do Comida de Vó, celebram o Dia da Gentileza com bolo de queijo TV Integração/Reprodução Se a sexta-feira 13 é cercada por mitos e superstições, o Dia Mundial da Gentileza chega para provar que a data também é sinônimo de boas energias. A proposta neste 13 de novembro, Dia M",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/13/dia-mundial-da-gentileza-pede-prosa-e-bolo-de-queijo-com-gostinho-de-minas-veja-receita.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VCZ65JpE-vnPNFGejWVUvwa2ZQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/2/SZP3c2QNquVJbn2wMt3w/essaaaaa.jpeg",
-    "data": "2026-11-13T08:05:00.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "What we know about the global Microsoft outage",
-    "resumo": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e50b/live/4d5bcae0-df38-11f1-86fa-cbe84eade4f1.jpg",
-    "data": "2026-11-13T08:01:25.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Ofsted’s menacing inspections are still disastrous. Schools should answer to the communities they serve | Simon Jenkins",
@@ -106,42 +223,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/13/ofsted-inspections-schools-communities-statistics-teachers-parents",
     "imagem": "https://i.guim.co.uk/img/media/baa4cb9b4d3a18d964323ac43dd8ab84df9eda44/678_0_5122_4098/master/5122.jpg?width=140&quality=85&auto=format&fit=max&s=76290b7c9182b855599e2e104349bd80",
     "data": "2026-11-13T08:00:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Trilhos centenários do antigo sistema de bondes são encontrados sob asfalto durante obras no Centro de Manaus",
-    "resumo": "Trilhos centenários do antigo sistema de bondes são encontrados durante obras em Manaus Um trecho dos antigos trilhos de bonde de Manaus foi encontrado durante as obras de revitalização do Centro da cidade, na rua Ferreira Pena. Os trilhos, que estavam cobertos por asfalto, foram descobertos durante a retirada do asfalto para a recuperaçã",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/13/trilhos-centenarios-do-antigo-sistema-de-bondes-sao-encontrados-sob-asfalto-durante-obras-no-centro-de-manaus.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/M9sy465nzT9pEtFO1OQcAGUUHyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/x/scvOYeRLaY6GYaWeGkvQ/g1-trilho-bonde-manaus.jpg",
-    "data": "2026-11-13T08:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Médico que carregava carro elétrico em tomada de unidade pública de saúde usava extensão",
-    "resumo": "Médico usa tomada de unidade de saúde para recarregar carro elétrico em MG O médico que recarregou o próprio carro elétrico em uma Unidade Básica de Saúde (UBS) de Pará de Minas, no Centro-Oeste de Minas, usou uma extensão para ligar o veículo a uma tomada da unidade. A situação foi denunciada após um vídeo circular nas redes sociais. Vej",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/13/video-medico-que-carregava-carro-eletrico-em-tomada-de-unidade-publica-de-saude-usava-extensao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nl0vqZtkfHBFinvF3f8nrYJuzCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/q/kMj2VdTaiCROJtwLwLew/sem-titulo.jpg",
-    "data": "2026-11-13T08:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "SP tem 485 postos de vacinação contra a Covid-19; veja quem deve se imunizar",
-    "resumo": "Casos de Covid-19 aumentaram nas últimas semanas em SP Com o aumento recente dos casos de Covid-19 em São Paulo, a vacinação continua sendo uma das principais medidas para prevenir complicações, internações e mortes pela doença. Na capital paulista, foram aplicadas 901.269 doses de vacinas contra o coronavírus em 2026, segundo a Secretari",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/sp-tem-485-postos-de-vacinacao-contra-a-covid-19-veja-quem-deve-se-imunizar.ghtml",
-    "imagem": null,
-    "data": "2026-11-13T08:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
-    "resumo": "O que levou os produtores rurais à inadimplência recorde no Brasil “Eu perdi o controle do endividamento e cortei os pagamentos. Tive que escolher entre a manutenção da minha família e a sobrevivência dos animais ou pagar ao banco”. O relato é do produtor de leite Rafael Herrmann, de Boa Vista do Cadeado, no Rio Grande do Sul. Histórias c",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NhK8PReOkcvN8TCxqZJiLITVYrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/gsvOqBQrqYbh4OykqX3g/design-sem-nome-1-.png",
-    "data": "2026-11-13T08:00:01.000Z"
   },
   {
     "categoria": "Internacional",
@@ -176,7 +257,7 @@
     "titulo": "What happened overnight with the Microsoft global outage",
     "resumo": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
     "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ee/live/9ecabbe0-df45-11f1-a48c-75dd2efdacb5.jpg",
     "data": "2026-11-13T07:18:17.000Z"
   },
   {
@@ -270,15 +351,6 @@
     "data": "2026-11-13T05:23:31.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
-    "resumo": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T05:05:50.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "World is now in ‘age of electricity’, energy agency chief says",
@@ -295,24 +367,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters",
     "imagem": "https://i.guim.co.uk/img/media/9edb16a6346b1129d5c8ad0e910be6dbb842100d/412_0_4123_3298/master/4123.jpg?width=140&quality=85&auto=format&fit=max&s=e91627b86730cb6e02a222720fedab90",
     "data": "2026-11-13T05:00:11.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
-    "resumo": "<p>Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routines</p><p>The race to electrification has emerged as a key theme of this year’s UN climate summit: increasing the use of electricity – particularly from clean sources – has the potentia",
-    "link": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
-    "imagem": "https://i.guim.co.uk/img/media/4a3a039b2581d44320e75b8b6b626909f3a96e2b/167_111_4213_3369/master/4213.jpg?width=140&quality=85&auto=format&fit=max&s=af60f2a7301d5287c79110e1c4ad3ceb",
-    "data": "2026-11-13T05:00:10.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-    "resumo": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
-    "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T04:51:56.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -477,15 +531,6 @@
     "data": "2026-11-13T00:35:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Indigenous women leaders say budget doesn't address their realities",
-    "resumo": "Indigenous leaders from across Canada gathered in Ottawa on Thursday to say Prime Minister Mark Carney’s new budget leaves Indigenous women out of the decisions made in the more than 500-page document.",
-    "link": "https://www.cbc.ca/news/politics/indigenous-inuit-women-carney-budget-9.7419887?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B",
-    "data": "2026-11-13T00:34:21.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "PGR é contra revisar condenação de Jair Bolsonaro",
@@ -538,15 +583,6 @@
     "link": "https://www.nytimes.com/2026/11/12/us/anthony-clark-dead.html",
     "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/xp-clark-top/xp-clark-top-mediumSquareAt3X.jpg",
     "data": "2026-11-12T23:57:37.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Christina Applegate asks if breast implants are behind symptoms after MS misdiagnosis",
-    "resumo": "U.S. actor Christina Applegate is questioning whether her breast implants could be contributing to her pain and fatigue. Experts say symptoms associated with breast implant illness can overlap with other conditions, so people experiencing them should seek a thorough medical evaluation before making decisions about their implants.",
-    "link": "https://www.cbc.ca/news/entertainment/christine-applegate-breast-implants-ms-misdiagnosis-health-9.7419211?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/662ce9fe-3ebd-417d-a267-784d671e7e0f,1794500487941/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C3542%2C1992%29%3B",
-    "data": "2026-11-12T23:50:45.000Z"
   },
   {
     "categoria": "Brasil",
@@ -711,15 +747,6 @@
     "data": "2026-11-12T22:08:25.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Original Star Wars returning to theatres for 50th anniversary",
-    "resumo": "If you missed the chance to see Star Wars in the theatre in 1977 — or weren't yet born — you'll get another chance on Feb. 19, when Disney re-releases both the original film and a 70-millimetre Imax version to mark its 50th anniversary.",
-    "link": "https://www.cbc.ca/news/entertainment/star-wars-new-hope-rerelease-9.7419561?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/5525ec17-a243-4f2c-a81d-0196f355a2b9,1794520355023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2029%2C1141%29%3B",
-    "data": "2026-11-12T22:07:03.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "The Good Daughter review – the best thing about this legal thriller? Brendan Gleeson’s sad toilet fart",
@@ -781,15 +808,6 @@
     "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-12T21:28:53.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Russian federation head Tretiak says it will seek compensation if barred from world juniors in Alberta",
-    "resumo": "Russian hockey federation president Vladislav Tretiak is threatening to seek compensation from Canada and push for the relocation or cancellation of next month's world junior championship in Alberta if Russia is barred from competing.",
-    "link": "https://www.cbc.ca/sports/hockey/world-juniors-russia-valdislav-tretiak-9.7419768?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B",
-    "data": "2026-11-12T21:21:01.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -889,6 +907,15 @@
     "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-airport-emergency-9.7419519?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/931fe98f-9656-462f-aef9-5c144203c189,1794513021301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-12T19:13:45.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Eddie's dead: What one monarch's ill-fated journey can teach us about migration patterns",
+    "resumo": "In this issue of our environmental newsletter, we track the demise of a monarch named Eddie and find out what it says about monarch migration, map the threats faced by freshwater animals and find out why sewing is so popular right now.",
+    "link": "https://www.cbc.ca/news/climate/what-on-earth-monarch-tracking-9.7418761?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b82d16ca-c6ed-408c-89c3-83d83637a8a9,1787788501957/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1420%2C798%29%3B",
+    "data": "2026-11-12T19:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1321,32 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
     "data": "2026-11-12T07:45:52.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "South Park takes on the expensive, confusing world of club sports – with a nod to Heated Rivalry",
-    "resumo": "<p>The US midterms made it into this week’s episode, which focuses on gay couple Craig and Tweek as they join a ‘pay-to-play’ sport team which promises them a better future</p><p>South Park (or South America, as it’s known this season) is renowned for its turning around episodes far quicker than just about any scripted series, resulting i",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/12/south-park-episode-5-world-of-club-sports",
-    "imagem": "https://i.guim.co.uk/img/media/e4bf3dfc69ee6ef6bd30f0766fbde3a84b51265f/620_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=60289a9978403be0121121ab21873fa2",
-    "data": "2026-11-12T06:25:08.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "You had me at LOL: some notes for the You’ve Got Mail reboot",
-    "resumo": "<p>Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches</p><p>Assuming you have already heard about the You’ve Got Mail reboot, you are probably in one of two states. You are either excited that the news might be a ",
-    "link": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
-    "imagem": "https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=759709d6af83e7ec68ea8dc31a3fcb2f",
-    "data": "2026-11-12T05:00:10.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "A massive new simulation reveals how the universe emerged from darkness",
-    "resumo": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations co",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-    "imagem": null,
-    "data": "2026-11-12T04:07:24.000Z"
   }
 ]
