@@ -1,5 +1,194 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+    "resumo": "The office of Stephen Miller, President Trump’s new chief of staff, outlined a new policy that seeks to show independence from special interests.",
+    "link": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-lobbyists-jhbk/12dc-trump-lobbyists-jhbk-mediumSquareAt3X.jpg",
+    "data": "2026-11-13T05:24:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+    "resumo": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T05:23:31.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
+    "resumo": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T05:05:50.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+    "resumo": "<p>Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledge</p><p>The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the world’s leading energy economist has said.</p><p>Fatih Birol, the executive director of the International E",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+    "imagem": "https://i.guim.co.uk/img/media/d7cea311df5be9b1bdd1181313c38b00091aec76/487_563_6176_4941/master/6176.jpg?width=140&quality=85&auto=format&fit=max&s=d303a3ce4603f18a241b3bdc6373974f",
+    "data": "2026-11-13T05:00:11.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "As housing protests sweep Portugal, police and politicians here seem bent on making the crisis worse | Ana Naomi de Sousa",
+    "resumo": "<p>While Spain, Germany and the UK have all introduced laws protecting renters’ rights, Luís Montenegro’s centre-right government is empowering landlords</p><p>As Storm Charles reached Portugal’s shores this week, flights were aborted, schools were closed, and the global Web Summit in Lisbon was forced to cancel a whole day of lucrative e",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters",
+    "imagem": "https://i.guim.co.uk/img/media/9edb16a6346b1129d5c8ad0e910be6dbb842100d/412_0_4123_3298/master/4123.jpg?width=140&quality=85&auto=format&fit=max&s=e91627b86730cb6e02a222720fedab90",
+    "data": "2026-11-13T05:00:11.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
+    "resumo": "<p>Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routines</p><p>The race to electrification has emerged as a key theme of this year’s UN climate summit: increasing the use of electricity – particularly from clean sources – has the potentia",
+    "link": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
+    "imagem": "https://i.guim.co.uk/img/media/4a3a039b2581d44320e75b8b6b626909f3a96e2b/167_111_4213_3369/master/4213.jpg?width=140&quality=85&auto=format&fit=max&s=af60f2a7301d5287c79110e1c4ad3ceb",
+    "data": "2026-11-13T05:00:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença",
+    "resumo": "5,3 milhões de brasileiros têm diabetes e não sabem; teste online simples ajuda a entender risco de desenvolver a doença Adobe Stock Cerca de 5,3 milhões de brasileiros adultos têm diabetes e não sabem que convivem com a doença. Isso significa que quase um em cada três adultos com a condição no país ainda não recebeu o diagnóstico. Diante",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/13/53-milhoes-de-brasileiros-tem-diabetes-e-nao-sabem-teste-online-simples-ajuda-a-entender-risco-de-desenvolver-a-doenca.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-Pv7aVtffMknR-6Bv7i5hwKSK0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/b/KdVEjxSnCC9gVvDpC1pw/diabetesmonitorglicose.jpg",
+    "data": "2026-11-13T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
+    "resumo": "Vice-presidente, Geraldo Alckmin; ministro da Fazenda, Dario Durigan; governador do Piauí, Rafael Fonteles; e o ministro do Planejamento, Bruno Moretti. Montagem g1 Após uma virada histórica nas urnas, o presidente Luiz Inácio Lula da Silva (PT) chegará ao seu quarto mandato com um desafio central: equilibrar as contas públicas ao mesmo t",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/13/futuro-ministro-da-fazenda-veja-quem-sao-os-cotados-e-o-que-esta-em-jogo-na-escolha-de-lula.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eduBJVzlZQj9k8fVzI4td0s9_rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/thl5gjT4uXlf11tMrHpQ/fotojet-40-.jpg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Menos é Mais, Flávio Venturini, Samuel Rosa, Telo Borges e banda Ventos Solares animam fim de semana no DF",
+    "resumo": "Grupo Menos é Mais Divulgação O fim de semana chegou com muitas opções de lazer no Distrito Federal. Para os fãs de pagode, o grupo Menos é Mais faz um show de gravação de DVD no Mané Garrincha neste sábado (14), com um repertório que une músicas autorais e canções inéditas. Como parte do Festival Estilo Brasil 2026, Flávio Venturini, que",
+    "link": "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/11/13/menos-e-mais-flavio-venturini-samuel-rosa-telo-borges-e-banda-ventos-solares-animam-fim-de-semana-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/da78UB6gtlbm9DOB12mgUC_mPnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/W/NCvLyiQ3uwQBU4BwVQgQ/menos-mais.jpeg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prêmios e outros itens que marcaram carreira de Netinho serão catalogados para exposição; acervo tem mais de 100 objetos",
+    "resumo": "Prêmios e outros itens que marcaram carreira de Netinho serão catalogados para exposição Acervo TV Globo/Divulgação Itens que marcaram os 38 anos de carreira de Netinho serão catalogados para a criação de uma exposição em homenagem ao cantor baiano. A informação foi revelada ao g1 pela assessoria dele, em meio ao primeiro mês sem o artist",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/13/itens-que-marcaram-carreira-de-netinho-serao-catalogados-para-exposicao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Asir2-g2uifSkMAFV_1X7gKCvrQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/TrjctYTAADST6LPsayOQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-11-12t153056.542.jpg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Testlets' no Enem: modelo de 'textão' com bloco de 5 perguntas pode aparecer em matemática e ciências da natureza? Veja se você acertaria",
+    "resumo": "Vídeo Quem fez o Exame Nacional do Ensino Médio (Enem) 2026 no último domingo (8) percebeu que tanto a prova de Ciências Humanas quanto a de Linguagens trouxeram um \"textão\" de página inteira, seguido de um bloco de cinco perguntas sobre aquele conteúdo. Será que esse formato, chamado de \"testlet\", também aparecerá em Matemática e em Ciên",
+    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/13/testlets-no-enem-modelo-de-textao-com-bloco-de-5-perguntas-pode-aparecer-em-matematica-e-ciencias-da-natureza-veja-se-voce-acertaria.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/I-C_NYDv8PHPFCh2BCm0hqid7FU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Y/iK4ielT1CRCsQ28JxG0w/whatsapp-image-2026-11-12-at-14.46.28.jpeg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022",
+    "resumo": "Lula durante evento na Turquia, às margens da COP31 Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira (12) que está rouco há mais de 15 dias. Na véspera, durante a COP31, a conferência do clima da Organização das Nações Unidas, ele interrompeu um discurso e delegou a um ministro a ",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/13/rouquidao-de-lula-o-que-pode-explicar-a-voz-falha-do-presidente-dos-efeitos-do-cancer-a-cirurgia-de-2022.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/166djaA-UDg4bIR11rMLmqTwF3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/q/enVQjYTNyTnS1hwB6bxQ/55647972467-4fee5f5b55-k.jpg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulheres mais inteligentes são tratadas de forma pior por colegas, aponta estudo",
+    "resumo": "AdobeStock A inteligência costuma ser considerada um trunfo no trabalho. Mas um novo estudo sugere que, para as mulheres, ela também pode levar a um tratamento pior no ambiente profissional. Entre 826 pessoas que participaram da pesquisa nos Estados Unidos e na China, mulheres que obtiveram pontuação mais alta num teste de inteligência fo",
+    "link": "https://g1.globo.com/saude/saude-mental/noticia/2026/11/13/mulheres-mais-inteligentes-sao-tratadas-de-forma-pior-por-colegas-aponta-estudo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vDbR5188_iWyIc2MMHZPTJnwZpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/M/76sXQmSNScRkDQDMViqQ/adobestock-976043651.jpeg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mais segurança, menos agilidade: veja argumentos a favor e contra reduzir a velocidade do Eixão no DF",
+    "resumo": "Engarrafamento no Eixão Sul, em Brasília TV Globo/Reprodução A decisão da Justiça do Distrito Federal que prevê a redução da velocidade máxima em toda a extensão do Eixão, no centro de Brasília, gerou reações imediatas do governo – que deve recorrer e pedir a reconsideração da medida. De um lado, o Ministério Público entende a redução dos",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/13/mais-seguranca-menos-agilidade-veja-argumentos-a-favor-e-contra-reduzir-a-velocidade-do-eixao-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qK-Z0om3iNumkn5BkkrnwFhYI78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/j/sxjeigRe2rvFaphPH25A/transito-jogo.jpeg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Promessa de Lula, canetas mais baratas só têm aval para diabetes, o que pode travar oferta no SUS; Anvisa avalia dois pedidos para obesidade",
+    "resumo": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida Prometidas por Lula (PT) durante a campanha, ter canetas emagrecedoras no SUS esbarra em um detalhe da bula: as versões mais baratas, que chegaram ao mercado depois da queda da patente da semaglutida, só têm registro na Agência Nacional de Vigilância Sanitária (",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/13/promessa-de-lula-canetas-mais-baratas-so-tem-aval-para-diabetes-o-que-pode-travar-oferta-no-sus-anvisa-avalia-dois-pedidos-para-obesidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lvuUCDX6IfaeUMR-alt2F56xZto=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/Q7zq3iTHCVs6keYOl8IA/lula.png",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Enem 2026: o que mais cai em Ciências da Natureza e Matemática?",
+    "resumo": "Quais são os temas mais comuns no Enem? A poucos dias do segundo dia de provas do Exame Nacional do Ensino Médio (Enem) 2026, vale relembrar quais conteúdos normalmente mais caem na parte de Ciências da Natureza e Matemática. ➡️Depois de responderem a 45 questões de Linguagens e Códigos e 45 de Ciências Humanas, além da redação no último ",
+    "link": "https://g1.globo.com/educacao/noticia/2026/11/13/enem-2026-o-que-mais-cai-em-ciencias-da-natureza-e-matematica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1W3R5Vd-bfN5iCkplkdglT-19Dw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/1/5LeFGcS3ehhstBZJIZ3g/edicao-imagens-g1-7-.jpg",
+    "data": "2026-11-13T05:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+    "resumo": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
+    "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T04:51:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+    "resumo": "Despite knowing a war with Iran would be manufactured for Netanyahu&#039;s survival, many would still rally behind it.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T04:48:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "From ocean legend to undersea reef: Why has the SS United States been sunk?",
+    "resumo": "The ship had been inactive for years despite various owners attempting to save and restore it.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T04:39:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Talarico appeals to Trump’s legacy in bid for bipartisan reforms",
+    "resumo": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T04:36:45.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
+    "resumo": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T04:28:45.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Previsão do tempo hoje para Sete Lagoas (MG): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
@@ -16,96 +205,6 @@
     "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
     "imagem": "https://s2-g1.glbimg.com/4gbu1taRNvgu92ty2Sf2_clBYM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/T/shDw04RSieaGdgiwg3zw/previsao-tempo-bras-lia-20261113-011554.jpeg",
     "data": "2026-11-13T04:16:07.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta sexta-feira (13) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e ",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/e8J8UDq5pbKYjMdMd4r_4CP-DmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/G/ZMDOPwRlCME734j8OuSg/previsao-tempo-goi-nia-20261113-011538.jpeg",
-    "data": "2026-11-13T04:15:49.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta sexta-feira (13) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde,",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LeG05DS679Ap2wcSad2MZDApfhQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/c/yNHe5bTfeI054i0OZvxQ/previsao-tempo-aparecida-de-goi-nia-20261113-011523.jpeg",
-    "data": "2026-11-13T04:15:32.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta sexta-feira (13) para Cuiabá (MT) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e tr",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/En7Xoj_1ofSh-NyFjtd4gozTfgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/T/TI8raZQpaeRQ8GK1TAVg/previsao-tempo-cuiab-20261113-011508.jpeg",
-    "data": "2026-11-13T04:15:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta sexta-feira (13) para Campo Grande (MS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 33ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Md-iy-LQXQC6e5yWYDCS1a8eAXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/h/2zoToSSpu6XeihRn5m8A/previsao-tempo-campo-grande-20261113-011452.jpeg",
-    "data": "2026-11-13T04:15:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; não chove",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta sexta-feira (13) para Porto Alegre (RS) é de sol com algumas nuvens. Não chove. As máximas são de 29ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol com algumas nuvens. À noite",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-nao-chove.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QtghDX-078KPq0nVjij7K291u-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/O/OLd9lmS8eMRy2wPnAuMQ/previsao-tempo-porto-alegre-20261113-011436.jpeg",
-    "data": "2026-11-13T04:14:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta sexta-feira (13) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período ",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ZdyrN0Bga1lSnV94zz3Ueg1ko-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/9/yfOasnTGmBWwyYP8LpQw/previsao-tempo-caxias-do-sul-20261113-011420.jpeg",
-    "data": "2026-11-13T04:14:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta sexta-feira (13) para Joinville (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-joinville-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yy-ku8MIGtZ8_wQVoXJgg_ylK2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/AAyNEMSUinSiO1p21pbw/previsao-tempo-joinville-20261113-011404.jpeg",
-    "data": "2026-11-13T04:14:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta sexta-feira (13) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período ",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0qIIyive3D1p2Hwm6TJo7RGOFZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/v/p7ihz2SqOk3UorCCUoiQ/previsao-tempo-florian-polis-20261113-011347.jpeg",
-    "data": "2026-11-13T04:13:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta sexta-feira (13) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, so",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/u3UMndV5IJB56lHIqmRlLgJVDEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Y/PwHbJHRJGgqoa834HS8Q/previsao-tempo-maring-20261113-011330.jpeg",
-    "data": "2026-11-13T04:13:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta sexta-feira (13) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, ",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/13/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/W8iYn2N-gAojiHE-z8nQe3kQl1I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/15LWUMSCKizbNERzBtmw/previsao-tempo-londrina-20261113-011313.jpeg",
-    "data": "2026-11-13T04:13:24.000Z"
   },
   {
     "categoria": "Internacional",
@@ -216,40 +315,13 @@
     "data": "2026-11-13T02:48:29.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Chris Van Hollen launches bid to lead Democrats in US Senate",
-    "resumo": "Van Hollen&#039;s leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T02:42:41.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
-    "titulo": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "titulo": "Global Microsoft outage affecting tens of thousands of users",
     "resumo": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
     "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
     "data": "2026-11-13T02:38:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Finland detects strike on Russian warship as Zelenskyy meets US envoys",
-    "resumo": "Reports of attack in Baltic came before US envoys met with Russian and Ukrainian presidents.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T02:35:21.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Trump moots toppling Cuba authorities before leaving office",
-    "resumo": "Calling Cuba a failed nation, the US president hints at attack on the country before his term ends.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T02:33:28.000Z"
   },
   {
     "categoria": "Canadá",
@@ -279,24 +351,6 @@
     "data": "2026-11-13T02:01:35.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-    "resumo": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T01:44:55.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-    "resumo": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T01:43:17.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
@@ -317,8 +371,8 @@
   {
     "categoria": "Clima",
     "fonte": "The Guardian",
-    "titulo": "‘Even a snail would agree’: Greta Thunberg ridicules Australia’s slow climate action",
-    "resumo": "<p>Comments came as Indigenous activist Rikki Dank urged the Australian PM to heed the calls for action on climate change</p><p>An Indigenous climate activist who is taking the Australian government to the UN human rights committee over its coal and gas exports stood alongside Greta Thunberg at the Cop summit to demand Anthony Albanese “s",
+    "titulo": "‘Start listening’: Indigenous activist implores Albanese to block new coal, oil and gas",
+    "resumo": "<p>Flanked by Greta Thunberg, Rikki Dank says the Australian PM must heed the calls for action on climate change</p><p>An Indigenous climate activist who is taking the Australian government to the UN human rights committee over its coal and gas exports stood alongside Greta Thunberg at the Cop summit to demand Anthony Albanese “stop speak",
     "link": "https://www.theguardian.com/environment/2026/nov/12/start-listening-indigenous-activist-implores-albanese-to-block-new-coal-oil-and-gas",
     "imagem": "https://i.guim.co.uk/img/media/306ce124dee6b76004389c3bd4a643ec2a802008/1334_163_5422_4337/master/5422.jpg?width=140&quality=85&auto=format&fit=max&s=ccddfc1150430e14d2c1b9d8d61d703d",
     "data": "2026-11-13T01:14:05.000Z"
@@ -405,13 +459,13 @@
     "data": "2026-11-13T00:11:44.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-    "resumo": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T00:00:26.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Pilot killed in Quebec Remembrance Day crash had lifelong passion for flying, friends say",
+    "resumo": "Friends of Daniel Parent — the man killed in a plane crash during a Remembrance Day event in Saint-Georges-de-Beauce, Que., — are remembering him for being an excellent and experienced pilot.",
+    "link": "https://www.cbc.ca/news/canada/montreal/remembrance-day-plane-crash-beauce-9.7419917?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/08db83f3-2193-4e48-9982-dbe013637455,1794523646846/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1575%2C885%29%3B",
+    "data": "2026-11-13T00:09:19.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -421,15 +475,6 @@
     "link": "https://www.nytimes.com/2026/11/12/us/anthony-clark-dead.html",
     "imagem": "https://static01.nyt.com/images/2026/11/12/multimedia/xp-clark-top/xp-clark-top-mediumSquareAt3X.jpg",
     "data": "2026-11-12T23:57:37.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-    "resumo": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
-    "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-12T23:52:38.000Z"
   },
   {
     "categoria": "Canadá",
@@ -457,15 +502,6 @@
     "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-12T23:43:22.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Pfizer ends sale of hormone therapy cream Premarin in Canada",
-    "resumo": "Pfizer will no longer sell its hormone replacement therapy Premarin in Canada following an internal review. The product has been available as a vaginal cream and three strengths of oral tablets.",
-    "link": "https://www.cbc.ca/news/health/pfizer-premarin-menopause-canada-discontinued-9.7419988?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d9b9dfde-3264-4e00-8b82-fa0675bf5148,1794524485867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C348%2C4340%2C2441%29%3B",
-    "data": "2026-11-12T23:41:41.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -729,15 +765,6 @@
     "data": "2026-11-12T20:30:11.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Why 2026 Midterm Polls Underestimated Democratic Support",
-    "resumo": "Democratic gains were expected, but surveys almost uniformly underestimated how well the left would do. Many pollsters seem to have made similar mistakes.",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-05-poll-error-index/2026-11-05-poll-error-index-mediumSquareAt3X-v10.png",
-    "data": "2026-11-12T20:29:06.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Russian warship hit by Ukrainian drone in Gulf of Finland",
@@ -873,15 +900,6 @@
     "data": "2026-11-12T17:53:00.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "UK ministers have no plans to publish explosive report on climate crisis",
-    "resumo": "<p>Andy Burnham’s newly appointed climate adviser used report to warn of national security risk from collapsing ecosystems</p><p>The UK government still has no plans to publish an explosive report showing the national security risk from <a href=\"https://www.theguardian.com/environment/2026/sep/24/explainer-uk-climate-crisis-national-secur",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/uk-ministers-no-plans-publish-climate-crisis-report",
-    "imagem": "https://i.guim.co.uk/img/media/cf74369b1d973f92302733a516554de78c8c2561/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b1ed60d10d67956bc7e36cfec8ec6242",
-    "data": "2026-11-12T17:51:24.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
@@ -970,15 +988,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg",
     "data": "2026-11-12T16:43:36.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-    "resumo": "<p>Swedish activist criticised world governments for their failure to prevent environmental breakdown </p><p>The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her first appearance at the annual UN climate talks in ",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-    "imagem": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=7cfa06cdcb4667eba9b5bc5076513530",
-    "data": "2026-11-12T16:39:47.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1078,24 +1087,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
     "data": "2026-11-12T14:29:59.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Shelter-in-place advisory issued for B.C.'s Pemberton Valley, parts of Squamish as flooding closes roads",
-    "resumo": "Shelter-in-place advisories have been issued in the Pemberton Valley and parts of the District of Squamish as flooding threatens local properties and roads. Líl̓wat Nation expanded an evacuation order for its community Thursday morning.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/bc-storm-nov-12-9.7418790?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d5365923-91d5-46c6-b070-ec353a8c9863,1794525421111/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B",
-    "data": "2026-11-12T14:28:59.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "When the after dinner mints come out, we’re back in our childhood again | Melanie Tait",
-    "resumo": "<p>Australians of a certain age will all remember their parents ending dinner parties with the thin, chocolate-covered squares</p><p>It’s an almost world-class error to volunteer the dessert for a meal with friends, when your only talent for dessert is the eating of it and you have $20 in your bank account until the next payday.</p><p>Sti",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/13/after-dinner-mints-australian-childhood-after-eights",
-    "imagem": "https://i.guim.co.uk/img/media/f7c7e7c691a9cbf88252196e3bd11b29a75b7313/807_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d10813911dab2122f53f01cac55a9bed",
-    "data": "2026-11-12T14:00:44.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1330,6 +1321,15 @@
     "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
     "imagem": "https://i.guim.co.uk/img/media/5f0e172be373c018a12f48404e6f254c91d549ca/422_0_4220_3376/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=5b44c95a84ceeb5a96ac084004cb4724",
     "data": "2026-11-11T22:50:37.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Jays' Anthony Santander stays quiet after team asks him to publicly address anti-Muslim social media posts",
+    "resumo": "The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran outfielder has remained quiet and hasn't issued an apology.",
+    "link": "https://www.cbc.ca/news/canada/toronto/blue-jays-anthony-santander-anti-muslim-posts-9.7418477?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/ec601ecc-e6be-4741-b46c-55018e9f661d,1793996285341/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C6844%2C3849%29%3B",
+    "data": "2026-11-11T22:38:29.000Z"
   },
   {
     "categoria": "Tecnologia",
