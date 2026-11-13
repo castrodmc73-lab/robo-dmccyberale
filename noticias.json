@@ -1,5 +1,167 @@
 [
   {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
+    "resumo": "<p>Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit</p><p>Good morning. Nearly all of the more than 90 world leaders who descended on Antalya in the past three days have now packed up their suitcases and lit out, some of them for the E",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=140&quality=85&auto=format&fit=max&s=f7bb07f1e290b4309adc1a90cb22c45a",
+    "data": "2026-11-13T07:40:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+    "resumo": "Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T07:39:18.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "What we know about the global Microsoft outage",
+    "resumo": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f4/live/622835f0-df31-11f1-911b-97a04d97270a.jpg",
+    "data": "2026-11-13T07:37:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Flávio Venturini volta a compor com Guarabyra após 50 anos, abre parceria com Zeca Baleiro e assina uma letra no álbum que lançará em meados de 2027",
+    "resumo": "Flávio Venturini programa o álbum 'Paisagens sonoras vol. 2' para o primeiro semestre de 2027 Divulgação ♫ NOTÍCIA ♬ Encerrado o ciclo de comemorações dos 50 anos de carreira, celebrados em 2025 com o show e o álbum intitulados “Minha história”, Flávio Venturini abre os trabalhos promocionais do próximo álbum do artista, “Paisagens sonora",
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/13/flavio-venturini-volta-a-compor-com-guarabyra-apos-50-anos-abre-parceria-com-zeca-baleiro-e-assina-uma-letra-no-album-que-lancara-em-meados-de-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1corhIjSNfbLf223aRxU6bOuvt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/NvDPLgTgCm3U2s4tZsgQ/venturini1.jpg",
+    "data": "2026-11-13T07:31:15.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "The real winner in Poland’s constitutional battle is Putin",
+    "resumo": "The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T07:19:08.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "What happened overnight with the Microsoft global outage",
+    "resumo": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b972/live/302b14b0-df30-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-13T07:18:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Sabotage é revivido em EP ao vivo que recupera a participação do artista em show do grupo de rap DMN em 2002",
+    "resumo": "O rapper Sabotage (1973 – 2003) tem legado expandido com o primeiro registro ao vivo de show com áudio de boa qualidade técnica Arte de Gustavo Amaral ♫ NOTÍCIA ♬ Em 2002, quando participou de show do grupo de rap DMN na Toco Dance House, casa da Zona Leste da cidade de São Paulo (SP), Mauro Mateus dos Santos (3 de abril de 1973 – 24 de j",
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/13/sabotage-e-revivido-em-ep-ao-vivo-que-recupera-a-participacao-do-artista-em-show-do-grupo-de-rap-dmn-em-2002.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KALNm5DMYIRbhD02FIC4Hm1aoJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/uug2XjRXSPwoYAFP5rgQ/sabotageaovivoepcapafoto.jpg",
+    "data": "2026-11-13T07:14:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "The Gulf must build security that can outlast this war",
+    "resumo": "Trump’s latest statement should accelerate the region’s move towards a layered and networked security architecture.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T07:08:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Por que vaca perseguiu motociclista e pulou mata-burro em MG? Veterinário explica",
+    "resumo": "Ao som de Britney Spears, vídeo de motociclista fugindo de 'vaca doida' viraliza em MG A vaca que perseguiu um motociclista e pulou um mata-burro em Cláudio, no Centro-Oeste de Minas Gerais, virou sensação nas redes sociais depois que o vídeo da corrida ganhou uma versão ao som de um remix de \"Toxic\", de Britney Spears. Mas, além das risa",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/13/por-que-vaca-perseguiu-motociclista-e-pulou-mata-burro-em-mg-veterinario-explica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/U6xB3NDSC0N52pEz_cX3Kx-VNlw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/U/9NTslzQLSGfud8pFJjjQ/vaca-persegue-motociclista-claudio-mg.png",
+    "data": "2026-11-13T07:00:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Em 'Carnaval de Luz', U2 não reinventa a roda, mas volta a soar como U2",
+    "resumo": "Título: \"Carnaval de Luz\" Artista: U2 Nota: 7/10 Após quase dez anos sem um álbum inteiro de inéditas (o último foi \"Songs of Experience\", em 2017), o U2 volta com o disco \"Carnaval de Luz\". Assim mesmo, em bom português. A banda passou o ano testando o território. No primeiro semestre de 2026, o U2 lançou dois EPs, \"Days of Ash\" e \"Easte",
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/13/em-carnaval-de-luz-u2-nao-reinventa-a-roda-mas-volta-a-soar-como-u2.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FHJlz1LeRjhFMurcOpXCUxr6PMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/j/iBCoUdRjS5cCKJdLIgHA/captura-de-tela-2026-11-11-115341.png",
+    "data": "2026-11-13T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Shows de Fábio Jr. e José Augusto, Almério, Tarcísio do Acordeon e Filipe Ret, festival de teatro, feira literária infantil e mais: veja agenda cultural",
+    "resumo": "Show de Fábio Jr. e José Augusto e Festival de Teatro de Igarassu estão entre as atrações da agenda cultural do Grande Recife Arte/g1 O Grande Recife segue com várias opções de diversão para todas as idades. Dois dos principais nomes da música romântica brasileira, Fábio Jr. e José Augusto se apresentam juntos no Classic Hall. Também tem ",
+    "link": "https://g1.globo.com/pe/pernambuco/o-que-fazer-no-recife/noticia/2026/11/13/shows-de-fabio-jr-e-jose-augusto-almerio-tarcisio-do-acordeon-e-filipe-ret-festival-de-teatro-feira-literaria-infantil-e-mais-veja-agenda-cultural.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/A5KAJCTh_B2FwEYtSBk3NgxtqZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/ANFAOSTDKrgpAUj8xyhg/agenda-cultural.jpg",
+    "data": "2026-11-13T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mortes em intervenções policiais crescem quase 120% desde 2015 em MG e atingem maior número em 11 anos",
+    "resumo": "Cresce número de mortes em intervenções policiais O número de mortes durante intervenções policiais em Minas Gerais cresceu quase 120% entre 2015 e 2025, segundo dados do Ministério da Justiça. Os registros passaram de 95 para 208 por ano — o maior número da série de 11 anos. Ao todo, 1.546 pessoas morreram em intervenções policiais no es",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/13/mortes-em-intervencoes-policiais-crescem-quase-120percent-desde-2015-em-mg-e-atingem-maior-numero-em-11-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p9-yiR85_t7L0yXIeiaqIOgM-GE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/2/BiwOKDTM6m6ypNyKl5gw/design-sem-nome-44-.jpg",
+    "data": "2026-11-13T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Meninas dedicam quase 4 horas a mais por semana às tarefas domésticas do que meninos, aponta pesquisa em MG",
+    "resumo": "Meninas de 17 anos dedicam quase quatro horas a mais por semana às tarefas domésticas do que meninos da mesma idade. A diferença começa a aparecer aos 8 anos e aumenta ao longo da infância e da adolescência, segundo uma pesquisa desenvolvida pela Universidade Federal de Uberlândia (UFU), no Triângulo Mineiro. O estudo analisou dados da Pe",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/13/meninas-dedicam-quase-4-horas-a-mais-por-semana-as-tarefas-domesticas-do-que-meninos-aponta-pesquisa-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fRkulQ0t5oEhMkv6HmQeE5SJNlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/k/0gzkapTOO7IsUWuAjp5g/artigo-desigualdade-pexels.jpg",
+    "data": "2026-11-13T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Amazonas tem mais de mil vagas de emprego abertas em empresas e no Sine; veja como se candidatar",
+    "resumo": "Carteira de trabalho Marcello Casal Jr/Agência Brasil O Amazonas tem mais de mil oportunidades de emprego abertas em empresas privadas e em órgãos públicos. As vagas são oferecidas pela Eneva, Solar Coca-Cola, Instituto Brasileiro de Geografia e Estatística (IBGE) e pelo Sine Amazonas, com opções para diferentes níveis de escolaridade e á",
+    "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/11/13/amazonas-tem-mais-de-mil-vagas-de-emprego-abertas-em-empresas-e-no-sine-veja-como-se-candidatar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/S_BB6BFboWsxtfpcXtMd9XK8Zbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/p/5BX3wqTXe0o9FxOBf5gg/remedios.jpg",
+    "data": "2026-11-13T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Emprego: confira as 134 vagas disponíveis em Petrolina e Araripina",
+    "resumo": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina e Araripina nesta sexta-feira (13). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades podem entrar em contato com a Sedepe através da inter",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/13/emprego-confira-as-134-vagas-disponiveis-em-petrolina-e-araripina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TxTP_spY2y8jn_uWI3DHwAG7IKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/z/i/fWYQnvQyihLFXw49jw5A/empregos.webp",
+    "data": "2026-11-13T07:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
+    "resumo": "Pegula&#039;s win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.",
+    "link": "https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T06:57:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US reports record number of deportations and arrests in 2026",
+    "resumo": "ICE carried out 483,200 deportations in 2026. Democrats prepare to investigate tactics used.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-13T06:46:35.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+    "resumo": "<p>Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk</p><ul><li><p> <a href=\"https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates\">Nvidia scandal – latest updates</a></p></li><li><",
+    "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+    "imagem": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=140&quality=85&auto=format&fit=max&s=d2cd274ed55597e6e6ca5111c50a3175",
+    "data": "2026-11-13T06:34:59.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
@@ -52,87 +214,6 @@
     "link": "https://g1.globo.com/guia/guia-de-compras/tecnologia/como-escolher-um-notebook-para-comprar-na-black-friday.ghtml",
     "imagem": "https://s2-g1.glbimg.com/nZHl0EBl2o_SsODD1aIWyCCpSKg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/r/15qtZ1S8q9AYYixoA0cw/pexels-goumbik-574071.jpg",
     "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ganso que viralizou por passeio de coleira, Dudu ganha 'amiguinho' e vídeo tem festa da dupla na piscina",
-    "resumo": "Ganso que viralizou passeando de coleira em Campinas ganha 'amiguinho' O ganso que viralizou nas redes sociais ao passear de coleira pelas ruas de Campinas (SP) ganhou um companheiro. Chamado Dudu, o animal agora divide a rotina com Pingo, outro ganso que chegou à casa do tutor, José Matos de Santos, no início de outubro. Vídeos feitos po",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/13/ganso-que-viralizou-por-passeio-de-coleira-dudu-ganha-amiguinho-e-video-tem-festa-da-dupla-na-piscina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gnssAD7oxpQTwFZASB522vt8toM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/3/5wiuqgQ8ynqG9kKm6DHQ/design-sem-nome-12-.png",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Médico torturou namorada durante agressão: 'Arranca seu olho ou eu arranco os dois'",
-    "resumo": "Médico é preso por suspeita de estuprar e agredir a namorada em Fortaleza \"Ou você arranca seu olho ou eu arranco os dois\". Essa teria sido uma das frases ditas pelo médico José Adriano Bispo Cavalcante para a namorada, conforme o auto de prisão ao qual o g1 teve acesso. Ele foi preso no último domingo, suspeito de estuprar e agredir a na",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/13/medico-torturou-namorada-durante-agressao-arranca-seu-olho-ou-eu-arranco-os-dois.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JXpRwbzG4aOmShBnq9d4VKsK7UI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/P/PPjQwMS3yD3FZBYURSzw/medico-adriano-bispo.jpg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Brasileira se torna a primeira latino-americana a ganhar prêmio em universidade alemã",
-    "resumo": "Brasileira se torna a primeira latino-americana a ganhar prêmio em universidade alemã \"Eu tinha quase certeza que eu não ia ganhar.\" Foi com surpresa e lágrimas que Maria Letícia Sousa Borges, de 28 anos, descobriu que havia conquistado o DAAD-Preis, prêmio concedido a estudantes internacionais de destaque em universidades alemãs. Natural",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/13/brasileira-premio-em-universidade-alema.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3O-7nQK7AYzHbmeOzqCNYQfSX-0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/P/TJ0RMDRH62vs4cdTuJug/edicao-imagens-g1-9-.jpg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gato é abandonado em caixa na calçada com trauma craniano, fraturas e lesões e morre após dias internado no RS",
-    "resumo": "Gato abandonado em caixa com trauma craniano e lesões morre após internação no RS Um gato resgatado depois de ser abandonado dentro de uma caixa em uma avenida de Canoas, na Região Metropolitana de Porto Alegre, morreu após dias de internação em uma clínica veterinária. O caso aconteceu no dia 4 de novembro, segundo Paola Saldivia, presid",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/13/gato-abandonado-caixa-trauma-fraturas-lesoes-morre-internado-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/F9MMrfHySaX0pIpAZgPHlfwIIho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/6/8h8m0fRPG3hyonhG6e0g/g1.jpg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Empresa que alugava Porsches e Lamborghinis para 'passeios ostentação' em Balneário Camboriú encerra atividades",
-    "resumo": "Empresa que oferecia passeios em supercarros de luxo fecha em Balneário Camboriú A DriveXperience, empresa que oferecia experiências ao volante de supercarros em Balneário Camboriú, no Litoral Norte de Santa Catarina, anunciou o encerramento das atividades. O estabelecimento, fundado em maio de 2024, disponibilizava passeios com veículos ",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/13/empresa-alugava-porsches-e-lamborghinis-para-passeios-ostentacao-fecha.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xWwfiOEuW3E6qmwmB3n212zlgBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/j/BwhJhASDAg19GkJJLvjg/carro-aluguel.jpeg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vale do Paraíba tem novo alerta de tempestade, com chance de granizo, para esta sexta; entenda",
-    "resumo": "Confira a previsão do tempo para a região O Vale do Paraíba tem um novo alerta de tempestade do Instituto Nacional de Meteorologia (Inmet) para esta sexta-feira (13). O aviso, classificado como perigo potencial, prevê chuva forte, ventos intensos e possibilidade de queda de granizo em cidades da região. O alerta começa à 0h e segue até as",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/13/vale-do-paraiba-tem-novo-alerta-de-tempestade-com-chance-de-granizo-para-esta-sexta-entenda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AmIY6tcJiBKyjrT_4K6sMIrwbks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/f/h7R3bWRBqUGKjta3LKVA/foto-g1-1-.jpg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Crime no interior: grupos armados controlam áreas em 21 cidades do RJ com menos de 30 mil habitantes",
-    "resumo": "Crime organizado domina 35% do território de Belford Roxo e São João de Meriti, aponta ISP Fenômeno geralmente associado às grandes cidades e regiões metropolitanas, o domínio armado de territórios também já está presente em cidades pequenas do estado do Rio. Um levantamento do g1 com base em dados divulgados pelo Instituto de Segurança P",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/crime-no-interior-grupos-armados-controlam-areas-em-21-cidades-do-rj-com-menos-de-30-mil-habitantes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_yRALSQybwvc32OG3uYtshf9SDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/j/5yGBWRR0S98IleQB8llA/areas-rj-dominadas-crime-organizado-v3-3.jpg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ex-tesoureiro da Caixa no ES desvia mais de R$ 880 mil de caixas eletrônicos para apostar em bets",
-    "resumo": "Agência da Caixa Econômica da Praia do Canto, em Vitória, no Espírito Santo Vitor Jubini/Rede Gazeta/Arquivo Um ex-tesoureiro da Caixa Econômica Federal no Espírito Santo desviou mais de R$ 880 mil de quatro caixas eletrônicos de uma agência em Vitória. Em audiência, Irineu Barth Júnior admitiu que usava o caixa da agência para pagar bole",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/13/ex-tesoureiro-da-caixa-no-es-desvia-mais-de-r-880-mil-de-caixas-eletronicos-para-apostar-em-bets.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PIjt7K1Jatn8THOIVzA1uebNw10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/z/OiOyaqRYCIMgnYbZfWSw/thumb-fotos-2026-11-12t183817.164.jpg",
-    "data": "2026-11-13T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Perícia aponta que empresário dirigia carro a 114 km/h ao atingir e matar motociclista, no Paraná; velocidade máxima da via era de 50 km/h",
-    "resumo": "Motociclista morre ao ser atingido por carro em cruzamento de Londrina A Polícia Civil do Paraná mudou, nesta quinta-feira (12) o entendimento sobre a batida de trânsito que causou a morte do vigilante Lucas Orozimbo, de 32 anos, em Londrina, após o resultado da perícia apontar que o motorista envolvido na colisão estava dirigindo a, pelo",
-    "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/13/pericia-aponta-que-empresario-dirigia-carro-a-114-kmh-ao-atingir-e-matar-motociclista-no-parana-velocidade-maxima-da-via-era-de-50-kmh.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TWMMC-h0LpPE9806dr9JR-VPThI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/G/4QAXIsRyW6VNYyVOZZtA/joao6-1-.png",
-    "data": "2026-11-13T06:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -225,33 +306,6 @@
     "data": "2026-11-13T04:39:33.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Talarico appeals to Trump’s legacy in bid for bipartisan reforms",
-    "resumo": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T04:36:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
-    "resumo": "Van Hollen is known for his antiwar positions and championing progressive causes.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T04:28:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US envoys shuttle between Putin and Zelenskyy",
-    "resumo": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T04:12:01.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
@@ -286,24 +340,6 @@
     "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
     "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-mediumSquareAt3X.jpg",
     "data": "2026-11-13T03:27:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Mississippi elects first black senator in nearly 150 years",
-    "resumo": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T03:21:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran says it targeted US radar site in Bahrain",
-    "resumo": "IRGC says it hit radar in retaliation for an &#039;enemy&#039; air attack on a telecom tower in Iran&#039;s Hormozgan province.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T03:17:27.000Z"
   },
   {
     "categoria": "Internacional",
@@ -387,13 +423,13 @@
     "data": "2026-11-13T01:26:24.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "‘Start listening’: Indigenous activist implores Albanese to block new coal, oil and gas",
-    "resumo": "<p>Flanked by Greta Thunberg, Rikki Dank says the Australian PM must heed the calls for action on climate change</p><p>An Indigenous climate activist who is taking the Australian government to the UN human rights committee over its coal and gas exports stood alongside Greta Thunberg at the Cop summit to demand Anthony Albanese “stop speak",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/start-listening-indigenous-activist-implores-albanese-to-block-new-coal-oil-and-gas",
-    "imagem": "https://i.guim.co.uk/img/media/306ce124dee6b76004389c3bd4a643ec2a802008/1334_163_5422_4337/master/5422.jpg?width=140&quality=85&auto=format&fit=max&s=ccddfc1150430e14d2c1b9d8d61d703d",
-    "data": "2026-11-13T01:14:05.000Z"
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Burnham says 'win-win' deal can be agreed between UK and EU",
+    "resumo": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+    "data": "2026-11-13T01:17:58.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -673,15 +709,6 @@
     "link": "https://www.cbc.ca/news/entertainment/star-wars-new-hope-rerelease-9.7419561?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/5525ec17-a243-4f2c-a81d-0196f355a2b9,1794520355023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2029%2C1141%29%3B",
     "data": "2026-11-12T22:07:03.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "China rules out hosting Cop33 climate summit in 2028",
-    "resumo": "<p>Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis </p><p>China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.</p><p>The decision will disappoint many countr",
-    "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-    "imagem": "https://i.guim.co.uk/img/media/c7b136d2475d3ac3bc94cab995eba54be9fcea9e/782_0_2649_2120/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=aeb492efabe8be00bf1521c3e0871063",
-    "data": "2026-11-12T22:00:15.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1321,32 +1348,5 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
     "imagem": null,
     "data": "2026-11-12T04:07:24.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
-    "resumo": "<p>SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin</p><p>The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a new life underwater as an artificial reef.</p><p>The nearly 1,000ft Ame",
-    "link": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
-    "imagem": "https://i.guim.co.uk/img/media/8fd60b61479519c751873c078dc512af7092ed65/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9c566e41195cc25e767c4ccf33bd91b5",
-    "data": "2026-11-12T03:07:16.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-    "resumo": "<p>Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats </p><p>Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repat",
-    "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-    "imagem": "https://i.guim.co.uk/img/media/5f0e172be373c018a12f48404e6f254c91d549ca/422_0_4220_3376/master/4220.jpg?width=140&quality=85&auto=format&fit=max&s=5b44c95a84ceeb5a96ac084004cb4724",
-    "data": "2026-11-11T22:50:37.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Jays' Anthony Santander stays quiet after team asks him to publicly address anti-Muslim social media posts",
-    "resumo": "The Toronto Blue Jays have asked Anthony Santander to publicly address the controversy sparked by his decision to share anti-Muslim posts on social media. So far, the veteran outfielder has remained quiet and hasn't issued an apology.",
-    "link": "https://www.cbc.ca/news/canada/toronto/blue-jays-anthony-santander-anti-muslim-posts-9.7418477?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/ec601ecc-e6be-4741-b46c-55018e9f661d,1793996285341/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C6844%2C3849%29%3B",
-    "data": "2026-11-11T22:38:29.000Z"
   }
 ]
