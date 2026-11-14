@@ -1,21 +1,57 @@
 [
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Stranded by planes, travelers turned to trains and automobiles.",
-    "resumo": "People trying to find new ways to get to their destinations still encountered obstacles at the rental car counter and on Amtrak’s booking system.",
-    "link": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/travelers-alternatives-trains-automobiles",
-    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-alternatives-topart-zcqm/14faa-groundstop-alternatives-topart-zcqm-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T22:23:56.000Z"
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: JL2 de sábado, 14 de novembro de 2026",
+    "resumo": "Confira o telejornal.",
+    "link": "https://g1.globo.com/pa/para/playlist/videos-jl2-de-sabado-14-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DUZxAJcDeXTPWyOGa3yuyMMhyK8=/s01.video.glbimg.com/deo/vi/11/93/15189311",
+    "data": "2026-11-14T23:04:49.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Assista ao BATV",
-    "resumo": "Assista ao BATV",
-    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "titulo": "Enem 2026: saiba como administrar o tempo e o que levar para o segundo dia de exame no Amapá",
+    "resumo": "Cadernos de prova do Enem 2025 reprodução Os candidatos do Amapá no Exame Nacional do Ensino Médio (Enem) 2026 fazem neste domingo (15) o segundo e último dia de provas. Os participantes terão cinco horas para responder a 90 questões objetivas, sendo 45 de Matemática e 45 de Ciências da Natureza. O transporte coletivo será gratuito para o",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/14/enem-2026-saiba-como-administrar-o-tempo-e-o-que-levar-para-o-segundo-dia-de-exame-no-amapa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bH_vg5CqexYUYBZh58Q2NA7X2Qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/HIA0tyRemH3D25eEGUwQ/imagens-g1-2026-11-03t114925.084.png",
+    "data": "2026-11-14T23:03:35.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Netanyahu says only a unity government can guarantee Israel’s security",
+    "resumo": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-14T22:22:27.000Z"
+    "data": "2026-11-14T23:01:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: GR2 de sábado, 14 de novembro de 2026",
+    "resumo": "Confira os vídeos do telejornal com as notícias do Sertão de Pernambuco.",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/edicao/2026/11/14/videos-gr2-de-sabado-14-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/h7eLfLDH6zvSeSyGfbUzxgHiF8M=/s01.video.glbimg.com/deo/vi/38/93/15189338",
+    "data": "2026-11-14T22:55:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher é vítima de tentativa de feminicídio no sudoeste da Bahia",
+    "resumo": "Imagem meramente ilustrativa de violência contra mulher Divulgação/Senado Federal Uma mulher de 35 anos foi vítima de tentativa de feminicídio neste sábado (14), em Guanambi, no sudoeste da Bahia. O suspeito do crime era ex-companheiro dela. O homem foi encontrado morto após tirar a própria vida. Segundo a Polícia Civil, o registro da oco",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/14/mulher-e-vitima-de-tentativa-de-feminicidio-em-guanambi.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1wkk7QssdYOq2RpQMNHaGIKLBKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/BJgiF5RNuuuhcnqiqgXw/feminicidio.jpg",
+    "data": "2026-11-14T22:53:05.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Mike Morrice — the only candidate on the ballot — wins Green Party leadership with 96.6% of vote",
+    "resumo": "The Green Party of Canada enters a new era with former MP Mike Morrice taking over the political party's top job.",
+    "link": "https://www.cbc.ca/news/politics/green-party-leader-mike-morrice-9.7422321?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/2d1f5838-8c57-4ff3-9521-e13fc73decd9,1794697207632/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C4032%2C2268%29%3B",
+    "data": "2026-11-14T22:51:24.000Z"
   },
   {
     "categoria": "Brasil",
@@ -24,34 +60,106 @@
     "resumo": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
     "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
     "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png",
-    "data": "2026-11-14T22:21:48.000Z"
+    "data": "2026-11-14T22:50:33.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-    "resumo": "Siga o EPTV 2 Ribeirão e Franca Acompanhe as notícias deste sábado (14).",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-    "data": "2026-11-14T22:20:15.000Z"
+    "titulo": "VÍDEOS: RJ2 de sábado, 14 de novembro de 2026",
+    "resumo": "Assista aos vídeos com as notícias do Rio de Janeiro.",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-sabado-14-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5BrfgjPyy4lt41QQVBevS2UTD7w=/s01.video.glbimg.com/deo/vi/83/92/15189283",
+    "data": "2026-11-14T22:49:46.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Jovem morre após trator tombar em ribanceira de fazenda no interior de Roraima",
-    "resumo": "Trator de acidente em que um trabalhador morreu e dois ficaram feridos em Alto Alegre, neste sábado (14). Reprodução/Redes sociais Um operador de máquina de 20 anos, identificado como Jonilson das Chagas Patricio, morreu neste sábado (14) depois que o trator que ele conduzia tombou em uma ribanceira, em uma fazenda, área rural de Alto Ale",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/14/jovem-morre-apos-trator-tombar-em-ribanceira-de-fazenda-no-interior-de-roraima.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TGuG8bOseVC2AUTLpuZC9aCszow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/M/7BFBB7RGKhhvh9CR3D3Q/trator.jpg",
-    "data": "2026-11-14T22:16:46.000Z"
+    "titulo": "Temporal com granizo e ventos de 75 km/h pode ter afetado mais de mil casas em Sete Barras",
+    "resumo": "Tempestade de granizo causa estragos e mobiliza ajuda humanitária no interior de SP A Prefeitura de Sete Barras, no interior de São Paulo, estima que mais de mil residências tenham sido afetadas pelo temporal que atingiu a cidade na última quinta-feira (12). Não há registro de feridos, desalojados ou desabrigados, segundo a administração ",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/14/temporal-com-granizo-e-ventos-de-75-kmh-atinge-mais-de-mil-casas-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/O24BaEBqFldS6leliurn7ZvqNgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/e/acPmgIR3WKy9AlVZZrPQ/neymar-2012-100-.jpg",
+    "data": "2026-11-14T22:49:15.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
-    "resumo": "Assista ao Jornal Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-jornal-vanguarda-ao-vivo-no-g1.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png",
-    "data": "2026-11-14T22:15:24.000Z"
+    "titulo": "Menos da metade das cidades do RJ tem planos de contingência para eventos climáticos extremos, aponta levantamento",
+    "resumo": "Menos da metade das cidades do RJ tem planos de contingência para eventos climáticos extremos, aponta levantamento Menos da metade dos municípios do estado do Rio de Janeiro possui planos de contingência para enfrentar eventos climáticos extremos, como temporais e ondas de calor. O dado é da plataforma Maré, desenvolvida por pesquisadores",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/14/planos-de-contingencia-para-eventos-climaticos-extremos-no-rj.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cexovvBZAaRNBBlF--Ub0C5pNPc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/G/4PulTsTgyykAvJ749hBg/rj2-limpo-20261114-1830-frame-85583.jpeg",
+    "data": "2026-11-14T22:48:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão indica temperaturas de até 35°C e possibilidade de chuva em cidades da Paraíba no segundo dia de provas do Enem 2026",
+    "resumo": "Universidade Federal da Paraíba (UFPB), campus João Pessoa Krystine Carneiro/G1 A previsão do tempo para este domingo (15), segundo dia de provas do Exame Nacional do Ensino Médio (Enem) 2026, indica temperaturas entre 22°C e 35°C em diferentes municípios da Paraíba. Há possibilidade de chuva em cidades do estado que terão aplicação do ex",
+    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/14/previsao-indica-temperaturas-de-ate-35c-e-possibilidade-de-chuva-em-cidades-da-paraiba-no-segundo-dia-de-provas-do-enem-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xUfxsF1aaSsWAXxZ2htnHvxI4yM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/k/BZKNZ4Qk6BypSj07Yj0w/universidade-federal-da-paraiba-ufpb-joao-pessoa.webp",
+    "data": "2026-11-14T22:48:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Com bênção de Bruno Gagliasso, Léo Fuchs e Gustavo Oliveira se casam em Fernando de Noronha; VÍDEO",
+    "resumo": "Casamento em Noronha tem discurso de Bruno Gagliasso sobre liberdade e amor Com Bruno Gagliasso como padrinho, o diretor teatral Léo Fuchs e o professor universitário Gustavo Oliveira se casaram na tarde deste sábado (14), na Praia do Meio, em Fernando de Noronha. A cerimônia reuniu familiares, amigos e vários famosos que viajaram à ilha ",
+    "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/14/com-bencao-de-bruno-gagliasso-leo-fuchs-e-gustavo-oliveira-se-casam-em-fernando-de-noronha-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/oBvjTZy4PXUnUsMI6MQzdWMSr5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/w/VhwnSkSsGtVz1w1hXB6A/casamento-leo-2.jpg",
+    "data": "2026-11-14T22:47:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+    "imagem": null,
+    "data": "2026-11-14T22:46:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mais de 500 kg de sardinha pescada durante período de defeso são apreendidos em Angra dos Reis",
+    "resumo": "Mais de 500 kg de sardinha pescada durante período de defeso são apreendidos em Angra dos Reis Divulgação/Polícia Militar Cerca de 540 kg de sardinha-verdadeira (Sardinella brasiliensis) foram apreendidos durante uma fiscalização do Comando de Polícia Ambiental (CPAm), em Angra dos Reis (RJ). A fiscalização foi realizada por policiais do ",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/14/mais-de-500-kg-de-sardinha-pescada-durante-periodo-de-defeso-sao-apreendidos-em-angra-dos-reis.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fwosSqtkKCF-ScU90zrqK6g3Aao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/4/RbqV5iRCS9TL0uYAXeTw/whatsapp-image-2026-11-14-at-19.44.59.jpeg",
+    "data": "2026-11-14T22:46:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Explosion near Syria’s capital kills father and child",
+    "resumo": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+    "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T22:43:12.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "resumo": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-14T22:37:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Palestinian stories set for major presence at 2027 Oscars",
+    "resumo": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T22:28:47.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Stranded by planes, travelers turned to trains and automobiles.",
+    "resumo": "People trying to find new ways to get to their destinations still encountered obstacles at the rental car counter and on Amtrak’s booking system.",
+    "link": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/travelers-alternatives-trains-automobiles",
+    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-alternatives-topart-zcqm/14faa-groundstop-alternatives-topart-zcqm-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T22:23:56.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -63,51 +171,6 @@
     "data": "2026-11-14T22:15:02.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-    "imagem": null,
-    "data": "2026-11-14T22:15:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-    "imagem": null,
-    "data": "2026-11-14T22:14:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-    "imagem": null,
-    "data": "2026-11-14T22:14:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-    "imagem": null,
-    "data": "2026-11-14T22:14:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça proíbe CPFL de cortar energia de clientes com pendências na medição em Sorocaba",
-    "resumo": "Moradores reclamam de valores superfaturados em contas da CPFL em Sorocaba TV TEM / Reprodução Uma decisão judicial proíbe a CPFL Piratininga de realizar cortes no fornecimento de energia elétrica de consumidores de Sorocaba (SP) com reclamações formais pendentes sobre as falhas na leitura dos medidores e os faturamentos das contas. O des",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/justica-proibe-cpfl-de-cortar-energia-de-clientes-com-pendencias-na-medicao-em-sorocaba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gPqDPl6P8HZwVxTpYsiqGcKdkbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/D/w3pX5NSaqBGNWi6vsuHg/14890586-18-.png",
-    "data": "2026-11-14T22:11:48.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
@@ -117,15 +180,6 @@
     "data": "2026-11-14T22:10:42.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "AO VIVO: Assista ao GR2",
-    "resumo": "AO VIVO: Assista ao GR2 Acompanhe o GR2 deste sábado (14), com apresentação de Leciane Lima.",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8VowNWH5d0_MQGZ8g23LIlztxmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/5/yUOoN5RveLHcAX073qkQ/whatsapp-image-2026-11-14-at-11.30.04.jpeg",
-    "data": "2026-11-14T22:10:38.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
@@ -133,15 +187,6 @@
     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-14T22:09:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Starship, da SpaceX, retorna da órbita e é capturada pelos braços mecânicos da plataforma de lançamento",
-    "resumo": "A Starship, da SpaceX, retornou à Terra neste sábado, capturada no ar por braços mecânicos na mesma plataforma de lançamento de onde havia partido. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Initial plugin text Foi o final esperado por Elon Musk e sua equipe: a primeira captura de uma Starship que retornava do espaço. Mas",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/14/starship-da-spacex-retorna-da-orbita-e-e-capturada-pelos-bracos-mecanicos-da-plataforma-de-lancamento.ghtml",
-    "imagem": null,
-    "data": "2026-11-14T22:09:07.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -165,7 +210,7 @@
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-    "resumo": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
+    "resumo": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
     "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-14T22:00:45.000Z"
@@ -246,7 +291,7 @@
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "AFC Toronto beats Montreal Roses to win 1st NSL title",
-    "resumo": "Olivia Chisholm's first half goal allowed AFC Toronto to capture their first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
+    "resumo": "Olivia Chisholm's first-half goal allowed AFC Toronto to capture its first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
     "link": "https://www.cbc.ca/sports/soccer/nsl-final-montreal-roses-afc-toronto-9.7421039?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/b59e6c35-76a9-4d56-87c4-9f22d1ad7929,1794688450172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C145%2C5139%2C2890%29%3B",
     "data": "2026-11-14T21:09:30.000Z"
@@ -277,15 +322,6 @@
     "link": "https://www.nytimes.com/2026/11/14/us/travel-nightmare-continues-for-stranded-passengers-awaiting-flights.html",
     "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-travel-nightmare-topart-jltm/14faa-groundstop-travel-nightmare-topart-jltm-mediumSquareAt3X.jpg",
     "data": "2026-11-14T20:44:05.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "resumo": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-14T20:41:45.000Z"
   },
   {
     "categoria": "Internacional",
@@ -486,15 +522,6 @@
     "data": "2026-11-14T18:40:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US blames outdated technology for nationwide flight disruption",
-    "resumo": "US blames outdated technology for nationwide flight disruption",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T18:32:40.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "SpaceX Starship re-enters Earth, lands at same spot from which it launched a day ago",
@@ -550,30 +577,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-    "resumo": "Sean Duffy, the country&#039;s transportation secretary, said his agency is &#039;going to hold people accountable&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T18:02:53.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
     "resumo": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
     "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
     "data": "2026-11-14T18:00:10.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Rising costs and arrests fuel protests in Central African Republic",
-    "resumo": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T17:50:28.000Z"
   },
   {
     "categoria": "Brasil",
@@ -934,15 +943,6 @@
     "link": "https://www.dw.com/pt-br/exposição-em-berlim-examina-conexão-entre-colonialismo-e-nazismo/a-79922334?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-14T09:22:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "4 decades ago, Robert Munsch attended Moira Green's birthday. Her story became a children's classic",
-    "resumo": "Four decades ago, Robert Munsch flew to the Northwest Territories in search of inspiration. The beloved author found it at Moira Green's sixth birthday party.",
-    "link": "https://www.cbc.ca/radio/moiras-birthday-robert-munsch-9.7419431?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/5c45dc52-404d-45c1-9291-53c99396e56d,1794510413950/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1548%2C870%29%3B",
-    "data": "2026-11-14T09:00:00.000Z"
   },
   {
     "categoria": "Opinião",
