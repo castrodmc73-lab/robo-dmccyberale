@@ -2,11 +2,209 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
+    "titulo": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+    "resumo": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
+    "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-scandal-what-it-means-to-be-a-spy.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T01:22:56.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
     "titulo": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
     "resumo": "Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.",
     "link": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html",
     "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-new-orleans-ship-lpfg/13xp-new-orleans-ship-lpfg-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-14T00:12:18.000Z"
+    "data": "2026-11-14T01:17:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Incêndio em fábrica de produtos químicos deixa 6 pessoas em estado grave em Salto, no interior de São Paulo",
+    "resumo": "Incêndio em fábrica de produtos químicos deixa 12 feridos em Salto, SP Um incêndio em uma fábrica de produtos químicos deixou 12 feridos em Salto, no interior de São Paulo; seis em estado grave. Uma coluna de fogo e fumaça densa podia ser vista de longe. O incêndio na fábrica de tintas e solventes Piroquímica começou por volta das 10h30 e",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/incendio-em-fabrica-de-produtos-quimicos-deixa-6-pessoas-em-estado-grave-em-salto-no-interior-de-sao-paulo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/W6ARJt_tUUWKYsnlzL-4arEJoIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/J/XlJIYORpmv2jpQZseMGA/globo-canal-4-20261113-2000-frame-113531.jpeg",
+    "data": "2026-11-14T01:12:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pará decreta emergência de Nível II por incêndios florestais; medida vale por 180 dias",
+    "resumo": "Fugindo do fogo: bicho preguiça é resgatado no Oeste do Pará O Pará declarou situação de emergência de Nível II nas áreas atingidas por incêndios florestais, pelo prazo de 180 dias. A medida prevê ações de combate ao fogo e assistência às populações afetadas. O Decreto nº 5.782 foi assinado pela governadora Hana Ghassan Tuma e publicado e",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/13/para-decreta-emergencia-de-nivel-ii-por-incendios-florestais-medida-vale-por-180-dias.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QWRZ1qy51ULJs8SNZV6VP5XWTkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Y/gOZrpgRpq5t1tq5BZd2g/globo-canal-4-20261103-2000-frame-120908.jpeg",
+    "data": "2026-11-14T01:11:13.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Mullin Says Nationwide Ground Stop Is a Telecommunication Outage",
+    "resumo": "The homeland security secretary said he did not know what caused the outage.",
+    "link": "https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-mullin-wqjp/13faa-groundstop-mullin-wqjp-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T01:10:31.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+    "resumo": "Travelers are entitled to a refund if your flight is canceled, regardless of the reason, but airlines won’t guarantee other amenities, such as a hotel room or meal vouchers.",
+    "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-travelers-rights2-qwgh/13faa-groundstop-travelers-rights2-qwgh-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T01:04:25.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+    "resumo": "<p>Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer\">FAA grounds thousands of f",
+    "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+    "imagem": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986",
+    "data": "2026-11-14T01:01:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher é presa por tentar matar amiga trans a facadas em terreno abandonado em Boa Vista",
+    "resumo": "A prisão ocorreu no bairro Nova Canaã Polícia Civil/ Divulgação Uma mulher trans, de 23 anos, foi presa por esfaquear a amiga, de 29 anos, em um terreno abandonado por suspeitar que ela tinha um relacionamento amoroso com a sua companheira. A prisão ocorreu nesta quinta-feira (12), no bairro Nova Canaã, em Boa Vista. Em depoimento, a víti",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/13/mulher-e-presa-por-tentar-matar-amiga-trans-a-facadas-em-terreno-abandonado-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UDTk-5gVjl2VlQTfZqAJBKQJu18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/7/ZVjfsCTZq8jAeEkuNBBA/investigada-presa.jpg",
+    "data": "2026-11-14T01:00:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ministério Público acusa Santiago Peña de chefiar organização criminosa criada para fraudar o sistema financeiro do Paraguai",
+    "resumo": "MP do Paraguai acusa ex-presidente Peña de chefiar organização criminosa criada para fraudar o sistema financeiro A crise no Banco Ueno, no Paraguai, ganhou nesta sexta-feira (13) um novo capítulo. O Ministério Público acusou o ex-presidente Santiago Peña de chefiar uma organização criminosa criada para fraudar o sistema financeiro do paí",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/ministerio-publico-acusa-santiago-pena-de-chefiar-organizacao-criminosa-criada-para-fraudar-o-sistema-financeiro-do-paraguai.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dKHdOVvzSeOZjvCgdAcHXoE5SLU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/5/n5AmDYT9KRVipaBfgGcA/globo-canal-4-20261113-2000-frame-103636.jpeg",
+    "data": "2026-11-14T00:58:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso suspeito de matar jovem durante festival católico em Sobral, no Ceará",
+    "resumo": "Homem é preso suspeito de matar jovem durante festival católico em Sobral, no Ceará. Um homem de 18 anos foi preso, nesta sexta-feira (13), suspeito de ter matado um jovem no Festival da Paz, em Sobral, no Ceará. O suspeito foi capturado no bairro Dom Expedito, no mesmo município, que fica na Região Norte do estado. A morte interrompeu a ",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/13/homem-e-preso-suspeito-de-matar-jovem-durante-festival-catolico-em-sobral-no-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cj_DXuxKNVR_VB7Z0mwUUU66cIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/s/CJJ1jPQ3mv0GwJ2cVTkA/preso-sobral.jpg",
+    "data": "2026-11-14T00:57:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Alemanha, França, Itália, Polônia e Reino Unido vão representar a Europa nas próximas negociações de paz entre Ucrânia e Rússia",
+    "resumo": "Guerra da Ucrânia domina discussões em cúpula da UE sobre inteligência artificial A guerra da Ucrânia dominou as discussões na cúpula da União Europeia sobre inteligência artificial. Líderes definiram quem deve representar o continente nas próximas negociações de paz. A Europa corria o risco de ficar fora das decisões sobre um acordo capa",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/alemanha-franca-italia-polonia-e-reino-unido-vao-representar-a-europa-nas-proximas-negociacoes-de-paz-entre-ucrania-e-russia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qEMD4ACXlWtOElyRzTmML0IF4iw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/RFsORNRMuSAz9Jonlpzw/globo-canal-4-20261113-2000-frame-100026.jpeg",
+    "data": "2026-11-14T00:51:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Resumão diário do JN: EUA suspendem todas as decolagens no país após problemas na comunicação com aviões; Jensen Huang é intimado a depor em comissão do Congresso dos EUA",
+    "resumo": "Uma pane no controle aéreo dos Estados Unidos suspendeu as decolagens no país e provocou atrasos e cancelamentos de milhares de voos. O governo descarta, até o momento, a hipótese de ataque, e o FBI investiga se uma atualização de software causou a falha. Outra pane deixou serviços da Microsoft fora do ar por quase 24 horas. A empresa atr",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/resumao-diario-do-jn-eua-suspendem-todos-os-voos-no-pais-apos-problemas-na-comunicacao-com-avioes-jensen-huang-e-intimado-a-depor-em-comissao-do-congresso-dos-eua.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png",
+    "data": "2026-11-14T00:50:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lotofácil 3829: cinco apostas de MT acertam 14 números e ganham R$ 1,7 mil cada",
+    "resumo": "Lotofácil Millena Sartori/g1 Cinco apostas feitas em Mato Grosso acertaram 14 números da Lotofácil e ganharam R$ 1.756,68 cada no concurso , sorteado nesta sexta-feira (13). Os jogos premiados foram registrados em Cuiabá, Dom Aquino, Marcelândia, Mirassol D'Oeste e Rondonópolis. Todas as apostas foram simples, com 15 números. Quatro foram",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/13/lotofacil-3829-cinco-apostas-de-mt-acertam-14-numeros-e-ganham-r-17-mil-cada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
+    "data": "2026-11-14T00:50:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 13 de novembro de 2026",
+    "resumo": "Confira os destaques desta edição.",
+    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CJNnvqyOUtfn-0Wrk8QRbsU6Uc0=/s01.video.glbimg.com/deo/vi/43/74/15187443",
+    "data": "2026-11-14T00:50:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Resultados das Loterias Caixa",
+    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
+    "data": "2026-11-14T00:47:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lotomania hoje: resultado do concurso 2999 e números sorteados",
+    "resumo": "Resultado da Lotomania g1 Veja abaixo os números do sorteio do concurso 2999 da Lotomania realizado nesta sexta-feira (13): 1 - 2 - 5 - 8 - 14 - 17 - 24 - 32 - 37 - 41 - 44 - 55 - 58 - 59 - 71 - 74 - 76 - 79 - 80 - 92 Confira o resultado do sorteio da Lotomania. Veja quantas apostas foram premiadas no concurso 2999: 20 acertos: 2 apostas ",
+    "link": "https://g1.globo.com/loterias/lotomania/noticia/2026/11/13/lotomania-hoje-resultado-do-concurso-2999-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/E2Xe_4-msRz0Y-tdrZnss1It-t0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/VXg3bISAeNF8xy7MBUGA/lotomania-2999-oykbt.jpeg",
+    "data": "2026-11-14T00:46:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "+Milionária hoje: resultado do concurso 407 e números sorteados",
+    "resumo": "Resultado da +Milionária g1 Veja abaixo os números do sorteio do concurso 407 da +Milionária realizado nesta sexta-feira (13): Dezenas: 9 - 22 - 25 - 26 - 28 - 50 Trevos: 2 - 3 Confira o resultado do sorteio da +Milionária. Veja quantas apostas foram premiadas no concurso 407: Ninguém conseguiu os 6 acertos, e a premiação acumulou para R$",
+    "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/13/milionaria-hoje-resultado-do-concurso-407-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/58Tlfsd8KmeMU7D7huxqdtCP770=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/p/SfIEAWR22kJ2p6iAXQNA/maismilionaria-407-ehfge.jpeg",
+    "data": "2026-11-14T00:46:19.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Airports Fill Up With Stuck Families and Stranded Travelers",
+    "resumo": "The emergency ground stop disrupted travel plans across the country.",
+    "link": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-scene-bmwq/13faa-groundstop-scene-bmwq-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-14T00:45:13.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+    "resumo": "The next title in the series is expected to be the biggest video game release ever.",
+    "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+    "data": "2026-11-14T00:37:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><s",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
+    "imagem": null,
+    "data": "2026-11-14T00:23:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UK police open sex offence probe into comedian and author David Walliams",
+    "resumo": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+    "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T00:22:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Microsoft services begin recovering after global outage",
+    "resumo": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T00:17:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Gilmar diz que Moro agiu para impedir candidatura de Lula em 2018",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018",
+    "imagem": null,
+    "data": "2026-11-14T00:11:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -16,15 +214,6 @@
     "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-14T00:06:43.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: MG2 de sexta-feira, 13 de novembro de 2026",
-    "resumo": "Assista aos vídeos das principais notícias de Minas Gerais.",
-    "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-sexta-feira-13-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/keySXzvkU0RmRjo-aAuwXh38bmI=/s01.video.glbimg.com/deo/vi/83/70/15187083",
-    "data": "2026-11-14T00:02:28.000Z"
   },
   {
     "categoria": "Internacional",
@@ -46,21 +235,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Decolagens suspensas nos EUA: veja o que fazer e o que dizem as companhias aéreas",
-    "resumo": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança A suspensão das decolagens nos Estados Unidos nesta sexta-feira (13) pode afetar voos entre o Brasil e o país, embora a dimensão dos impactos ainda esteja sendo avaliada. A medida foi adotada pela Administração Federal de Aviação (FAA), após uma falha nos sis",
-    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/13/decolagens-suspensas-nos-eua-o-que-fazer.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Anac orienta passageiros a consultar aéreas sobre voos para os EUA",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/anac-orienta-passageiros-consultar-aereas-sobre-voos-para-os-eua",
     "imagem": null,
-    "data": "2026-11-13T23:59:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso suspeito de ordenar ‘salves’ do CV contra candidatos nas eleições do Ceará",
-    "resumo": "Homem é preso suspeito de ordenar ‘salves’ do CV contra candidatos nas eleições do Ceará. Reprodução Um homem foi preso, nesta sexta-feira (13), suspeito de ordenar ameaças do Comando Vermelho — conhecidas como “salves” — contra candidatos nas eleições de 2026 em Quixelô, no Ceará. O homem foi identificado como Rafael Barbosa Lucena. Ele ",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/13/homem-e-preso-suspeito-de-ordenar-salves-do-cv-contra-candidatos-nas-eleicoes-do-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-L9HYDtxS4oiNP35INPgDnA-pNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/k/WsK7uySiOp9T30FAQauA/preso-quixelo.jpg",
-    "data": "2026-11-13T23:53:12.000Z"
+    "data": "2026-11-14T00:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -72,33 +252,6 @@
     "data": "2026-11-13T23:49:11.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Funcionários do IML denunciam acúmulo de corpos que passam dias em macas do lado de fora do instituto em SP",
-    "resumo": "Funcionários do IML denunciam acúmulo de corpos que passam dias em macas do lado de fora do instituto em SP TV Globo Funcionários do Instituto Médico Legal (IML) Central de São Paulo denunciam o acúmulo de corpos em macas deixadas em uma área externa do prédio, sem refrigeração e expostas ao calor. Imagens feitas na manhã desta sexta-feir",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/funcionarios-do-iml-denunciam-acumulo-de-corpos-que-passam-dias-em-macas-do-lado-de-fora-do-instituto-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/i4N9cjvPDJtvOnTexKny1aYQpLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/a/i1PhH2R966ueQON4cG7g/fotojet-132-.jpg",
-    "data": "2026-11-13T23:48:38.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Mullin Says Nationwide Ground Stop Is a Telecommunication Outage",
-    "resumo": "The homeland security secretary said he did not know what caused the outage.",
-    "link": "https://www.nytimes.com/2026/11/13/us/markwayne-mullin-faa-ground-stop.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-mullin-wqjp/13faa-groundstop-mullin-wqjp-mediumSquareAt3X.jpg",
-    "data": "2026-11-13T23:48:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-13T23:47:51.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "FAA ground stop shuts down flights nationwide",
@@ -106,24 +259,6 @@
     "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-13T23:47:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Diretores de 'Jim Queen' vêm a SP para pré-estreia no Belas Artes com concurso de sósias e prêmio de 20 ingressos",
-    "resumo": "Evento no Cine Belas Artes terá presença do diretor Marco Nguyen e do roteirista Simon Balteaux Reprodução Os fãs da animação francesa \"Jim Queen\" poderão participar de um concurso de sósias dos personagens do filme durante uma pré-estreia especial em São Paulo, no domingo (15). O evento, no Cine Belas Artes, na região central da capital,",
-    "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/13/diretores-de-jim-queen-vem-a-sp-para-pre-estreia-no-belas-artes-com-concurso-de-sosias-e-premio-de-20-ingressos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qNPboKF0qTnBu68X-QRpXCxVymQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/A/dmRb83RmypTOLiztfMMA/fotojet-133-.jpg",
-    "data": "2026-11-13T23:47:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Acordo e fico esperando por ela', diz pai de médica morta a tiros no interior do Acre",
-    "resumo": "Pai de médica assassinada no Acre relata rotina de luto e cobra responsabilização Acordar, preparar o café e esperar a filha para começar mais um dia. Essa é a rotina de Regi Carlos Wolter, pai da médica Elyne de Assis Nogueira, de 39 anos, que foi assassinada a tiros em Brasiléia, no interior do Acre, no último dia 2 de novembro. Em entr",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/13/acordo-e-fico-esperando-por-ela-diz-pai-de-medica-morta-a-tiros-no-interior-do-acre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pHA8a4HZ0Jm-cFUh4cj1gS-I5co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/C/OgXPbUQameuw3sGuioVQ/midia-de-distribuicao-g1.png",
-    "data": "2026-11-13T23:46:50.000Z"
   },
   {
     "categoria": "Internacional",
@@ -135,63 +270,9 @@
     "data": "2026-11-13T23:45:22.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-    "imagem": null,
-    "data": "2026-11-13T23:44:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-    "imagem": null,
-    "data": "2026-11-13T23:43:49.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: onça-pintada é flagrada circulando por propriedade e cachorro é encontrado ferido em MT",
-    "resumo": "Onça é flagrada por câmera de segurança circulando por propriedade de MT Uma onça-pintada foi flagrada por câmeras de segurança circulando em uma propriedade rural localizada a três quilômetros da área urbana de Barra do Bugres, a 169 km de Cuiabá. O registro foi feito no último domingo (8), no rancho da família do empresário Sival Jesus ",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/13/video-onca-pintada-e-flagrada-circulando-por-propriedade-e-cachorro-e-encontrado-ferido-em-mt.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jTS7yudTzlKoOMQ9iGMfemQbCb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/G/eZthNUQoOTiGay3LgBeQ/design-sem-nome-2-.png",
-    "data": "2026-11-13T23:43:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-    "imagem": null,
-    "data": "2026-11-13T23:43:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caos aéreo nos EUA: agência de aviação suspende todas as decolagens no país",
-    "resumo": "Caos aéreo nos EUA: agência de aviação suspende todas as decolagens no país Agência determinou que voos que partem de aeroportos americanos permaneçam em solo até segunda ordem. Governo descarta ataque cibernético e fala problemas de comunicação. A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou ne",
-    "link": "https://g1.globo.com/mundo/ao-vivo/paralisacao-de-voos-nos-eua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
-    "data": "2026-11-13T23:43:17.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
-    "resumo": "Travelers are entitled to a refund if your flight is canceled, regardless of the reason, or if a flight is significantly delayed or changed and you decide not to take it.",
-    "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-travelers-rights2-qwgh/13faa-groundstop-travelers-rights2-qwgh-mediumSquareAt3X.jpg",
-    "data": "2026-11-13T23:42:43.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
+    "titulo": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
     "resumo": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
@@ -236,15 +317,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Airports Fill Up With Stuck Families and Stranded Travelers",
-    "resumo": "The emergency ground disrupted travel plans across the country.",
-    "link": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-scene-bmwq/13faa-groundstop-scene-bmwq-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-13T23:14:02.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
     "resumo": "The request to extend a high-profile warrantless surveillance law would add a thorny issue during waning Republican control.",
     "link": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
@@ -277,15 +349,6 @@
     "link": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html",
     "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16pol-biden-book-takeaways-gzml/16pol-biden-book-takeaways-gzml-mediumSquareAt3X.jpg",
     "data": "2026-11-13T23:01:10.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-    "resumo": "<p>Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer\">Flights grounded at all US",
-    "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-    "imagem": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=ba8fdc5781587a131e79485a0c361fae",
-    "data": "2026-11-13T23:01:06.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -389,7 +452,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Canada's 4 major airports bring in traffic safety measures after planes grounded across U.S.",
+    "titulo": "U.S. officials to provide update on the ground stop at airports across the country",
     "resumo": "",
     "link": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/c5e2e4d0-a5cf-48fd-89a3-55517e570522,1794608285964/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
@@ -398,7 +461,7 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+    "titulo": "LIVE: FAA issues US ground stop, some international flights to depart",
     "resumo": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
     "imagem": null,
@@ -410,7 +473,7 @@
     "titulo": "FAA issues nationwide ground stop for all U.S. airports",
     "resumo": "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy.",
     "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F64%2Fc84ede0346dd8c137996bd2ce9c1%2Fgettyimages-107846319.jpg",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1600+0+0/resize/2400x1600!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Ff3%2F09af1a7941738ef8a026d81c8662%2Fap26317855858444.jpg",
     "data": "2026-11-13T21:55:13.000Z"
   },
   {
@@ -426,7 +489,7 @@
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "EUA suspendem todas as decolagens de aeroportos do país",
-    "resumo": "Administração Federal de Aviação dos EUA determinou a suspensão de decolagens em todos os aeroportos do país e que aviões que partiriam devem permanecer no solo. Mais de 11 mil voos foram atrasados ou cancelados.",
+    "resumo": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país, afetando mais de 13 mil voos. Esta foi somente a segunda paralisação desde o 11 de setembro.",
     "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-13T21:39:00.000Z"
@@ -491,7 +554,7 @@
     "titulo": "Microsoft outage 'stark reminder' of how much we rely on tech",
     "resumo": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
     "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9359/live/2eb34280-dfc4-11f1-93e1-3b657b665bcf.jpg",
     "data": "2026-11-13T21:15:41.000Z"
   },
   {
@@ -515,7 +578,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "All aboard river cruise boat survive crash with tanker in New Orleans",
+    "titulo": "'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans",
     "resumo": "A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over.",
     "link": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/e9b30f1e-f07c-44e6-9b23-738a8be34382,1794603966681/full/max/0/default.jpg?im=Crop%2Crect%3D%28288%2C0%2C5384%2C3028%29%3B",
@@ -576,15 +639,6 @@
     "data": "2026-11-13T20:45:10.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Supreme Court Set to Hear Trump’s Ban on Asylum Claims at Border",
-    "resumo": "Lower courts have ruled against the policy, which has effectively shut down avenues for people seeking asylum protections and to remain in the United States.",
-    "link": "https://www.nytimes.com/2026/11/13/us/politics/supreme-court-trump-asylum-border.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-aslyum-pmkg/13dc-aslyum-pmkg-mediumSquareAt3X.jpg",
-    "data": "2026-11-13T20:37:10.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Por que El Salvador tem soldados no Haiti?",
@@ -612,15 +666,6 @@
     "data": "2026-11-13T20:30:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Confiança da indústria atinge menor nível desde maio de 2020",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>A",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020",
-    "imagem": null,
-    "data": "2026-11-13T20:29:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
@@ -637,33 +682,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
     "imagem": "https://i.guim.co.uk/img/media/f8070363836c2e5ee96e96e4c3d5b492cfeb3233/0_0_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=45bd7b43f47dac060128bae7f1588688",
     "data": "2026-11-13T20:23:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-    "resumo": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T20:18:09.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Microsoft says services still returning amid widespread outage",
-    "resumo": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T20:16:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Milton Leite se torna réu por suspeita de ligação com o PCC",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/milton-leite-se-torna-reu-por-suspeita-de-ligacao-com-o-pcc\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stro",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/milton-leite-se-torna-reu-por-suspeita-de-ligacao-com-o-pcc",
-    "imagem": null,
-    "data": "2026-11-13T19:56:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -754,15 +772,6 @@
     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg",
     "data": "2026-11-13T19:02:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Fachin suspende prazos processuais após instabilidade da Microsoft",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft",
-    "imagem": null,
-    "data": "2026-11-13T18:50:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1339,14 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
     "data": "2026-11-13T00:13:35.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
-    "resumo": "<p>Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster </p><p>Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office Thursday</p><p>According to the Su",
-    "link": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
-    "imagem": "https://i.guim.co.uk/img/media/942fdb9a8059fd8839e15d4ff3c0a78e1cc887d3/451_0_4491_3592/master/4491.jpg?width=140&quality=85&auto=format&fit=max&s=416bd9522227a71dbc3bb6697944afa6",
-    "data": "2026-11-12T22:12:56.000Z"
   }
 ]
