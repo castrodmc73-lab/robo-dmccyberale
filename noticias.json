@@ -1,5 +1,149 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iranian shopkeeper goes viral for Netanyahu resemblance",
+    "resumo": "A shopkeeper in Tehran has become an unlikely social media sensation because of his striking resemblance to Netanyahu.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T04:29:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este sábado (14) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chu",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/halYq9MEdCw6p_bPT2YbC7PCfG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/q/T3rLFDTviyrZvojpCecw/previsao-tempo-bras-lia-20261114-011415.jpeg",
+    "data": "2026-11-14T04:14:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este sábado (14) para Goiânia (GO) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol, panca",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-goiania-go-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yMaFxavGX1OvTiEUXrbJgrVLaNY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/5/GT5bKvQxGL2hSNg7gxNQ/previsao-tempo-goi-nia-20261114-011353.jpeg",
+    "data": "2026-11-14T04:14:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este sábado (14) para Aparecida de Goiânia (GO) é de sol com algumas nuvens durante o dia. À noite o céu fica com muitas nuvens, mas não chove. As máximas são de 31ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com a",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-durante-o-dia-a-noite-o-ceu-fica-com-muitas-nuvens-mas-nao-chove.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YzK_ogLYPzPnu9fqUPueBaBxcVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/k/95K2TiSoKfOdPJVSr8tg/previsao-tempo-aparecida-de-goi-nia-20261114-011336.jpeg",
+    "data": "2026-11-14T04:13:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para este sábado (14) para Cuiabá (MT) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 37ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol, pancada",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-cuiaba-mt-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/n3682AeplKJN5IAjrrwPoQGkkk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/CeV6jrReATLd8MbmRfvA/previsao-tempo-cuiab-20261114-011319.jpeg",
+    "data": "2026-11-14T04:13:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para este sábado (14) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancada",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/W5Bfp2FdjbVzpSigO10IwNlUHc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/h/5dSS5VQq2Xg1MC5qoWKg/previsao-tempo-campo-grande-20261114-011303.jpeg",
+    "data": "2026-11-14T04:13:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este sábado (14) para Porto Alegre (RS) é de sol com algumas nuvens durante o dia. À noite o céu fica com muitas nuvens, mas não chove. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. N",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-durante-o-dia-a-noite-o-ceu-fica-com-muitas-nuvens-mas-nao-chove.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Tw9m07Vu6pIFxY_nmUG97RsG5Vc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/x/2vXliSSEisvMiCKisApg/previsao-tempo-porto-alegre-20261114-011248.jpeg",
+    "data": "2026-11-14T04:12:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este sábado (14) para Caxias do Sul (RS) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 28ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/txK-QYnb37ybtDyc6PSnX6JaLDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/6/mB6ztBQBGFG3Gt4oanYA/previsao-tempo-caxias-do-sul-20261114-011231.jpeg",
+    "data": "2026-11-14T04:12:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este sábado (14) para Joinville (SC) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 28ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período ",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UDN8YGj_B1z3kpb3KSzStd55cuY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/B/yVP2WtT8CvDYubIj134w/previsao-tempo-joinville-20261114-011216.jpeg",
+    "data": "2026-11-14T04:12:26.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
+    "resumo": "The UN says Israel could have prevented death and destruction caused by the storm in Gaza had it allowed sufficient aid.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T04:12:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): muitas nuvens o dia todo, com aberturas de sol",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para este sábado (14) para Florianópolis (SC) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 25ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com algumas nuvens",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-florianopolis-sc-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lNZLj2aZEEz87wffiBMQdCMnmYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/b/Lt3PmgTtqIUY7cfvlHiQ/previsao-tempo-florian-polis-20261114-011200.jpeg",
+    "data": "2026-11-14T04:12:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com aumento de nuvens ao longo do dia; à noite ocorrem pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para este sábado (14) para Maringá (PR) é de sol com aumento de nuvens ao longo do dia. À noite ocorrem pancadas de chuva. As máximas são de 32ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-maringa-pr-sol-com-aumento-de-nuvens-ao-longo-do-dia-a-noite-ocorrem-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YR13j_l4esN8QAGl9LZGfHbWF_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/C/ZE7XmZSIGuHO0nPlW5AA/previsao-tempo-maring-20261114-011144.jpeg",
+    "data": "2026-11-14T04:11:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para este sábado (14) para Londrina (PR) é de sol e muitas nuvens à tarde. À noite o céu ainda fica com muita nebulosidade, mas não chove. As máximas são de 32ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No perí",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-londrina-pr-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/O1Hzldjq-A5X3kNZ7vRiJJQyhP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/R/BS6OYbRGAd79Rpsn6fHw/previsao-tempo-londrina-20261114-011127.jpeg",
+    "data": "2026-11-14T04:11:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para este sábado (14) para Curitiba (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 28ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chu",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/14/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/PccT9MZuB2uIrS7pjWeZsl_le-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Z/qFD5Y1QzK7pT2aicPoVQ/previsao-tempo-curitiba-20261114-011110.jpeg",
+    "data": "2026-11-14T04:11:21.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+    "resumo": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
+    "link": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T04:03:49.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Even High-Flying Democrats Found Themselves Grounded in the Mile High City",
+    "resumo": "After a nationwide ground stop, several governors and the former secretary of transportation were among those stranded in a Denver hotel bar.",
+    "link": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html",
+    "imagem": "https://static01.nyt.com/images/2026/12/13/multimedia/13faa-groundstop-denver-democrats-jmvh/13faa-groundstop-denver-democrats-jmvh-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T04:03:03.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Ground Stop Scrambles Travel Plans for Sports Teams Across the Country",
@@ -54,112 +198,13 @@
     "data": "2026-11-14T03:06:59.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Você viu? Mulher compra imóvel e encontra corpo, macaco morto testa positivo para febre amarela e servidora demitida após 239 faltas",
-    "resumo": "Você Viu? Servidora demitida, macaco com febre amarela e corpo achado após um ano Olá! Confira o que foi destaque no g1 Triângulo nesta semana, com as notícias mais acessadas entre os dias 7 e 13 de novembro. ✅ Clique aqui para seguir o canal do g1 Triângulo no WhatsApp Mulher compra apartamento e encontra corpo marilene de fátima mulher ",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/14/voce-viu-mulher-compra-imovel-e-encontra-corpo-macaco-morto-testa-positivo-para-febre-amarela-e-servidora-demitida-apos-239-faltas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qHglU3mLl_RbmDo55hpVyNHn7Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/q/SFUJQEREGtVygRxBkzaw/voce-viu-1411.png",
-    "data": "2026-11-14T03:05:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Você viu? Bebê empelicado em parto de trigêmeos, casamento de idosos e tentativa de impedir demolição com palitos de dente",
-    "resumo": "Você Viu? Palitos em retroescavadeira, casamento de idosos e bebê que nasceu empelicado Olá! Entre as notícias que mais chamaram a atenção dos leitores do g1 Zona da Mata nesta semana estão o nascimento de um bebê empelicado durante um parto de trigêmeos, o casamento de idosos com mais de 70 anos e a prisão de um homem que tentou impedir ",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/14/voce-viu-bebe-empelicado-em-parto-de-trigemeos-casamento-de-idosos-e-tentativa-de-impedir-demolicao-com-palitos-de-dente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KYPXQDwDZh_0MX-zeFIHBVidvfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/Q/rBgbehQ02I9rzsSqrWRA/edicao-de-fotos-materias.png",
-    "data": "2026-11-14T03:05:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Macaé promove oficina sobre riscos climáticos e atualiza plano na saúde",
-    "resumo": "Profissionais participam de capacitação para atualizar o plano de contingência municipal Arquivo Secom A Secretaria Municipal de Saúde de Macaé, por meio da equipe intersetorial do Grupo de Trabalho da Vigilância em Saúde dos Riscos Associados aos Desastres (GT VigiDesastres), participou de uma oficina de simulação voltada à revisão e atu",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/14/macae-promove-oficina-sobre-riscos-climaticos-e-atualiza-plano-na-saude.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uA15Kif5jRjBag0Q2mXkgtpTCMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/Y/0rErr5TXiAbS7Vq1zLvQ/foto-1-eventos-climaticos.jpeg",
-    "data": "2026-11-14T03:03:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Você viu? Vaca persegue moto ao som de Britney Spears, ameaças contra Ana Elisa e fechamento da Gerdau em Divinópolis",
-    "resumo": "Você Viu? Caso Gerdau, ameaças a deputada Ana Elisa e perseguição de ‘vaca doida’ Olá! Entre as notícias que mais chamaram a atenção dos leitores do g1 Centro-Oeste nesta semana estão o vídeo que viralizou com uma vaca perseguindo um motociclista ao som de Britney Spears, as ameaças de morte, estupro e ataques racistas contra a deputada f",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/14/voce-viu-vaca-persegue-moto-ao-som-de-britney-spears-ameacas-contra-ana-elisa-e-fechamento-da-gerdau-em-divinopolis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PjlzlTYQ4P5QU0YlxNs_cLF5lp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/3/9511BWS8ustXBUjCHj5Q/edicao-de-fotos-materias-1-.png",
-    "data": "2026-11-14T03:02:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "L7nnon alinha samples de gravações de Cassiano, Claudette Soares e Tony Tornado no álbum 'De volta ao podium'",
-    "resumo": "L7nnon lança o álbum 'De volta ao podium' com 16 faixas em que usa samples de músicas e/ou gravações de artistas associados ao soul brasileiro Manoella Mello / TV Globo ♫ NOTÍCIA ♬ Em 1970, quando Claudette Soares (1935 – 2026) lançou o álbum “Claudette nº 3”, a cantora apresentou música inédita do então debutante Tim Maia (1942 – 1998), ",
-    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/14/l7nnon-alinha-samples-de-gravacoes-de-cassiano-claudette-soares-e-tony-tornado-no-album-de-volta-ao-podium.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RDvDaidBJQWySd59E7TiO_66c84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/dTOO9ASCmfeEvDgJt9vQ/l7nnon.jpg",
-    "data": "2026-11-14T03:02:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "‘Bola de fogo', 'cheiro de tinta' e evacuação às pressas: moradores relatam momentos de tensão após explosão em fábrica de Salto",
-    "resumo": "Moradores deixam casas após incêndio em fábrica atingir fiação O barulho de explosões, uma grande bola de fogo e o cheiro de tinta no ar marcaram o início da sexta-feira (13), em Salto (SP), após a grande explosão seguida de incêndio que atingiu a fábrica de produtos químicos Pyrozzar. Testemunhas que estavam nas proximidades relataram mo",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/bola-de-fogo-cheiro-de-tinta-e-evacuacao-as-pressas-moradores-relatam-momentos-de-tensao-apos-explosao-em-fabrica-de-salto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mbm07CIy_wwjJCzJAIyXR66MROU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/T/fUHxs3TzCIUkxwsfTGVQ/design-sem-nome-22-.png",
-    "data": "2026-11-14T03:00:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "El Niño e corredor de tornados: RS soma sete tornados no ano; entenda o que causa o fenômeno",
-    "resumo": "Temporais, tornados e enchentes: como o RS vive os efeitos de um El Niño histórico Sete tornados foram registrados no Rio Grande do Sul desde o início deste ano. Somente entre os dias 5 e 7 de novembro, a Defesa Civil estadual confirmou três ocorrências do fenômeno, duas delas no sábado, dia 7. A Região Sul como um todo tem enfrentado uma",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/14/rs-soma-sete-tornados-no-ano-entenda-o-que-causa-o-fenomeno.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YX5vXVIZtP7J0e5mmuUBR4UvYDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Q/Cz8BzASxOPCMGrcXtszg/g1-1200-x-675-px-2026-02-16t104649.511.png",
-    "data": "2026-11-14T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cavado favorece temporais no Sul neste sábado, e chuva forte avança pelo interior do Nordeste",
-    "resumo": "No Sul, o sábado deve começar com períodos de sol, mas as instabilidades devem aumentar ao longo do dia, principalmente a partir do oeste da região. Ronaldo Bernardi/ Grupo RBS Este fim de semana deve ser de calor e chuva em grande parte do Brasil. Neste sábado (14), a passagem de um cavado atmosférico deve favorecer temporais no Sul. No ",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/14/temporais-sul-sabado-chuva-forte-nordeste.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Sko9-8rAaS9DUlc_6Y-6N1Qf2uE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/j/i0Wx1jS2yb41PFmv1O7A/16374794-rdb-3159.jpg-28-09-2026-07.30.06.jpg",
-    "data": "2026-11-14T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O efeito cascata da suspensão de voos nos EUA: trens sobrecarregados, Brasil impactado e horas para normalizar fluxo",
-    "resumo": "Passageiros aguardam no Aeroporto Internacional Logan após a Administração Federal de Aviação dos EUA (FAA) emitir uma ordem nacional de suspensão de voos em solo \"devido a circunstâncias extraordinárias e razões de segurança\", na sequência de um relatório anterior da agência sobre graves problemas de comunicação no controle de tráfego aé",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg",
-    "data": "2026-11-14T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caos aéreo: 10 perguntas e respostas sobre a paralisação dos aeroportos nos Estados Unidos",
-    "resumo": "EUA suspendem decolagens de todos os aeroportos A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) suspendeu nesta sexta-feira (13) as decolagens em todos os aeroportos do país. A medida foi adotada por causa de uma falha nas comunicações dos centros de controle de tráfego aéreo. A restrição foi retirada quatr",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-10-perguntas-e-respostas-sobre-a-paralisacao-dos-aeroportos-nos-estados-unidos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4ycNpZKQemGOmr0q7ofEguwvp_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/l/Ej8rQ7Q5yp8JYMK0Vsng/2026-11-13t220020z-1726552431-rc29noaazduh-rtrmadp-3-usa-faa-ground-stop.jpg",
-    "data": "2026-11-14T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Após eleição de Lula, bancada do agro prioriza acesso ao crédito para produtores",
-    "resumo": "Depois de apoiar Flávio Bolsonaro (PL) na disputa à presidência, a Frente Parlamentar da Agropecuária (FPA) recalcula como irá atuar nos próximos quatro anos sob a presidência de Luiz Inácio Lula da Silva (PT). Um dos principais pontos para recalcular sua posição é quem irá assumir o Ministério da Agricultura e Pecuária no novo governo Lu",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/14/apos-eleicao-de-lula-bancada-do-agro-prioriza-acesso-ao-credito-para-produtores.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ktCnSw9K8dc3TD3kVh-fpUKV9Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/N/e/surWgoRiagfpN5Ulv2ag/texto2.jpeg",
-    "data": "2026-11-14T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula",
-    "resumo": "Mercado financeiro prevê juros de dois dígitos até 2030, ao longo dos dois mandatos de Lula Jornal Nacional/ Reprodução No início do terceiro mandato do presidente Luiz Inácio Lula da Silva, em 2023, o mercado financeiro projetava que a taxa básica de juros cairia para um dígito, abaixo de 10% ao ano, já em 2024. Quase quatro anos depois,",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/14/mercado-financeiro-preve-juros-de-dois-digitos-ate-2030-ao-longo-dos-dois-mandatos-de-lula.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Ubg1K0bB_He8wqM892c3ws0sOns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/ZCK9dMTVqgKZh8QCpQ5w/globo-canal-4-20261026-2000-frame-128002.jpeg",
-    "data": "2026-11-14T03:00:00.000Z"
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt&#039;s first kings",
+    "resumo": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed. The findings support a century-old theory that royal atte",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+    "imagem": null,
+    "data": "2026-11-14T02:59:05.000Z"
   },
   {
     "categoria": "Internacional",
@@ -180,19 +225,10 @@
     "data": "2026-11-14T02:24:24.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-    "resumo": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
-    "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T02:22:25.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "US aviation agency lifts nationwide ground stop affecting all air travel",
-    "resumo": "<p>Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identified</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer\">FAA grounds thousands of flights – live</a></p></li></ul><p",
+    "resumo": "<p>Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identified</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues\">Airport chaos continues after FAA lifts ground stop – live upda",
     "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
     "imagem": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fd2dbf21f21395c9bf79c41eeb755986",
     "data": "2026-11-14T02:15:53.000Z"
@@ -250,6 +286,15 @@
     "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
     "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
     "data": "2026-11-14T01:22:56.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Scientists capture electrons making seemingly impossible quantum jumps",
+    "resumo": "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability. The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+    "imagem": null,
+    "data": "2026-11-14T01:13:05.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -450,15 +495,6 @@
     "data": "2026-11-13T22:54:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "32 passengers taken to hospital after tanker hits river cruise boat in US",
-    "resumo": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T22:47:16.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "'Crypto King' Aiden Pleterski testifies he was beaten, tortured during alleged kidnapping",
@@ -531,15 +567,6 @@
     "data": "2026-11-13T22:18:32.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
-    "resumo": "US air regulators have reopened airspace hours after a ground stop halted flights nationwide.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T22:02:07.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Old tech blamed for the ground stop that caused flight chaos: &apos;It got overloaded&apos;",
@@ -583,15 +610,6 @@
     "link": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
     "imagem": "https://i.guim.co.uk/img/media/d24ecfe085b5748a596ec8152c77a991779dc686/572_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=2fa830b4b6a80cafec41c4f31bf8de1b",
     "data": "2026-11-13T21:34:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US flights resume after FAA lifts hours-long nationwide ground stop",
-    "resumo": "US officials say air control centres affected by &#039;communication issues&#039;, but no threat detected.",
-    "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-13T21:32:08.000Z"
   },
   {
     "categoria": "Opinião",
@@ -1330,23 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
     "data": "2026-11-13T03:57:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
-    "resumo": "<p>Pro-democracy activist <strong>Nathan Law </strong>and journalist <strong>Danny Vincent </strong>on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\">tif.questions@theguardian.com</a></p><p>He has been leading p",
-    "link": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
-    "imagem": "https://i.guim.co.uk/img/media/2f692a0889fecf071b874a4533743ccc5fa34564/409_0_3705_2964/master/3705.jpg?width=140&quality=85&auto=format&fit=max&s=352aaca4dea16d907e591e9bfc88a049",
-    "data": "2026-11-13T03:00:06.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Burnham says 'win-win' deal can be agreed between UK and EU",
-    "resumo": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
-    "data": "2026-11-13T01:17:58.000Z"
   }
 ]
