@@ -2,6 +2,114 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
+    "titulo": "Ex-Convict? Come Live With Memi and Scott.",
+    "resumo": "A couple in Oakland, Calif., has welcomed into their home 24 men recently released from prison sentences for violent crimes, part of a program to ease reintegration into society.",
+    "link": "https://www.nytimes.com/2026/11/14/us/ex-convicts-halfway-house-oakland.html",
+    "imagem": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-oakland-halfway-house-01-ltvp/24nat-oakland-halfway-house-01-ltvp-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T10:00:12.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Experts warn about risks of AI-generated content in child sexual abuse material",
+    "resumo": "Prince Edward Island RCMP say there has been a \"notable increase\" in child sex abuse material made using artificial intelligence across parts of the province. Online exploitation specialists say this surge in illegal AI-generated content could be growing the demand for real-world child abuse.",
+    "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-child-sexual-abuse-police-experts-9.7419753?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/0d680b3e-05aa-4c26-9bb7-fc827ff508f1,1761925963835/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
+    "data": "2026-11-14T10:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Computadores quânticos instalados na PB precisam de temperatura próxima ao zero absoluto para funcionar; veja outras curiosidades",
+    "resumo": "Computador quântico tem réplica em tamanho real em João Pessoa A Paraíba vai ter os primeiros computadores quânticos da América Latina, que serão instalados no Centro de Computação Quântica da Paraíba (Ciquanta), em João Pessoa, até dezembro. Os computadores têm uma série de diferenças em relação aos computadores clássicos, uma delas é qu",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/14/computadores-quanticos-instalados-na-pb-curiosidades.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YOWoaE2xYTvSAEP2Df7Z5pCk8qY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/E/ROuglASoCib5B0fnW3hg/computador-quantico.jpeg",
+    "data": "2026-11-14T09:49:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+    "resumo": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T09:43:54.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+    "resumo": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
+    "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T09:43:27.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+    "resumo": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T09:27:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Exposição em Berlim examina conexão entre colonialismo e nazismo",
+    "resumo": "Hitler chamou o Leste Europeu de \"Índia da Alemanha\". Continuidade da violência colonial para a ideologia nazista é tema de mostra, que aborda também o papel do passado colonial na cultura alemã da memória.",
+    "link": "https://www.dw.com/pt-br/exposição-em-berlim-examina-conexão-entre-colonialismo-e-nazismo/a-79922334?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-14T09:22:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motociclista abre caminho para ambulância no litoral de SP e cena viraliza: 'Só pensei em ajudar'",
+    "resumo": "Motociclista abre caminho para ambulância e ação solidária viraliza no litoral de SP Um motociclista ajudou a abrir caminho para uma ambulância que enfrentava muito trânsito em Santos, no litoral de São Paulo. A atitude foi gravada por uma câmera acoplada no veículo dele e viralizou nas redes sociais. Segundo ele, ação foi motivada por ex",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/14/motociclista-abre-caminho-para-ambulancia-no-litoral-de-sp-e-cena-viraliza-so-pensei-em-ajudar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/R3_eEUkNSFc9NgJyfUg6N9WN_pw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/z/z0hyCfRQWmbveKwpffGg/foto-tradicional.png",
+    "data": "2026-11-14T09:21:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Menino da Lei' tem gratuidade negada no TJ-SP após condenação de R$ 30 mil",
+    "resumo": "Influenciador compartilha vídeo de discussão com dono de imobiliária por estacionamento O Tribunal de Justiça de São Paulo (TJ-SP) negou um pedido de gratuidade da Justiça feito pelo influenciador Gabriel Piccolo, conhecido como 'Menino da Lei', que foi condenado a pagar R$ 30 mil ao dono de uma imobiliária em Praia Grande, no litoral de ",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/14/menino-da-lei-tem-gratuidade-negada-no-tj-sp-apos-condenacao-de-r-30-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xKMj6vbpAHWsjMWxXY4Qp37OP0I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/g/LVjSPAS2mLs4ks7zmQXg/g1-1097-.png",
+    "data": "2026-11-14T09:20:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "resumo": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+    "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T09:19:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher perde quase toda a visão devido ao diabetes e se reencontra no surfe adaptado: 'Liberdade'",
+    "resumo": "Com baixa visão, santista encontra em escola de surfe adaptadado um lugar de acolhimento A servidora pública Jenifer Pavani Ribeiro, de 45 anos, nunca imaginou que conseguiria surfar, mesmo quando ainda enxergava. Por conta de complicações da diabetes, ela ficou com apenas 5% da visão. A prática do surfe adaptado, por meio da Escola de Su",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/14/mulher-perde-quase-toda-a-visao-devido-ao-diabetes-e-se-reencontra-no-surfe-adaptado-liberdade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/b5bu5Iyg8fMsV6x-b_8rgzvobjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/r/pY0R05Q4Cw9PDEbfewEw/surfe-jenifer.jpg",
+    "data": "2026-11-14T09:19:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Bom Dia Sábado",
+    "resumo": "Assista ao Bom Dia Sábado",
+    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "imagem": null,
+    "data": "2026-11-14T09:11:53.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
     "titulo": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
     "resumo": "Residents in a one-mile radius of the plant were advised to evacuate after the device was located at an industrial site along the Illinois River.",
     "link": "https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html",
@@ -87,51 +195,6 @@
     "resumo": "Poste e fios de energia em Minas Gerais Gabriel Reis/g1 A Companhia Energética de Minas Gerais (Cemig) foi multada em R$ 333.665,77 por falhas recorrentes no fornecimento de energia elétrica em Frutal, no Triângulo Mineiro. Segundo decisão administrativa do Ministério Público de Minas Gerais (MPMG), por meio do Procon-MG, foram registrada",
     "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/14/companhia-de-energia-e-multada-em-r-300-mil-apos-registro-de-media-de-11-falhas-diarias-no-fornecimento-em-mg.ghtml",
     "imagem": "https://s2-g1.glbimg.com/gsk3YPm29Ms6j9sqzlk_6k4vPZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/L/C5jEBqRZeDu0cG8XeThA/design-sem-nome-4-.png",
-    "data": "2026-11-14T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Barragem de SE inaugurada para garantir água por 20 anos entra em nível de alerta com efeitos do El Niño",
-    "resumo": "Barragem do Poxim em nível de alerta Clécio Martins/Governo de Sergipe Inaugurada em maio de 2013, a Barragem do Rio Poxim-Açu, localizada no Povoado Timbó, em São Cristóvão, foi planejada para reforçar a segurança hídrica da região metropolitana de Aracaju por 20 anos. Mas, pouco mais de 13 anos após a inauguração, o reservatório chegou ",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/14/barragem-de-se-inaugurada-para-garantir-agua-por-20-anos-entra-em-nivel-de-alerta-com-efeitos-do-el-nino.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4YzKme0Kwu7EFcFIKcwztjOu30c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/D/zGF16yQ6yMtXRxpsje9A/crop-foto-45-.jpg",
-    "data": "2026-11-14T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Supermercado tentou constranger funcionária que denunciou assédio sexual, aponta juiz em Roraima",
-    "resumo": "Vítima era venezuelana e foi demitida após denunciar colega Tiago Ghizoni/ NSC/Arquivo A defesa do supermercado Super Lima, condenado pela Justiça do Trabalho a pagar R$ 47 mil a uma ex-funcionária demitida após denunciar assédio sexual e moral em Boa Vista, tentou constranger a trabalhadora durante o processo trabalhista, segundo avaliaç",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/14/supermercado-tentou-constranger-funcionaria-que-denunciou-assedio-sexual-aponta-juiz-em-roraima.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uX35oZkXg2Q3GCaAYHnaj9IrUw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/1/3/wr5OWbTxqAV4XqrxPzWw/tsg-10.jpg",
-    "data": "2026-11-14T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Predador recebia 'caixinha extra' para fazer segurança de traficantes do Rio após ter lutado na guerra da Ucrânia",
-    "resumo": "Luiz André dos Santos Souza, conhecido como Predador, fazia 'segurança' de traficantes no Rio Reprodução Luiz André dos Santos Souza, conhecido como Predador, recebia R$ 2 mil por mês para fazer a segurança de traficantes do Complexo da Maré, na Zona Norte do Rio, após retornar da guerra da Ucrânia, segundo investigação da polícia. Além d",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/14/predador-seguranca-de-traficantes-do-rio-guerra-da-ucrania.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7Q2B8m-60z3iUvHUlaiWeloeHOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/O/jd3JcZRhCCCNmHSFXdIQ/imagem-cortada-61-.jpg",
-    "data": "2026-11-14T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Defesa admite que influencer acusado de fingir ter câncer recebeu R$ 139 mil de namorado virtual, mas fala que é 'inocente'",
-    "resumo": "Geógrafo transferiu mais de R$ 139 mil para Felipe Heystee, segundo perícia particular do influencer. Defesa não explicou motivos dos repasses. Reprodução/Arquivo pessoal Uma perícia técnica particular apresentada à Justiça pela defesa do influenciador digital Luis Felipe de Oliveira, de 23 anos, conhecido como Felipe Heystee, admite que ",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/defesa-admite-que-influencer-acusado-de-fingir-ter-cancer-recebeu-r-139-mil-de-namorado-virtual-mas-fala-que-e-inocente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WDRczrzWHiYpazWPM0O4lZ-QGEY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/b/52i9RrSMAb2REJPIABew/fotojet-2026-11-13t183001.847.jpg",
-    "data": "2026-11-14T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mais de 5 mil 'passeios ostentação': empresa de BC chegou a vender experiência por R$ 3 mil",
-    "resumo": "Empresa que oferecia passeios em supercarros de luxo fecha em Balneário Camboriú Mais de 5 mil passeios em carros de luxo foram realizados em dois anos pela DriveXperience, empresa que oferecia experiências a bordo de veículos e encerrou as atividades em Balneário Camboriú, no Litoral Norte de Santa Catarina. O anúncio do encerramento foi",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/14/mais-5-mil-passeios-ostentacao-empresa-bc-chegou-vender-experiencia-r-3-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LKSGhF1B82fz9o6_dMmBGiyptgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/M/B4OCP7Tja98LnsjKFpzA/carros-empresa-de-balneario-camboriu-.png",
     "data": "2026-11-14T09:00:00.000Z"
   },
   {
@@ -271,48 +334,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "The ANC’s implosion was decades in the making",
-    "resumo": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T06:52:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-    "resumo": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China&#039;s Xi.",
-    "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T06:48:14.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Microsoft says services fully restored after day-long global outage",
     "resumo": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
     "data": "2026-11-14T06:42:27.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ukraine is running out of options, and Russia knows it",
-    "resumo": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T06:39:09.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-    "resumo": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T06:33:57.000Z"
   },
   {
     "categoria": "Opinião",
@@ -466,15 +493,6 @@
     "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-14T01:53:04.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-    "resumo": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
-    "link": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T01:22:56.000Z"
   },
   {
     "categoria": "Ciência",
@@ -745,15 +763,6 @@
     "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
     "imagem": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
     "data": "2026-11-13T21:13:59.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans",
-    "resumo": "A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over.",
-    "link": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e9b30f1e-f07c-44e6-9b23-738a8be34382,1794603966681/full/max/0/default.jpg?im=Crop%2Crect%3D%28288%2C0%2C5384%2C3028%29%3B",
-    "data": "2026-11-13T21:06:41.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1042,15 +1051,6 @@
     "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-13T16:17:11.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Sombra do impeachment volta à cena nos EUA após derrota eleitoral de Trump",
-    "resumo": "Nova maioria democrata no Congresso pode abrir caminho a processos de destituição contra membros do governo Trump e até contra o próprio presidente.",
-    "link": "https://www.dw.com/pt-br/sombra-do-impeachment-volta-à-cena-nos-eua-após-derrota-eleitoral-de-trump/a-79941835?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-13T16:09:00.000Z"
   },
   {
     "categoria": "Internacional",
