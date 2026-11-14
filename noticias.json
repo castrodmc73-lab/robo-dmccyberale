@@ -1,5 +1,185 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "resumo": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-14T20:41:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Após anos sob cuidados humanos, dois peixes-boi são levados ao Marajó para preparação de soltura na natureza",
+    "resumo": "Dois peixes-boi resgatados ainda filhotes, após anos sob cuidados humanos, passam por uma nova etapa de preparação para retornar à natureza, no município de Soure, na Ilha do Marajó, no Pará. Victor Maracá e Perpétua foram transferidos do Amapá para um recinto de aclimatação, onde o processo de readaptação antecede uma possível soltura, a",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/14/apos-anos-sob-cuidados-humanos-dois-peixes-boi-sao-levados-ao-marajo-para-preparacao-de-soltura-na-natureza.ghtml",
+    "imagem": null,
+    "data": "2026-11-14T20:38:09.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+    "resumo": "Residents in a one-mile radius of the plant can return to their homes after a device found at an industrial site along the Illinois River was rendered safe and no additional items were found.",
+    "link": "https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/14nat-peoria-evacuation-pftq/14nat-peoria-evacuation-pftq-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T20:37:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Materiais usados para falsificação de atestados médicos e receituários são apreendidos em Uberlândia",
+    "resumo": "Foram encontrados quatro atestados falsos Polícia Militar/Divulgação Quatro atestados médicos falsificados, dois carimbos, um notebook e três celulares foram apreendidos durante o cumprimento de mandados de busca e apreensão nesta sexta-feira (13), no bairro Jardim Brasília, em Uberlândia, no Triângulo Mineiro. Conforme a Polícia Civil, u",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/14/materiais-usados-para-falsificacao-de-atestados-medicos-e-receituarios-sao-apreendidos-em-uberlandia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/y2aKN5sXBrUJOk3h1H0vqBTnlKs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/I/LZYnH5R16ijVEHPIA3Nw/rascunhos-8-.jpg",
+    "data": "2026-11-14T20:36:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ribeirão das Neves, na Grande BH, tem 11 casos de sarna humana em duas escolas municipais",
+    "resumo": "Duas escolas de Ribeirão das Neves, na Região Metropolitana de Belo Horizonte, registraram 11 casos de sarna humana (escarbiose) e precisaram cancelar as aulas por dois dias, segundo informou neste sábado (14) a Secretaria Municipal de Saúde do município. \"Como medida preventiva, as atividades foram suspensas por dois dias exclusivamente ",
+    "link": "https://g1.globo.com/mg/minas-gerais/2026/ribeirao-das-neves-na-grande-bh-tem-11-casos-de-sarna-humana-em-duas-escolas-municipais.ghtml",
+    "imagem": null,
+    "data": "2026-11-14T20:33:28.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Agropecuária aposta em solo compartilhado com painéis solares",
+    "resumo": "Nova estratégia agrivoltaica pode beneficiar culturas e produção de energia renovável. Mas adoção ainda é lenta e nem sempre funciona.",
+    "link": "https://www.dw.com/pt-br/agropecuária-aposta-em-solo-compartilhado-com-painéis-solares/a-79950021?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-14T20:31:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Médico preso por agredir namorada em Fortaleza é acusado por ex de introduzir controle remoto em sua boca",
+    "resumo": "Negociada rendição de médico após agressões à namorada O médico José Adriano Bispo Cavalcante, de 38 anos, preso no último domingo (8) por agredir a namorada em Fortaleza, já responde a um processo por violência doméstica contra uma ex-namorada, em 2021. Segundo o processo, ao qual o g1 teve acesso, ele é acusado de agressões físicas e vi",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/14/medico-preso-por-agredir-namorada-em-fortaleza-e-acusado-por-ex-de-introduzir-controle-remoto-em-sua-boca.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eGrTzs4d88pFBeZDGkt9d7A1kWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/v/mB8OY1R3iFn4BvMyNgqg/medico.jpg",
+    "data": "2026-11-14T20:29:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudantes da rede estadual do AM terão tempo de aulas reduzido após decisão judicial",
+    "resumo": "Alunos em sala de aula no Amazonas Divulgação/Seduc As aulas das escolas estaduais de Manaus que oferecem Ensino Fundamental dos anos finais e Ensino Médio nos turnos matutino e vespertino passarão a ter duração de 45 minutos a partir da próxima segunda-feira (16). A medida foi comunicada na sexta-feira (13), por meio de um memorando assi",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/14/estudantes-da-rede-estadual-do-am-terao-tempo-de-aulas-reduzido-apos-decisao-judicial.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NOPXCb1LdgAvkpW9J6I0NCn7xKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/c/6cZDY1TRKl5ncxLUiVuQ/educacao-enem-2025-foto-euzivaldo-queiroz-1536x1023.jpeg",
+    "data": "2026-11-14T20:27:57.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Hosting Ex-Convicts at Their Oakland Home Has Largely Gone Off Without a Hitch",
+    "resumo": "A husband and wife in Oakland, Calif., has welcomed into their home 24 men recently released from prison sentences for crimes like murder and robbery, part of a program to ease reintegration into society.",
+    "link": "https://www.nytimes.com/2026/11/14/us/ex-convicts-halfway-house-oakland.html",
+    "imagem": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-oakland-halfway-house-01-ltvp/24nat-oakland-halfway-house-01-ltvp-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-14T20:23:41.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+    "resumo": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
+    "data": "2026-11-14T20:23:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Caso Elyne: Glória Perez, atriz Leona Cavalli e família cobram justiça com responsabilização dos envolvidos",
+    "resumo": "Escritora Glória Perez, a atriz Leona Cavalli e familiares cobraram justiça pelo assassinato da médica Arquivo pessoal A morte da médica Elyne de Assis Nogueira, de 39 anos, assassinada a tiros em Brasiléia, no interior do Acre, tem provocado cobranças por justiça dentro e fora do estado. Na sexta-feira (13), a escritora acreana Glória Pe",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/14/caso-elyne-gloria-perez-atriz-leona-cavalli-e-familia-cobram-justica-com-responsabilizacao-dos-envolvidos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wGBNMfp7Lr-szNsUOhWQg2tvvEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/Y/AniZVSRGOgIcEMDDzS6Q/midia-de-distribuicao-g1-2026-11-13t165544.902.jpg",
+    "data": "2026-11-14T20:22:34.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+    "resumo": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
+    "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T20:22:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motociclista fica ferido e moto para debaixo de carreta após acidente em Boa Vista",
+    "resumo": "Acidente aconteceu no bairro São Bento Arquivo pessoal Um motociclista, de 33 anos, ficou ferido após bater na traseira de uma carreta e parar debaixo do veículo na tarde deste sábado (14), no cruzamento das avenidas Brasil e Capitão Clóvis, no bairro São Bento, em Boa Vista. A vítima fraturou a perna esquerda e teve arranhões pelo corpo.",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/14/motociclista-fica-ferido-e-moto-para-debaixo-de-carreta-apos-acidente-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TDCC9xffVh6DZtCu6HzJ1s7O27k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/k/NdoaVxR2evSkvTIQYnaw/caminhao.jpg",
+    "data": "2026-11-14T20:20:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente de 13 anos é encontrada desacordada após suspeita de estupro em Santarém; suspeito alega que bebeu e não lembra de nada",
+    "resumo": "Adolescente foi encontrada desacordada após suspeita de estupro em Santarém Redes Sociais Uma adolescente de 13 anos foi encontrada desacordada e sem as roupas da parte inferior do corpo na manhã deste sábado (14), no bairro São Cristóvão, em Santarém, no oeste do Pará, após uma suspeita de estupro. Um homem apontado como autor do crime, ",
+    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/14/adolescente-de-13-anos-e-encontrada-desacordada-apos-suspeita-de-estupro-em-santarem-suspeito-alega-que-bebeu-e-nao-lembra-de-nada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8Xa6yXyICajZx9cI2-X5tXi9vJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Q/mCOnciRWeGHIjr6dhBGw/whatsapp-image-2026-11-14-at-17.12.58.jpeg",
+    "data": "2026-11-14T20:18:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem morre com indícios de afogamento em Camaçari",
+    "resumo": "26ª Delegacia Territorial de Vila de Abrantes, em Camaçari Divulgação Um homem de 40 anos morreu neste sábado (14), em Barra do Jacuípe, distrito turístico de Camaçari, na Região Metropolitana de Salvador (RMS). De acordo com a Polícia Civil, há indícios de afogamento. Ele foi identificado como Luiz Fernando dos Santos Santana. O óbito fo",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/14/homem-morre-com-indicios-de-afogamento-em-camacari.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yRPg8KMdbkylm1SLKUV46Gc1E7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/P/mH7ALERyW8nZdz8hzcEQ/whatsapp-image-2026-04-29-at-11.45.45.jpg",
+    "data": "2026-11-14T20:18:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mangal das Garças tem programação gratuita com aves de rapina e oficina de carimbos, em Belém",
+    "resumo": "Atividades começam às 9h30, em alusão ao Dia Internacional da Falcoaria, e incluem ações de educação ambiental para crianças e visitantes. Agência Pará O Parque Zoobotânico Mangal das Garças, em Belém, tem uma programação gratuita neste domingo (15), a partir das 9h30, em alusão ao Dia Internacional da Falcoaria. As atividades incluem um ",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/14/mangal-das-garcas-tem-programacao-gratuita-com-aves-de-rapina-e-oficina-de-carimbos-em-belem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/l0P0avREcW8wI8PNOjV8KcC8sPY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/P/kGq5dMTUSA6BUBo9MaDw/falcao.jpg",
+    "data": "2026-11-14T20:15:23.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "India’s Assam state demolishes homes of 132 Muslim families",
+    "resumo": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T20:14:10.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Bomb found near ethanol plant in central Illinois forces evacuations",
+    "resumo": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating.",
+    "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-153781",
+    "data": "2026-11-14T20:12:34.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "‘Democrat’ in Alaska’s House Race Is Doing Time in a New York Prison",
+    "resumo": "While Republicans accuse Democrats of dirty tricks in the ongoing Alaska Senate race, the lone House contest in the state has the hallmarks of similar “ballot stacking” shenanigans.",
+    "link": "https://www.nytimes.com/2026/11/14/us/elections/alaska-house-race-felon-eric-hafner.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14nat-alaska-ballot-1-fchk/14nat-alaska-ballot-1-fchk-mediumSquareAt3X.jpg",
+    "data": "2026-11-14T20:10:01.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "New Orleans port sues for control of China-linked tanker that crashed into cruise ship",
+    "resumo": "Just hours after a tanker in New Orleans lost its steering and slammed into a docked river cruise boat, the city's port sued to make sure federal investigators can seize the vessel that is owned by a subsidiary of a Chinese company.",
+    "link": "https://www.cbc.ca/news/world/new-orleans-tanker-cruise-ship-chinese-ownership-sue-9.7422329?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/f0a178cd-f339-4145-8788-b4743c6ce0d1,1794685498691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C62%2C2882%2C1621%29%3B",
+    "data": "2026-11-14T20:08:07.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Acusados de matar segurança são absolvidos pela 2ª vez no litoral de SP; entenda",
@@ -18,24 +198,6 @@
     "data": "2026-11-14T20:00:11.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Briga familiar termina com casa em chamas e prisão de procurado pela Justiça em Sorocaba",
-    "resumo": "Casa é incendiada durante briga familiar em Sorocaba Polícia Militar / Divulgação Uma mulher e um homem foram presos na madrugada deste sábado (14), em Sorocaba (SP), por estarem envolvidos em um incêndio criminoso a uma residência no bairro Vila Espírito Santo. De acordo com a Polícia Militar, o fogo começou após uma discussão familiar e",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/briga-familiar-termina-com-casa-em-chamas-e-prisao-de-procurado-pela-justica-em-sorocaba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Shx1Ung4q8AqwAztxjXwBY7AHhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/5/BZBN0sRbySkRorx4i2NA/14589804-2026-11-14t134047.175.png",
-    "data": "2026-11-14T19:59:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
-    "resumo": "Ministro Luiz Fux durante julgamento no Supremo Luiz Silveira/STF O ministro Luiz Fux fez um destaque no julgamento sobre a transição da escala 6x1 para a 5x2 e levou o processo para o plenário físico do Supremo Tribunal Federal (STF). Ainda não há data para a retomada do caso, já que o presidente da Corte, ministro Edson Fachin, precisar",
-    "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/cv-v4huwfb5SXNPLukdGoVgQePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/B/3r0SHeSs20HqYr8uoHdA/54875467915-3c8f40efd4-k.jpg",
-    "data": "2026-11-14T19:55:35.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Can being ‘non-Western’ cost you your home in Denmark?",
@@ -52,24 +214,6 @@
     "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-14T19:47:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "STJ manda prender advogado do TO suspeito de negociar decisões judiciais",
-    "resumo": "STJ manda prender advogado do TO suspeito de negociar decisões judiciais Policiais federais da Delegacia de Repressão à Corrupção e a Crimes Financeiros do Tocantins prenderam o advogado Fábio Bezerra de Melo Pereira, nesta sexta-feira (13), em Palmas. A TV Anhanguera apurou que a decisão de prisão preventiva é do ministro Og Fernandes, d",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/14/stj-manda-prender-advogado-do-to-suspeito-de-negociar-decisoes-judiciais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/fpfBck_Lyr3xDJ2943i3gCyiawI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/q/OXUwdNRPKWbfwZX2XRzA/foto-e-montagem-vertical.png",
-    "data": "2026-11-14T19:47:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Moradores do AM fecham casas e usam toalhas molhadas para tentar barrar fumaça de queimadas",
-    "resumo": "Em Parintins, moradores tentam impedir que fumaça entre nas casas A fumaça provocada por incêndios florestais tem alterado a rotina de moradores de Parintins e demais municípios da região. Para tentar reduzir os efeitos das micropartículas poluidoras altamente nocivas, famílias mantêm as casas fechadas e recorrem a alternativas como umidi",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/14/moradores-do-am-fecham-casas-e-usam-toalhas-molhadas-para-tentar-barrar-fumaca-de-queimadas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-Kh_hofBGByrpbYyv80Oq3hmXrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/pO26mGRUmiBCoelKdMYg/g1-saude-pin-toalha-fumaca.jpg",
-    "data": "2026-11-14T19:46:48.000Z"
   },
   {
     "categoria": "Internacional",
@@ -99,60 +243,6 @@
     "data": "2026-11-14T19:46:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia apreende meia tonelada de drogas após perseguição em RO",
-    "resumo": "Polícia apreende meia tonelada de drogas após perseguição em RO; veja vídeo Duas pessoas foram presas e dois adolescentes apreendidos em flagrante, na sexta-feira (13), após serem encontrados transportando cerca de meia tonelada de maconha. A abordagem ocorreu depois de uma perseguição na BR-425, em Nova Mamoré (RO). Segundo a Polícia Civ",
-    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/14/policia-apreende-meia-tonelada-de-drogas-apos-perseguicao-em-ro-veja-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WT7vJFkpS1-vwHim6K8gpzdLt8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/b/5DICwAS1S8ZaAYNCJ6OA/g1-ro-2026-1-.jpg",
-    "data": "2026-11-14T19:45:32.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-    "resumo": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
-    "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T19:45:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Acidente entre dois caminhões e uma moto deixa um morto na BR-101 em Sergipe",
-    "resumo": "Acidente entre dois caminhões e uma moto deixa uma pessoa morta na BR-101 em Umbaúba Arquivo Pessoal Um motociclista morreu em um engavetamento registrado neste sábado (14), no Km186 da BR-101, no município de Umbaúba. A informação foi confirmada pela Polícia Rodoviária Federal (PRF). Segundo a PRF, a colisão envolveu dois caminhões e uma",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/14/acidente-entre-dois-caminhoes-e-uma-moto-deixa-uma-pessoa-morta-na-br-101-em-sergipe.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/fApSG94wRw2HxClDVyHhT0y25S0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/M/GGSMKwThuoAvy8uZyz4g/acidente.jpg",
-    "data": "2026-11-14T19:44:18.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Hosting Ex-Convicts at Their Oakland Home Has Largely Gone Off Without a Hitch",
-    "resumo": "A husband and wife in Oakland, Calif., has welcomed into their home 24 men recently released from prison sentences for crimes like murder and robbery, part of a program to ease reintegration into society.",
-    "link": "https://www.nytimes.com/2026/11/14/us/ex-convicts-halfway-house-oakland.html",
-    "imagem": "https://static01.nyt.com/images/2026/10/24/multimedia/24nat-oakland-halfway-house-01-ltvp/24nat-oakland-halfway-house-01-ltvp-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-14T19:42:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motociclista morre ao tentar ajeitar capacete e bater contra caminhão em grave acidente no interior de SP",
-    "resumo": "Motociclista morre ao tentar ajeitar capacete e sofrer acidente na SP-215 em Casa Branca Um motociclista morreu após bater de frente com um caminhão na manhã deste sábado (14), no km 54 da Rodovia Vicente Botta (SP-215), em Casa Branca (SP). Segundo relatos de uma testemunha à concessionária que administra o trecho, o acidente aconteceu d",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/14/motociclista-morre-ao-tentar-ajeitar-capacete-e-bater-contra-caminhao-em-grave-acidente-no-interior-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ZKjhIsIF83yVPByV736sMLWagoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/G/HoDYMSTm6Z8j6IUZD8pg/89508f84-ff9d-48e1-9539-78ad89fb36fa.jpg",
-    "data": "2026-11-14T19:36:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Médico pode ser responsabilizado por usar energia de unidade de saúde para carregar carro, diz advogado",
-    "resumo": "Médico usa tomada de unidade de saúde para recarregar carro elétrico em MG A utilização da energia elétrica de uma Unidade Básica de Saúde (UBS) para carregar o carro particular de um médico pode configurar uso irregular de recurso público e resultar em responsabilização administrativa do servidor. A avaliação é do advogado especialista e",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/14/medico-pode-ser-responsabilizado-por-usar-energia-de-unidade-de-saude-para-carregar-carro-diz-advogado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nl0vqZtkfHBFinvF3f8nrYJuzCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/q/kMj2VdTaiCROJtwLwLew/sem-titulo.jpg",
-    "data": "2026-11-14T19:30:53.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Tens of thousands march in latest Portugal housing protests",
@@ -160,33 +250,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-14T19:27:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inauguração da Havan tem multidão na porta, vidro quebrado e até 'disputa' por edredom em Boa Vista",
-    "resumo": "Inauguração da Havan tem multidão, vidro quebrado e até 'disputa' por edredom em Boa Vista A inauguração da 200ª loja da Havan atraiu uma multidão na manhã deste sábado (14), em Boa Vista. Clientes aguardaram do lado de fora desde as primeiras horas do dia e tomaram conta do estabelecimento assim que a entrada foi liberada. Vídeos mostram",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/14/inauguracao-da-havan-tem-multidao-na-porta-vidro-quebrado-e-ate-disputa-por-edredom-em-boa-vista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/h07wz2xY7qbhgUgc2iL2siPg0Nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/S/XrFbBtRsaBqMnUdx3btQ/inaugurahavan.png",
-    "data": "2026-11-14T19:26:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vôlei aos 79, tênis de mesa aos 83: idosos encontram no esporte motivação para continuar ativos e disputam os Jogos da Melhor Idade",
-    "resumo": "Com atletas de 35 cidades, Monte Alto, SP, recebe pela 1ª vez os Jogos da Melhor Idade Aos 83 anos, o aposentado João Henrique Rebelato não pensa em abandonar as competições esportivas. Ex-nadador e jogador de vôlei, ele encontrou no tênis de mesa uma maneira de continuar fazendo o que gosta e manter a rotina ativa. Representando Bebedour",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/14/volei-aos-79-tenis-de-mesa-aos-83-idosos-encontram-no-esporte-motivacao-para-continuar-ativos-e-disputam-os-jogos-da-melhor-idade.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9yLj1RXnlhXAsNi-6lgnqAyuScY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/h/fAWIWJQeasLNMyUCg3ig/molduras-g1-rp-24-.png",
-    "data": "2026-11-14T19:25:20.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-    "resumo": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-14T19:21:10.000Z"
   },
   {
     "categoria": "Internacional",
@@ -351,15 +414,6 @@
     "data": "2026-11-14T18:02:53.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Margaret Atwood joins other bird lovers to fight against a proposed 600-foot tower on Pelee Island",
-    "resumo": "Atwood called the location, which is one road over from the new Atwood-Gibson Bird Centre, \"one of the stupidest places on the planet\" to put a tower.",
-    "link": "https://www.cbc.ca/news/canada/windsor/fight-against-proposed-600-foot-tower-pelee-island-9.7421940?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.4724856,1586874959000/full/max/0/default.jpg?im=Crop%2Crect%3D%28152%2C61%2C736%2C414%29%3B",
-    "data": "2026-11-14T18:02:13.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -493,15 +547,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-14T16:16:15.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-    "resumo": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T16:13:43.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -812,15 +857,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "‘Democrat’ in Alaska’s House Race Is Doing Time in a New York Prison",
-    "resumo": "While Republicans accuse Democrats of dirty tricks in the ongoing Alaska Senate race, the lone House contest in the state has the hallmarks of similar “ballot stacking” shenanigans.",
-    "link": "https://www.nytimes.com/2026/11/14/us/elections/alaska-house-race-felon-eric-hafner.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14nat-alaska-ballot-1-fchk/14nat-alaska-ballot-1-fchk-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T10:02:13.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
     "resumo": "The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.",
     "link": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
@@ -880,15 +916,6 @@
     "link": "https://www.dw.com/pt-br/exposição-em-berlim-examina-conexão-entre-colonialismo-e-nazismo/a-79922334?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-14T09:22:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
-    "resumo": "Residents in a one-mile radius of the plant were advised to evacuate after the device was located at an industrial site along the Illinois River.",
-    "link": "https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14nat-peoria-evacuation-pftq/14nat-peoria-evacuation-pftq-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T09:10:40.000Z"
   },
   {
     "categoria": "Canadá",
@@ -1009,15 +1036,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-    "resumo": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-    "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-    "data": "2026-11-13T23:40:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Paraguai: ex-presidente é acusado de associação criminosa",
     "resumo": "Ministério Público também acusa Santiago Peña de apropriação indébita e administração em benefício próprio, além de lavagem de dinheiro, em investigação sobre a intervenção no escândalo do Ueno Bank.",
@@ -1033,15 +1051,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
     "data": "2026-11-13T23:00:31.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-    "resumo": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
-    "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6040418",
-    "data": "2026-11-13T22:36:46.000Z"
   },
   {
     "categoria": "Canadá",
@@ -1114,15 +1123,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
     "data": "2026-11-13T19:53:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "A bolha do setor de IA está próxima de estourar?",
-    "resumo": "Abertura de capital da Anthropic e forte onda de liquidações de ações de empresas de inteligência artificial alimentam dúvidas sobre a saúde do setor. Mas há quem ainda veja motivos para euforia.",
-    "link": "https://www.dw.com/pt-br/a-bolha-do-setor-de-ia-está-próxima-de-estourar/a-79944193?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-13T19:52:00.000Z"
   },
   {
     "categoria": "Internacional",
