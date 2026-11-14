@@ -1,5 +1,176 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "What we know about the ground stop and what to do if you're affected",
+    "resumo": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-14T14:20:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Second catch attempt for SpaceX Starship rocket",
+    "resumo": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd7/live/f933dc10-e035-11f1-9ca9-b3b288fceb81.jpg",
+    "data": "2026-11-14T14:18:41.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+    "resumo": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one [&#8230;]",
+    "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-14T14:18:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "EUA suspendem todas as decolagens de aeroportos do país",
+    "resumo": "Governo americano diz que \"levará tempo\" para que a situação volte à normalidade. Quase 6 mil voos foram cancelados. Esta foi somente a segunda paralisação desde o 11 de setembro.",
+    "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-14T14:18:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Círio Fluvial de Nossa Senhora da Conceição reúne devotos no Rio Tapajós neste domingo; veja como participar",
+    "resumo": "Círio Fluvial de Nossa Senhora da Conceição Kamila Andrade/g1 Devotos de Nossa Senhora da Conceição se reúnem neste domingo (15) para a 4ª edição do Círio Fluvial, em Santarém, no oeste do Pará. A procissão náutica pelas águas do Rio Tapajós começa às 9h, com saída do Terminal Hidroviário Joaquim da Costa Pereira. ✅ Siga o canal g1 Santar",
+    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/14/cirio-fluvial-de-nossa-senhora-da-conceicao-reune-devotos-no-rio-tapajos-neste-domingo-veja-como-participar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/31GA6HOCxsbmo1EU3eQOkAMlcOM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/6/i/BVniR8TaSTlgrupnPSaA/photo1699216070.jpeg",
+    "data": "2026-11-14T14:17:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Marido de funcionária da Kalunga é preso após ataque a tiros; polícia aponta ciúmes como motivação",
+    "resumo": "Vídeo mostra atentado a tiros contra funcionários da Kalunga no litoral de SP Um homem, de 33 anos, foi preso suspeito de atirar em funcionários de uma papelaria em Santos, no litoral de São Paulo. De acordo com a Polícia Civil, ele é marido de uma colaboradora do estabelecimento e cometeu o atentado por ciúmes. O crime ocorreu na noite d",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/14/marido-de-funcionaria-da-kalunga-e-preso-apos-ataque-a-tiros-policia-aponta-ciumes-como-motivacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LKS00RBwOe9pjE_2tsq4eGM4Ano=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/u/vHHoLvRVynFurMSTUusQ/arma-kalunga-1-.jpg",
+    "data": "2026-11-14T14:17:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Em retorno à cidade onde foi bispo, papa Leão XIV comanda rito de coroação da Virgem Imaculada no Peru",
+    "resumo": "Papa coroa Virgem Imaculada em Chiclayo O Papa Leão realiza o rito de coroação da Virgem Imaculada na Catedral de Santa Maria, durante seu retorno a Chiclayo — onde serviu como bispo de 2015 a 2023 —, como parte de sua viagem de 12 dias pela América do Sul, em Chiclayo, Peru Yara Nardi/Reuters O papa Leão XIV comandou nesta sexta-feira (1",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/14/em-retorno-a-cidade-onde-foi-bispo-papa-leao-xiv-comanda-rito-de-coroacao-da-virgem-imaculada-no-peru.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6vCozjlJVIrcNa74xoheOSuzXn8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Y/op2nrDR2afMHN3MogBlQ/2026-11-14t134335z-1165325628-rc2pnoaru2wn-rtrmadp-3-pope-latam-peru.jpg",
+    "data": "2026-11-14T14:16:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Incêndio destrói loja de acessórios para veículos em Araçatuba; vídeo",
+    "resumo": "Incêndio destrói loja de acessórios para veículos em Araçatuba Um incêndio destruiu uma loja de acessórios para veículos na manhã deste sábado (14) em Araçatuba, no interior de São Paulo. Segundo apurado pela TV TEM, a suspeita é de que o fogo tenha começado na noite de sexta-feira (13). A equipe do Corpo de Bombeiros foi acionada e conte",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/14/incendio-destroi-loja-de-acessorios-para-veiculos-em-aracatuba-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lUu9XR38PPLUUOJaCqCFyCKDkZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/e/7Xu9vJQge2Z8CSEZK34g/design-sem-nome-2026-11-14t110921.368.jpg",
+    "data": "2026-11-14T14:16:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pré-Caju: Xanddy Harmonia, Bell Marques, Durval Lelys e mais atrações comandam a festa neste sábado",
+    "resumo": "Pré-Caju 2026: Xanddy Harmonia, Bell Marques, Durval Lelys e mais atrações comandam blocos neste sábado Montagem/g1 Bell Marques, Durval Lelys, Oh Polêmico e outras atrações comandam os blocos neste sábado (14), durante a edição do Pré-Caju 2026. A programação também conta atrações musicais no Camarote Aju. ✅ Clique aqui para seguir o can",
+    "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/14/pre-caju-bell-marques-durval-lelys-xanddy-harmonia-e-mais-atracoes-comandam-a-festa-neste-sabado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vbBtXqjbRmcbgCWEJvmFJ58exxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/Z/rEo7tsRBuSBEX836ysHw/whatsapp-image-2026-11-13-at-17.35.49-1-.jpeg",
+    "data": "2026-11-14T14:14:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Nove meses depois das chuvas, Morro do Cristo começa a receber obras de contenção em Juiz de Fora",
+    "resumo": "Obras de contenção no Morro do Cristo TV Integração/Reprodução Nove meses após as chuvas de fevereiro, que deixaram 66 mortos e Juiz de Fora em estado de calamidade, foram iniciadas as obras de contenção no Morro do Cristo. Os trabalhos começaram na sexta-feira (13), com intervenções na parte superior do ponto turístico. Desde fevereiro, ",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/14/nove-meses-depois-das-chuvas-morro-do-cristo-comeca-a-receber-obras-de-contencao-em-juiz-de-fora.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/q9DZq0m2bv1a8-2CI195cdSi18o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/M/MEWhRdQdGlcAtZvJVMkw/whatsapp-image-2026-11-14-at-11.09.14.jpeg",
+    "data": "2026-11-14T14:14:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Peça se solta de caminhão, atinge carro e mata motorista na BR-277 no Paraná",
+    "resumo": "Peça se solta de caminhão, atinge carro e mata motorista na BR-277 no Paraná PRF Um motorista morreu após uma peça se soltar de um caminhão e atingir o carro em que ele estava, na BR-277, em Céu Azul, no oeste do Paraná. Um passageiro ficou ferido. O acidente aconteceu na tarde de sexta-feira (13), no km 626 da rodovia, segundo a Polícia ",
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/14/peca-se-solta-de-caminhao-atinge-carro-e-mata-motorista-na-br-277-no-parana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CDk991QVYgjvmpRVp2u_WbmXR0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/7/Jgs562QPK19yV3kqLe6Q/fundo-vermelho-g1.png",
+    "data": "2026-11-14T14:11:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motociclista morre após colidir em caminhão na BR-424, em Caetés",
+    "resumo": "Motociclista morre após colisão com caminhão na BR-424 em Caetés PRF : Um homem morreu após uma colisão envolvendo uma moto e um caminhão na BR-424, em Caetés, no Agreste de Pernambuco. A vítima foi identificada como Audálio Bento da Silva, de 71 anos. O caso foi registrado na noite da sexta-feira (13). De acordo com a Polícia Rodoviária ",
+    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/14/motociclista-morre-apos-colidir-em-caminhao-na-br-424-em-caetes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nhwnMiuAd-ojYhE0zqM_W-qm-tI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/o/qXQxv8Rieu4SUdfPB8IQ/whatsapp-image-2026-11-14-at-09.09.18.jpeg",
+    "data": "2026-11-14T14:08:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Esporotricose: prefeitura orienta onde buscar atendimento após aumento de casos; saiba como prevenir",
+    "resumo": "Cidade do RS combate esporotricose após aumento de casos em humanos e em gatos A prefeitura de Guaíba, na Região Metropolitana de Porto Alegre, orienta que moradores com sintomas de esporotricose procurem o Hospital Nelson Cornett. A recomendação foi divulgada em meio ao aumento de casos da doença, que pode ser prevenida com cuidados no c",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/14/prevencao-esporotricose-guaiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6HO-xU-gaYbFZxOwwgjt_bUEtkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/E/wGBjSBQ8O22Hm2hPnZ6Q/videoframe-5409.png",
+    "data": "2026-11-14T14:07:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Papai Noel dos Correios: veja como adotar uma cartinha no Sul de MG",
+    "resumo": "Papai Noel dos Correios recebe mais de mil cartinhas de crianças em Poços de Caldas A campanha Papai Noel dos Correios 2026 começou nas cidades do Sul de Minas. A ação tem o objetivo de incentivar a adoção de cartinhas para presentear crianças neste Natal. Veja abaixo como participar. 📲 Siga a página do g1 Sul de Minas no Instagram Os in",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/papai-noel-dos-correios-veja-como-adotar-uma-cartinha-no-sul-de-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Jnb3pd5TWQOh8G6aLOQal_GS-2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/p/opecHtRLAA5dnWZAARMQ/g1-14-.jpg",
+    "data": "2026-11-14T14:06:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Apontado como chefe de facção, jovem morre com adolescente em confronto com a PM em MS",
+    "resumo": "Material apreendido na operação PMMS Um jovem de 20 anos, apontado como chefe de uma facção criminosa em Costa Rica (MS), e um adolescente de 17 anos, suspeito de envolvimento em um homicídio em Três Lagoas, morreram após serem baleados pela Polícia Militar na noite de sexta-feira (13). Os dois estavam em uma casa usada como esconderijo d",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/14/apontado-como-chefe-de-faccao-jovem-morre-com-adolescente-em-confronto-com-a-pm-em-ms.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LFgMfAg03MB5CIzea42swlPWdxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/3/Jkj7kyR4edAJLun4PNJw/cabo-6-.png",
+    "data": "2026-11-14T14:05:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: confira os destaques do Bom Dia Sábado, 14 de novembro",
+    "resumo": "Confira os vídeos do programa.",
+    "link": "https://g1.globo.com/se/sergipe/edicao/2026/11/14/videos-confira-os-destaques-do-bom-dia-sabado-14-de-novembro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/k6i1zzZKZb1EmffAC2tgvJQzIlA=/s01.video.glbimg.com/deo/vi/40/79/15187940",
+    "data": "2026-11-14T14:03:55.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+    "resumo": "<p>Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route</p><p>In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans nee",
+    "link": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+    "imagem": "https://i.guim.co.uk/img/media/fd3cab3eb7b2ce66614e6f1cb34d1a8ad00a14b4/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=df464b90a4cb85c1f1f4fcd35590fce4",
+    "data": "2026-11-14T14:00:46.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+    "resumo": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. [&#8230;]",
+    "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-14T14:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Young musicians connect a community across the Line of Control",
+    "resumo": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
+    "link": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T13:56:07.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
@@ -18,85 +189,22 @@
     "data": "2026-11-14T13:27:10.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Corpo de pescador que morreu afogado no Rio Paraná é enterrado",
-    "resumo": "Edilson Rodrigues da Silva Junior foi enterrado em Presidente Epitácio (SP) Arquivo pessoal O corpo de um pescador de 35 anos, que estava desaparecido no Rio Paraná e foi encontrado no início da tarde desta sexta-feira (13), foi sepultado na manhã deste sábado (14) em Presidente Epitácio (SP). Segundo apurado pela TV TEM, o corpo de Edils",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/14/corpo-de-pescador-que-morreu-afogado-no-rio-parana-e-enterrado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5b3LfMPxWA7kWbN8YbvdlEejoL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/5/02loocTn6xNTi4w7TPjQ/design-sem-nome-2026-11-14t095921.866.jpg",
-    "data": "2026-11-14T13:25:56.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "How does Iran view shift in US approach after JD Vance ordered away?",
+    "resumo": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+    "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-14T13:24:44.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Câmera flagra duplo homicídio em praça pública de Caruaru; VÍDEO",
-    "resumo": "Câmera registra duplo homicídio em praça de Caruaru Câmeras de segurança flagraram o momento em que dois homens foram assassinados a tiros na Vila Padre Inácio, em Caruaru, no Agreste de Pernambuco. As vítimas foram identificadas como Josildo Josino da Silva, de 44 anos, e Erivan José da Silva, de 57. Eles estavam em uma praça pública qua",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/14/camera-flagra-duplo-homicidio-em-praca-publica-de-caruaru-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OU4uhHfRTS_6qDUcDsmsFDEBAL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/S/wzud6fQAmBijB1nJw9vQ/mulher-e-morta-em-jupi-5-.png",
-    "data": "2026-11-14T13:22:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ônibus de turismo que ia para São Tomé das Letras tomba na Fernão Dias e nove pessoas ficam feridas",
-    "resumo": "Ônibus de turismo que ia para São Tomé das Letras tomba na Rodovia Fernão Dias Corpo de Bombeiros Nove pessoas ficaram feridas após um ônibus de turismo tombar na rodovia Fernão Dias (BR-381), em Campanha (MG), na madrugada deste sábado (14). 📲 Siga a página do g1 Sul de Minas no Instagram De acordo com informações da concessionária Moti",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/tomba-onibus-de-turismo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-SFS-5q870QDuPo5w2wIR6fxYBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/N/6aoSmcS0uRSF4paBdEaA/onibus1.jpeg",
-    "data": "2026-11-14T13:21:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Prefeitura de São José publica edital para segunda fase da Linha Verde",
-    "resumo": "Prefeitura de São José lança edital para segunda fase da Linha Verde A Prefeitura de São José dos Campos publicou nesta sexta-feira (13) o edital para contratar a empresa responsável pelas obras da segunda fase da Linha Verde. O projeto prevê a ligação entre a avenida Teotônio Vilela e a avenida Tancredo Neves, na zona leste da cidade. ✅ ",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/14/prefeitura-de-sao-jose-publica-edital-para-segunda-fase-da-linha-verde.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6em1V3tIyHpCMNK6t3nYj93ZVfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/dAtYuUSPOMyIF0SG0n1Q/ft-g1-30-.png",
-    "data": "2026-11-14T13:18:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "COP 31: UE acusa países de tentar enfraquecer ciência climática e cobra relatório antes de 2028",
-    "resumo": "COP 31: Murilo Salviano mostra os bastidores na chegada à conferência na Turquia Bandeira da União Europeia. Christian Lue/Unplash A União Europeia (UE) prometeu \"lutar\" para que os novos relatórios científicos sobre mudanças climáticas sejam publicados antes de 2028, ano em que está prevista a próxima avaliação global dos esforços para r",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/14/cop-31-ue-ciencia-climatica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2KzpQbFzoKjpypEBHZIPkRYKdeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/I/Rto4XZSpyuL9NVoRPu4A/christian-lue-8yw6tsb8tnc-unsplash.jpg",
-    "data": "2026-11-14T13:17:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Luan Santana expõe o D.N.A. sertanejo nas duas músicas inéditas de EP que expande o registro da turnê do cantor",
-    "resumo": "Luan Santana durante show da turnê 'Registro histórico', captada em apresentação em Porto Alegre (RS) que gerou o EP 'Além do registro' Larissa Queiroz / Divulgação ♫ ANÁLISE ♬ Houve um momento em que o repertório de Luan Santana se distanciou das origens sertanejas do cantor. Foi quando Luan se tornou um popstar romântico com shows grand",
-    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/14/luan-santana-expoe-o-dna-sertanejo-nas-duas-musicas-ineditas-de-ep-que-expande-o-registro-da-turne-do-cantor.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/A7nXK_Wzf47ghDC719swEGLFozY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/LM5XAcTI6YQAZJnHqOSA/copia-de-copia-de-ls-poa-rh-01138.jpg",
-    "data": "2026-11-14T13:16:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jovem é preso suspeito de tentar matar ex-companheira e agredir bebê de um mês em Barra de Santa Rosa, na PB",
-    "resumo": "Viatura da Polícia Civil, na Paraíba Polícia Civil/Divulgação Um jovem de 18 anos foi preso em flagrante suspeito de tentar matar a ex-companheira, uma adolescente de 16 anos, e a filha do casal, uma bebê de um mês, em Barra de Santa Rosa, no Curimataú da Paraíba, na sexta-feira (13). Após a ocorrência, ele fugiu em uma motocicleta em dir",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/14/jovem-e-preso-suspeito-de-tentar-matar-ex-companheira-e-agredir-bebe-de-um-mes-em-barra-de-santa-rosa-na-pb.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/wwPujtZKWweI1-W1PSBBwOYpeD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/X/ERMSuPQs6NrK17gzBG5Q/img-8621.jpg",
-    "data": "2026-11-14T13:14:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Municípios de RO recebem aplicação do Enem pela primeira vez",
-    "resumo": "Primeiro dia do Enem em Rondônia Os municípios de Candeias do Jamari(RO) e Itapuã do Oeste(RO), localizados no entorno de Porto Velho, receberam pela primeira vez a aplicação das provas do Exame Nacional do Ensino Médio (Enem). A iniciativa busca reduzir o desgaste dos estudantes com longos deslocamentos até a capital. 📱Baixe o app do g1",
-    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/14/municipios-de-ro-recebem-aplicacao-do-enem-pela-primeira-vez.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/g8F-o374t1N1yNaxNnWI3sVT1vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/qrRR8VQQKnNou1766qIg/midia-de-distribuicao-g1-34-.jpg",
-    "data": "2026-11-14T13:14:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dono de distribuidora de bebidas é morto a tiros na região sul de Palmas",
-    "resumo": "Viaturas da Polícia Militar do Tocantins Divulgação/PMTO Um homem de 31 anos morreu após ser atingido por tiros de arma de fogo em uma distribuidora de bebidas no setor Taquaralto, em Palmas, região central do estado. Segundo a Polícia Militar do Tocantins (PMTO), a vítima era dono do estabelecimento comercial e outras três pessoas ficara",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/14/dono-de-distribuidora-de-bebidas-e-morto-a-tiros-na-regiao-sul-de-palmas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Gzc4WGc-sIgruaSY6B2sgp3eLtU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/5/eqJhOJQx2ljbaCFW3QIA/399905-1-.jpg",
-    "data": "2026-11-14T13:08:18.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Em São Paulo, festival Melanina Acentuada tem atrações até domingo",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-melanina-acentuada-tem-atracoes-ate-domingo-em-sao-paulo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-melanina-acentuada-tem-atracoes-ate-domingo-em-sao-paulo",
+    "imagem": null,
+    "data": "2026-11-14T13:11:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -109,30 +217,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Atração do Pré-Caju, Márcio Victor diz que não conseguiu retornar dos EUA",
-    "resumo": "Atração do Pré-Caju, Márcio Victor diz que não conseguiu retornar dos EUA O vocalista da Banda Psirico, Márcio Victor, uma das atrações do Pré-Caju, neste sábado (14), usou as redes sociais para contar que estava entre os passageiros que não conseguiram embarcar após os cancelamentos de voos nos EUA. A Administração Federal de Aviação dos",
-    "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/14/atracao-do-pre-caju-marcio-victor-diz-que-nao-conseguiu-retornar-dos-eua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YHzSoT5vnXCYvWNAf6JyJEUwF5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/3/BAs9AVSnGA0N2IccJJmQ/imagem-g1-15-.jpg",
-    "data": "2026-11-14T13:07:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incêndio em lancha deixa duas pessoas feridas em Portel, no Marajó",
-    "resumo": "Duas pessoas ficam feridas após lancha pegar fogo em Portel, no Marajó Duas pessoas ficaram feridas após uma lancha pegar fogo na manhã desta sexta-feira (13), próximo à orla de Portel, na região do Marajó, no Pará. Segundo testemunhas, o incêndio começou depois de uma explosão na embarcação. Em poucos minutos, as chamas consumiram toda a",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/14/incendio-em-lancha-deixa-duas-pessoas-feridas-em-portel-no-marajo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7KKSUkDFxqMZZzBl5g2dp9BYmlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/LTAo0BQiOFJOydRYTeLQ/whatsapp-image-2026-11-14-at-10.06.04.jpeg",
-    "data": "2026-11-14T13:07:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Festa do Divino de Mogi das Cruzes promove 4ª Coroa do Divino neste sábado",
-    "resumo": "4ª Coroa do Divino reúne devotos neste sábado em Mogi das Cruzes Reprodução/José Carlos Cipullo A 4ª Coroa do Divino é realizada neste sábado (14), às 15h, na Associação Pró-Festa do Divino, no bairro Mogilar, em Mogi das Cruzes. A celebração faz parte da preparação para a 414ª Festa do Divino Espírito Santo, que será realizada de 6 a 16 ",
-    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/festa-do-divino/noticia/2026/11/14/festa-do-divino-de-mogi-das-cruzes-promove-4a-coroa-do-divino-neste-sabado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/83Bd03X9K0uunq9OlW0waV6wB0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/D/YdqcnjRvyZD0aB13PTBA/g1-minimo-1631x850.jpg",
-    "data": "2026-11-14T13:07:00.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-27-milhoes-neste-domingo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>A ",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-27-milhoes-neste-domingo",
+    "imagem": null,
+    "data": "2026-11-14T13:04:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -177,6 +267,15 @@
     "resumo": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?",
     "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F60%2Fa9d434ea40a7ae36a18406a56821%2Fap26313796894744.jpg",
+    "data": "2026-11-14T13:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Why is Alberta ditching diversity, equity and inclusion in hiring practices?",
+    "resumo": "Are hiring policies that strive for workplace diversity actually a problem that needs solving? Or is the UCP government engaging in political posturing? Panelists who spoke to CBC's West of Centre are split on the answer.",
+    "link": "https://www.cbc.ca/news/canada/edmonton/alberta-dei-merit-based-hiring-9.7421191?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/620e61b9-deed-49f4-8596-2ec68c396167,1763685840798/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-14T13:00:00.000Z"
   },
   {
@@ -396,15 +495,6 @@
     "data": "2026-11-14T10:30:32.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
-    "resumo": "World number two Sabalenka&#039;s season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T10:03:12.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "As Congress Plans Investigations, White House Prepares Ferocious Response",
@@ -479,20 +569,20 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
+    "titulo": "Snowbirds set to fly iconic jets for last time this weekend",
+    "resumo": "Fifty-five years after the team's formation, the Canadian Forces Snowbirds' iconic jets will grace the skies one last time. The aerobatics team's CT-114 Tutor jets are set to fly over Calgary's McMahon Stadium on Sunday as part of the 113th Grey Cup festivities, before being grounded permanently.",
+    "link": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-final-flight-caf-rcaf-9.7421352?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/690207a9-d0e3-4bb8-8ad9-3d3ded7b96e8,1794612887235/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C437%2C8386%2C4717%29%3B",
+    "data": "2026-11-14T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
     "titulo": "Experts warn about risks of AI-generated content in child sexual abuse material",
     "resumo": "Prince Edward Island RCMP say there has been a \"notable increase\" in child sex abuse material made using artificial intelligence across parts of the province. Online exploitation specialists say this surge in illegal AI-generated content could be growing the demand for real-world child abuse.",
     "link": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-child-sexual-abuse-police-experts-9.7419753?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/0d680b3e-05aa-4c26-9bb7-fc827ff508f1,1761925963835/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
     "data": "2026-11-14T10:00:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
-    "resumo": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T09:43:54.000Z"
   },
   {
     "categoria": "Internacional",
@@ -524,10 +614,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Is a cure on the horizon for hepatitis B? New drug offers hope, but there's a 'long way to go'",
-    "resumo": "Is a cure on the horizon for hepatitis B? A newly-approved drug offers hope, but wiping out this viral liver infection remains a challenge.",
-    "link": "https://www.cbc.ca/news/health/hepatitis-b-drug-vaccines-9.7421089?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4592c5f3-f908-4668-a8b4-c38a6f4a881f,1794596882212/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C32%2C700%2C393%29%3B",
+    "titulo": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity'",
+    "resumo": "Kimberly Prost, a Canadian judge at the International Criminal Court, was sanctioned by the Trump administration last August. Despite impacts including cancelled credit cards and frozen bank accounts, she says attempts to intimidate her and other court officials are 'futile.'",
+    "link": "https://www.cbc.ca/news/world/us-icc-sanctions-canadian-judge-kimberly-prost-9.7415128?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/d4a07724-5913-4de9-84d6-22ce3b71362d,1794323760202/full/max/0/default.jpg?im=Crop%2Crect%3D%28411%2C604%2C2893%2C1627%29%3B",
     "data": "2026-11-14T09:00:00.000Z"
   },
   {
@@ -551,10 +641,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity'",
-    "resumo": "Kimberly Prost, a Canadian judge at the International Criminal Court, was sanctioned by the Trump administration last August. Despite impacts including cancelled credit cards and frozen bank accounts, she says attempts to intimidate her and other court officials are 'futile.'",
-    "link": "https://www.cbc.ca/news/world/us-icc-sanctions-canadian-judge-kimberly-prost-9.7415128?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d4a07724-5913-4de9-84d6-22ce3b71362d,1794323760202/full/max/0/default.jpg?im=Crop%2Crect%3D%28411%2C604%2C2893%2C1627%29%3B",
+    "titulo": "Is a cure on the horizon for hepatitis B? New drug offers hope, but there's a 'long way to go'",
+    "resumo": "Is a cure on the horizon for hepatitis B? A newly-approved drug offers hope, but wiping out this viral liver infection remains a challenge.",
+    "link": "https://www.cbc.ca/news/health/hepatitis-b-drug-vaccines-9.7421089?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4592c5f3-f908-4668-a8b4-c38a6f4a881f,1794596882212/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C32%2C700%2C393%29%3B",
     "data": "2026-11-14T09:00:00.000Z"
   },
   {
@@ -574,15 +664,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
     "imagem": "https://i.guim.co.uk/img/media/10691749dd935ca31b7835bd39ac69b412241fc2/753_0_2009_1608/master/2009.jpg?width=140&quality=85&auto=format&fit=max&s=6d2561ff9970dc405aba586bf5d4514a",
     "data": "2026-11-14T08:00:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "What we know about the ground stop and what to do if you're affected",
-    "resumo": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-14T07:42:11.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -657,15 +738,6 @@
     "data": "2026-11-14T03:33:11.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
-    "resumo": "Canada and the Philippines have concluded talks for a free-trade agreement, which is expected to be formally signed next year.",
-    "link": "https://www.cbc.ca/news/politics/canada-philippines-free-trade-agreement-talks-9.7422009?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/efe910e0-a91a-4c20-807d-c58b6ad03d36,1794626341489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C8011%2C4506%29%3B",
-    "data": "2026-11-14T03:27:16.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt&#039;s first kings",
@@ -678,7 +750,7 @@
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-    "resumo": "<p>Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop</p><p></p><p>The US Federal Aviation Administration’s decision to ground all flights on Friday threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into l",
+    "resumo": "<p>Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stop</p><p></p><p>The decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly th",
     "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
     "imagem": "https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a42d4b21d85e960cc27767128ff75b5b",
     "data": "2026-11-14T02:49:59.000Z"
@@ -736,15 +808,6 @@
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/gilmar-diz-que-moro-agiu-para-impedir-candidatura-de-lula-em-2018",
     "imagem": null,
     "data": "2026-11-14T00:11:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Setback for SpaceX Starship rocket's double-catch test",
-    "resumo": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-    "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
-    "data": "2026-11-14T00:01:01.000Z"
   },
   {
     "categoria": "Brasil",
@@ -837,15 +900,6 @@
     "data": "2026-11-13T22:27:38.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Tesouro prevê normalizar sistemas fora do ar até segunda-feira",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/tesouro-preve-normalizar-sistemas-fora-do-ar-ate-segunda-feira",
-    "imagem": null,
-    "data": "2026-11-13T22:27:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "GOP state officials push to revive Trump&apos;s mail voting restrictions for 2028 election",
@@ -862,24 +916,6 @@
     "link": "https://www.cbc.ca/news/world/livestory/airport-delays-faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421992?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/45c3d678-00a3-416e-ba2c-3ccb4237777b,1794628759613/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1879%2C1056%29%3B",
     "data": "2026-11-13T22:18:32.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dólar fecha estável a R$ 5,65, mas sobe 2,63% na semana",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>O dólar fecho",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana",
-    "imagem": null,
-    "data": "2026-11-13T21:53:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "EUA suspendem todas as decolagens de aeroportos do país",
-    "resumo": "Administração Federal de Aviação dos Estados Unidos determinou a suspensão de decolagens em todos os aeroportos do país, afetando mais de 13 mil voos. Esta foi somente a segunda paralisação desde o 11 de setembro.",
-    "link": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-13T21:39:00.000Z"
   },
   {
     "categoria": "Clima",
@@ -1008,15 +1044,6 @@
     "data": "2026-11-13T19:14:38.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c786296a-69ac-4be8-a06a-76539bfe56ce,1794603516155/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C292%2C7632%2C4293%29%3B",
-    "data": "2026-11-13T19:04:12.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Alemanha vai restringir circulação de carros conectados em bases militares",
@@ -1090,15 +1117,6 @@
   },
   {
     "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Jensen Huang was reckless with the environment, too",
-    "resumo": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. U",
-    "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-13T17:44:22.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
     "resumo": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
@@ -1114,15 +1132,6 @@
     "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
     "imagem": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
     "data": "2026-11-13T17:20:32.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-    "resumo": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
-    "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-13T17:12:56.000Z"
   },
   {
     "categoria": "Clima",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
     "imagem": "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e",
     "data": "2026-11-13T08:49:19.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit",
-    "resumo": "<p>The Oscar winner plays a singer turned detective searching for her niece in an overly generic Nashville-based mystery that fails to find its footing</p><p>Given the popularity of its music and the streaming services’ interest in faith-based programming, I’m always a little surprised that there aren’t more movies and TV shows about Nash",
-    "link": "https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix",
-    "imagem": "https://i.guim.co.uk/img/media/caf1eab024b3341cf78781448428f46d86ddeebd/1303_513_5275_4220/master/5275.jpg?width=140&quality=85&auto=format&fit=max&s=d109a421a150baebd5b991f16c31c46a",
-    "data": "2026-11-13T08:01:12.000Z"
   }
 ]
