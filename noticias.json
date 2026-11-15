@@ -1,5 +1,95 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Secret votes and vetoes: How will the next UN chief be picked?",
+    "resumo": "With no frontrunner for the job, eight candidates are vying for the UN Security Council&#039;s recommendation.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T06:11:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de minerais críticos",
+    "resumo": "Lula defende ampliação de parceria com Sudeste Asiático e impõe condição à exploração de m O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15) o aprofundamento das relações comerciais e diplomáticas entre o Brasil e a Associação de Nações do Sudeste Asiático (Asean), durante a 49ª cúpula do bloco, em Manila, nas Filipi",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/15/lula-defende-ampliacao-de-parceria-com-sudeste-asiatico-e-impoe-condicao-a-exploracao-de-minerais-criticos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zwTsYXRjn7DJq3YDOrhIiSn-lbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/dchTSZSly2gh9L1hrBPw/2026-11-14t055622z-1767885988-rc2gnoa3o1vq-rtrmadp-3-asean-summit.jpg",
+    "data": "2026-11-15T06:01:34.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Britain’s veto could stop the UAE’s choice from running the United Nations. Miliband must use it | Steve Bloomfield",
+    "resumo": "<p>Lana Nusseibeh appears to have the support of Russia and the US, but her role glossing the horror in Sudan makes her unsuitable – and we should say so</p><p>Since the devastating war in Sudan began in 2023, some of the best investigative work uncovering those responsible has been carried out by the UN panel of experts. Its reports have",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/15/britain-veto-uae-united-nations-miliband-lana-nusseibeh-russia-us-sudan",
+    "imagem": "https://i.guim.co.uk/img/media/a306d86ea8e9ae4032d1581ae50da27baedd2b31/359_0_2523_2019/master/2523.jpg?width=140&quality=85&auto=format&fit=max&s=0d9f71bff2f90233f03fa68ff4cf21fa",
+    "data": "2026-11-15T06:00:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudante que perdeu bolsa do Prouni por vício da mãe em apostas presta Enem pela terceira vez: 'Preciso tentar de novo'",
+    "resumo": "Estudante Eduardo dos Santos tem bolsa do Prouni indeferida. Reprodução Depois de ter uma bolsa integral pelo Programa Universidade para Todos (Prouni) negada por conta das movimentações financeiras de sua mãe relacionadas a plataformas de aposta online, Eduardo Luvizetto dos Santos decidiu prestar o Exame Nacional do Ensino Médio(Enem) p",
+    "link": "https://g1.globo.com/educacao/noticia/2026/11/15/estudante-que-perdeu-bolsa-do-prouni-por-vicio-da-mae-em-apostas-presta-enem-pela-terceira-vez-preciso-tentar-de-novo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QhJrPx4nZ_-hDevAtGjnPWidEnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/2/FM7CGsRdaNeXx45lb0lA/1785942822676550-redimensionado-para-1200x700-1-.jpeg",
+    "data": "2026-11-15T06:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
+    "resumo": "Labubu: o que é boneco que virou febre mundial Durante anos, os bonecos Labubu pareceram imparáveis. Colecionadores de todas as idades compravam avidamente as \"caixas surpresa\" — embalagens lacradas que continham esses monstrinhos peculiares —, pagando, muitas vezes, US$ 15 dólares (R$ 82,65) ou mais por unidade. Aqueles que não conseguia",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/15/ele-gastou-r-275-mil-em-labubus-e-fez-ate-dentes-inspirados-nos-bonecos-mas-e-agora-que-a-febre-passou.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/PdG7lag-l3_c8nqtULxuE3SZDAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/S/HSEXsfSJe6FTrnepuFGQ/captura-de-tela-2025-05-29-as-11.40.29.png",
+    "data": "2026-11-15T06:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
+    "resumo": "Terras raras: a disputa global por uma riqueza brasileira Um dos focos do governo Lula 4 é ampliar a exploração de minerais críticos e terras raras no Brasil, que reúne algumas das maiores reservas mundiais de elementos essenciais para a alta tecnologia e a eletrificação da economia. O país quer atrair investimentos estrangeiros para dese",
+    "link": "https://g1.globo.com/inovacao/noticia/2026/11/15/quais-paises-estao-na-mira-do-brasil-para-desenvolver-cadeias-de-minerais-criticos-e-terras-raras.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/H_Koxe-BJ7dqkQ9gMNvf3_fOtoQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/S/hXTiIwRdOihHjwdCcwoQ/design-sem-nome-73-.png",
+    "data": "2026-11-15T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Exame de sangue promete detectar mais de 50 tipos de câncer, mas falha em 69% dos casos",
+    "resumo": "Novo exame de sangue diz detectar mais de 50 tipos de câncer, mas não há evidências de que reduza risco de morte Adobe Stock O câncer não é a principal causa de morte nos Estados Unidos: as doenças cardíacas ocupam o primeiro lugar nesse quesito. Mas é o câncer que causa medo em muitos americanos e pessoas ao redor do mundo. O câncer pode",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/15/exame-de-sangue-promete-detectar-mais-de-50-tipos-de-cancer-mas-falha-em-69percent-dos-casos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/10uryS34sKI38ATuGAz051Ilp9o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/q/CIyWgETZKbZ6HiFEe09g/adobestock-422800382.jpeg",
+    "data": "2026-11-15T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como opera a indústria de exércitos de mercenários e quanto eles ganham",
+    "resumo": "Mercenários do Grupo Wagner posam para foto em Rostov, na Rússia, em 24 de junho de 2023 Stringer/REUTERS Ao longo da história, exércitos de mercenários foram algo comum. Eles foram utilizados por Aníbal em sua guerra contra Roma e pela Monarquia Hispânica no saque da Cidade Eterna, mais de mil anos depois. As guerras no Afeganistão e no ",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/15/como-opera-a-industria-de-exercitos-de-mercenarios-e-quanto-eles-ganham.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/g5Lf3svEgtPPZwwNiuN0T3KWFbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/h/g/nlsBDnTkyUWjKc53Wh6w/2023-07-25t204309z-718699616-rc2gp1ai30gy-rtrmadp-3-britain-russia-wagner.jpg",
+    "data": "2026-11-15T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Crianças internadas ganham bonecas com cicatrizes iguais às suas para ajudar na recuperação em hospital do RS",
+    "resumo": "Conheça o projeto Bonecas do Coração Um zíper no peito revela um pequeno coração de pano. A marca lembra a cicatriz que muitas crianças carregam depois de uma cirurgia cardíaca. A semelhança não é coincidência: ela faz parte de um projeto criado para acolher pacientes do Instituto de Cardiologia, em Porto Alegre. Feitas à mão por colabora",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/criancas-internadas-ganham-bonecas-com-cicatrizes-iguais-as-suas-para-ajudar-na-recuperacao-em-hospital-do-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kwXHPEGZHZb6cPUTSvRe0odulkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/s/MzYeoGThiQRKR6To4IRw/hora1-pae-bonecas-coracao-frame-2577.jpg",
+    "data": "2026-11-15T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Por que a psicologia positiva pode ser uma ferramenta eficaz para os jovens adultos",
+    "resumo": "Durante muito tempo, os cientistas acreditaram que o desenvolvimento cerebral era uma característica exclusiva da infância. Hoje está claro que o cérebro de adolescentes mais velhos e de jovens adultos passa por modificações notáveis – ao longo de uma fase bastante sensível. Afinal, é quando enfrentam os desafios de transitar pelo ensino ",
+    "link": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/11/15/por-que-a-psicologia-positiva-pode-ser-uma-ferramenta-eficaz-para-os-jovens-adultos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TqdCUVI0PRM2x6ESLoP0aDOj-V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/x0LMcDSzqLxyFlBMH8HA/psicologiapositivaparajovensadultos.jpg",
+    "data": "2026-11-15T06:00:00.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Two Planes Collide on a Taxiway at Miami International Airport",
@@ -51,78 +141,6 @@
     "resumo": "Jovem presta Enem dentro de hospital e sonha ser médica: 'Quero achar cura para doenças' As amigas Julia Faria, de 19 anos, e Nathalia Portilho, de 17, farão o segundo dia do Enem, neste domingo (15), em salas individuais no Centro Boldrini, hospital de Campinas (SP) referência no tratamento de câncer infantil. Ambas passam por tratamento",
     "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/em-tratamento-de-cancer-desde-os-7-anos-jovem-presta-enem-dentro-de-hospital-e-sonha-ser-medica-quero-achar-cura-para-doencas.ghtml",
     "imagem": "https://s2-g1.glbimg.com/fiI8waMgTb8asrRjck8mMoOTV20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/4/oiAtKJTfOy4joEbF9TLA/design-sem-nome-13-.png",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "BH e outras 843 cidades de MG estão sob aviso amarelo para tempestade; veja lista",
-    "resumo": "Municípios que estão sob aviso amarelo de tempestade Inmet Mais de 800 cidades de Minas Gerais, incluindo Belo Horizonte e Região Metropolitana, estão incluídas no aviso amarelo para tempestade do Instituto Nacional de Meteorologia (Inmet). O aviso é válido ao longo de todo o domingo (15). Apenas parte do Noroeste do estado não está inclu",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-e-outras-843-cidades-de-mg-estao-sob-aviso-amarelo-para-tempestade-veja-lista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3BuqdSJOt1y0A1ZXMVgVRMS6b7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/mX668bRKmeYGBTXv2Wug/captura-de-tela-2026-11-14-102955-1-.png",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
-    "resumo": "Consultora de RH dá dicas para montar currículo e se destacar em entrevistas Foi durante um trajeto do aeroporto ao escritório que um candidato ao cargo de diretor financeiro da Duolingo perdeu a vaga sem nem saber, mesmo parecendo perfeito no papel. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 A empresa buscava havia quase um a",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/o-executivo-que-foi-grosseiro-com-motorista-e-perdeu-vaga-em-multinacional-o-teste-de-gentileza-que-o-duolingo-aplica-para-altos-cargos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hyyrlZHUvRAqCnEBuSRuDveBqdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/hCDNTCTfGzYSA4oBs8IA/appp.jpg",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Praia e área de mar: conheça origem de região da Chapada dos Veadeiros que chama a atenção por rochas com piscinas naturais esculpidas pela água",
-    "resumo": "Conheça origem de região da Chapada dos Veadeiros que já foi praia A região da Chapada dos Veadeiros é conhecida pelas formações rochosas, cachoeiras e mirantes. Mas, segundo geólogos, a área esteve submersa pelo mar há mais de 1 bilhão de anos. Ainda de acordo com especialistas, o território se tornou praia, chegou a ser submersa de novo",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/15/praia-e-area-de-mar-conheca-origem-de-regiao-da-chapada-dos-veadeiros-que-chama-a-atencao-por-rochas-com-piscinas-naturais-esculpidas-pela-agua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Wr_O0mlBQuheIJiWLb4xHj6ufag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/aTDZ5VQ96ftQZLPxKwQg/copia-de-copia-de-padrao-foto-g1-goias-93-.jpg",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cachorro que corta grama? Conheça robô quadrúpede que faz serviço de roçada e foi apresentado em SC",
-    "resumo": "Robô corta grama e poderá ser usado em serviços de roçada às margens de rodovias Um robô quadrúpede pode dar mais segurança em serviços de roçagem às margens de rodovias. O \"cachorro que corta grama\" foi apresentado em um evento de tecnologia em Florianópolis e está em fase de desenvolvimento. ✅Clique e siga o canal do g1 SC no WhatsApp \ud83e",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/15/robo-quadrupede-rocada-apresentado-sc.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MkXe7D7PgjTPYtgGA3C_wboxPQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/o/r0Q6mbRQizASSk9xuE1A/robo-que-corta-grama-4.jpg",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "UnB inaugura 1º placa de projeto que mapeia locais de memória da ditadura; DF tem 12 pontos na lista",
-    "resumo": "UnB inaugura primeira placa de projeto que identifica locais de memória da ditadura Mais de 300 locais históricos relacionados à repressão e à resistência durante a ditadura militar já foram identificados em diferentes regiões do Brasil. A iniciativa faz parte do projeto Lugares pela Memória, do Ministério dos Direitos Humanos e da Cidada",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/unb-inaugura-1o-placa-de-projeto-que-mapeia-locais-de-memoria-da-ditadura-df-tem-12-pontos-na-lista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AIwA7_RVABoICUzYJFoIVI-A_JI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/D2DWdwS7en5cAxpPiAuw/55650169185-9390de0314-k.jpg",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Livro 'Os imortais', da brasiliense Paulliny Tort, vai virar filme com produtora de 'Ainda estou aqui'",
-    "resumo": "Paulliny Tort Renato Parada/Divulgação Após vencer o Prêmio Literário Biblioteca Nacional, a escritora brasiliense Paulliny Tort vai estrear no cinema com o romance Os Imortais (2026), publicado pela Editora Fósforo. A obra será adaptada para o cinema pela RT Features, do premiado produtor Rodrigo Teixeira, um dos nomes responsáveis pela ",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/livro-os-imortais-da-brasiliense-paulliny-tort-vai-virar-filme-com-produtora-de-ainda-estou-aqui.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/awKL8AnsojoP9ve6_juoKJdBZLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/W/o59uGYSnafO0rFU1XjTQ/imagem-g1.png",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pai e filho criam tênis inspirado em andar descalço e faturam R$ 40 mil por mês",
-    "resumo": "Como pai e filho encontraram um nicho no mercado com tênis de conforto A busca por mais conforto ao caminhar levou pai e filho a transformarem uma insatisfação pessoal em negócio. Em São Paulo, Thomas Tevjovits e Nicolas Tevjovits criaram uma marca de tênis inspirada no conceito de \"pé no chão\", com modelos projetados para respeitar a ana",
-    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/15/pai-e-filho-criam-tenis-inspirado-em-andar-descalco-e-faturam-r-40-mil-por-mes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0YxkpuysrDWEIpBrMuigGohqG4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/sqxR2vQRyKZxIBqqk5Cg/captura-de-tela-2026-10-21-152150.png",
-    "data": "2026-11-15T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
-    "resumo": "Lula quer regular big techs até o fim do ano O presidente Luiz Inácio Lula da Silva (PT) já mencionou algumas vezes que pretende regular as redes sociais no Brasil. As falas se intensificaram depois das eleições, que ficaram marcadas por críticas de que as plataformas promoveram conteúdos enganosos sobre política. Segundo a GloboNews, a e",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/lula-vai-regular-redes-sociais-por-que-presidente-defende-mais-regras-e-o-que-pode-mudar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nw7pdk_tEbjDz40kXYW61AAMILw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/h2G4lTTvGS8NtJOUCtwg/jn-ato-meta-20261019-1708-frame-7500.jpeg",
     "data": "2026-11-15T05:00:00.000Z"
   },
   {
@@ -331,15 +349,6 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fb5%2F30886ed245579f651c8eea629e9a%2Fgettyimages-2305144013.jpg",
     "data": "2026-11-15T01:13:59.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Israeli air strike kills senior Hamas commander in Gaza",
-    "resumo": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T01:00:42.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1024,15 +1033,6 @@
     "link": "https://www.cbc.ca/radio/moiras-birthday-robert-munsch-9.7419431?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/5c45dc52-404d-45c1-9291-53c99396e56d,1794510413950/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1548%2C870%29%3B",
     "data": "2026-11-14T09:00:00.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
-    "resumo": "<p>Artists’ acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice</p><p>The way stories are told about wars really matters. It is a point powerfully made by the classical scholar Alice König who, in her work on ancient and modern warfare, <a href=\"https://podcasts.apple.com/sg/podcast/anc",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
-    "imagem": "https://i.guim.co.uk/img/media/10691749dd935ca31b7835bd39ac69b412241fc2/753_0_2009_1608/master/2009.jpg?width=140&quality=85&auto=format&fit=max&s=6d2561ff9970dc405aba586bf5d4514a",
-    "data": "2026-11-14T08:00:38.000Z"
   },
   {
     "categoria": "Economia",
