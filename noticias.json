@@ -1,5 +1,68 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
+    "resumo": "Judge Ana C. Reyes, who has been overseeing combative litigation, said the Trump administration would not be responsible for operating the course while the case proceeds.",
+    "link": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/14/us/14dc-golf-new/14dc-golf-new-mediumSquareAt3X-v3.jpg",
+    "data": "2026-11-15T02:20:51.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+    "resumo": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T01:54:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Inhotim: duas exposições celebram os 20 anos de um dos museus de arte contemporânea mais importantes do mundo",
+    "resumo": "Inhotim completa duas décadas com novas exposições Em Minas Gerais, duas novas exposições estão celebrando os 20 anos de um dos museus de arte contemporânea mais importantes do mundo: Inhotim. Em Brumadinho, a arte encontra a natureza nos caminhos de Inhotim. A mostra \"A Céu Aberto\" resgata o passado, com documentos e rascunhos do process",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/inhotim-duas-exposicoes-celebram-os-20-anos-de-um-dos-museus-de-arte-contemporanea-mais-importantes-do-mundo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4etvm20AggW5TizWPs8wl2XeTOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/P/aBWQoIQs2yEEo4n5NVvQ/globo-canal-4-20261114-1946-frame-176900.jpeg",
+    "data": "2026-11-15T01:40:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Netanyahu sends plea to Eisenkot for unity government",
+    "resumo": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T01:33:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Thailand’s elderly kept in cages",
+    "resumo": "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T01:32:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Inauguração de um dos maiores complexos culturais do país atrai multidão no Ceará",
+    "resumo": "Ceará ganha complexo cultural O Ceará ganhou um dos maiores complexos culturais do país e atraiu uma multidão na abertura ao público. Neste sábado (14), a arte foi programa de família em Fortaleza. São quatro pavimentos dedicados ao conhecimento e à cultura, com obras de alguns dos maiores artistas do mundo e grandes nomes da arte brasile",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/inauguracao-de-um-dos-maiores-complexos-culturais-do-pais-atrai-multidao-no-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cmx8QuOe4vrs5Q9lxTuxEXdrH-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/5/1ibhf2TgOUNBBURtGjBA/globo-canal-4-20261114-1946-frame-172609.jpeg",
+    "data": "2026-11-15T01:26:21.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "SpaceX’s Starship nails a smooth return with historic catch",
+    "resumo": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T01:22:01.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Homem é encontrado debilitado após ficar 9 dias na região de mata em SC",
@@ -43,6 +106,15 @@
     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/casos-de-covid-voltam-a-crescer-em-5-estados-brasileiros-e-no-distrito-federal-diz-fiocruz.ghtml",
     "imagem": "https://s2-g1.glbimg.com/Vt0ANj6hhxOy6kZ7Rf7Wn13SOKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/CQFtWMQped3To8BtNEvg/globo-canal-4-20261114-1946-frame-138844.jpeg",
     "data": "2026-11-15T01:00:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israeli air strike kills senior Hamas commander in Gaza",
+    "resumo": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T01:00:42.000Z"
   },
   {
     "categoria": "Brasil",
@@ -126,15 +198,6 @@
     "data": "2026-11-15T00:23:27.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é morto a tiros durante assalto e Palmas registra dois assassinatos em menos de 24 horas",
-    "resumo": "Homem é morto a tiros na tarde deste sábado em Palmas Um homem, identificado como Adailton Viana Araújo, de 58 anos, morreu após ser baleado durante um assalto na tarde deste sábado (14), no setor Bela Vista, na região de Taquaralto, em Palmas. Segundo apuração da TV Anhanguera com o 6º Batalhão da Polícia Militar, o crime ocorreu quando ",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/14/homem-e-morto-a-tiros-durante-assalto-e-palmas-registra-dois-assassinatos-em-menos-de-24-horas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/piaoH4hgzolPaBPYDuccDzjc0C0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/1/TvGJQvQt2N5DZYQP5UtA/copia-de-foto-e-montagem-vertical-11-.png",
-    "data": "2026-11-15T00:18:38.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Stranded by planes, travelers turned to trains and automobiles.",
@@ -151,15 +214,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T00:14:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Policial comove ao fingir abordagem para doar cesta básica a idoso; vídeo",
-    "resumo": "Sargento surpreende idoso com cesta básica durante abordagem policial Um sargento da Polícia Militar (PM) comoveu a internet ao fingir uma abordagem para doar uma cesta básica a um idoso no Jardim Guanabara, em Goiânia. Um vídeo compartilhado pelo militar nas redes sociais tem mais de 4 milhões de visualizações e mostra o momento da entre",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/14/policial-comove-ao-fingir-abordagem-para-doar-cesta-basica-a-idoso-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dIzGNycVrrPUrgtsHT1q9QPaBgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/S/XfEVDFQA2vAxzAYENuTg/co-17-.jpg",
-    "data": "2026-11-15T00:11:57.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -261,15 +315,6 @@
     "data": "2026-11-14T22:37:25.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Palestinian stories set for major presence at 2027 Oscars",
-    "resumo": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T22:28:47.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "US has lost measles elimination status, global health authorities say",
@@ -315,15 +360,6 @@
     "data": "2026-11-14T22:03:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-    "resumo": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T22:00:45.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
@@ -340,15 +376,6 @@
     "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8068x5379+0+0/resize/8068x5379!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F90%2Fff5836a94be4aff14474cce4144c%2Fstarship.jpg",
     "data": "2026-11-14T21:42:41.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US flights resume after ageing technology blamed for outage",
-    "resumo": "US flights resume after ageing technology blamed for outage",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T21:36:19.000Z"
   },
   {
     "categoria": "Brasil",
@@ -378,21 +405,12 @@
     "data": "2026-11-14T21:15:09.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-    "resumo": "Europe&#039;s direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-    "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T21:10:26.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "AFC Toronto beats Montreal Roses to win 1st NSL title",
     "resumo": "Olivia Chisholm's first-half goal allowed AFC Toronto to capture its first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
     "link": "https://www.cbc.ca/sports/soccer/nsl-final-montreal-roses-afc-toronto-9.7421039?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b59e6c35-76a9-4d56-87c4-9f22d1ad7929,1794688450172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C145%2C5139%2C2890%29%3B",
+    "imagem": "https://i.cbc.ca/ais/4ab63838-da97-47a7-a737-a55fd334505a,1794708794539/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C59%2C4262%2C2397%29%3B",
     "data": "2026-11-14T21:09:30.000Z"
   },
   {
@@ -439,15 +457,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
     "data": "2026-11-14T20:23:06.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "India’s Assam state demolishes homes of 132 Muslim families",
-    "resumo": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T20:14:10.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -569,8 +578,8 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "SpaceX Starship re-enters Earth, lands at same spot from which it launched a day ago",
-    "resumo": "SpaceX's Starship spacecraft on Saturday returned from its longest flight in orbit yet to the Texas launch tower it was launched from a day prior, demonstrating the first key recovery of the rocket system's centerpiece vessel in the company's decade-long effort to ‌develop a fully reusable rocket.",
+    "titulo": "SpaceX Starship successfully re-docks at Texas launch pad after orbiting Earth",
+    "resumo": "SpaceX's Starship made a triumphant return to Earth on Saturday, caught in midair by giant mechanical arms where its journey began 22 hours earlier. It's the first key recovery of the rocket system's centerpiece vessel in the company's decade-long effort to ‌develop a fully reusable rocket.",
     "link": "https://www.cbc.ca/news/world/spacex-starship-re-entry-space-earth-9.7422284?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/1011486f-2eca-4d69-93c5-21fb4020d1d0,1794694814803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3645%2C2050%29%3B",
     "data": "2026-11-14T18:29:44.000Z"
@@ -610,15 +619,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg",
     "data": "2026-11-14T18:17:58.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Here’s the latest.",
-    "resumo": "",
-    "link": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/heres-the-latest",
-    "imagem": null,
-    "data": "2026-11-14T18:14:54.000Z"
   },
   {
     "categoria": "Internacional",
