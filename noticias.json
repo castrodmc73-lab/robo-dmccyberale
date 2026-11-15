@@ -1,12 +1,174 @@
 [
   {
     "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+    "resumo": "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T04:44:57.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+    "resumo": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are link",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+    "imagem": null,
+    "data": "2026-11-15T04:31:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Video shows moment of Brooklyn building collapse from inside",
+    "resumo": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T04:31:55.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+    "resumo": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
+    "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
+    "data": "2026-11-15T04:28:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (15) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol,",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7vIV3w_ndnwHzGDaR3UBBt8z-qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/TdMrjFRJSayNlZgFRp2Q/previsao-tempo-bras-lia-20261115-011717.jpeg",
+    "data": "2026-11-15T04:17:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este domingo (15) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol, p",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/oGdRSf0EIXVJYToC86-dMMCrdtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/X/eTQ8quQHOy89SftuQ7Yg/previsao-tempo-goi-nia-20261115-011659.jpeg",
+    "data": "2026-11-15T04:17:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este domingo (15) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. N",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-wqcZG6E83ujYkohT3brvrjyR3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/J/NSr3AGQqSrPoCJbaHvcQ/previsao-tempo-aparecida-de-goi-nia-20261115-011628.jpeg",
+    "data": "2026-11-15T04:16:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para este domingo (15) para Cuiabá (MT) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 36ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol c",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GY3LwcVh_97mo46oIDEvofPvkQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/Dk1Rh5SZWzJeJFIJRSWg/previsao-tempo-cuiab-20261115-011612.jpeg",
+    "data": "2026-11-15T04:16:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para este domingo (15) para Campo Grande (MS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 32ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tar",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nOOW8vPkEveA9i__KBDKyfC8MVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/TniNPiSzKQFJBWBIgGBQ/previsao-tempo-campo-grande-20261115-011554.jpeg",
+    "data": "2026-11-15T04:16:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este domingo (15) para Porto Alegre (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tar",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2fzVqGzbGx6ZTlHu8VKldTyu07w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/D/hAZrUJSga2yIyn68kuLw/previsao-tempo-porto-alegre-20261115-011531.jpeg",
+    "data": "2026-11-15T04:15:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este domingo (15) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da t",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cYOKmjBcdS_g7sLjVSmcowluBWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/S/cBjnQAQ5S1un4f3p0KNA/previsao-tempo-caxias-do-sul-20261115-011509.jpeg",
+    "data": "2026-11-15T04:15:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este domingo (15) para Joinville (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, so",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-joinville-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/l_eMbouRzLFLnHMeCLyHMCNPG4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/n/SEc1yQRbKuNGmbhvlWFg/previsao-tempo-joinville-20261115-011443.jpeg",
+    "data": "2026-11-15T04:15:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para este domingo (15) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da t",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Opvttk2Sv0fzyBD0F0DYGlAL-F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/h/hXtwgjT626Pzy8lyTwNw/previsao-tempo-florian-polis-20261115-011417.jpeg",
+    "data": "2026-11-15T04:14:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para este domingo (15) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol, p",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_pZKrrrVOeeajpHsx55TZfDJIbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/3/FlSeAbRaiAYwCUAH9y8Q/previsao-tempo-maring-20261115-011402.jpeg",
+    "data": "2026-11-15T04:14:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para este domingo (15) para Londrina (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de ch",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-londrina-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6VJuxnmKNc-84NKEXPB-rv6KUeo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/V/APbcUNQlAaZHFAn5WT7w/previsao-tempo-londrina-20261115-011345.jpeg",
+    "data": "2026-11-15T04:13:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para este domingo (15) para Curitiba (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol,",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0cOKF_GKEc993XmvcDQP782gasU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/N/k919SXQnmioUMDnAyX4Q/previsao-tempo-curitiba-20261115-011327.jpeg",
+    "data": "2026-11-15T04:13:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Zimbabwe’s HIV gains face a test among young people",
+    "resumo": "New prevention tools offer hope, but reaching young people remains a challenge.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T04:13:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "World leaders head to Asia for back-to-back diplomatic summits",
     "resumo": "<p>Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings</p><p>The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers Chi",
     "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
     "imagem": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
     "data": "2026-11-15T04:00:02.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Scientists discover a bizarre paradox among endangered penguins",
+    "resumo": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand&#039;s endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+    "imagem": null,
+    "data": "2026-11-15T03:42:52.000Z"
   },
   {
     "categoria": "Internacional",
@@ -16,15 +178,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T03:39:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Aviões de carga e de passageiros colidem no aeroporto de Miami, nos EUA",
-    "resumo": "Um avião de carga da empresa americana de logística UPS e uma aeronave de passageiros da Copa Airlines colidiram na noite deste sábado (14) no Aeroporto Internacional de Miami, na Flórida, nos Estados Unidos. Segundo autoridades aeroportuárias, não há registro de feridos. A colisão ocorreu por volta das 21h15 (23h15 de Brasília), no cruza",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/15/avioes-colidem-no-aeroporto-de-miami-nos-eua.ghtml",
-    "imagem": null,
-    "data": "2026-11-15T03:38:30.000Z"
   },
   {
     "categoria": "Internacional",
@@ -45,103 +198,13 @@
     "data": "2026-11-15T03:21:04.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cadastro para acesso ao bairro Pecado no Natal segue até quarta",
-    "resumo": "Moradores do bairro Pecado comparecem ao antigo Terminal Lagoa para realizar o credenciamento de veículos Arquivo Secom A Prefeitura de Macaé segue com o cadastramento de veículos de moradores para acesso ao bairro Pecado durante os horários das apresentações do espetáculo das Águas Dançantes, atração que integra a programação do Natal Ma",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/15/cadastro-para-acesso-ao-bairro-pecado-no-natal-segue-ate-quarta.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_DxUuy0flnyHTQW2EiyuKoie7So=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/a/wAp7UZQqCs0p6VjEaRAg/foto-1-cadastro-pecado.jpeg",
-    "data": "2026-11-15T03:04:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Trocar o piso pode renovar o ambiente sem mudar todo o restante",
-    "resumo": "Quando a intenção é perceber uma mudança clara na casa sem substituir tudo o que já funciona, o piso pode ser um dos primeiros elementos a entrar no planejamento. Por ocupar uma superfície extensa, ele interfere diretamente na forma como paredes, marcenaria, móveis e objetos são percebidos. Em novembro, quando muitas famílias começam a ol",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/15/trocar-o-piso-pode-renovar-o-ambiente-sem-mudar-todo-o-restante.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WrVgeZItQa0to7wCGAPacQKTIQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/F/BfpjabSBKBhYz2JEAbfg/foto-1.png",
-    "data": "2026-11-15T03:03:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Enem 2026 reúne 34,2 mil candidatos neste 2° domingo de prova em São Carlos, Araraquara e região",
-    "resumo": "Plantão tira-dúvidas: professor explica como atualidades são cobradas no Enem O segundo dia do Exame Nacional do Ensino Médio (Enem) 2026, realizado neste domingo (15), reúne 34.289 candidatos em Araraquara (SP), São Carlos e outras 13 cidades da região. Os candidatos terão 5 horas para responder 45 questões de matemática e outras 45 de c",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/15/enem-2026-reune-342-mil-candidatos-neste-2-domingo-de-prova-em-sao-carlos-araraquara-e-regiao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bH_vg5CqexYUYBZh58Q2NA7X2Qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/HIA0tyRemH3D25eEGUwQ/imagens-g1-2026-11-03t114925.084.png",
-    "data": "2026-11-15T03:01:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Free flow: prazo para pagar pedágio atrasado acaba hoje; veja como quitar e evitar multa",
-    "resumo": "Motoristas têm até 16 de novembro para pagar pedágio Free Flow atrasado Termina nesta segunda-feira (16) o prazo para que motoristas que passaram por pedágios eletrônicos, conhecidos como “free flow”, até 17 de outubro paguem as tarifas em atraso sem receber multa. 🔎 O free flow é um sistema de pedágio eletrônico sem cancelas que cobra a",
-    "link": "https://g1.globo.com/carros/noticia/2026/11/15/free-flow-prazo-acaba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UrKnvN0Ap82nAFFc-0AUKxp142I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/d/SYcEJtSJyQGsZ5q8I33Q/g1-41-.jpg",
-    "data": "2026-11-15T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Que horas começa o Enem no 2º domingo?",
-    "resumo": "Afinal, para que serve o Enem? O segundo dia de provas do Exame Nacional do Ensino Médio (Enem) 2026 acontece neste domingo (15) em todo o país. Mais de 5 milhões de pessoas estão inscritas e podem participar do exame. AO VIVO: gabarito do Enem e correção das questões GABARITO EXTRAOFICIAL: confira as respostas do seu caderno de prova do ",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/que-horas-comeca-o-enem-no-segundo-domingo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OXNIsnkUdROTWxDGCo3i1Vd4ctg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/O/ehvCR3TiSB2Fxys7LEPQ/enem-roraima.jpeg",
-    "data": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Enem 2026: veja horários, regras e o que levar no 2º dia de provas neste domingo",
-    "resumo": "Enem 2026 Aline Nascimento/g1 O segundo e último dia do Exame Nacional do Ensino Médio (Enem) 2026 será aplicado neste domingo (15), com provas de matemática e ciências da natureza. Os participantes terão cinco horas para responder a 90 questões. Os portões serão abertos às 12h e fechados às 13h e não há tolerância para atrasos. A aplicaç",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/15/enem-2026-veja-horarios-regras-e-o-que-levar-no-2o-dia-de-provas-neste-domingo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/g8F-o374t1N1yNaxNnWI3sVT1vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/qrRR8VQQKnNou1766qIg/midia-de-distribuicao-g1-34-.jpg",
-    "data": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "13º salário: o que considerar antes de gastar este dinheiro",
-    "resumo": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O 13º salário está chegando, e muita gente já começou a fazer planos para usar o dinheiro extra. Entre promoções, viagens e compras de fim de ano, também entram na conta as dívidas acumuladas e as despesas de janeiro, como IPVA, IPTU e material escolar. Quando cai o 13º salário e",
-    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/15/13o-salario-o-que-considerar-antes-de-gastar-este-dinheiro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yDtHNJNPTy4P0PuT8YLNFvetCYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/d/vlHdikTliGkp1TEKTmtA/pexels-joslyn-pickens-3833052.jpg",
-    "data": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Enem 2026: veja horários, o que levar e regras para o segundo dia de provas no Amazonas",
-    "resumo": "Enem 2026: o que pode e o que não pode levar? Veja lista e regras do dia de prova Cerca de 114 mil estudantes estão inscritos no Exame Nacional do Ensino Médio (Enem) 2026 no Amazonas. A segunda etapa da avaliação será realizada neste domingo (15), e os candidatos precisam ficar atentos aos horários, aos documentos obrigatórios e às regra",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/enem-2026-veja-horarios-o-que-levar-e-regras-para-o-segundo-dia-de-provas-no-amazonas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bx2WH0cjr03e23hOyntjnUPktdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/Xpg6gEQrGrJe3594EO2Q/cadernos-de-provas-do-enem-foto-angelo-miguel-mec.jpg",
-    "data": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Governo lança guia para identificação e direcionamento de famílias em risco de fome para programas sociais",
-    "resumo": "Obesidade é quase 3 vezes maior entre mulheres com insegurança alimentar, aponta estudo Adobe Stock O governo federal lançou esta semana um guia para apoiar estados e municípios a organizar a identificação, o encaminhamento e o acompanhamento de famílias em risco de insegurança alimentar. A estratégia reúne ferramentas que já vinham sendo",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/15/governo-lanca-guia-para-identificacao-e-direcionamento-de-familias-em-risco-de-fome-para-programas-sociais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QXek-dHwGJcU-jH-fp3Qkoo_9yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/8/O9K2V4TwutERXBAocUcA/adobestock-1997503977.jpeg",
-    "data": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mega-Sena 3086 pode pagar R$ 27 milhões neste domingo; g1 transmite ao vivo",
-    "resumo": "Como funciona a Mega-Sena? O concurso 3.086 da Mega-Sena pode pagar um prêmio de R$ 27 milhões para os apostadores que acertarem as seis dezenas. O sorteio ocorre às 11h deste domingo (15), em São Paulo. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Clique aqui para seguir o canal de Loterias do g1 no WhatsApp No con",
-    "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/15/mega-sena-3086-pode-pagar-r-27-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg",
-    "data": "2026-11-15T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Esporotricose: abandono de animais doentes pode contribuir para a contaminação; cidade do RS registra 25 casos em humanos",
-    "resumo": "Cidade do RS combate esporotricose após aumento de casos em humanos e em gatos O abandono de animais com esporotricose pode contribuir para a manutenção do ciclo da doença e para a contaminação do ambiente. O alerta é do Ministério da Saúde e ganha destaque em Guaíba, na Região Metropolitana de Porto Alegre, onde houve um aumento de casos",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/esporotricose-abandono-animais-doentes-contribuir-contaminacao-cidade-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6HO-xU-gaYbFZxOwwgjt_bUEtkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/E/wGBjSBQ8O22Hm2hPnZ6Q/videoframe-5409.png",
-    "data": "2026-11-15T03:00:00.000Z"
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Dinosaurs may have been eating seaweed 100 million years ago",
+    "resumo": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth. Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea. The findings",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+    "imagem": null,
+    "data": "2026-11-15T03:00:54.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -189,6 +252,15 @@
     "data": "2026-11-15T02:42:57.000Z"
   },
   {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Physicists use laser light to unlock a crystal&#039;s hidden electrical powers",
+    "resumo": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+    "imagem": null,
+    "data": "2026-11-15T02:18:16.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
@@ -196,6 +268,15 @@
     "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T01:54:55.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+    "resumo": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+    "imagem": null,
+    "data": "2026-11-15T01:52:47.000Z"
   },
   {
     "categoria": "Internacional",
@@ -270,15 +351,6 @@
     "data": "2026-11-15T00:17:18.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-    "resumo": "SpaceX officials say catch by mechanical arms shows Starship&#039;s full reusability, crucial for rapid, low-cost recycling.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T00:14:22.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Florida city cancels St. Patrick&apos;s Day parade, citing new anti-DEI law",
@@ -295,24 +367,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
     "data": "2026-11-15T00:01:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Saudi-led coalition strikes down 3 drones in as many hours",
-    "resumo": "Saudi-led coalition strikes down three Houthi drones in as many hours, as Bahrain issues potential danger alert.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T00:00:08.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Portugal immortalises Ronaldo with a new number 7",
-    "resumo": "Portugal’s national team has lined up in Cristiano Ronaldo&#039;s number 7 in its first match since he retired from the side.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-14T23:55:18.000Z"
   },
   {
     "categoria": "Canadá",
@@ -340,6 +394,15 @@
     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
     "data": "2026-11-14T22:37:25.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Premier says Quebec ready to vote independently from Canada for Francophonie leadership",
+    "resumo": "Quebec Premier Paul St-Pierre Plamondon is in Cambodia to attend a summit of the international body of French-speaking states and governments. Quebec, Canada and New Brunswick all have the right to vote in Monday's election to choose a new secretary-general.",
+    "link": "https://www.cbc.ca/news/canada/montreal/quebec-paul-st-pierre-plamondon-francophonie-vote-9.7422366?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5823c9fe-d1a4-47c7-96b2-44123d1f2964,1794691134815/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "data": "2026-11-14T22:35:38.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -387,6 +450,24 @@
     "data": "2026-11-14T22:03:00.000Z"
   },
   {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Novorizontino conquista a Série B e sobe junto com o Juventude",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/novorizontino-conquista-serie-b-e-sobe-junto-com-o-juventude\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/novorizontino-conquista-serie-b-e-sobe-junto-com-o-juventude",
+    "imagem": null,
+    "data": "2026-11-14T22:02:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia",
+    "imagem": null,
+    "data": "2026-11-14T21:53:00.000Z"
+  },
+  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
@@ -394,6 +475,15 @@
     "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-14T21:44:44.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/falha-aerea-nos-eua-cancela-sete-voos-e-atrasa-outros-14-no-brasil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/falha-aerea-nos-eua-cancela-sete-voos-e-atrasa-outros-14-no-brasil",
+    "imagem": null,
+    "data": "2026-11-14T21:43:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -675,15 +765,6 @@
     "data": "2026-11-14T17:44:28.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-apresenta-show-do-bossacucanova-no-cena-musical-deste-sabado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/tv-brasil-apresenta-show-do-bossacucanova-no-cena-musical-deste-sabado",
-    "imagem": null,
-    "data": "2026-11-14T17:10:00.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
@@ -691,15 +772,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
     "imagem": "https://i.guim.co.uk/img/media/2360917dd51507c7f6ca3ce098e46dcad8fc2062/678_0_5004_4005/master/5004.jpg?width=140&quality=85&auto=format&fit=max&s=a453a4946463ba1fe492d7692279f599",
     "data": "2026-11-14T17:08:18.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Change to Ontario's 'safer-supply' opioid prescriptions abruptly paused due to legal challenge",
-    "resumo": "A controversial change to \"safer-supply\" opioid prescriptions in Ontario that would force recipients to take them in front of a pharmacist, rather than on their own schedule at home, has been abruptly paused due to a legal challenge. Critics said the proposal would drastically affect the lives of drug users while causing potential chaos a",
-    "link": "https://www.cbc.ca/news/canada/hamilton/safe-supply-drug-prescriptions-change-9.7421199?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/7baa9bc3-fd7e-40f6-99c3-ba5e99e1cb19,1794679514979/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C342%2C3648%2C2052%29%3B",
-    "data": "2026-11-14T17:01:28.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -718,15 +790,6 @@
     "link": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-14T16:47:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Rádio MEC exibe neste domingo programa inédito da série de Ruy Castro",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/radio-mec-exibe-neste-domingo-programa-inedito-da-serie-de-ruy-castro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/radio-mec-exibe-neste-domingo-programa-inedito-da-serie-de-ruy-castro",
-    "imagem": null,
-    "data": "2026-11-14T16:40:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -783,15 +846,6 @@
     "data": "2026-11-14T15:07:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Programa na Rádio MEC celebra Proclamação da República neste sábado",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/programa-na-radio-mec-celebra-proclamacao-da-republica-neste-sabado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/programa-na-radio-mec-celebra-proclamacao-da-republica-neste-sabado",
-    "imagem": null,
-    "data": "2026-11-14T15:05:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Here are our favorite deals from REI’s giant Holiday Sale",
@@ -844,15 +898,6 @@
     "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-14T14:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Alaska voters aren&apos;t ditching ranked choice voting, top-four primaries",
-    "resumo": "This is the second time Alaskans voted down an effort to repeal the state&apos;s unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/5191x3461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
-    "data": "2026-11-14T13:08:05.000Z"
   },
   {
     "categoria": "Opinião",
@@ -972,6 +1017,15 @@
     "data": "2026-11-14T09:22:00.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "4 decades ago, Robert Munsch attended Moira Green's birthday. Her story became a children's classic",
+    "resumo": "Four decades ago, Robert Munsch flew to the Northwest Territories in search of inspiration. The beloved author found it at Moira Green's sixth birthday party.",
+    "link": "https://www.cbc.ca/radio/moiras-birthday-robert-munsch-9.7419431?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5c45dc52-404d-45c1-9291-53c99396e56d,1794510413950/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1548%2C870%29%3B",
+    "data": "2026-11-14T09:00:00.000Z"
+  },
+  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Power creates wars; wars create power. But these compelling acts of storytelling are breaking the loop | Charlotte Higgins",
@@ -988,15 +1042,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
     "data": "2026-11-14T06:42:27.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Premier says Manitoba nearing limits of what it can do on affordability, so he's going after big corporations",
-    "resumo": "Manitoba Premier Wab Kinew says the provincial government is reaching the limits of what it can do to ease the cost of living without sacrificing the revenue needed to fund public services, and that corporate giants need to do their part.",
-    "link": "https://www.cbc.ca/news/canada/manitoba/affordability-cost-of-living-oil-companies-grocery-stores-9.7421904?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/88660b65-eb57-4bb3-9932-32c70b3db057,1794622155958/full/max/0/default.jpg?im=Crop%2Crect%3D%28180%2C0%2C3285%2C1847%29%3B",
-    "data": "2026-11-14T03:14:56.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1296,15 +1341,6 @@
     "data": "2026-11-13T12:00:17.000Z"
   },
   {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Superheated magma could fuel towering lava fountains",
-    "resumo": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes i",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
-    "imagem": null,
-    "data": "2026-11-13T11:56:39.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "What we know so far about the Microsoft outage",
@@ -1312,41 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-13T11:43:27.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
-    "resumo": "<p>As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it</p><p>And then there were five. While nothing has been officially announced, it is widely understood that <a href=\"https://www.theguardian.com/film/202",
-    "link": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007",
-    "imagem": "https://i.guim.co.uk/img/media/3b6fefef892541b4cbaa946c4cf1385b74aa8110/807_313_1562_1251/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=eb1c25ae1581278dd8a1145621c5caee",
-    "data": "2026-11-13T11:31:21.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-    "resumo": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand co",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-    "imagem": null,
-    "data": "2026-11-13T11:08:34.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Democrats need to fix these three weaknesses before 2028 | Dustin Guastella",
-    "resumo": "<p>Progressives should be careful not to get comfortable. There is work to be done</p><p></p><p>Democrats had a great midterms result. Big wins in Ohio, Georgia, Iowa, Maine and Texas show the potential for a majority coalition that reaches well beyond traditional liberal strongholds. That’s a good sign for the party’s chances come 2028.<",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-weaknesses-2028",
-    "imagem": "https://i.guim.co.uk/img/media/d771e37d33e7dffae3d545da2db937afaa050153/601_0_6013_4813/master/6013.jpg?width=140&quality=85&auto=format&fit=max&s=1ddb70664e71048c7911cb12304b5c46",
-    "data": "2026-11-13T11:00:16.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "The Sun unleashed a monster storm. Earth may have made it worse",
-    "resumo": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth&#039;s own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85% of the charged particles fueling the disturbance originated from Earth&#039;s upper atmosphere rather than the sola",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
-    "imagem": null,
-    "data": "2026-11-13T09:49:36.000Z"
   }
 ]
