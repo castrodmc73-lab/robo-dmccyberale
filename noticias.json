@@ -1,5 +1,131 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Two Planes Collide on a Taxiway at Miami International Airport",
+    "resumo": "The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, a day after a nationwide ground stop disrupted air travel.",
+    "link": "https://www.nytimes.com/2026/11/15/us/miami-airport-plane-collision-copa-ups.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-miami-airport-cgmp/15xp-miami-airport-cgmp-mediumSquareAt3X.jpg",
+    "data": "2026-11-15T05:47:32.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+    "resumo": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T05:05:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Presídios de MG têm 75 mil detentos para 41 mil vagas, 83% acima da capacidade, aponta levantamento",
+    "resumo": "Minas tem 75 mil presos para 41 mil vagas O sistema prisional de Minas Gerais opera com 83% de detentos acima da capacidade. Segundo levantamento do portal Geopresídios, do Conselho Nacional de Justiça (CNJ), são 75 mil presos para 41 mil vagas no estado. A superlotação preocupa pela segurança dentro das unidades, pelo risco de rebeliões ",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/presidios-de-mg-tem-75-mil-detentos-para-41-mil-vagas-83percent-acima-da-capacidade-aponta-levantamento.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/EfUpPpMca_GSJM1lSRmore1FqmQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/h/WRaA0fS2iB9x7Atr3gTQ/complexo-penitenciario-nelson-hungria-.jpg",
+    "data": "2026-11-15T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Segundo domingo de Enem 2026 em BH terá Catraca Livre, metrô ampliado e operação especial no trânsito",
+    "resumo": "Estudantes se preparam pra segundo dia do Enem Uma operação especial de trânsito e transporte será realizada em Belo Horizonte neste domingo (15) para facilitar o deslocamento dos candidatos que farão a segunda etapa do Exame Nacional do Ensino Médio (Enem) 2026. Além da gratuidade, garantida pelo programa Catraca Livre, 50 linhas de ônib",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/segundo-domingo-de-enem-2026-em-bh-tera-catraca-livre-metro-ampliado-e-operacao-especial-no-transito.ghtml",
+    "imagem": null,
+    "data": "2026-11-15T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Igreja recebe fios de cabelo de Carlo Acutis após sonho de missionário inspirar grupo de devoção no interior de SP",
+    "resumo": "Igreja recebe relíquia de Carlo Acutis após sonho de missionário inspirar grupo de devoção Um sonho levou o missionário Afonso Souza a criar um grupo de devoção a São Carlo Acutis em Socorro (SP). Anos depois, a iniciativa ajudou a comunidade a conseguir uma relíquia do santo italiano: alguns fios de cabelo, que chegaram em outubro a uma ",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/15/igreja-recebe-fios-de-cabelo-de-carlo-acutis-apos-sonho-de-missionario-inspirar-grupo-de-devocao-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nqjCkCuAWqM0IU42ES7bDo5vLmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/B/z6HsSHTnOg3NiAgZlbyg/design-sem-nome-17-.png",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Em tratamento de câncer desde os 7 anos, jovem presta Enem dentro de hospital e sonha ser médica: 'Quero achar cura para doenças'",
+    "resumo": "Jovem presta Enem dentro de hospital e sonha ser médica: 'Quero achar cura para doenças' As amigas Julia Faria, de 19 anos, e Nathalia Portilho, de 17, farão o segundo dia do Enem, neste domingo (15), em salas individuais no Centro Boldrini, hospital de Campinas (SP) referência no tratamento de câncer infantil. Ambas passam por tratamento",
+    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/em-tratamento-de-cancer-desde-os-7-anos-jovem-presta-enem-dentro-de-hospital-e-sonha-ser-medica-quero-achar-cura-para-doencas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fiI8waMgTb8asrRjck8mMoOTV20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/4/oiAtKJTfOy4joEbF9TLA/design-sem-nome-13-.png",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "BH e outras 843 cidades de MG estão sob aviso amarelo para tempestade; veja lista",
+    "resumo": "Municípios que estão sob aviso amarelo de tempestade Inmet Mais de 800 cidades de Minas Gerais, incluindo Belo Horizonte e Região Metropolitana, estão incluídas no aviso amarelo para tempestade do Instituto Nacional de Meteorologia (Inmet). O aviso é válido ao longo de todo o domingo (15). Apenas parte do Noroeste do estado não está inclu",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/bh-e-outras-843-cidades-de-mg-estao-sob-aviso-amarelo-para-tempestade-veja-lista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3BuqdSJOt1y0A1ZXMVgVRMS6b7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/mX668bRKmeYGBTXv2Wug/captura-de-tela-2026-11-14-102955-1-.png",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
+    "resumo": "Consultora de RH dá dicas para montar currículo e se destacar em entrevistas Foi durante um trajeto do aeroporto ao escritório que um candidato ao cargo de diretor financeiro da Duolingo perdeu a vaga sem nem saber, mesmo parecendo perfeito no papel. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 A empresa buscava havia quase um a",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/15/o-executivo-que-foi-grosseiro-com-motorista-e-perdeu-vaga-em-multinacional-o-teste-de-gentileza-que-o-duolingo-aplica-para-altos-cargos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hyyrlZHUvRAqCnEBuSRuDveBqdc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/hCDNTCTfGzYSA4oBs8IA/appp.jpg",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Praia e área de mar: conheça origem de região da Chapada dos Veadeiros que chama a atenção por rochas com piscinas naturais esculpidas pela água",
+    "resumo": "Conheça origem de região da Chapada dos Veadeiros que já foi praia A região da Chapada dos Veadeiros é conhecida pelas formações rochosas, cachoeiras e mirantes. Mas, segundo geólogos, a área esteve submersa pelo mar há mais de 1 bilhão de anos. Ainda de acordo com especialistas, o território se tornou praia, chegou a ser submersa de novo",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/15/praia-e-area-de-mar-conheca-origem-de-regiao-da-chapada-dos-veadeiros-que-chama-a-atencao-por-rochas-com-piscinas-naturais-esculpidas-pela-agua.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Wr_O0mlBQuheIJiWLb4xHj6ufag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/0/aTDZ5VQ96ftQZLPxKwQg/copia-de-copia-de-padrao-foto-g1-goias-93-.jpg",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cachorro que corta grama? Conheça robô quadrúpede que faz serviço de roçada e foi apresentado em SC",
+    "resumo": "Robô corta grama e poderá ser usado em serviços de roçada às margens de rodovias Um robô quadrúpede pode dar mais segurança em serviços de roçagem às margens de rodovias. O \"cachorro que corta grama\" foi apresentado em um evento de tecnologia em Florianópolis e está em fase de desenvolvimento. ✅Clique e siga o canal do g1 SC no WhatsApp \ud83e",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/15/robo-quadrupede-rocada-apresentado-sc.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MkXe7D7PgjTPYtgGA3C_wboxPQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/o/r0Q6mbRQizASSk9xuE1A/robo-que-corta-grama-4.jpg",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "UnB inaugura 1º placa de projeto que mapeia locais de memória da ditadura; DF tem 12 pontos na lista",
+    "resumo": "UnB inaugura primeira placa de projeto que identifica locais de memória da ditadura Mais de 300 locais históricos relacionados à repressão e à resistência durante a ditadura militar já foram identificados em diferentes regiões do Brasil. A iniciativa faz parte do projeto Lugares pela Memória, do Ministério dos Direitos Humanos e da Cidada",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/unb-inaugura-1o-placa-de-projeto-que-mapeia-locais-de-memoria-da-ditadura-df-tem-12-pontos-na-lista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AIwA7_RVABoICUzYJFoIVI-A_JI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/6/D2DWdwS7en5cAxpPiAuw/55650169185-9390de0314-k.jpg",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Livro 'Os imortais', da brasiliense Paulliny Tort, vai virar filme com produtora de 'Ainda estou aqui'",
+    "resumo": "Paulliny Tort Renato Parada/Divulgação Após vencer o Prêmio Literário Biblioteca Nacional, a escritora brasiliense Paulliny Tort vai estrear no cinema com o romance Os Imortais (2026), publicado pela Editora Fósforo. A obra será adaptada para o cinema pela RT Features, do premiado produtor Rodrigo Teixeira, um dos nomes responsáveis pela ",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/livro-os-imortais-da-brasiliense-paulliny-tort-vai-virar-filme-com-produtora-de-ainda-estou-aqui.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/awKL8AnsojoP9ve6_juoKJdBZLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/W/o59uGYSnafO0rFU1XjTQ/imagem-g1.png",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pai e filho criam tênis inspirado em andar descalço e faturam R$ 40 mil por mês",
+    "resumo": "Como pai e filho encontraram um nicho no mercado com tênis de conforto A busca por mais conforto ao caminhar levou pai e filho a transformarem uma insatisfação pessoal em negócio. Em São Paulo, Thomas Tevjovits e Nicolas Tevjovits criaram uma marca de tênis inspirada no conceito de \"pé no chão\", com modelos projetados para respeitar a ana",
+    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/15/pai-e-filho-criam-tenis-inspirado-em-andar-descalco-e-faturam-r-40-mil-por-mes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0YxkpuysrDWEIpBrMuigGohqG4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/sqxR2vQRyKZxIBqqk5Cg/captura-de-tela-2026-10-21-152150.png",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
+    "resumo": "Lula quer regular big techs até o fim do ano O presidente Luiz Inácio Lula da Silva (PT) já mencionou algumas vezes que pretende regular as redes sociais no Brasil. As falas se intensificaram depois das eleições, que ficaram marcadas por críticas de que as plataformas promoveram conteúdos enganosos sobre política. Segundo a GloboNews, a e",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/15/lula-vai-regular-redes-sociais-por-que-presidente-defende-mais-regras-e-o-que-pode-mudar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nw7pdk_tEbjDz40kXYW61AAMILw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/3/h2G4lTTvGS8NtJOUCtwg/jn-ato-meta-20261019-1708-frame-7500.jpeg",
+    "data": "2026-11-15T05:00:00.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
@@ -34,114 +160,6 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
     "data": "2026-11-15T04:28:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este domingo (15) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol,",
-    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7vIV3w_ndnwHzGDaR3UBBt8z-qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/TdMrjFRJSayNlZgFRp2Q/previsao-tempo-bras-lia-20261115-011717.jpeg",
-    "data": "2026-11-15T04:17:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este domingo (15) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol, p",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/oGdRSf0EIXVJYToC86-dMMCrdtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/X/eTQ8quQHOy89SftuQ7Yg/previsao-tempo-goi-nia-20261115-011659.jpeg",
-    "data": "2026-11-15T04:17:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este domingo (15) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. N",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-wqcZG6E83ujYkohT3brvrjyR3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/J/NSr3AGQqSrPoCJbaHvcQ/previsao-tempo-aparecida-de-goi-nia-20261115-011628.jpeg",
-    "data": "2026-11-15T04:16:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para este domingo (15) para Cuiabá (MT) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 36ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol c",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GY3LwcVh_97mo46oIDEvofPvkQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/Dk1Rh5SZWzJeJFIJRSWg/previsao-tempo-cuiab-20261115-011612.jpeg",
-    "data": "2026-11-15T04:16:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para este domingo (15) para Campo Grande (MS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 32ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tar",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nOOW8vPkEveA9i__KBDKyfC8MVo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/TniNPiSzKQFJBWBIgGBQ/previsao-tempo-campo-grande-20261115-011554.jpeg",
-    "data": "2026-11-15T04:16:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este domingo (15) para Porto Alegre (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tar",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2fzVqGzbGx6ZTlHu8VKldTyu07w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/D/hAZrUJSga2yIyn68kuLw/previsao-tempo-porto-alegre-20261115-011531.jpeg",
-    "data": "2026-11-15T04:15:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este domingo (15) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da t",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/cYOKmjBcdS_g7sLjVSmcowluBWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/S/cBjnQAQ5S1un4f3p0KNA/previsao-tempo-caxias-do-sul-20261115-011509.jpeg",
-    "data": "2026-11-15T04:15:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este domingo (15) para Joinville (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, so",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-joinville-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/l_eMbouRzLFLnHMeCLyHMCNPG4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/n/SEc1yQRbKuNGmbhvlWFg/previsao-tempo-joinville-20261115-011443.jpeg",
-    "data": "2026-11-15T04:15:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para este domingo (15) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da t",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Opvttk2Sv0fzyBD0F0DYGlAL-F4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/h/hXtwgjT626Pzy8lyTwNw/previsao-tempo-florian-polis-20261115-011417.jpeg",
-    "data": "2026-11-15T04:14:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para este domingo (15) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol, p",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_pZKrrrVOeeajpHsx55TZfDJIbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/3/FlSeAbRaiAYwCUAH9y8Q/previsao-tempo-maring-20261115-011402.jpeg",
-    "data": "2026-11-15T04:14:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para este domingo (15) para Londrina (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de ch",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-londrina-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6VJuxnmKNc-84NKEXPB-rv6KUeo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/V/APbcUNQlAaZHFAn5WT7w/previsao-tempo-londrina-20261115-011345.jpeg",
-    "data": "2026-11-15T04:13:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para este domingo (15) para Curitiba (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 16ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol,",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/15/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0cOKF_GKEc993XmvcDQP782gasU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/N/k919SXQnmioUMDnAyX4Q/previsao-tempo-curitiba-20261115-011327.jpeg",
-    "data": "2026-11-15T04:13:40.000Z"
   },
   {
     "categoria": "Internacional",
@@ -218,7 +236,7 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+    "titulo": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
     "resumo": "Fighting escalates in Yemen&#039;s Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
     "link": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
     "imagem": null,
@@ -331,15 +349,6 @@
     "link": "https://www.nytimes.com/2026/11/14/us/unlike-other-countries-americas-government-funds-its-air-infrastructure.html",
     "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-privatize-topart-01-lgmb/14faa-groundstop-privatize-topart-01-lgmb-mediumSquareAt3X.jpg",
     "data": "2026-11-15T00:41:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hundreds of men march in Switzerland to protest violence against women",
-    "resumo": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T00:27:14.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -547,15 +556,6 @@
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/recnplay-rede-social-sem-territorio-nao-vira-voto-diz-deputado",
     "imagem": null,
     "data": "2026-11-14T20:55:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Here’s Why It Could Take Days for Flights to Return to Normal",
-    "resumo": "With hundreds of planes out of position and crews out of hours, restarting the nation’s flight system is no easy task.",
-    "link": "https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-bouncing-back-topart-ztjq/14faa-groundstop-bouncing-back-topart-ztjq-mediumSquareAt3X.jpg",
-    "data": "2026-11-14T20:48:54.000Z"
   },
   {
     "categoria": "Estados Unidos",
