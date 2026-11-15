@@ -1,5 +1,194 @@
 [
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Canada is spending more than ever on health care. Are we getting our money's worth?",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/health/canada-health-care-spending-9.7419956?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.3941692,1484774970000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+    "data": "2026-11-15T09:00:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como preparar seu filho para um mundo em transformação?",
+    "resumo": "Atividade pedagógica em unidade da rede Divulgação Red House Escolher uma escola é também pensar nas possibilidades que uma criança terá para descobrir seus interesses, construir relações e encontrar seu lugar no mundo. Em meio às mudanças tecnológicas e às novas formas de trabalhar e se comunicar, uma pergunta ganha importância para as f",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/red-house-international-school-uberlandia/noticia/2026/11/15/como-preparar-seu-filho-para-um-mundo-em-transformacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/M1qOUrmmvG6bPAvmM-bg4UHsv8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/p/KqJK6jSXuous6vLRFBVw/imagem3.jpg",
+    "data": "2026-11-15T09:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Enem 2026: segundo dia de provas acontece neste domingo (15) para mais de 140 mil candidatos na Paraíba",
+    "resumo": "Candidatos do Enem em Campina Grande Lídice Pegado / TV Paraíba O segundo dia de provas do Exame Nacional do Ensino Médio (Enem) 2026 acontece neste domingo (15) na Paraíba. Ao todo, 140.745 candidatos estão inscritos no exame no estado, segundo dados do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). ✅ Cliq",
+    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/15/enem-2026-segundo-dia-de-provas-acontece-neste-domingo-15-para-mais-de-140-mil-candidatos-na-paraiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7-AsJpgvgoIG7kYejWCAsfNSDjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/r/IZGhm7Tierocs6DDlF3g/enem-2024-paraiba.jfif",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quem eram as irmãs de 92 e 98 anos que morreram com 1 hora de diferença em SC: ‘viveram com coragem'",
+    "resumo": "Quem eram as irmãs de 92 e 98 anos que morreram com 1 hora de diferença em SC Rosa Catarina Colombi Tachini e Agatha Domingas Colombi Maestri foram descritas pelos familiares como mulheres de muita fé, coragem, paciência e amor. As irmãs, de 92 e 98 anos, morreram com menos de uma hora de diferença na quarta-feira (11), em Botuverá, no Va",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/15/quem-eram-irmas-92-98-anos-morreram-1-hora-diferenca-sc.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JeTpWJx1uq9zXryK8PEk2TppwQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/E/ZonaqUQxuuPFZNCULBjw/irmas-botuvera-1.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Impressão digital' no focinho: entenda como tecnologia usa biometria para identificar bovinos pelo celular",
+    "resumo": "Tecnologia usa impressão do focinho para identificar animais e ajudar produtores Assim como cada pessoa possui uma impressão digital única, os bovinos também carregam uma característica exclusiva ao longo de toda a vida: o espelho nasal. A região do focinho é formada por desenhos e sulcos que não se repetem entre os animais. E é justament",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/agronegocios/noticia/2026/11/15/impressao-digital-no-focinho-entenda-como-tecnologia-usa-biometria-para-identificar-bovinos-pelo-celular.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Pe3u4DxUHeBZsI9UwBmAFqLkPuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/C/TWyPgKSAm2W4cTaFlckQ/impressao-do-focinho-boi.png",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rio lidera número de viagens de moto por aplicativo no país; mulheres representam 60% dos usuários",
+    "resumo": "Uber Moto Uber Para muitos trabalhadores, chegar ao emprego depende não somente de pegar um ônibus, trem ou metrô. Em trajetos nos quais o transporte público não chega, em regiões com poucas opções de circulação ou em horários com oferta reduzida/ lotação de coletivos, o mototáxi e o motoUber se tornaram uma alternativa para viabilizar o ",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/rio-lidera-numero-de-viagens-de-moto-por-aplicativo-no-pais-mulheres-representam-60percent-dos-usuarios.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-UHu-k_feaP8ioZC-ygds3ttu3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/e/X/Ur8DFSQzCRBjlss4sscA/unnamed.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pais surpreendem filhos ao buscá-los na escola em despedida do ensino médio; VÍDEO",
+    "resumo": "Pais surpreendem filhos ao buscá-los na escola em despedida do ensino médio Na saída da escola, os formandos do terceiro ano encontraram uma cena que, para muitos, não se repetia havia anos: pais e familiares à espera no pátio do colégio, como nos tempos de criança. Desta vez, os familiares trouxeram um carinho a mais para a despedida: ve",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/15/pais-surpreendem-filhos-ao-busca-los-na-escola-em-despedida-do-ensino-medio-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BhWqQrVIZhuFiFtmE8V1ssxZaYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/9yVeUFSmG1y6BziDfuEQ/foto-pais-alunos.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Natal 2026: saiba onde visitar o Papai Noel em Divinópolis e região",
+    "resumo": "Dezembro nem chegou, mas o clima de Natal já começa a tomar conta do Centro-Oeste de Minas. Divinópolis e outras cidades já se preparam para receber o Papai Noel. 🎄Para pessoas de todas as idades que querem garantir um registro fotográfico sozinho ou em família, ou deixar uma cartinha na caixa do Papai Noel, o g1 divulga uma lista com os",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/15/natal-2026-saiba-onde-visitar-o-papai-noel-em-divinopolis-e-regiao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cuPBnIWYkV7tIJdTqnTHXa43_l0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/8/h/AjoN1QRmCprfFEVRSXcQ/decoracao-01.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Milhares de estudantes em Goiás devem fazer o 2º dia de provas do Enem 2026; veja erros mais comuns e o que levar",
+    "resumo": "Segundo dia do Enem terá questões de matemática e ciências da natureza Milhares de estudantes em Goiás devem fazer o segundo dia de provas do Exame Nacional do Ensino Médio (Enem) neste domingo (15). A prova será composta por 90 questões objetivas, sendo 45 de matemática e suas tecnologia e 45 de ciências da natureza e suas tecnologias. ✅",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/15/milhares-de-estudantes-em-goias-devem-fazer-o-2o-dia-de-provas-do-enem-2026-veja-erros-mais-comuns-e-o-que-levar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/g8F-o374t1N1yNaxNnWI3sVT1vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/qrRR8VQQKnNou1766qIg/midia-de-distribuicao-g1-34-.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Projeto da UFRR leva assistência especializada a criadores de ovelhas e carneiros em Boa Vista",
+    "resumo": "Projeto oferece apoio técnico para criadores de ovinos Criadores de ovelhas e carneiros de Boa Vista podem contar com acompanhamento especializado do projeto Ovino Plus. A iniciativa, desenvolvida pelo Centro de Ciências Agrárias da Universidade Federal de Roraima (UFRR), orienta os produtores rurais sobre alimentação, manejo e prevenção ",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/projeto-da-ufrr-leva-assistencia-especializada-a-criadores-de-ovelhas-e-carneiros-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-KeK7SwvYVk6hGPU4gf7pyL-OPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/GjsPd3SOSsBdx7dtucWg/ovinoplus-1-.png",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Marechalwood': Câmara aprova projeto para tornar Marechal Hermes distrito do audiovisual",
+    "resumo": "'Narciso', foi um dos filmes que teve locações em Marechal Hermes Reprodução A Câmara Municipal do Rio de Janeiro aprovou esta semana, em segunda discussão, o projeto de lei que reconhece Marechal Hermes, na Zona Norte, como Distrito de Economia Criativa do Audiovisual. A proposta, de autoria das vereadoras Tatiana Roque e Joyce Trindade,",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/marechalwood-camara-aprova-projeto-para-tornar-marechal-hermes-distrito-do-audiovisual.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YAqSleBoJ4okjVamc4GHtDMuAN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/7/3SuzoUS7uI7gVmUfGIRw/still-narciso-arthur-ferreira-narciso-casa-foto-mamadou-diop-.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Aprenda a fazer bolo salgado de tapioca com queijo coalho",
+    "resumo": "Aprenda a fazer bolo salgado de tapioca com queijo coalho A tapioca granulada e o queijo coalho são os protagonistas de uma receita que promete diversificar o cardápio: o bolo salgado de tapioca. Com ingredientes comuns e preparo fácil, a opção leva manteiga da terra e ovos, resultando em uma massa macia e com queijo dourado na superfície",
+    "link": "https://g1.globo.com/rn/rio-grande-do-norte/bom-que-so/noticia/2026/11/15/aprenda-a-fazer-bolo-salgado-de-tapioca-com-queijo-coalho.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5Q7eckksMRjP62Yr3kDy3ezdx5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/Qg1eGxSGOGftba1tGp5A/whatsapp-image-2026-11-13-at-18.28.09.jpeg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carnaval 2027: veja os dias e locais dos ensaios de rua das escolas do Grupo Especial do Rio",
+    "resumo": "Escolas fazem ensaios de rua para o carnaval 2027 Anderson Bordê/Agnews; Divulgação; Divulgação; Elsson Campos/Divulgação e Divulgação A preparação das escolas de samba do Grupo Especial do carnaval do Rio está pegando fogo, e todas as agremiações já deram início à temporada de ensaios de rua. ✅Clique aqui para seguir o canal do g1 RJ no ",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2027/noticia/2026/11/15/carnaval-2027-veja-os-dias-e-locais-dos-ensaios-de-rua-das-escolas-do-grupo-especial-do-rio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KC8VGo3xcJOc0zeuJ0XGfa8i_ek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/0/y33kqaTSO2dUvV9tcBRg/imagem-cortada-59-.jpg",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Why researchers are using drones to keep polar bears and people apart",
+    "resumo": "While studies have shown drone hazing to be effective on black bears, researchers are now trying to see if it works with polar bears — a bigger, more curious and more aggressive species. The goal is to adapt the technology to Canada's North and try to take some of the risk out of managing the bears.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/drone-polar-bear-churchill-9.7418301?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/de9cf531-5f49-4c90-b58a-83f755138c4a,1794594971868/full/max/0/default.jpg?im=Crop%2Crect%3D%28146%2C101%2C1639%2C921%29%3B",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Has treatment for stuttering been off base? New guidelines go beyond speech to the brain",
+    "resumo": "More than 80 million people worldwide stutter, yet misconceptions on it persist in the medical field, and access to appropriate care can be limited. New international medical guidelines aim to change that.",
+    "link": "https://www.cbc.ca/radio/thecurrent/stuttering-medical-guidelines-treatment-9.7419121?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/eaca4aed-cc53-438d-81af-565631a7e34e,1794510547497/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C5985%2C3366%29%3B",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Facing 'uncomfortable' questions, King Charles shows the 'soft power' of the Crown",
+    "resumo": "As with trips to Canada in 2025 and the United States earlier this year, King Charles's recent visit to the Caribbean saw him walking something of a diplomatic tightrope at a politically charged time. There seems to be an emerging pattern.",
+    "link": "https://www.cbc.ca/news/world/king-charles-caribbean-visit-soft-power-royals-remembrance-9.7421094?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/ef3bd8a7-35d8-46c6-b73d-6df0e91906dd,1794597246129/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C1024%2C576%29%3B",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Scientists race to discover and protect what lives in the ocean",
+    "resumo": "Scientists say not knowing what lives in our oceans holds back efforts to protect them. Marine biologists are racing to catalogue species — from carnivorous sponges to otherworldly sea slugs. Here's a closer look at the creatures hidden in our seas and how humans rely on them more than most realize.",
+    "link": "https://www.cbc.ca/news/science/marine-biodiversity-cop31-9.7419543?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/8395fffa-3ec2-46cd-95ce-1a792914ac37,1794583775137/full/max/0/default.jpg?im=Crop%2Crect%3D%28635%2C0%2C3605%2C2027%29%3B",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "3 months after mass entry, some 15,000 migrants remain in Ceuta",
+    "resumo": "Three months after the mass entry into Ceuta, many migrants still hope the Spanish enclave will offer them a route to mainland Europe. Local authorities and residents are struggling with the surge.",
+    "link": "https://www.cbc.ca/news/world/ceuta-spain-migrant-crisis-remaining-9.7420982?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/faee8fb2-93ff-45f2-9f36-7126c9e4a5a4,1794594308619/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "data": "2026-11-15T09:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "AI cheating scandal rattles South Korea as annual college exam looms",
+    "resumo": "<p>Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool</p><p>The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative ",
+    "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "imagem": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
+    "data": "2026-11-15T08:56:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "India pulled 500m people out of poverty. Many of them still barely survive",
+    "resumo": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+    "link": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T08:49:47.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Thousands in Portugal protest against surging rental prices",
+    "resumo": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T08:40:37.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
@@ -21,7 +210,7 @@
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Jordan sentences three men to death by hanging after deadly church attack",
-    "resumo": "This is a breaking news story.",
+    "resumo": "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people.",
     "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T08:15:04.000Z"
@@ -34,15 +223,6 @@
     "link": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T08:07:08.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Traficante Predador passou 5 meses na guerra da Ucrânia mesmo condenado por tráfico no Brasil",
-    "resumo": "Conhecido como Predador, Luiz André dos Santos Souza foi condenado por tráfico de drogas em outubro de 2024 Reprodução O traficante Luiz André dos Santos Souza, de 26 anos, conhecido como Predador, viajou para lutar na guerra da Ucrânia este ano mesmo após ter sido condenado por tráfico de drogas desde 2024. Ele foi preso nesta semana por",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/traficante-predador-guerra-da-ucrania-condenado-trafico-brasil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GSliS4MVS_rsQezokqeLq94hCOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/c/uZJzEJQfSw6Qi3ZnTjxw/imagem-cortada-57-.jpg",
-    "data": "2026-11-15T08:03:02.000Z"
   },
   {
     "categoria": "Opinião",
@@ -63,87 +243,6 @@
     "data": "2026-11-15T08:00:07.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Menina de 6 anos conquista a internet com vídeos da rotina na roça em MG",
-    "resumo": "Menina de 6 anos conquista a internet com vídeos da rotina na roça Há seis anos, a pequena Helena Simão, vive na zona rural de Patrocínio do Muriaé, onde cresceu em contato com a natureza e os animais. Parte da rotina dela é dedicada a acompanhar os pais nos cuidados com os bichinhos da fazenda. A família trabalha com a criação de peixes ",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/15/video-menina-de-6-anos-conquista-a-internet-com-videos-da-rotina-na-roca-em-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/t7LDL00H_M20AwY5X4WJTjf2OVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/M/HcteQ0Qdaeeg5ud8B44Q/galinha-tomando-banho.jpg.jpeg",
-    "data": "2026-11-15T08:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Baiano destaca luta coletiva após vencer preconceitos para concluir Medicina na USP: 'Minha história foi marcada por muita labuta'",
-    "resumo": "Baiano se forma em Medicina na USP após vencer dificuldades financeiras e preconceitos O baiano Otoniel Souza dos Santos se formou em Medicina na Universidade de São Paulo (USP), neste mês de novembro, após anos de dedicação aos estudos e de enfrentamento a preconceitos e limitações econômicas. Filho de um ajudante de pedreiro e de uma em",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/15/baiano-destaca-luta-coletiva-apos-vencer-preconceitos-para-concluir-medicina-na-usp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pIZ4-cFvCCHkDogCgyUJOUNNbuk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/i/jm8oG2SeuB8b7j2lCvMg/otoniel.png",
-    "data": "2026-11-15T08:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Palmas terá reforço nas linhas de ônibus no segundo dia do Enem; confira",
-    "resumo": "Confira dicas para otimizar o tempo no segundo dia do Enem Os participantes do Exame Nacional do Ensino Médio (Enem) em Palmas poderão contar com reforço nas linhas de ônibus do transporte coletivo. No segundo dia de aplicação da prova, neste domingo (12), os estudantes responderão às questões de Matemática e Ciências da Natureza. Os cand",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/15/palmas-tera-reforco-nas-linhas-de-onibus-no-segundo-dia-do-enem-confira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1W3R5Vd-bfN5iCkplkdglT-19Dw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/1/5LeFGcS3ehhstBZJIZ3g/edicao-imagens-g1-7-.jpg",
-    "data": "2026-11-15T08:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Empresa paranaense desenvolve tecnologia para evitar sequestros e trocas de bebês em maternidades",
-    "resumo": "Empresa paranaense desenvolve tecnologia para evitar sequestros e trocas de bebês As linhas das digitais de um recém-nascido são tão pequenas que passam despercebidas por leitores biométricos convencionais. Foi para captar estes detalhes que a Infant.ID, empresa fundada em Curitiba, desenvolveu uma tecnologia capaz de coletar a biometria ",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/15/empresa-paranaense-desenvolve-tecnologia-para-evitar-sequestros-e-trocas-de-bebes-em-maternidades.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Ju4oFn_KS7kX8pKY_yy6MtSPAVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/m/XyZEQNSQKhNLzAqhhnvA/novo-projeto-44-.png",
-    "data": "2026-11-15T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dunas cobrem pista que dá acesso a distrito no Ceará e dificultam chegada de água e alimento: 'ficamos isolados'",
-    "resumo": "Dunas móveis soterram pista em Barroquinha, no Ceará Moradores de Bitupitá, distrito de Barroquinha, no interior do Ceará, relatam dificuldades para transitar após o avanço de dunas sobre um trecho da CE-187. A estrada liga a sede do município à localidade litorânea de seis mil habitantes, conhecida pelo turismo e pela pesca. Vídeos grava",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/15/dunas-cobrem-pista-que-da-acesso-a-distrito-no-ceara-e-dificultam-chegada-de-agua-e-alimento-ficamos-isolados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/l63F1k7QXiV57jsulbu2v0dc_Hc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/8/YYWO60TbWzfiRDwgo6sQ/duna-toma-estrada-no-ceara.jpg",
-    "data": "2026-11-15T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Escritor Raphael Montes comenta uso de 'O Jantar Secreto' em redação do Enem de estudante do PI",
-    "resumo": "Escritor Raphael Montes comenta uso de 'O Jantar Secreto' em redação do Enem de estudante do PI Reprodução O escritor Raphael Montes comentou o uso do livro O Jantar Secreto na redação de Natanielle Rodrigues de Sousa, de 17 anos, moradora da localidade Santa Luz de Baixo, na zona rural de Teresina. A estudante está participando do Exame ",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/15/escritor-comenta-redacao-enem.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/oNWkDK58XjLHx5QlaTZ59YJD1D8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/c/J2ri0YSZiqfblpqVBGsA/edicao-imagens-g1-14-.jpg",
-    "data": "2026-11-15T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sem opções de cursinhos no interior de Roraima, jovem concilia trabalho e estudo em casa para o Enem: 'divisão das matérias'",
-    "resumo": "Para organizar a rotina, Andressa estudava sozinha e separava os conteúdos por dia e estudava por duas horas Arquivo A estudante Andressa de Souza, de 19 anos, conciliou a rotina de trabalho com os estudos em casa para tentar uma vaga no ensino superior pelo Exame Nacional do Ensino Médio (Enem). Moradora de Rorainópolis, no Sul de Roraim",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/sem-opcoes-de-cursinhos-no-interior-de-roraima-jovem-concilia-trabalho-e-estudo-em-casa-para-o-enem-divisao-das-materias.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bm06OkMXJpbbyZwGsxfYq5Av9Kg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/H/7jFRPqSIGzRGdB17rAgA/estudante-2-.jpeg",
-    "data": "2026-11-15T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
-    "resumo": "O g1 passou um dia com a vaca mais cara do mundo; veja como foi A vaca mais cara do mundo é brasileira, tem cinco donos e três clones para chamar de seus. Avaliada em R$ 54 milhões, Donna FIV CIAV nasceu no Paraná e hoje vive na fazenda Mata Velha, em Uberaba (MG). A rotina de Donna é cercada de cuidados especiais: ela toma dois banhos po",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/15/o-g1-acompanhou-a-rotina-da-vaca-mais-cara-do-mundo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OSl3vS_i597M4_ogu4ESCWeSX44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/V/1QugYqTmK4BBGKF5HXyg/donna-toma-banho.jpg",
-    "data": "2026-11-15T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ameaças de bomba, sabotagem de refrigeradores e desinformação: guerra híbrida chegou enfim à Europa?",
-    "resumo": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas Nas últimas semanas, uma série de episódios assustou a população da Europa e elevou o nível de alerta no continente: ameaças de bomba, ataques hackers e correntes de desinformação afetaram dezenas de países. Mas, afinal, existe uma guerra híbrida em solo eur",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/15/ameacas-de-bomba-sabotagem-de-refrigeradores-e-desinformacao-guerra-hibrida-chegou-enfim-a-europa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gGVtjw7Mfis4EWrXKTRtksbZpOw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/NJRrGKQvCcNgmBqfKQhQ/2026-11-11t165904z-468325874-rc2ploax1ohv-rtrmadp-3-russia-csto-putin.jpg",
-    "data": "2026-11-15T08:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
@@ -151,15 +250,6 @@
     "link": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T07:30:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Confira as vagas do SineBahia desta segunda-feira (16) para cidades do interior",
-    "resumo": "Saiba como aproveitar as oportunidades do Simm e SineBahia O SineBahia, órgão estadual de intermediação para o trabalho de forma gratuita, divulgou as vagas de emprego e estágio disponíveis para esta segunda-feira (16) em cidades do interior. Há oportunidades em Jequié, Itabuna, Senhor do Bonfim e Barreiras. Nessa matéria você vai encontr",
-    "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/11/15/confira-as-vagas-do-sinebahia-para-cidades-do-interior-segunda-quinzena-de-novembro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg",
-    "data": "2026-11-15T07:30:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -178,15 +268,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-15T07:10:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Pesquisadora' de 5 anos viraliza ao apresentar trabalho sobre cogumelos em feira de ciências no RS",
-    "resumo": "'Pesquisadora' de 5 anos viraliza ao apresentar trabalho em feira de ciências no RS Aos 5 anos, uma pequena \"pesquisadora\" encantou o público ao se apresentar em uma feira de ciências. Antonella Dubal Piber é aluna do pré na Escola Municipal de Educação Infantil (Emei) Boca do Monte, em Santa Maria, na Região Central do Rio Grande do Sul.",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/menina-viraliza-feira-ciencias-santa-maria-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/10_MEznKEodCrB8A0mxJ1Il9700=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/7/upqiQ1TxaBRofaKeVOLA/g1-3-.jpg",
-    "data": "2026-11-15T07:00:01.000Z"
   },
   {
     "categoria": "Internacional",
@@ -261,15 +342,6 @@
     "data": "2026-11-15T04:31:56.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Video shows moment of Brooklyn building collapse from inside",
-    "resumo": "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T04:31:55.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
@@ -277,15 +349,6 @@
     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
     "data": "2026-11-15T04:28:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Zimbabwe’s HIV gains face a test among young people",
-    "resumo": "New prevention tools offer hope, but reaching young people remains a challenge.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T04:13:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -309,7 +372,7 @@
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-    "resumo": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+    "resumo": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-15T03:21:04.000Z"
@@ -486,15 +549,6 @@
     "data": "2026-11-14T22:10:42.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-    "resumo": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-    "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-14T22:09:40.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Defense Contractor L3Harris Was Behind Upgrade That Led to Ground Stop",
@@ -576,15 +630,6 @@
     "data": "2026-11-14T21:26:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Stranded B.C. flyers out thousands amid flight cancellations due to Friday's ground stop",
-    "resumo": "Some frustrated Air Canada passengers say spotty communication and a lack of rebooking help has left them paying thousands out of pocket amid widespread flight cancellations due to the FAA-ordered ground stop Friday.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/customers-frustrated-paying-for-accommodation-after-cancellations-9.7422364?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/79810231-71e4-4c27-9232-9b6a8218d2a9,1794688889144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C1337%2C752%29%3B",
-    "data": "2026-11-14T21:18:50.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Democrats push back on Duffy’s demand for $50 billion to upgrade air traffic systems.",
@@ -592,15 +637,6 @@
     "link": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/democrats-congress-faa",
     "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-congress-topart-vfbw/14faa-groundstop-congress-topart-vfbw-mediumSquareAt3X.jpg",
     "data": "2026-11-14T21:15:09.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "AFC Toronto beats Montreal Roses to win 1st NSL title",
-    "resumo": "Olivia Chisholm's first-half goal allowed AFC Toronto to capture its first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
-    "link": "https://www.cbc.ca/sports/soccer/nsl-final-montreal-roses-afc-toronto-9.7421039?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4ab63838-da97-47a7-a737-a55fd334505a,1794710002804/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C59%2C4262%2C2397%29%3B",
-    "data": "2026-11-14T21:09:30.000Z"
   },
   {
     "categoria": "Brasil",
@@ -702,15 +738,6 @@
     "data": "2026-11-14T19:06:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-    "resumo": "<p>Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok</p><p>Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, <a href=\"https://youtu.be/ccfIW1zsNdM?si=_hxvLB6itaDQmCun\">Sobra-Sobra</a>, to victory in Bangkok on Saturday night, at the <a href=\"h",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-    "imagem": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e",
-    "data": "2026-11-14T19:01:32.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "In an age of grievance politics, Australia’s politicians should heed the lessons from US and New Zealand and rise above mediocrity | Zoe Daniel",
@@ -763,15 +790,6 @@
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/coritiba-lanca-camisa-com-enedina-marques-em-alusao-ao-20-de-novembro",
     "imagem": null,
     "data": "2026-11-14T18:22:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Carney says he will not boycott APEC 'family photo' with Putin",
-    "resumo": "Prime Minister Mark Carney says he will participate in an upcoming group photo with Russian President Vladimir Putin at the APEC summit out of respect for the host, Chinese President Xi Jinping.",
-    "link": "https://www.cbc.ca/news/politics/carney-apec-boycott-photo-putin-9.7422267?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B",
-    "data": "2026-11-14T18:18:59.000Z"
   },
   {
     "categoria": "Internacional",
@@ -865,6 +883,15 @@
   },
   {
     "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+    "resumo": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+    "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg",
+    "data": "2026-11-14T15:42:54.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "AfD lança ex-jogador da Alemanha como candidato à Presidência",
     "resumo": "Partido de ultradireita apostou em nome \"do centro da sociedade que pode representar todos os alemães\". Cargo provavelmente será ocupado pela primeira vez por uma mulher.",
@@ -916,15 +943,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
     "imagem": "https://i.guim.co.uk/img/media/fd3cab3eb7b2ce66614e6f1cb34d1a8ad00a14b4/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=df464b90a4cb85c1f1f4fcd35590fce4",
     "data": "2026-11-14T14:00:46.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Vancouver duo's song goes viral after featuring in Grand Theft Auto VI",
-    "resumo": "Bob Moses didn’t have to steal a car, pull off a heist, or even pick up a controller to score big with Grand Theft Auto VI. All the Vancouver-based electronic duo needed was a killer song and an email from Rockstar Games.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/grand-theft-auto-vi-gta-bob-moses-song-vancouver-9.7420997?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/04542268-e8ec-4b66-9fb0-5e650d315d3e,1794595421862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C428%2C8192%2C4608%29%3B",
-    "data": "2026-11-14T14:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1042,15 +1060,6 @@
     "link": "https://www.dw.com/pt-br/exposição-em-berlim-examina-conexão-entre-colonialismo-e-nazismo/a-79922334?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-14T09:22:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "4 decades ago, Robert Munsch attended Moira Green's birthday. Her story became a children's classic",
-    "resumo": "Four decades ago, Robert Munsch flew to the Northwest Territories in search of inspiration. The beloved author found it at Moira Green's sixth birthday party.",
-    "link": "https://www.cbc.ca/radio/moiras-birthday-robert-munsch-9.7419431?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/5c45dc52-404d-45c1-9291-53c99396e56d,1794510413950/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1548%2C870%29%3B",
-    "data": "2026-11-14T09:00:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/music/2026/nov/13/the-weeks-best-new-tracks-and-the-act-you-need-to-know-acrobatic-lagos-producer-azzi-on-the-beat",
     "imagem": "https://i.guim.co.uk/img/media/e4956f684f3f782c2e06eb71f830617e06ba60bb/0_1090_3368_2695/master/3368.jpg?width=140&quality=85&auto=format&fit=max&s=ccd1c16491f506bcfe1639589e18ad57",
     "data": "2026-11-13T12:00:17.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "What we know so far about the Microsoft outage",
-    "resumo": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-    "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
-    "data": "2026-11-13T11:43:27.000Z"
   }
 ]
