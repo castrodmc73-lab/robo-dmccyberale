@@ -1,30 +1,156 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Distribuição gratuita de mudas transforma quintais e produz alimentos saudáveis em casas de MG",
-    "resumo": "Programa transforma quintais em hortas e incentiva alimentação saudável em MG Não é preciso morar na zona rural para cultivar alimentos frescos e ter uma horta em casa. Em Pará de Minas, o programa Quintais Produtivos incentiva moradores a transformar pequenos espaços residenciais em áreas de cultivo, com a distribuição gratuita de mudas ",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/15/distribuicao-gratuita-de-mudas-transforma-quintais-e-produz-alimentos-saudaveis-em-casas-de-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gLTL-nVvb5ThAcj2FB4rmKc4uNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/W/h4yK5tT3yWXCIxtPLdbA/viveiro-de-mudas.jfif",
-    "data": "2026-11-15T21:10:58.000Z"
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+    "resumo": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes &#38; Ladders ranks among their best. It doesn't have the seamless throughline production-wise that their collabs with Alchemist [&#8230",
+    "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a0664469113_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-15T21:49:22.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+    "resumo": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang.",
+    "link": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-mediumSquareAt3X.jpg",
+    "data": "2026-11-15T21:44:40.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Homem fica preso em porta giratória de banco e ofende vigilante com insulto racista em MG",
-    "resumo": "Homem preso por injúria racial contra vigilante de banco em Araguari Polícia Militar/Divulgação Um homem foi preso por injúria racial após proferir ofensas racistas contra um vigilante de uma agência bancária de Araguari, no Triângulo Mineiro, na última sexta-feira (13). Segundo testemunhas, o suspeito teria se exaltado após ficar preso n",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/15/homem-fica-preso-em-porta-giratoria-de-banco-e-ofende-vigilante-com-insulto-racista-em-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gCANtbhefb6bQNZkEzGVDSRNHBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/5DhPppRj2BocBzTxHl0w/jl-midia-4-.jpg",
-    "data": "2026-11-15T21:08:46.000Z"
+    "titulo": "Incêndio em Monte Alegre mobiliza aviões do governo federal e apoio do Exército",
+    "resumo": "Chamas avançam e aviões atuam no combate ao fogo em Monte Alegre, no PA. O combate ao incêndio florestal em Monte Alegre, no oeste do Pará, ganhou o reforço de aeronaves do governo federal e a autorização de apoio do Exército Brasileiro. A informação foi confirmada pela Secretaria Municipal de Meio Ambiente, que coordena os trabalhos junt",
+    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/15/incendio-em-monte-alegre-mobiliza-avioes-do-governo-federal-e-apoio-do-exercito.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tInMy5BmqHfXzqjHnwyRPiyGISg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/6/rt9O27SuGAoJH4K5mhqA/whatsapp-image-2026-11-15-at-18.36.32-1-.jpeg",
+    "data": "2026-11-15T21:42:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Na Amazônia, Leão 14 condena \"exploração irresponsável\" da floresta",
+    "resumo": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
+    "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-15T21:41:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "IA reacende debate sobre renda básica universal na Alemanha",
+    "resumo": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
+    "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-15T21:41:00.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Enem 2026: após 2º dia de prova, candidatos de Campinas apontam dificuldade em questões de biologia e de logaritmo",
-    "resumo": "Enem: candidatos de Campinas apontam dificuldade em questões de biologia e de logaritmo Candidatos de Campinas (SP) divergiram ao avaliar a dificuldade da prova no segundo dia do Exame Nacional do Ensino Médio (Enem), aplicada neste domingo (15). Mas as perguntas de biologia e uma questão de matemática que exigia conhecimentos de logaritm",
-    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/enem-2026-2o-dia-prova-avaliacao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ViFvv-T8_5l-wW2egVYOAAItHRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/G/iAQXETS9Giw6G377jfzg/copia-de-foto-1200-680px.png",
-    "data": "2026-11-15T21:06:10.000Z"
+    "titulo": "Homem mata companheira a facadas, foge e é preso em flagrante em Santa Maria, no DF",
+    "resumo": "Imagem ilustrativa de violência contra a mulher Jainni Victória/Arquivo g1 Uma moradora do Distrito Federal foi assassinada a golpes de faca na tarde deste domingo (15), em casa, em Santa Maria. Segundo a Polícia Militar, o principal suspeito é o companheiro da vítima, que deixou a prisão recentemente. Ele fugiu do local do crime, mas foi",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/15/homem-mata-companheira-a-facadas-foge-e-e-preso-em-flagrante-em-santa-maria-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Jwc9zfGHDtKuQuFtAM_RFRmxHDY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/a/JBA4R0Q0ehr5TU4zuKxw/violenciacontramulher.jpg",
+    "data": "2026-11-15T21:37:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Batida entre carro e caminhão deixa dois mortos e um ferido em estado grave em Itaí",
+    "resumo": "Acostamento e faixas da SP-555, em Itaí (SP), foram interditados por conta da colisão entre um carro e um caminhão neste domingo (15) Portal CCM – ARTESP (ccm.artesp.sp.gov.br)/Divulgação Uma batida entre um carro e um caminhão bitrem provocou a morte de duas pessoas e deixou outra em estado grave na tarde deste domingo (15), no quilômetr",
+    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/15/batida-carro-e-caminhao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qoZ6Xhl8Goczq_opkVUukHj9jxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/j/fhCz5tSGe32x5bO5tC3Q/edicao-g1-agenda-2026-11-15t181733.993.png",
+    "data": "2026-11-15T21:37:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fundador do cartel de Guadalajara, Miguel Ángel Félix Gallardo morre aos 80 anos em hospital no México",
+    "resumo": "Miguel Ángel Félix Gallardo, fundador do Cartel de Guadalajara. Reprodução Miguel Ángel Félix Gallardo, fundador do cartel de Guadalajara, morreu neste domingo (15), aos 80 anos. Conhecido como \"Chefe dos Chefes\" (Jefe de Jefes), o narcotraficante estava internado em um hospital particular em Guadalajara onde cumpria duas penas de prisão.",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/15/fundador-do-cartel-de-guadalajara-miguel-angel-felix-gallardo-morre-aos-80-anos-em-hospital-no-mexico.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mo0SaNaVfRIY8z5JcmZMUyd_iFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/lJ2rCmRAOtaQoWFmFtCQ/meow-meow-meow-meow-86-.png",
+    "data": "2026-11-15T21:36:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Gabarito do Enem e correção das questões: g1 mostra respostas em programa ao vivo",
+    "resumo": "Gabarito do Enem e correção das questões: g1 mostra respostas em programa ao vivo Estudantes tiveram que responder 45 questões de Ciências da Natureza e 45 questões de Matemática. GABARITO: confira o gabarito extraoficial. CADERNO DE PROVA: baixe o PDF com todas as questões",
+    "link": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
+    "imagem": null,
+    "data": "2026-11-15T21:32:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Auxiliar de produção, pedreiro e técnico de Enfermagem: confira as oportunidades de emprego na região de Piracicaba",
+    "resumo": "Carteira de trabalho Divulgação / PMMC Cinco cidades da região de Piracicaba (SP) reúnem 1.055 vagas de emprego abertas a partir desta segunda-feira (16). As oportunidades são oferecidas pelos serviços municipais de apoio ao trabalhador. ✅ Clique aqui para seguir o canal do g1 Piracicaba no WhatsApp Há emprego nas áreas de indústria, comé",
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/15/auxiliar-de-producao-pedreiro-e-tecnico-de-enfermagem-confira-as-oportunidades-de-emprego-na-regiao-de-piracicaba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DplCEzRSDhbzOEWiqdBXeovG060=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/q/SsGRCZS1uhKwwMJbUezQ/20231030172318654002a6abd0c.jpg",
+    "data": "2026-11-15T21:23:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mitos e verdades sobre câncer de próstata: urologista tira dúvidas que homens têm vergonha de perguntar",
+    "resumo": "Quando o assunto é câncer de próstata, apesar da visibilidade que o Novembro Azul promove, os homens seguem com dúvidas que, na maioria das vezes, têm vergonha de perguntar. Por isso, o g1 Zona da Mata conversou com um urologista para tirar dúvidas sobre a doença. 🔎 O Novembro Azul é o mês internacional dedicado à saúde masculina, marcad",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/15/mitos-e-verdades-sobre-cancer-de-prostata-urologista-tira-duvidas-que-homens-tem-vergonha-de-perguntar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2RM2adVOGG8uaYv8nxCUpj8hpVI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/l/R/nj9fp0TBSmX60B9x2RdA/whatsapp-image-2020-11-12-at-11.03.58.jpeg",
+    "data": "2026-11-15T21:22:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Questões do Enem 2026 - 2º dia: baixe os cadernos com a prova de matemática e ciências da natureza",
+    "resumo": "Prova amarela Enem 2026 segundo dia Reprodução Os alunos que saíram da prova do Exame Nacional do Ensino Médio (Enem) 2026 antes das 18h30 deste domingo (15) não puderam levar o caderno de provas. Quem quiser conferir todas as 90 questões de múltipla escolha de provas de matemática e ciências da natureza pode baixar o PDF nos links abaixo",
+    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/questoes-do-enem-2026-2o-dia-baixe-os-cadernos-com-a-prova-de-matematica-e-ciencias-da-natureza.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YHv6XO6fFbmfHhtcWICTh5nNTzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/K/CWeFGMTJmAfkIdzz0qtw/captura-de-tela-2026-11-15-181615.png",
+    "data": "2026-11-15T21:22:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "ExpoBeleza 2026 começa em Manaus com palestras, desfiles e cursos gratuitos",
+    "resumo": "ExpoBeleza 2026 começa em Manaus com palestras, desfiles e cursos gratuitos Divulgação A 5ª edição da Manaus Expo Beleza começou neste domingo (15), no Centro de Convenções do Amazonas – Vasco Vasques, em Manaus. O evento reúne profissionais, empreendedores e empresas dos setores de beleza, estética e bem-estar em uma programação com pale",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/expobeleza-2026-comeca-em-manaus-com-palestras-desfiles-e-cursos-gratuitos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dPzct7q58jmf1FKV1SvaOVzHj_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/M/VoSYvPQTelg8sU03XBFg/expobeleza-2026-comeca-em-manaus-com-palestras-desfiles-e-cursos-gratuitos-foto-divulgacao.jpeg",
+    "data": "2026-11-15T21:21:43.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Yemen’s Houthis unilaterally release 600 war detainees",
+    "resumo": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T21:19:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudante autista viaja para fazer o Enem e busca ser o 1º da família na universidade: 'Sei que as dificuldades são muitas'",
+    "resumo": "Estudante autista viaja para fazer o Enem e busca ser o 1º da família na universidade Após uma hora de estrada entre Cajueiro da Praia e Parnaíba, no litoral do Piauí, o estudante João Vitor Nascimento chegou determinado para enfrentar o Exame Nacional do Ensino Médio (Enem) na Universidade Federal do Delta do Parnaíba (UFDPar). Com Trans",
+    "link": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/15/estudante-autista-enem-parnaiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/omb8nMrPOSOWBX5U-VzSJangZdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/V/e5iST2QraurQ7UevqGcw/edicao-imagens-g1-22-.jpg",
+    "data": "2026-11-15T21:18:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia investiga assassinato de dono de trailer de lanches em Altamira",
+    "resumo": "Em Altamira, empresário que trabalhava com venda de lanches foi assassinado Redes sociais/Reprodução A polícia investiga o assassinato do proprietário de um trailer de lanches em Altamira, na região sudoeste do Pará. Antônio Jeferson Pereira Ferreira, de 31 anos, foi executado a tiros. O crime ocorreu no sábado (14). Até o fim da tarde de",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/15/policia-investiga-assassinato-de-dono-de-trailer-de-lanches-em-altamira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rSxtnZrxqtDAWl6YgsljDW8Gq4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/L/kbjhNYTIiCAtJjZ0CxTA/empresario-altamira.jpg",
+    "data": "2026-11-15T21:17:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista sem CNH é preso suspeito de se envolver em duas batidas, deixar mulher morta e fugir sem prestar socorro em MT",
+    "resumo": "Francisca Maria Lopes Soares Barros, de 41 anos Reprodução Uma mulher identificada como Francisca Maria Lopes Soares Barros, de 41 anos, morreu após a bicicleta elétrica em que estava ser atingida por uma caminhonete em Campo Novo do Parecis (MT), neste domingo (15). Um motorista sem Carteira Nacional de Habilitação (CNH) foi detido suspe",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/15/motorista-sem-cnh-e-preso-suspeito-de-se-envolver-em-duas-batidas-deixar-mulher-morta-e-fugir-sem-prestar-socorro-em-mt.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SigkP-B7C4QvilMBxIRdwzZJJgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/IDXqbLT6yzb91znbAiAw/foto-g1-2-.png",
+    "data": "2026-11-15T21:17:20.000Z"
   },
   {
     "categoria": "Canadá",
@@ -45,13 +171,13 @@
     "data": "2026-11-15T21:05:09.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quatro pessoas morrem em acidentes de trânsito em menos de 14 horas no Amazonas",
-    "resumo": "IML de Manaus Gato Junior/Rede Amazônica Quatro pessoas morreram em acidentes de trânsito em um intervalo de 13 horas e 47 minutos entre sábado (14) e a madrugada deste domingo (15), em Manaus e na Região Metropolitana. As ocorrências foram registradas entre 14h54 de sábado e 4h41 de domingo, segundo informações preliminares do Centro Int",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/quatro-pessoas-morrem-em-acidentes-de-transito-em-menos-de-14-horas-no-amazonas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1ACfYQYPgjTxwY4vWLz7oHNcPaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/Q/vpe2UvSJyb5E9Kjif99Q/iml-de-manaus-foto-gato-junior-rede-amazonica.jpeg",
-    "data": "2026-11-15T21:04:58.000Z"
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "resumo": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink ",
+    "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304790934.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-15T21:05:02.000Z"
   },
   {
     "categoria": "Internacional",
@@ -63,51 +189,6 @@
     "data": "2026-11-15T21:03:40.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gabarito Enem 2026 2º dia: veja correção extraoficial e respostas",
-    "resumo": "O gabarito do 2º dia do Exame Nacional do Ensino Médio (Enem) 2026 será disponibilizado abaixo. Aqui, será possível ver as respostas extraoficiais para as 45 questões de Matemática e as 45 de Ciências da Natureza (Física, Química e Biologia). SIGA: g1 terá cobertura em tempo real e programa AO VIVO com a correção das questões Gabarito ext",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/gabarito-enem-2026-2o-dia-veja-correcao-extraoficial-e-respostas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bH_vg5CqexYUYBZh58Q2NA7X2Qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/r/HIA0tyRemH3D25eEGUwQ/imagens-g1-2026-11-03t114925.084.png",
-    "data": "2026-11-15T21:00:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "g1 corrige ao vivo as questões do 2° dia de Enem; confira o gabarito extraoficial",
-    "resumo": "g1 corrige ao vivo as questões do 2° dia de Enem; confira o gabarito extraoficial Estudantes tiveram que responder 45 questões de Ciências da Natureza e 45 questões de Matemática. Prova termina oficialmente às 18h30. GABARITO: confira o gabarito extraoficial. CADERNO DE PROVA: baixe o PDF com todas as questões. TEMA DA REDAÇÃO: veja exemp",
-    "link": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
-    "imagem": null,
-    "data": "2026-11-15T21:00:07.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Santos abre inscrições para eleger a Corte Carnavalesca 2027; veja como participar",
-    "resumo": "Carnaval 2026 em Santos: Unidos dos Morros falou sobre o jogo do bicho Alexsander Ferraz A Secretaria de Cultura de Santos (Secult) abre, nesta segunda-feira (16), as inscrições gratuitas para os concursos que vão eleger o Rei Momo, a Rainha e a Princesa do Carnaval 2027. Os processos de inscrição são organizados pela Secretaria de Cultur",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/15/santos-abre-inscricoes-para-eleger-a-corte-carnavalesca-2027-veja-como-participar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/O-KMqmpzUS4fxQq9zH-MDj-WGww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/r/3/FYEpOXSx26ScRLgAZh0Q/img1729606212179.webp",
-    "data": "2026-11-15T21:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Perdeu um dos dias de Enem 2026? Saiba se tem direito à reaplicação",
-    "resumo": "Afinal, para que serve o Enem? Os candidatos do Exame Nacional do Ensino Médio (Enem) 2026 que não compareceram a um dos domingos de provas, em 8 e 15 de novembro, por motivos de saúde ou problemas logísticos têm direito a participar da reaplicação do exame nos dias 15 e 16 de dezembro. O prazo para solicitar a reaplicação começa na segun",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/saiba-quem-tem-direito-a-reaplicacao-do-enem-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/eoaDx62Xy8ibhjgIjLR7ScLPCYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/w/2NCiJQTNeNLEEifBAVIA/enem-2024-pedro-amatuzzi-fotografia-1-1-.jpg",
-    "data": "2026-11-15T20:57:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bombeiros combatem focos de incêndio em fábrica de produtos químicos em Salto pelo 3º dia",
-    "resumo": "Imagens de drone mostram estragos em fábrica após incêndio e explosão em Salto O Corpo de Bombeiros combate, neste domingo (15), pelo terceiro dia consecutivo, o rescaldo do incêndio que atingiu uma fábrica de produtos químicos e deixou pelo menos 12 feridos, em Salto (SP). Mesmo com as chamas controladas, as equipes estiveram no local pa",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/combate-focos-incendio-fabrica-salto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Z7BXNSSYAFNr_MBAlq1dY42BxbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/D/X5nf5ySBqpB3c87lu83w/14589804-2026-11-14t135435.490.png",
-    "data": "2026-11-15T20:56:54.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
@@ -117,15 +198,6 @@
     "data": "2026-11-15T20:54:13.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inmet emite alerta de ventos fortes e possibilidade de granizo para 10 cidades de Alagoas; confira",
-    "resumo": "Ventos podem atingir velocidades entre 40 e 60 km/h Arquivo Pessoal O Instituto Nacional de Meteorologia (Inmet) emitiu um alerta amarelo de perigo potencial para ventos intensos e possibilidade de queda de granizo nesta segunda-feira (16), em 10 municípios de Alagoas (confira a lista abaixo). 📱Participe do canal do g1 Alagoas De acordo ",
-    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/15/inmet-emite-alerta-de-ventos-fortes-e-possibilidade-de-granizo-para-10-cidades-de-alagoas-confira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Lh9byxHJCuyisgdPSASHeck0nC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/z/v/chtaFyR22sLsGtQZvlGQ/ventosalagoas.jpg",
-    "data": "2026-11-15T20:53:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Palestinians reclaim Gaza’s shores with a swim for hope",
@@ -133,24 +205,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T20:50:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Candidatos do Enem enfrentam rápido apagão durante prova em universidade de Campo Grande",
-    "resumo": "Aos 68 anos, candidato faz o Enem; primos querem conquistar diploma em MS Os estudantes que fazem a prova do Exame Nacional do Ensino Médio (Enem) na Universidade Católica Dom Bosco (UCDB) enfrentaram um “apagão” momentâneo na tarde deste domingo (15). A universidade ficou sem energia por um minuto, segundo a Energisa, concessionária que ",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/15/candidatos-do-enem-enfrentam-rapido-apagao-durante-prova-em-universidade-de-campo-grande.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ge2k8tbaeIU-C4hqMTfecguyDIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/V42B2lSU20Bw7PkKSQVA/design-sem-nome-72-.jpg",
-    "data": "2026-11-15T20:50:08.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Padre de Fortaleza morre durante viagem à Espanha",
-    "resumo": "Padre de Fortaleza morre durante viagem à Espanha. Redes sociais/Reprodução O padre Kleber Barberino Chevi, de Fortaleza, morreu em Manresa, município na Espanha. A informação foi repassada pela Arquidiocese de Fortaleza neste domingo (15). O padre, que tinha 60 anos, fazia parte da Paróquia Cristo Rei, no bairro Aldeota. O padre fez part",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/15/padre-de-fortaleza-morre-durante-viagem-a-espanha.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hSvAgl8uo6obHc3yrYoBDe_Dw2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/l/fjh0nWQP6ostteyMZnDA/padre-espanha.jpg",
-    "data": "2026-11-15T20:49:52.000Z"
   },
   {
     "categoria": "Internacional",
@@ -234,15 +288,6 @@
     "data": "2026-11-15T19:45:21.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "What to Know About Continued Flight Disruptions",
-    "resumo": "After a nationwide ground stop, travelers are still encountering snags with thousands of flights delayed or canceled on Sunday.",
-    "link": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
-    "imagem": "https://static01.nyt.com/images/2026/12/13/multimedia/14nat-groundstop-wwk/13faa-groundstop-promo-hbjv-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T19:40:08.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Inmet prevê tempestades no Centro-Sul do país até segunda-feira",
@@ -255,7 +300,7 @@
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-    "resumo": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+    "resumo": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
     "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
     "data": "2026-11-15T19:32:39.000Z"
@@ -459,15 +504,6 @@
     "data": "2026-11-15T17:39:23.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
-    "resumo": "Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T17:33:03.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
@@ -475,15 +511,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
     "imagem": "https://i.guim.co.uk/img/media/165c7b34ce2a2c015ffffa474500c94165a9ea1a/182_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=3fc1f8ccfb68bd38c1a29224fad67747",
     "data": "2026-11-15T17:30:19.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
-    "resumo": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system.",
-    "link": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B",
-    "data": "2026-11-15T17:27:08.000Z"
   },
   {
     "categoria": "Brasil",
@@ -745,15 +772,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
     "data": "2026-11-15T13:37:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Cúpula inédita de Xi, Trump e Putin expõe dilema chinês sobre Moscou",
-    "resumo": "A imagem do encontro tende a beneficiar Moscou, enquanto Pequim corre o risco de desgastar sua própria posição geopolítica no cenário internacional.",
-    "link": "https://www.dw.com/pt-br/cúpula-inédita-de-xi-trump-e-putin-expõe-dilema-chinês-sobre-moscou/a-79952220?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-15T13:36:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1055,38 +1073,11 @@
   {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
-    "titulo": "COP31 ruma a semana decisiva sob pressão por maior ambição climática",
-    "resumo": "Milhares protestaram em Antália, enquanto chefe da ONU para a agenda pediu que países evitem \"atrasos táticos\". Produtores de petróleo estariam bloqueando avanços.",
-    "link": "https://www.dw.com/pt-br/cop31-ruma-a-semana-decisiva-sob-pressão-por-maior-ambição-climática/a-79950292?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-14T22:03:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-    "resumo": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. ",
-    "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-14T21:44:44.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
     "titulo": "Agropecuária aposta em solo compartilhado com painéis solares",
     "resumo": "Nova estratégia agrivoltaica pode beneficiar culturas e produção de energia renovável. Mas adoção ainda é lenta e nem sempre funciona.",
     "link": "https://www.dw.com/pt-br/agropecuária-aposta-em-solo-compartilhado-com-painéis-solares/a-79950021?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-14T20:31:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-    "resumo": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at [&#8230;]",
-    "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-14T19:47:40.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1222,6 +1213,15 @@
     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
     "data": "2026-11-13T23:00:31.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Trump breaks silence on U.S. ground stop, demands more money for FAA upgrades from Congress",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9b1888da-3753-4706-9398-488e9825ff56,1794777614667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "data": "2026-11-13T22:18:32.000Z"
   },
   {
     "categoria": "Opinião",
