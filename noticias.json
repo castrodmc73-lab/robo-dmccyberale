@@ -1,48 +1,183 @@
 [
   {
     "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
+    "resumo": "Gigantes do setor usam inteligência artificial para reduzir o tempo de desenvolvimento de fragrâncias e encontrar combinações inéditas, enquanto perfumistas debatem os limites da tecnologia na arte de criar aromas.",
+    "link": "https://www.dw.com/pt-br/dos-algoritmos-ao-aroma-como-a-ia-está-mudando-a-criação-de-perfumes/a-79953041?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-15T16:33:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "‘I Love Being a Girl’: Inside the Life of a Sorority Influencer",
+    "resumo": "Many young adults want to be influencers. And why not? It’s fun. But it also means that the camera is always on.",
+    "link": "https://www.nytimes.com/2026/11/15/us/haley-dekreek-sorority-influencer-college.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/00nat-sorority-promo-wvlm/00nat-sorority-promo-wvlm-mediumSquareAt3X.jpg",
+    "data": "2026-11-15T16:31:27.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Two Planes Collide on a Taxiway at Miami International Airport",
+    "resumo": "The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, a day after a nationwide ground stop disrupted air travel.",
+    "link": "https://www.nytimes.com/2026/11/15/us/miami-airport-plane-collision-copa-ups.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-miami-airport-cgmp/15xp-miami-airport-cgmp-mediumSquareAt3X.jpg",
+    "data": "2026-11-15T16:29:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Candidato chega após fechamento dos portões do Enem em Fortaleza e atribui atraso à frota reduzida do metrô",
+    "resumo": "Candidato chega atrasado ao local de prova do Enem e alega demora nos metrôs O professor de matemática Thales Vinicius, de 31 anos, chegou ao campus do Itaperi, da Universidade Estadual do Ceará (Uece), às 13h05 deste domingo (15), cinco minutos depois do fechamento dos portões para o segundo dia de provas do Exame Nacional do Ensino Médi",
+    "link": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/11/15/candidato-chega-apos-fechamento-dos-portoes-do-enem-em-fortaleza-e-atribui-atraso-a-frota-reduzida-do-metro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DKUTf3su7xwVdQl1uH66PYK5DAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/RsFweYQBi7BRWtImWO1A/atraso-enem-fortaleza-uece-itaperi.jpg",
+    "data": "2026-11-15T16:25:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pré-Caju 2026: Ivete, Bell Marques e Léo Santana comandam último dia da folia",
+    "resumo": "Pré-Caju 2026: Ivete, Bell Marques e Léo Santana comandam último dia da folia Montagem g1 A programação do Pré-Caju 2026 chega ao fim, neste domingo (15), e entre os artista que vão comandar a folia estão Ivete, Bell Marques, Léo Santana. A festa também conta programação do Camarote Aju. Em 28ª edições, o Pré-Caju se mantém como única pré",
+    "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/15/pre-caju-2026-ivete-bell-marques-e-leo-santana-comandam-ultimo-dia-da-folia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KztgYzXfLJnMjL8hTkcJkN9NA88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/b/9enqeHTGuiZdTqhrpNfQ/whatsapp-image-2026-11-13-at-17.44.30-1-.jpeg",
+    "data": "2026-11-15T16:23:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Juntos nos estudos e na prova: irmãos fazem o Enem na mesma sala em Belém: ‘A gente está bem preparado’",
+    "resumo": "Candidato leva galão de 5 litros de água para o Enem e divide sala com a irmã, em Belém. Recebe Costa/g1 Pará Os irmãos Caio Santos, de 18 anos, e Bianca Santos, de 20, vão fazer a prova do segundo domingo do Exame Nacional do Ensino Médio (Enem) na mesma sala, na Unama da avenida Alcindo Cacela, em Belém. SIGA A COBERTURA — g1 acompanha ",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/15/juntos-nos-estudos-e-na-prova-irmaos-fazem-o-enem-na-mesma-sala-em-belem-a-gente-esta-bem-preparado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p_Jw0SkGZ6FiSHEl2MHg8YdPFR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/D/zFQY7yQ0yFZOyxAcnClQ/whatsapp-image-2026-11-15-at-12.38.01.jpeg",
+    "data": "2026-11-15T16:23:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Três apostas de MS acertam a quina da Mega-Sena e uma leva quase R$ 100 mil",
+    "resumo": "Bilhetes da Mega-Sena. Marcelo Brandt/G1 Três apostas de Mato Grosso do Sul acertaram cinco dezenas no concurso 3.086 da Mega-Sena, realizado neste domingo (15). Os jogos foram registrados em Bataguassu, Campo Grande e Três Lagoas. Juntos, os ganhadores vão receber R$ 163.928,46. A aposta de Bataguassu foi simples e registrada na Lotérica",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/15/tres-apostas-de-ms-acertam-a-quina-da-mega-sena-e-uma-leva-quase-r-100-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/PiWlLi5ewKcoHIeUBaB5eWHX9Yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png",
+    "data": "2026-11-15T16:21:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Se esse menino tivesse sumido, eu não sei nem o que eu ia fazer', diz mãe de bebê após tentativa de sequestro em maternidade de BH",
+    "resumo": "Mãe de recém-nascido relata como tomou conhecimento da tentiva de sequestro dentro de maternidade em BH Lucas Franco/ TV Globo A mãe do recém-nascido que foi alvo de uma tentativa de sequestro na maternidade da Santa Casa BH, na Região Centro-Sul de Belo Horizonte, contou ao g1 que entrou em desespero ao perceber que o filho não estava ma",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/se-esse-menino-tivesse-sumido-eu-nao-sei-nem-o-que-eu-ia-fazer-diz-mae-de-bebe-apos-tentativa-de-sequestro-em-maternidade-de-bh.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/td08aP7fLlsc37tT0CubO4TBxVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/fzDAIqS8qNyyspM8Dckg/vitima-sequestro.jpeg",
+    "data": "2026-11-15T16:20:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Aos 61 anos, candidato ganha apoio da família para fazer o Enem e mira carreira na engenharia civil",
+    "resumo": "Aos 61 anos, candidato ganha apoio da família para fazer o Enem Quem passa pela entrada da Unip Swift, em Campinas (SP), um dos locais do segundo dia de prova do Exame Nacional do Ensino Médio (Enem), neste domingo (15), vê muitos rostos de adolescentes que estão saindo da escola. Mas, no meio das centenas de jovens está Adão Nascimento q",
+    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/aos-61-anos-candidato-ganha-apoio-familia-fazer-enem-mira-carreira-engenharia-civil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AuYDWklbOyeUXQHX3PWNS_pXCFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/QJBLzsRlCzbCB3alm2Jw/area-1-20-.png",
+    "data": "2026-11-15T16:19:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: AB2 de sábado, 14 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/al/alagoas/edicao/2026/11/15/videos-ab2-de-sabado-14-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tNE8zRLlC0ElSBImlrtBwp6fMuk=/s01.video.glbimg.com/deo/vi/58/99/15189958",
+    "data": "2026-11-15T16:19:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Criança esquecida a bordo pela família em Porto Alegre ficou 15 minutos sem os responsáveis; piloto pediu ajuda à torre de comando",
+    "resumo": "Família desembarca e esquece criança dentro de avião em Porto Alegre A criança que foi esquecida a bordo de um avião na tarde de sábado (14), no Aeroporto Internacional Salgado Filho, em Porto Alegre, após o desembarque dos familiares, ficou cerca de 15 minutos sem os responsáveis, segundo a companhia aérea Latam Airlines Brasil. Na sequê",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/crianca-esquecida-a-bordo-pela-familia-em-porto-alegre-ficou-15-minutos-sem-os-responsaveis-piloto-pediu-ajuda-a-torre-de-comando.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NhmxUFSp3PpQVS2k8yrvz7y0TXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/9qnGMHR0SIBPgqTweQpA/aero2.png",
+    "data": "2026-11-15T16:18:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está controlando situação",
+    "resumo": "O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) na internet tem sido alvo de tentativas de ataques hacker neste domingo (15), segundo dia do Exame Nacional do Ensino Médio (Enem). Barchini deu a declaração ao fazer uma apresentação para o presid",
+    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
+    "imagem": null,
+    "data": "2026-11-15T16:17:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prefeitura de Araruama flagra descarte irregular de entulho às margens do Rio Mataruna",
+    "resumo": "Um homem foi encontrado descartando os materiais e acabou conduzido à 118ª Delegacia de Polícia. O local passou por perícia. SEMAM Araruama/Divulgação A Prefeitura de Araruama, na região dos Lagos do Rio, registrou neste sábado (14) uma ocorrência de descarte irregular de resíduos da construção civil às margens do Rio Mataruna, na esquina",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/15/prefeitura-de-araruama-flagra-descarte-irregular-de-entulho-as-margens-do-rio-mataruna.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gENMDo2mNrsOMSyxSfxK8JDWWFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/u/tzrsoeRv2rxrKoavGX0w/whatsapp-image-2026-11-15-at-11.47.36-1-.jpeg",
+    "data": "2026-11-15T16:14:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Professor de história faz Enem pela quinta vez para tentar vaga em geografia, em Campina Grande: 'O nervosismo é o mesmo'",
+    "resumo": "Professor de história faz Enem pela quinta vez para tentar vaga em geografia, na PB Mesmo acostumado a estar diante de alunos em sala de aula, o professor de História Bruno Vasconcelos vive, neste domingo (15), a expectativa de quem está do outro lado da prova. Ele faz o segundo dia do Exame Nacional do Ensino Médio (Enem) 2026 em Campina",
+    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/15/professor-de-historia-faz-enem-pela-quinta-vez-para-tentar-vaga-em-geografia-em-campina-grande-o-nervosismo-e-o-mesmo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/O5HYw44cbsQclm4cdGwVqVWP-28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/twBNiQSfecwLVdpRh9HQ/captura-de-tela-2026-11-15-131052.jpg",
+    "data": "2026-11-15T16:12:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mega-Sena: aposta de Gurupi acerta a quina e ganha mais de R$ 32 mil",
+    "resumo": "G1 | Loterias - Mega-Sena 3086 Uma aposta simples registrada em Gurupi foi premiada na Mega-Sena ao acertar cinco números e faturou R$ 32.785,73. Ninguém acertou o prêmio principal e o valor para o próximo sorteio acumulou em R$ 34 milhões. Veja os números sorteados: 03 - 20 - 35 - 38 - 43 - 46. A aposta foi feita na lotérica Beira Rio, n",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/15/mega-sena-aposta-de-gurupi-acerta-a-quina-e-ganha-mais-de-r-32-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png",
+    "data": "2026-11-15T16:08:43.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "British tourist smashes Jesus statue outside Vilnius church",
+    "resumo": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T16:04:22.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+    "resumo": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA president, or a COVID outbreak at a destination wedding with an absurd",
+    "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/hampton-headshot-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-15T16:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Trump barred from closing 'Trash Island' golf course on Sunday",
-    "resumo": "The order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+    "titulo": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+    "resumo": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
     "data": "2026-11-15T15:57:03.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Vivenciar essa emoção junto com ele': pai faz Enem 2026 para acompanhar filho que tenta vaga em medicina, na PB",
-    "resumo": "ENEM 2026 - DOMINGO (15) – JOÃO PESSOA (PB) –Pai faz o Enem ao lado do filho que tenta vaga em Medicina. Deyse Ponciano / TV Cabo Branco O médico Emerson Pereira, que atua há 26 anos na profissão, decidiu fazer o segundo dia de provas do Enem 2026 neste domingo (15), na Universidade Federal da Paraíba (UFPB), em João Pessoa, para acompanh",
-    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/15/vivenciar-essa-emocao-junto-com-ele-pai-faz-enem-2026-para-acompanhar-filho-que-tenta-vaga-em-medicina-na-pb.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Ur6MhVLVk6bbe5Ui-lmlH-YN1Gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/3/zUDOseQKSTzZVQ761lVA/whatsapp-image-2026-11-15-at-12.34.30.jpeg",
-    "data": "2026-11-15T15:48:02.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Dupla brasileira é campeã mundial de tênis de mesa paralímpico",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/dupla-brasileira-e-campea-mundial-de-tenis-de-mesa-paralimpico\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/dupla-brasileira-e-campea-mundial-de-tenis-de-mesa-paralimpico",
+    "imagem": null,
+    "data": "2026-11-15T15:52:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Diarista volta a estudar por incentivo da filha e faz o Enem pela primeira vez: ‘Achava que não era capaz’",
-    "resumo": "Irismar Vieira Damasceno faz o Enem em Goiânia, Goiás Yanca Cristina/g1 Goiás A diarista Irismar Vieira Damasceno, de 55 anos, faz o Exame Nacional do Ensino Médio pela primeira vez, após ser incentivada por uma das filhas e professores. Depois da tensão do primeiro dia devido ao medo de zerar a prova ou ser desclassifica, ela está confia",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/15/diarista-volta-a-estudar-por-incentivo-da-filha-e-faz-o-enem-pela-primeira-vez-achava-que-nao-era-capaz.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bpGyOiRrjwZJqdtO4fx3kGwd2ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/h/IJzf2CRL6eAkkzXDM2yg/irismar.jpg",
-    "data": "2026-11-15T15:47:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quatro apostas do Paraná acertam a quina da Mega-Sena e levam prêmios de R$ 32,7 mil; veja cidades",
-    "resumo": "G1 | Loterias - Mega-Sena 3086 Quatro apostas do Paraná acertaram cinco números no concurso 3086 da Mega-Sena, sorteado na manhã deste domingo (15), no Espaço da Sorte, em São Paulo. Cada aposta levou R$ 32.785,73. ✅ Siga o canal do g1 PR no WhatsApp Os jogos paranaenses estão entre os 44 de todo o Brasil que acertaram a quina. Como ningu",
-    "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/15/quatro-apostas-do-parana-acertam-a-quina-da-mega-sena-e-levam-premios-de-r-327-mil-veja-cidades.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp",
-    "data": "2026-11-15T15:47:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Shakira é confirmada em Salvador para show na Arena Fonte Nova em janeiro",
-    "resumo": "Shakira se apresenta durante um show ao ar livre na praia de Copacabana, no Rio de Janeiro REUTERS/Ricardo Moraes A cantora colombiana Shakira fará um show em Salvador no dia 6 de janeiro de 2027. O anúncio foi feito neste domingo (15) pelo prefeito Bruno Reis, por meio das redes sociais. Segundo a publicação, a apresentação acontecerá na",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/15/shakira-e-confirmada-em-salvador-para-show-na-arena-fonte-nova-em-janeiro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jTTGi-eVNtkxUuW1Yl6w3o43Yvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/L0jwBbQzSyyzAhgprdZw/2026-05-03t022542z-1044250116-rc2e1lam01t4-rtrmadp-3-music-shakira-brazil.jpg",
-    "data": "2026-11-15T15:44:35.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Vasco bate Chape e afasta risco de rebaixamento no Brasileirão",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/vasco-bate-chape-e-afasta-risco-de-rebaixamento-no-brasileirao\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/vasco-bate-chape-e-afasta-risco-de-rebaixamento-no-brasileirao",
+    "imagem": null,
+    "data": "2026-11-15T15:47:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -55,57 +190,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Apostas de Faxinal dos Guedes (SC) acertam 5 dos 6 números da Mega-Sena deste domingo",
-    "resumo": "G1 | Loterias - Mega-Sena 3086 Duas apostas de Faxinal dos Guedes, no Oeste de Santa Catarina, acertaram cinco das seis dezenas sorteadas no concurso 3086 da Mega-Sena neste domingo (15), que sorteava R$ 26 milhões. Os jogos foram feitos no mesmo local, a Lotérica Faxinal (Adeval Loterias). A informação consta no site oficial da Caixa Eco",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/15/mega-sena-apostas-sc-acertam-5-dos-6-numeros-mega-sena-domingo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pg8v1O6Wpzj1IhEketqQTwV4BEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/0TG6YVQt20OeUuAs6NRw/captura-de-tela-2026-11-15-110534.png",
-    "data": "2026-11-15T15:43:51.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem morre e três pessoas ficam feridas após batida frontal entre carros em Barra do Piraí",
-    "resumo": "Homem morre e três pessoas ficam feridas após batida frontal entre carros em Barra do Piraí Reprodução/Redes Sociais Um homem de 38 anos morreu e três pessoas ficaram feridas após uma batida frontal entre dois carros neste domingo (15), em Barra do Piraí (RJ). O acidente aconteceu na estrada que liga o município ao distrito de Conservatór",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/15/homem-morre-e-tres-pessoas-ficam-feridas-apos-batida-frontal-entre-carros-em-barra-do-pirai.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/x3bitGs_J50Zhmwz46uicgGaSw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/m/VlKiZuQDy0PllLyeB2yg/whatsapp-image-2026-11-15-at-12.06.37.jpg",
-    "data": "2026-11-15T15:42:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fábrica clandestina de palmito é encontrada e fechada no interior de SP; dono é multado em R$ 358 mil",
-    "resumo": "Centenas de hastes de palmitos in natura foram apreendidas em Eldorado Polícia Militar Ambiental/Divulgação Uma fábrica clandestina de palmito-juçara (Euterpe edulis), espécie ameaçada de extinção, foi fechada durante uma operação conjunta entre as polícias Civil e Militar Ambiental em Eldorado, no interior de São Paulo. O proprietário do",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/15/fabrica-clandestina-de-palmito-e-encontrada-e-fechada-no-interior-de-sp-dono-e-multado-em-r-358-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/48BCeYOFiwsOizV2BMbuDXD2Sx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/b/xAGIL9TK2FZKzATgZIGw/palmito-1-.jpg",
-    "data": "2026-11-15T15:42:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Ajudava todos': quem era o empresário morto a tiros em distribuidora em Palmas",
-    "resumo": "Corpo de dono de distribuidora morto durante a madrugada é liberado para a família O empresário Caio César Pereira Coutinho, de 31 anos, foi morto a tiros dentro da própria distribuidora de bebidas em Taquaralto, na região sul de Palmas, e outras três pessoas ficaram feridas. Ele era conhecido pela proximidade com a família e pela disposi",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/15/ajudava-todos-quem-era-o-empresario-morto-a-tiros-em-distribuidora-em-palmas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pEeEo0BgA1_9LnihJF95nQAnTlU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/w/zy9wT7Se6axNyH0YUvhQ/foto-e-montagem-vertical-30-.jpg",
-    "data": "2026-11-15T15:40:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Casal morre após carro colidir contra retroescavadeira na BR-416, em Colônia Leopoldina",
-    "resumo": "Frente do carro fica destruída após colisão em Colônia Leopoldina, no interior do estado Um casal morreu, na noite de sábado (14), após o carro em que estava colidir contra uma retroescavadeira em um trecho da BR-416, em Colônia Leopoldina, no interior de Alagoas. 📱Participe do canal do g1 Alagoas De acordo com o Corpo de Bombeiros Milit",
-    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/15/casal-morre-apos-carro-colidir-contra-retroescavadeira-na-br-416-em-colonia-leopoldina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/56OXJuWENJexfzD42qas9ZAxx34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/J/lCkAsgSyK8tLAxuJ9pxg/duas-pessoas-morrem-apos-carro-colidir-contra-retroescavadeira-em-colonia-leopoldina.jpg",
-    "data": "2026-11-15T15:38:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Guatemala decreta estado de emergência após ataque que matou deputado e três policiais",
-    "resumo": "O governo da Guatemala decretou estado de emergência em dois departamentos do leste do país neste sábado (14), uma semana após um ataque armado que matou um deputado e três policiais. A medida vale por 30 dias e amplia os poderes das forças de segurança. O decreto foi aplicado nos departamentos de Zacapa e Izabal, que são vizinhos e, junt",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/15/guatemala-estado-emergencia-ataque-deputado-policiais.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Candidatos contam expectativas para o segundo dia de provas do Enem",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/candidatos-contam-expectativas-para-o-segundo-dia-de-provas-do-enem\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/candidatos-contam-expectativas-para-o-segundo-dia-de-provas-do-enem",
     "imagem": null,
-    "data": "2026-11-15T15:38:10.000Z"
+    "data": "2026-11-15T15:41:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -127,21 +217,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Servidor público aposentado faz Enem 2026 para tentar nova carreira, na Paraíba",
-    "resumo": "Servidor público aposentado faz Enem 2026 em busca de nova carreira, na PB Aos 64 anos, Evaldo Cabral, natural de Brasília e servidor aposentado do Ministério do Planejamento, faz o segundo dia de provas do Enem 2026 neste domingo (15), na Universidade Federal da Paraíba (UFPB), em João Pessoa. ✅ Clique aqui para seguir o canal do g1 PB n",
-    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/15/servidor-publico-aposentado-faz-enem-2026-para-tentar-nova-carreira-na-paraiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Lx8Fcmjs25JpSjfFx6pxRNEMSa8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/I/boB7RaTYy1AoN79FYNPg/whatsapp-image-2026-11-15-at-11.42.24-1-.jpeg",
-    "data": "2026-11-15T15:26:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Morte de casal e crianças no Paraná: famílias estavam indo visitar filhos em seminário quando sofreram acidente de Kombi com caminhão",
-    "resumo": "Janice Gesser Alves, Gabriel Luiz Schropfer, João Paulo Gesser Alves e Jacir José Alves Cedida pela família O casal e as duas crianças que morreram neste sábado (14) depois que a Kombi em que eles viajavam bateu em um caminhão na PR-280 estavam indo visitar os filhos/irmãos em um seminário em Palmas, no sul do Paraná. No veículo, estavam ",
-    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/15/morte-casal-criancas-acidente-parana-visita-filhos-seminario.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2RGXhVLHZ7PTpQO4iAYk9-KFPoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/A/CSJd7qSz2RyZbwBDoWug/g1-3-.png",
-    "data": "2026-11-15T15:26:07.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Veja o que esperar do segundo dia de provas do Enem 2026",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/veja-o-que-esperar-do-segundo-dia-de-provas-do-enem-2026\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Logo ",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/veja-o-que-esperar-do-segundo-dia-de-provas-do-enem-2026",
+    "imagem": null,
+    "data": "2026-11-15T15:28:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -160,6 +241,15 @@
     "link": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-15T15:21:12.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Quebec Premier and PM Carney discuss U.S. trade, homelessness at first meeting in Cambodia",
+    "resumo": "St-Pierre Plamondon said the meeting ended with federal support for the province's fight against homelessness, and the exchange of personal phone numbers. The premier also thanked the Prime Minister for his support of an economic summit that will take place in Quebec in 2027.",
+    "link": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B",
+    "data": "2026-11-15T15:19:25.000Z"
   },
   {
     "categoria": "Canadá",
@@ -239,7 +329,7 @@
     "titulo": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
     "resumo": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a68f/live/361260e0-e10b-11f1-b441-2b33b063138f.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
     "data": "2026-11-15T14:56:21.000Z"
   },
   {
@@ -405,15 +495,6 @@
     "data": "2026-11-15T13:49:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Gaza families bury bodies of loved ones trapped for years under rubble",
-    "resumo": "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them.",
-    "link": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T13:45:02.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
@@ -459,33 +540,6 @@
     "data": "2026-11-15T13:34:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Eleitores de Cabo Verde vão às urnas domingo escolher o presidente",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleitores-de-cabo-verde-vao-urnas-domingo-escolher-o-presidente\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleitores-de-cabo-verde-vao-urnas-domingo-escolher-o-presidente",
-    "imagem": null,
-    "data": "2026-11-15T13:33:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Oxê de Xangô, símbolo da justiça, será inaugurado no STF",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf",
-    "imagem": null,
-    "data": "2026-11-15T13:24:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Enem 2026: candidatos fazem hoje 2º dia de provas em 1,9 mil cidades",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-candidatos-fazem-hoje-2o-dia-de-provas-em-19-mil-cidades",
-    "imagem": null,
-    "data": "2026-11-15T13:09:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Minister backs legal right to job support for young people",
@@ -522,15 +576,6 @@
     "data": "2026-11-15T12:36:52.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Prevenção da dengue deve começar agora, diz especialista",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/prevencao-da-dengue-deve-comecar-agora-diz-especialista\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>A",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/prevencao-da-dengue-deve-comecar-agora-diz-especialista",
-    "imagem": null,
-    "data": "2026-11-15T12:30:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Is Burnham’s plan for a housing revolution anything more than a pipedream? | John Harris",
@@ -562,7 +607,7 @@
     "fonte": "The New York Times",
     "titulo": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
     "resumo": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
-    "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
+    "link": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
     "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-mediumSquareAt3X.jpg",
     "data": "2026-11-15T10:02:05.000Z"
   },
@@ -610,15 +655,6 @@
     "link": "https://www.nytimes.com/2026/11/15/us/sexual-assault-lawsuit-texas-christian-university-consumer-protection.html",
     "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/13nat-tcu-pklv/13nat-tcu-pklv-mediumSquareAt3X.jpg",
     "data": "2026-11-15T10:00:42.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "‘I Love Being a Girl’: Inside the Life of a Sorority Influencer",
-    "resumo": "Many young adults want to be influencers. And why not? It’s fun. But it also means that the camera is always on.",
-    "link": "https://www.nytimes.com/2026/11/15/us/haley-dekreek-sorority-influencer-college.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/00nat-sorority-promo-wvlm/00nat-sorority-promo-wvlm-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T10:00:30.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -763,15 +799,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-15T07:10:31.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Two Planes Collide on a Taxiway at Miami International Airport",
-    "resumo": "The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, a day after a nationwide ground stop disrupted air travel.",
-    "link": "https://www.nytimes.com/2026/11/15/us/miami-airport-plane-collision-copa-ups.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-miami-airport-cgmp/15xp-miami-airport-cgmp-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T05:47:33.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1080,15 +1107,6 @@
     "data": "2026-11-14T14:00:46.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-    "resumo": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. [&#8230;]",
-    "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-14T14:00:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
@@ -1123,15 +1141,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
     "imagem": null,
     "data": "2026-11-14T12:48:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Reunião trilateral de Trump, Xi e Putin abordará não proliferação nuclear",
-    "resumo": "Confirmado pela Casa Branca, encontro de líderes de EUA, Rússia e China deve render foto histórica. Mas analistas acham pouco provável que ele traga resultados concretos. Guerra no Oriente Médio também estará na pauta.",
-    "link": "https://www.dw.com/pt-br/reunião-trilateral-de-trump-xi-e-putin-abordará-não-proliferação-nuclear/a-79947990?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-14T12:12:00.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1195,15 +1204,6 @@
     "link": "https://www.cbc.ca/sports/football/cfl/the-buzzer-grey-cup-weekend-preview-nov-13-9.7421569?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/73dc7c98-7985-45c2-ab5b-18c7dcf372f1,1794608922547/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C165%2C3500%2C1968%29%3B",
     "data": "2026-11-13T22:35:03.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Copper wire replacement caused air traffic control issue that grounded flights across U.S.: White House",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/world/livestory/airport-delays-faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421992?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a17a210d-f3be-47a0-a9aa-b518d5307092,1794677847968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C83%2C5840%2C3285%29%3B",
-    "data": "2026-11-13T22:18:32.000Z"
   },
   {
     "categoria": "Opinião",
