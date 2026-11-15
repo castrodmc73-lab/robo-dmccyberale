@@ -1,5 +1,167 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
+    "resumo": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts is unlikely to happen immediately.",
+    "link": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/dc-federal-workers-zglc/dc-federal-workers-zglc-mediumSquareAt3X.jpg",
+    "data": "2026-11-15T17:09:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Operação Caça ao Sicário prende mais um suspeito de homicídio em Itaperuna; número de presos chega a 12 executores, diz delegado",
+    "resumo": "Com essa prisão, a operação totaliza 12 executores e 3 chefes de facções presos, segundo a polícia. Blog do Jorge Luiz Um homem foi preso na tarde deste sábado (14), durante a quinta fase da Operação Caça ao Sicário, em Itaperuna, no Noroeste Fluminense. Ele é investigado por matar a tiros um homem de 36 anos no bairro Matadouro. A ação f",
+    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/15/operacao-caca-ao-sicario-prende-mais-um-suspeito-de-homicidio-em-itaperuna-numero-de-presos-chega-a-12-executores-diz-delegado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yldT9fUubevn6wRFCRvtHBKlYec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/p9zsZAQrKEilddLU2qmw/whatsapp-image-2026-11-14-at-20.17.52.jpeg",
+    "data": "2026-11-15T17:04:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é morto a facadas pelo próprio irmão após discussão em casa, em MG",
+    "resumo": "Um homem de 41 anos foi morto a facadas pelo próprio irmão após uma discussão na casa da família, no bairro Bela Vista, em Sacramento, na madrugada deste domingo (15). O suspeito foi preso no local e não quis informar à Polícia Militar (PM) detalhes sobre a motivação do crime. De acordo com a PM, o morador da casa contou que os filhos est",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/15/homem-e-morto-a-facadas-pelo-proprio-irmao-apos-discussao-em-casa-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p-VMjoQLqYq9eQYdCmYhpcbQhGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png",
+    "data": "2026-11-15T17:03:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Caminhão-tanque sai da pista após colisão e atinge árvores às margens da BR-153 em Marília",
+    "resumo": "Caminhão atingiu árvores ao sair da pista da BR-153 em Marília Polícia Rodoviária Federal/ Divulgação O motorista de um caminhão-tanque se envolveu em uma colisão traseira e o veículo saiu da pista da Rodovia Transbrasiliana (BR-153) em Marília (SP). Ao sair da rodovia, o veículo atingiu várias árvores que ficam à margem da via. O caminhã",
+    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/15/caminhao-tanque-sai-da-pista-apos-colisao-e-atinge-arvores-as-margens-da-br-153-em-marilia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Ak-HlUHhTFYQsbXr2aN0zb-XP08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Y/XWxQieRtAn8uL3f5BaWQ/caminhao-br.jpg",
+    "data": "2026-11-15T17:02:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Faça chuva ou sol': mãe espera filho treineiro para prova do Enem pelo segundo ano no Pará",
+    "resumo": "Professora espera filho na porta de escola no 2ª dia de Enem em Belém Cadeira de praia, lanche e água: a professora Patrícia Assunção, de 50 anos, preparou tudo para esperar o filho no segundo dia de provas do Enem, em Belém. Ela chegou às 11h e pretende ficar até Kelvin Assunção, de 16 anos, sair com o caderno de questões. A espera tem u",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/15/faca-chuva-ou-sol-mae-espera-filho-treineiro-para-prova-do-enem-pelo-segundo-ano-em-belem.ghtml",
+    "imagem": null,
+    "data": "2026-11-15T17:01:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente vai sozinho à delegacia e denuncia servidor municipal por estupro em banheiro",
+    "resumo": "Praça de Santópolis do Aguapeí (SP) Google Maps Um adolescente de 13 anos foi sozinho à delegacia para denunciar que sofreu estupro enquanto usava um banheiro público na tarde de sexta-feira (13), em Santópolis do Aguapeí, no interior de SP. O relato levou à prisão em flagrante do suspeito, que é servidor público municipal. Segundo o bole",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/15/adolescente-vai-sozinho-a-delegacia-e-denuncia-servidor-municipal-por-estupro-em-banheiro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dfSmRuxclPDzw2FvNXb3SAg2LnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/i/BRdsLqRbKfh1BLVLuUiA/g1-60-.jpg",
+    "data": "2026-11-15T17:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso suspeito de tentar enforcar esposa, agredir filho mais velho e se trancar em casa com bebê",
+    "resumo": "Policiais fizeram intervenção e forçaram a abertura do portão de uma casa para garantir a segurança de uma criança de um ano em Sorocaba (SP) Polícia Militar/Divulgação Um homem foi preso em flagrante após tentar enforcar a esposa e agredir um dos filhos do casal, de sete anos, na noite de sábado (14) em Sorocaba (SP). Depois da violência",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/15/homem-e-preso-suspeito-de-tentar-enforcar-esposa-agredir-filho-mais-velho-e-se-trancar-em-casa-com-bebe.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DXMwvPeW4d08Ub1Wwn9aXgfpw1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/a/9txgeuQQAlR2u6kWKzlw/edicao-g1-agenda-2026-11-15t115631.331.png",
+    "data": "2026-11-15T17:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Matemática e Ciências da Natureza: candidatos fazem a 2ª etapa do Enem neste domingo em Itapetininga e Tatuí",
+    "resumo": "Enem 2026 Aline Nascimento/g1 Os candidatos fazem neste domingo (15) a segunda e última etapa do Exame Nacional do Ensino Médio (Enem) 2026. Segundo dados do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), Itapetininga registrou 4.180 inscrições, das quais 3.781 foram confirmadas. Em Tatuí, foram 2.886 inscr",
+    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/15/matematica-e-ciencias-da-natureza-candidatos-fazem-a-2a-etapa-do-enem-neste-domingo-em-itapetininga-e-tatui.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/g8F-o374t1N1yNaxNnWI3sVT1vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/qrRR8VQQKnNou1766qIg/midia-de-distribuicao-g1-34-.jpg",
+    "data": "2026-11-15T17:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+    "resumo": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik’s rechargeable tool [&#",
+    "link": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Fanttik-S1-Pro-Cordless-Electric-Screwdriver-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-15T17:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Apple’s first smart glasses are coming together",
+    "resumo": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that \"glasses shipments would begin before the end of ",
+    "link": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0038.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-15T16:59:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Enem 2026: veja fotos do segundo dia de provas em Ribeirão Preto, SP",
+    "resumo": "ENEM 2026 - DOMINGO (15) - Ribeirão Preto (SP): alunos se aglomeram na entrada da Unip, um dos locais de prova da cidade Érico Andrade/g1 O segundo dia do Exame Nacional do Ensino Médio (Enem) 2026 reuniu mais de 48 mil candidatos em 21 municípios da região de Ribeirão Preto (SP) e Franca (SP) neste domingo (15). Ribeirão Preto concentra ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/15/enem-2026-veja-fotos-do-segundo-dia-de-provas-em-ribeirao-preto-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/oGmLguS9IacBq5zD8gma9Ai6XaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/Cl48WAQpeVuu2a6iBMBw/dsc-2193.jpg",
+    "data": "2026-11-15T16:57:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Candidatos enfrentam 2º dia de provas do Enem no Amapá; veja FOTOS",
+    "resumo": "Galerias Relacionadas Desde o meio da manhã deste domingo (15), a frente das escolas no Centro de Macapá ficou movimentada com a chegada dos candidatos para o segundo dia de provas do Exame Nacional do Ensino Médio (Enem). Segundo o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), o Amapá registrou 34.527 ins",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/15/candidatos-enfrentam-2o-dia-de-provas-do-enem-no-amapa-veja-fotos.ghtml",
+    "imagem": null,
+    "data": "2026-11-15T16:55:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Loja de roupas é condenada a indenizar cliente por acusação indevida de furto em shopping de Vitória",
+    "resumo": "Mulher foi acusada injustamente de furto pelo funcionário de uma loja de roupas em Vitória, no Espírito Santo Imagem ilustrativa/Canva Uma loja de roupas foi condenada a pagar R$6 mil por danos morais a uma cliente que foi alvo de uma acusação indevida de furto. O caso aconteceu em um shopping de Vitória, no Espírito Santo, e a sentença f",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/15/loja-de-roupas-e-condenada-a-indenizar-cliente-por-acusacao-indevida-de-furto-em-shopping-de-vitoria.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/E_ROp-LRLH_U2Pvxup3Wvz8FMrE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/W/tT1IOAQtW8Li9c1doZGA/thumb-fotos-2026-11-13t185623.820.jpg",
+    "data": "2026-11-15T16:49:40.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
+    "resumo": "When asked, the transportation secretary could not guarantee on Sunday that a similar air traffic meltdown would not occur again.",
+    "link": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-duffy2-vqkm/15dc-duffy2-vqkm-mediumSquareAt3X.jpg",
+    "data": "2026-11-15T16:46:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "LIVE: Spain vs England – UEFA Nations League",
+    "resumo": "Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T16:45:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia Militar apreende arma e drogas avaliadas em Angra dos Reis",
+    "resumo": "Polícia Militar apreende arma e drogas avaliadas em Angra dos Reis. Divulgação/Polícia Militar Uma arma e diversas drogas foram apreendidas pela Polícia Militar durante uma operação na noite de sábado (14), em Angra dos Reis (RJ). O caso ocorreu no bairro Morro da Caixa d’Água. De acordo com o Disque Denúncia, os agentes foram até o local",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/15/policia-militar-apreende-arma-e-drogas-avaliadas-em-angra-dos-reis.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MfsTQb701sm-kQpGmbQuVMKLKnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/T/bqTAkJRfOMHTBi42AQhg/15-11-2026-1-whatsapp-image-2026-11-14-at-22.56.58.jpeg",
+    "data": "2026-11-15T16:44:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso suspeito de matar vítima a tiros após negociação de terreno em Maricá",
+    "resumo": "Delegacia de homicídios em Maricá Reprodução Inter TV Um homem foi preso nesta sexta-feira (13) suspeito de participar do assassinato de Jair Barbosa dos Santos, morto a tiros em outubro, em Maricá, na Região Metropolitana do Rio. Um segundo envolvido no crime ainda é procurado. Segundo as investigações, na madrugada de 22 de outubro, o s",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/15/homem-e-preso-suspeito-de-matar-vitima-a-tiros-apos-negociacao-de-terreno-em-marica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iR0-1XmK8DwXtVLoIBqYRhFbyg8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/9/zsva1GQKuzvq2691hiDA/homicidio.jpg",
+    "data": "2026-11-15T16:42:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Czechs rally against plan to switch funding of public media",
+    "resumo": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg",
+    "data": "2026-11-15T16:36:42.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
@@ -9,6 +171,15 @@
     "data": "2026-11-15T16:33:00.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Thousands rally in Czech Republic against state media funding changes",
+    "resumo": "Critics say proposed funding changes will give the government more control of state media.",
+    "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-15T16:32:22.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "‘I Love Being a Girl’: Inside the Life of a Sorority Influencer",
@@ -16,6 +187,15 @@
     "link": "https://www.nytimes.com/2026/11/15/us/haley-dekreek-sorority-influencer-college.html",
     "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/00nat-sorority-promo-wvlm/00nat-sorority-promo-wvlm-mediumSquareAt3X.jpg",
     "data": "2026-11-15T16:31:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Lula vê oportunidades na Ásia para explorar minerais críticos",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-ve-oportunidades-na-asia-para-explorar-minerais-criticos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-ve-oportunidades-na-asia-para-explorar-minerais-criticos",
+    "imagem": null,
+    "data": "2026-11-15T16:30:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -28,111 +208,21 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Candidato chega após fechamento dos portões do Enem em Fortaleza e atribui atraso à frota reduzida do metrô",
-    "resumo": "Candidato chega atrasado ao local de prova do Enem e alega demora nos metrôs O professor de matemática Thales Vinicius, de 31 anos, chegou ao campus do Itaperi, da Universidade Estadual do Ceará (Uece), às 13h05 deste domingo (15), cinco minutos depois do fechamento dos portões para o segundo dia de provas do Exame Nacional do Ensino Médi",
-    "link": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/11/15/candidato-chega-apos-fechamento-dos-portoes-do-enem-em-fortaleza-e-atribui-atraso-a-frota-reduzida-do-metro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DKUTf3su7xwVdQl1uH66PYK5DAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/RsFweYQBi7BRWtImWO1A/atraso-enem-fortaleza-uece-itaperi.jpg",
-    "data": "2026-11-15T16:25:51.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pré-Caju 2026: Ivete, Bell Marques e Léo Santana comandam último dia da folia",
-    "resumo": "Pré-Caju 2026: Ivete, Bell Marques e Léo Santana comandam último dia da folia Montagem g1 A programação do Pré-Caju 2026 chega ao fim, neste domingo (15), e entre os artista que vão comandar a folia estão Ivete, Bell Marques, Léo Santana. A festa também conta programação do Camarote Aju. Em 28ª edições, o Pré-Caju se mantém como única pré",
-    "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/15/pre-caju-2026-ivete-bell-marques-e-leo-santana-comandam-ultimo-dia-da-folia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KztgYzXfLJnMjL8hTkcJkN9NA88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/b/9enqeHTGuiZdTqhrpNfQ/whatsapp-image-2026-11-13-at-17.44.30-1-.jpeg",
-    "data": "2026-11-15T16:23:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Juntos nos estudos e na prova: irmãos fazem o Enem na mesma sala em Belém: ‘A gente está bem preparado’",
-    "resumo": "Candidato leva galão de 5 litros de água para o Enem e divide sala com a irmã, em Belém. Recebe Costa/g1 Pará Os irmãos Caio Santos, de 18 anos, e Bianca Santos, de 20, vão fazer a prova do segundo domingo do Exame Nacional do Ensino Médio (Enem) na mesma sala, na Unama da avenida Alcindo Cacela, em Belém. SIGA A COBERTURA — g1 acompanha ",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/15/juntos-nos-estudos-e-na-prova-irmaos-fazem-o-enem-na-mesma-sala-em-belem-a-gente-esta-bem-preparado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/p_Jw0SkGZ6FiSHEl2MHg8YdPFR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/D/zFQY7yQ0yFZOyxAcnClQ/whatsapp-image-2026-11-15-at-12.38.01.jpeg",
-    "data": "2026-11-15T16:23:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Três apostas de MS acertam a quina da Mega-Sena e uma leva quase R$ 100 mil",
-    "resumo": "Bilhetes da Mega-Sena. Marcelo Brandt/G1 Três apostas de Mato Grosso do Sul acertaram cinco dezenas no concurso 3.086 da Mega-Sena, realizado neste domingo (15). Os jogos foram registrados em Bataguassu, Campo Grande e Três Lagoas. Juntos, os ganhadores vão receber R$ 163.928,46. A aposta de Bataguassu foi simples e registrada na Lotérica",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/15/tres-apostas-de-ms-acertam-a-quina-da-mega-sena-e-uma-leva-quase-r-100-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PiWlLi5ewKcoHIeUBaB5eWHX9Yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png",
-    "data": "2026-11-15T16:21:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Se esse menino tivesse sumido, eu não sei nem o que eu ia fazer', diz mãe de bebê após tentativa de sequestro em maternidade de BH",
-    "resumo": "Mãe de recém-nascido relata como tomou conhecimento da tentiva de sequestro dentro de maternidade em BH Lucas Franco/ TV Globo A mãe do recém-nascido que foi alvo de uma tentativa de sequestro na maternidade da Santa Casa BH, na Região Centro-Sul de Belo Horizonte, contou ao g1 que entrou em desespero ao perceber que o filho não estava ma",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/se-esse-menino-tivesse-sumido-eu-nao-sei-nem-o-que-eu-ia-fazer-diz-mae-de-bebe-apos-tentativa-de-sequestro-em-maternidade-de-bh.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/td08aP7fLlsc37tT0CubO4TBxVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/fzDAIqS8qNyyspM8Dckg/vitima-sequestro.jpeg",
-    "data": "2026-11-15T16:20:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Aos 61 anos, candidato ganha apoio da família para fazer o Enem e mira carreira na engenharia civil",
-    "resumo": "Aos 61 anos, candidato ganha apoio da família para fazer o Enem Quem passa pela entrada da Unip Swift, em Campinas (SP), um dos locais do segundo dia de prova do Exame Nacional do Ensino Médio (Enem), neste domingo (15), vê muitos rostos de adolescentes que estão saindo da escola. Mas, no meio das centenas de jovens está Adão Nascimento q",
-    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/aos-61-anos-candidato-ganha-apoio-familia-fazer-enem-mira-carreira-engenharia-civil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AuYDWklbOyeUXQHX3PWNS_pXCFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/QJBLzsRlCzbCB3alm2Jw/area-1-20-.png",
-    "data": "2026-11-15T16:19:33.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: AB2 de sábado, 14 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/al/alagoas/edicao/2026/11/15/videos-ab2-de-sabado-14-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tNE8zRLlC0ElSBImlrtBwp6fMuk=/s01.video.glbimg.com/deo/vi/58/99/15189958",
-    "data": "2026-11-15T16:19:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Criança esquecida a bordo pela família em Porto Alegre ficou 15 minutos sem os responsáveis; piloto pediu ajuda à torre de comando",
-    "resumo": "Família desembarca e esquece criança dentro de avião em Porto Alegre A criança que foi esquecida a bordo de um avião na tarde de sábado (14), no Aeroporto Internacional Salgado Filho, em Porto Alegre, após o desembarque dos familiares, ficou cerca de 15 minutos sem os responsáveis, segundo a companhia aérea Latam Airlines Brasil. Na sequê",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/crianca-esquecida-a-bordo-pela-familia-em-porto-alegre-ficou-15-minutos-sem-os-responsaveis-piloto-pediu-ajuda-a-torre-de-comando.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NhmxUFSp3PpQVS2k8yrvz7y0TXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/9qnGMHR0SIBPgqTweQpA/aero2.png",
-    "data": "2026-11-15T16:18:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está controlando situação",
-    "resumo": "O ministro da Educação, Leonardo Barchini, disse que a página do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) na internet tem sido alvo de tentativas de ataques hacker neste domingo (15), segundo dia do Exame Nacional do Ensino Médio (Enem). Barchini deu a declaração ao fazer uma apresentação para o presid",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Festival de futebol feminino de várzea reúne 1,5 mil atletas em SP",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/festival-de-futebol-feminino-de-varzea-reune-15-mil-atletas-em-sp\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/festival-de-futebol-feminino-de-varzea-reune-15-mil-atletas-em-sp",
     "imagem": null,
-    "data": "2026-11-15T16:17:26.000Z"
+    "data": "2026-11-15T16:17:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Prefeitura de Araruama flagra descarte irregular de entulho às margens do Rio Mataruna",
-    "resumo": "Um homem foi encontrado descartando os materiais e acabou conduzido à 118ª Delegacia de Polícia. O local passou por perícia. SEMAM Araruama/Divulgação A Prefeitura de Araruama, na região dos Lagos do Rio, registrou neste sábado (14) uma ocorrência de descarte irregular de resíduos da construção civil às margens do Rio Mataruna, na esquina",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/15/prefeitura-de-araruama-flagra-descarte-irregular-de-entulho-as-margens-do-rio-mataruna.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gENMDo2mNrsOMSyxSfxK8JDWWFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/u/tzrsoeRv2rxrKoavGX0w/whatsapp-image-2026-11-15-at-11.47.36-1-.jpeg",
-    "data": "2026-11-15T16:14:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Professor de história faz Enem pela quinta vez para tentar vaga em geografia, em Campina Grande: 'O nervosismo é o mesmo'",
-    "resumo": "Professor de história faz Enem pela quinta vez para tentar vaga em geografia, na PB Mesmo acostumado a estar diante de alunos em sala de aula, o professor de História Bruno Vasconcelos vive, neste domingo (15), a expectativa de quem está do outro lado da prova. Ele faz o segundo dia do Exame Nacional do Ensino Médio (Enem) 2026 em Campina",
-    "link": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/11/15/professor-de-historia-faz-enem-pela-quinta-vez-para-tentar-vaga-em-geografia-em-campina-grande-o-nervosismo-e-o-mesmo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/O5HYw44cbsQclm4cdGwVqVWP-28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/B/twBNiQSfecwLVdpRh9HQ/captura-de-tela-2026-11-15-131052.jpg",
-    "data": "2026-11-15T16:12:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mega-Sena: aposta de Gurupi acerta a quina e ganha mais de R$ 32 mil",
-    "resumo": "G1 | Loterias - Mega-Sena 3086 Uma aposta simples registrada em Gurupi foi premiada na Mega-Sena ao acertar cinco números e faturou R$ 32.785,73. Ninguém acertou o prêmio principal e o valor para o próximo sorteio acumulou em R$ 34 milhões. Veja os números sorteados: 03 - 20 - 35 - 38 - 43 - 46. A aposta foi feita na lotérica Beira Rio, n",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/15/mega-sena-aposta-de-gurupi-acerta-a-quina-e-ganha-mais-de-r-32-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png",
-    "data": "2026-11-15T16:08:43.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Rio de Janeiro tem primeira morte confirmada por mpox no país",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><st",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-no-pais",
+    "imagem": null,
+    "data": "2026-11-15T16:07:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -315,15 +405,6 @@
     "data": "2026-11-15T15:01:54.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
-    "resumo": "One of Canada's leading authors on homelessness says the prime minister’s plan to end it within 10 years is an \"ambitious goal\" that has potential, but won't actually go all the way.",
-    "link": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B",
-    "data": "2026-11-15T15:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -414,15 +495,6 @@
     "data": "2026-11-15T14:03:39.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-    "resumo": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
-    "link": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T14:02:08.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
@@ -450,15 +522,6 @@
     "data": "2026-11-15T14:00:17.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Ao vivo: professores comentam 2º dia de prova na live Resenha do Enem",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-2o-dia-de-prova-na-live-resenha-do-enem\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/ao-vivo-professores-comentam-2o-dia-de-prova-na-live-resenha-do-enem",
-    "imagem": null,
-    "data": "2026-11-15T14:00:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
@@ -475,24 +538,6 @@
     "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-15T13:57:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Germany vs Netherlands: Nations League – preview, team news, predictions",
-    "resumo": "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.",
-    "link": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-15T13:54:05.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Enem 2026: um a cada cinco participantes faz prova como treineiro",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-um-cada-cinco-participantes-faz-prova-como-treineiro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-um-cada-cinco-participantes-faz-prova-como-treineiro",
-    "imagem": null,
-    "data": "2026-11-15T13:49:00.000Z"
   },
   {
     "categoria": "Ciência",
@@ -529,15 +574,6 @@
     "link": "https://www.dw.com/pt-br/cúpula-inédita-de-xi-trump-e-putin-expõe-dilema-chinês-sobre-moscou/a-79952220?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-15T13:36:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Fortes chuvas devem atingir estado de São Paulo neste domingo",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><st",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/fortes-chuvas-devem-atingir-estado-de-sao-paulo-neste-domingo",
-    "imagem": null,
-    "data": "2026-11-15T13:34:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -632,15 +668,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
-    "resumo": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts are unlikely to happen immediately.",
-    "link": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/dc-federal-workers-zglc/dc-federal-workers-zglc-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T10:00:59.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them",
     "resumo": "Diligent ground-level efforts by Black women helped make Democrats competitive again in Georgia. Now they’ll hold seven of the top eight elected leadership roles in the state.",
     "link": "https://www.nytimes.com/2026/11/15/us/black-women-georgia-leaders.html",
@@ -659,15 +686,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
-    "resumo": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg",
-    "data": "2026-11-15T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "Midterm voters ended the long-running GOP dominance in state legislatures",
     "resumo": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
@@ -681,6 +699,15 @@
     "resumo": "The film <em>Being Heumann</em> tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
     "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x5304+0+0/resize/7952x5304!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff8%2Fb95af317401cb54343937619e0f7%2Fbeing-heumann-photo-0103.jpg",
+    "data": "2026-11-15T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
+    "resumo": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+    "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg",
     "data": "2026-11-15T10:00:00.000Z"
   },
   {
@@ -792,15 +819,6 @@
     "data": "2026-11-15T08:00:07.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Copper wire upgrade behind US flight suspension, transport secretary says",
-    "resumo": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-    "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-15T07:10:31.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Alzheimer’s may start shrinking two brain regions years before memory loss",
@@ -889,15 +907,6 @@
     "link": "https://www.nytimes.com/2026/11/14/us/unlike-other-countries-americas-government-funds-its-air-infrastructure.html",
     "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-privatize-topart-01-lgmb/14faa-groundstop-privatize-topart-01-lgmb-mediumSquareAt3X.jpg",
     "data": "2026-11-15T00:41:29.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Stranded by planes, travelers turned to trains and automobiles.",
-    "resumo": "People trying to find new ways to get to their destinations still encountered obstacles at the rental car counter and on Amtrak’s booking system.",
-    "link": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/travelers-alternatives-trains-automobiles",
-    "imagem": "https://static01.nyt.com/images/2026/11/14/multimedia/14faa-groundstop-alternatives-topart-zcqm/14faa-groundstop-alternatives-topart-zcqm-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T00:17:18.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1080,24 +1089,6 @@
     "data": "2026-11-14T15:00:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "resumo": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
-    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-14T15:00:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-    "resumo": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one [&#8230;]",
-    "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-14T14:18:36.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
@@ -1159,6 +1150,15 @@
     "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
     "imagem": "https://i.guim.co.uk/img/media/5c3dbca857b8f7de780fc54ca9d2ea37e0f290bf/251_0_1937_1550/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=97e2e9aec87c9a6b8acc48da7fe08984",
     "data": "2026-11-14T11:00:43.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Carney cites her award-winning book on encampments. Here's what she says of his plan to end homelessness",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/62aea22c-dd56-42ff-8821-49a140420ca9,1794761493250/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C3476%2C1955%29%3B",
+    "data": "2026-11-14T09:01:41.000Z"
   },
   {
     "categoria": "Economia",
