@@ -1,30 +1,237 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem sobe no teto de carro em movimento e é levado por metros na Linha Amarela, no Rio; VÍDEO",
-    "resumo": "Homem sobe em carro em movimento na Linha Amarela Um homem sem camisa subiu no teto de um carro vermelho em movimento na Linha Amarela, na altura do Shopping Nova América, na Zona Norte do Rio, na tarde desta segunda-feira (16). Imagens registradas por pessoas que estavam dentro do veículo mostram o homem sobre o carro enquanto as mulhere",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/16/homem-sobe-no-teto-de-carro-em-movimento.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KyFsUhrcMKMtuHojABMjsKacmlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/x/X2qSnNRg2Z6jqeCCk9pA/rj2-limpo-20261116-1830-frame-119271.jpeg",
-    "data": "2026-11-16T22:48:15.000Z"
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "The AI start-ups fixing India's broken roads and messy land records",
+    "resumo": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+    "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+    "data": "2026-11-16T23:25:53.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028",
+    "resumo": "No longer a fresh face, he is arguing that his party needs moderate red-state whisperers.",
+    "link": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16pol-onpolitics-newsletter-01-wtmp/16pol-onpolitics-newsletter-01-wtmp-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T23:21:36.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Atingidos por tornado em Chapecó podem sacar R$ 6,6 mil do FGTS e suspender financiamentos; veja como",
-    "resumo": "Tornado causou estragos em Chapecó @dechapeco/divulgação Moradores e empresários afetados pelo tornado que atingiu Chapecó, maior cidade do Oeste de Santa Catarina, no início do mês, podem buscar benefícios financeiros e linhas de crédito. Para facilitar o acesso aos recursos, uma unidade móvel da Caixa Econômica Federal atende na Praça C",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/16/atingidos-tornado-chapeco-sacar-r-66-mil-fgts-veja-medidas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MD4LrIcFgfEv6JY_SbCuJOEjWAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/k/MJ6zSEQBOpeBPIguRi1w/tornado-1-.png",
-    "data": "2026-11-16T22:47:37.000Z"
+    "titulo": "Loteria Federal hoje: resultado do concurso 6118 e números sorteados",
+    "resumo": "Volantes da Loteria Federal G1 Veja abaixo os bilhetes sorteados do concurso 6118 da Loteria Federal realizado nesta segunda-feira (16): 1º - Bilhete 062545: R$ 1.350.000 2º - Bilhete 065170: R$ 40.000 3º - Bilhete 057177: R$ 30.000 4º - Bilhete 083440: R$ 20.000 5º - Bilhete 054040: R$ 17.339 O próximo sorteio acontece na quinta-feira (1",
+    "link": "https://g1.globo.com/loterias/loteria-federal/noticia/2026/11/16/loteria-federal-hoje-resultado-do-concurso-6118-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/pcLYfXmvyM030B3n34CA2QW_agU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/f/41PaWjSGOWo8I7j3uNow/voltantes-federal.jpg",
+    "data": "2026-11-16T23:21:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Five EU countries announce migrant deportation centre in Rwanda",
+    "resumo": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+    "data": "2026-11-16T23:20:45.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "The U.K. is granting pardons to women for past abortion convictions",
+    "resumo": "The U.K. government says it will grant automatic pardons to all women convicted of having illegal abortions over the last 165 years.",
+    "link": "https://www.cbc.ca/radio/asithappens/uk-abortion-pardons-9.7424193?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/0c07dd84-30ed-48e4-bbc8-e5c6e2e63d08,1794867173847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5847%2C3288%29%3B",
+    "data": "2026-11-16T23:20:41.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Baby sea turtles swim out to sea after historic California nesting",
+    "resumo": "<p>Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast</p><p>Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have bee",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+    "imagem": "https://i.guim.co.uk/img/media/4861d06aace7cca64a1450b2e61fb90d86e1600a/243_0_2431_1945/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=12b0764cfaa73133ca97044e6dbc0d99",
+    "data": "2026-11-16T23:19:11.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "VÍDEOS: EPTV 2 Sul de Minas de segunda-feira, 16 de novembro de 2026",
+    "titulo": "Caso videogame-bomba: empresário preso por suspeita de enviar explosivos já atirou acidentalmente contra si em festa de Dia dos Pais em escola",
+    "resumo": "Videogame explode em loja de eletrônicos da Grande SP O empresário Everton Yoshizumi Lima, de 39 anos, que foi preso suspeito de planejar a explosão de um videogame enviado com explosivos a uma loja de eletrônicos concorrente, em Santo André, na Grande São Paulo, já se envolveu em um episódio de disparo acidental de arma de fogo contra o ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/16/caso-videogame-bomba-empresario-preso-por-suspeita-de-enviar-explosivos-ja-atirou-acidentalmente-contra-si-em-festa-de-dia-dos-pais-em-escola.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kCvk8erg9SoUYSeFRPsMdslOB90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/C/CjTgVuQHyQuAEh3qyX5Q/montagem-horizontal-1200px-49-.jpg",
+    "data": "2026-11-16T23:18:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Resultados das Loterias Caixa",
+    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
+    "data": "2026-11-16T23:17:39.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "resumo": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At th",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-16T23:17:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Saiba qual é a cidade goiana que está no top 3 de cobertura vacinal do país",
+    "resumo": "Goianira fica em 3º lugar no ranking nacional de cobertura vacinal O Estado de Goiás está no pódio das cidades com maior cobertura vacinal do país. Goianira, na Região Metropolitana de Goiânia, é a primeira colocada no Centro-Oeste e ocupa a terceira posição no ranking nacional. Segundo a Secretaria de Saúde do município, atualmente Goian",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/16/saiba-qual-e-a-cidade-goiana-que-esta-no-top-3-de-cobertura-vacinal-do-pais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NlUpuKJlZU9PMXkpYRss1aOasrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/yzWLNtQSOsPnevEE7WwQ/co-19-.jpg",
+    "data": "2026-11-16T23:15:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: NSC Notícias de segunda-feira, 16 de novembro de 2026",
+    "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
+    "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/16/videos-nsc-noticias-de-segunda-feira-16-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/oecCboHE_aMY0rZZuUIS6g5M8tk=/s01.video.glbimg.com/deo/vi/72/41/15194172",
+    "data": "2026-11-16T23:15:44.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Military's No. 2 defends GlobalEye surveillance jets despite capability concerns",
+    "resumo": "Canada's second-in-command is standing behind the proposed purchase of six Saab GlobalEye surveillance jets despite air force concerns about their capabilities. Vice-Admiral Angus Topshee told MPs he's satisfied with the procurement process, arguing the aircraft will contribute to an integrated continental defence network alongside satell",
+    "link": "https://www.cbc.ca/news/politics/surveillance-jets-global-eye-canada-saab-9.7424260?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B",
+    "data": "2026-11-16T23:15:35.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Customers report service outages at major US banks",
+    "resumo": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+    "data": "2026-11-16T23:15:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 16 de novembro de 2026",
+    "resumo": "Reveja os vídeos do telejornal.",
+    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-16-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8opbT5YuHYJ80hzxZ8yNs4Wl69c=/s01.video.glbimg.com/deo/vi/66/48/15194866",
+    "data": "2026-11-16T23:14:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta segunda-feira, 16 de novembro de 2026",
     "resumo": "",
-    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/16/videos-eptv-2-sul-de-minas-de-segunda-feira-16-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pgTqAVGUAMSbro7oXqVQX-MWVF4=/s01.video.glbimg.com/deo/vi/89/42/15194289",
-    "data": "2026-11-16T22:46:10.000Z"
+    "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-segunda-feira-16-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hCT-AGDLGhgOatRvsKUlWXynkWM=/s01.video.glbimg.com/deo/vi/73/48/15194873",
+    "data": "2026-11-16T23:13:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é encontrado com sinais de envenenamento após esfaquear ex-companheira no interior de SP",
+    "resumo": "Homem foi levado para a Santa Casa de Santa Cruz do Rio Pardo, onde ficou internado e entubado, mas não resistiu e morreu. Santa Casa de Santa Cruz do Rio Pardo Um homem morreu depois de esfaquear a ex-companheira, neste domingo (15), em Santa Cruz do Rio Pardo (SP). De acordo com informações da Polícia Civil, os agentes foram acionados p",
+    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/16/homem-e-encontrado-com-sinais-de-envenenamento-apos-esfaquear-ex-companheira-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/K7_XXS4yRAdQItkihJuwrGwXdJU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/m/oSssENRjmdLjP63Op51A/novo-projeto-2026-11-16t102058.412.png",
+    "data": "2026-11-16T23:12:52.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Judge Sets Spring Retrial for Lindsay Clancy",
+    "resumo": "At a hearing on Monday, prosecutors did not say whether they would plan to retry Ms. Clancy on first-degree murder charges, lesser charges or at all.",
+    "link": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-clancy-hearing-pjbf/16nat-clancy-hearing-pjbf-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T23:12:49.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "California sues OpenAI over Hugging Face attack",
+    "resumo": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+    "data": "2026-11-16T23:12:24.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+    "resumo": "The court filing confirms that the Trump administration has sought on two parallel fronts to identify the sources for an article as part of one overarching investigation.",
+    "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-leak-qbtp/dc-leak-qbtp-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T23:12:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: GR2 de segunda-feira, 16 de novembro de 2026",
+    "resumo": "Confira os vídeos do telejornal com as notícias do Sertão de Pernambuco.",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-segunda-feira-16-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/z-WNbQj-vxthnlajJbKbG0pGo2U=/s01.video.glbimg.com/deo/vi/80/47/15194780",
+    "data": "2026-11-16T23:11:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista envolvido em acidente que matou criança de 10 anos pode responder por homicídio doloso, na Paraíba",
+    "resumo": "Motorista de carro envolvido em acidente que matou criança de 10 anos é preso, na PB O motorista do carro envolvido no acidente que matou uma criança de 10 anos na PB-095, rodovia que liga Massaranduba a Campina Grande, pode responder por homicídio doloso, quando há intenção de matar ou se assume o risco de provocar a morte. Ele foi preso",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/motorista-acidente-que-matou-crianca-de-10-anos-homicidio-doloso-paraiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8KjzLX1Gpyl4lZ13USORb2nhQJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/bGxK1pQpG7TrbqGLhCMQ/bgs-g1-pb-e-jp.png",
+    "data": "2026-11-16T23:06:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Paulo Gomes (PL) será líder do governo de Sergio Moro na Assembleia Legislativa do Paraná",
+    "resumo": "Paulo Gomes será líder do governo de Sergio Moro na Assembleia Legislativa do Paraná Orlando Kissner O deputado estadual Paulo Gomes (PL) será o líder do governo Sergio Moro na Assembleia Legislativa do Paraná (Alep), a partir de 2027. A informação foi confirmada ao g1 nesta segunda-feira (16) pela equipe do governador eleito. ➡️ O líder ",
+    "link": "https://g1.globo.com/pr/parana/noticia/2026/11/16/paulo-gomes-pl-sera-lider-do-governo-de-sergio-moro-na-assembleia-legislativa-do-parana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/EAsFyGW8z4x3xLLUPAVwQkdufBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/J/eJpqyYSRq7KTbviWYcRw/53232180551-cec241feb5-o.jpg",
+    "data": "2026-11-16T23:06:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "EUA perdem status de país livre do sarampo após 26 anos",
+    "resumo": "Queda na vacinação faz Nova York declarar emergência por aumento nos casos de sarampo Jornal Nacional/ Reprodução Os Estados Unidos perderam o status de país livre do sarampo após 26 anos, segundo uma autoridade do governo americano ouvida pela agência de notícias Reuters nesta segunda-feira (16). A decisão foi comunicada ao governo do pr",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/16/eua-perdem-status-de-pais-livre-do-sarampo-apos-26-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JYFeQSo1XyV3IIv1xvmcXoIN8Nw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/S/bAZ5mqRNaMbMXmVstI8Q/globo-canal-4-20261006-2000-frame-99257.jpeg",
+    "data": "2026-11-16T23:02:18.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "EU agrees to resurrect cooperation deal with Syria",
+    "resumo": "Decision aims to bolster bloc&#039;s ties with Damascus following the collapse of Assad&#039;s government in December 2024.",
+    "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T23:00:36.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "United Airlines says issue affecting departing flights has been resolved",
+    "resumo": "United Airlines said Monday that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the U.S. Federal Aviation Administration's network prompted a nationwide ground stop.",
+    "link": "https://www.cbc.ca/news/world/united-airlines-widespread-system-outage-9.7424259?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/e2e81be2-5f03-4925-9359-97571441729c,1794869011595/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5391%2C3032%29%3B",
+    "data": "2026-11-16T22:59:23.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "resumo": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the [&#8230;]",
+    "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-16T22:54:59.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -36,85 +243,13 @@
     "data": "2026-11-16T22:46:09.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+    "resumo": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+    "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-16T22:45:05.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-    "imagem": null,
-    "data": "2026-11-16T22:44:51.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-    "imagem": null,
-    "data": "2026-11-16T22:44:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-    "imagem": null,
-    "data": "2026-11-16T22:44:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Obras do novo aterro sanitário de Manaus preocupam moradores por possíveis impactos ambientais",
-    "resumo": "Área de obras do aterro sanitário de Manaus, em 2025. Divulgação/Semcom A construção do novo aterro sanitário de Manaus é alvo de apuração do Ministério Público Federal (MPF) após denúncias sobre possíveis impactos ambientais e riscos às nascentes de igarapés próximos à região da obra. Moradores do bairro Lago Azul, na Zona Norte da capit",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/16/obras-do-novo-aterro-sanitario-de-manaus-preocupam-moradores-por-possiveis-impactos-ambientais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4zJnaTBjpqsNaR0rHnDICUHGeAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/g/E/LYLyRlS7ifY0nYQBVtrg/dscn7600.jpg",
-    "data": "2026-11-16T22:43:57.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Professor é espancado após tentar defender mulher de agressão no Centro do Rio; vítima está em estado grave",
-    "resumo": "Professor é espancado após tentar defender mulher de agressão no Centro do Rio Redes sociais O professor, escritor e ator André Luís de Oliveira, conhecido como André Aires, está internado em estado grave no Hospital Municipal Miguel Couto, na Zona Sul do Rio, após ser espancado por um grupo de homens na manhã de domingo (15), no Centro d",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/16/professor-e-espancado-apos-tentar-defender-mulher-de-agressao-no-centro-do-rio-vitima-esta-em-estado-grave.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/htqPNDkeUAwPMJQarVsxZZ27rwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/O/3DA9UrS2yZVWcX4NKrQg/imagem-cortada-72-.jpg",
-    "data": "2026-11-16T22:43:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Boa Noite Espírito Santo",
-    "resumo": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
-    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png",
-    "data": "2026-11-16T22:43:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Concurso da gestão governamental do Amapá divulga consulta aos locais de prova",
-    "resumo": "Provas para nível médio serão neste domingo (22) Crystofher Andrade/g1 Os inscritos no concurso da Gestão Governamental do Amapá para o cargo de assistente administrativo já podem consultar os locais de prova. A consulta está disponível na área do candidato, no site do Instituto de Desenvolvimento e Capacitação (Idcap), banca organizadora",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/16/concurso-da-gestao-governamental-do-amapa-divulga-consulta-aos-locais-de-prova.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/g7iL3izFiUGX7HIj3hugvW8AHBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/9/SHBFQdQziwCAsayFZtxw/whatsapp-image-2025-11-06-at-13.19.59-2-.jpeg",
-    "data": "2026-11-16T22:43:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista aos telejornais da TV Bahia",
-    "resumo": "Assista aos telejornais da TV Bahia",
-    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-    "imagem": null,
-    "data": "2026-11-16T22:42:00.000Z"
+    "data": "2026-11-16T22:40:07.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -133,15 +268,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
     "data": "2026-11-16T22:21:27.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
-    "resumo": "The court filing confirms that the Trump administration has sought on two parallel fronts to identify the sources for an article as part of one overarching investigation.",
-    "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-leak-qbtp/dc-leak-qbtp-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T22:13:59.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -236,11 +362,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "N.L. premier waiting to hear from Quebec on Churchill River power deal",
-    "resumo": "Quebec Energy Minister Stéphane Paquet said the Churchill River power deal is not set in stone, setting off a series of questions for Premier Tony Wakeham in Newfoundland and Labrador's House of Assembly.",
-    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-churchill-river-9.7424046?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/3e492953-64b8-4082-bbe9-56e4ee189d3c,1794861215806/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-16T21:09:41.000Z"
+    "titulo": "Gordie Howe bridge surpasses 1M vehicle crossings while other bridges, tunnel lose traffic",
+    "resumo": "The Gordie Howe International Bridge has seen more than a million crossings since it officially opened to vehicle traffic on July 27, according to new numbers from the Bridge and Tunnel Operators Association.",
+    "link": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-traffic-update-9.7424008?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/cb1cbe85-e73f-463a-88f6-de850638920f,1790286421780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "data": "2026-11-16T21:09:31.000Z"
   },
   {
     "categoria": "Canadá",
@@ -300,7 +426,7 @@
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "California sues OpenAI over rogue AI hacking incidents",
-    "resumo": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters.",
+    "resumo": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reute",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-16T20:46:01.000Z"
@@ -414,15 +540,6 @@
     "data": "2026-11-16T20:05:06.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-    "resumo": "Rivals call for investigation into reports that PM&#039;s office tried to frame Arab parties.",
-    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T20:00:07.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Anitta é indicada ao Grammy Internacional para melhor álbum global",
@@ -468,15 +585,6 @@
     "data": "2026-11-16T19:46:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "U.S. Supreme Court set to hear 3 major Trump agenda immigration cases",
-    "resumo": "The U.S. Supreme Court made at least two significant rulings to shape immigration policy last year. In the coming months, there will at least three more opinions that could be impactful, as U.S. President Donald Trump's administration seeks to reinterpret a number of laws concerning asylum, deportations and the detention of unauthorized p",
-    "link": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B",
-    "data": "2026-11-16T19:39:34.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Jovens com medida socioeducativa têm oficina de robótica no REC’n’Play",
@@ -493,33 +601,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-16T19:30:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-    "resumo": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
-    "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T19:26:40.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "resumo": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [&#8230;]",
-    "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-16T19:24:40.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-    "resumo": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [",
-    "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-16T19:23:45.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -547,15 +628,6 @@
     "link": "https://www.dw.com/pt-br/fim-de-uma-era-seleção-alemã-se-despede-da-adidas/a-79962179?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-16T19:02:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Judge Sets Spring Retrial for Lindsay Clancy",
-    "resumo": "At a hearing on Monday, prosecutors did not say whether they would plan to retry Ms. Clancy on first-degree murder charges, lesser charges or at all.",
-    "link": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-clancy-hearing-pjbf/16nat-clancy-hearing-pjbf-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T18:52:44.000Z"
   },
   {
     "categoria": "Clima",
@@ -614,11 +686,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "U.S. captures third women's world hockey title in 4 years, downing rival Canadians",
-    "resumo": "Hilary Knight and Kelly Pannek each scored twice as the United States defended its women's world hockey title with a 6-2 win over Canada in Monday's gold-medal game in Herning, Denmark.",
-    "link": "https://www.cbc.ca/sports/hockey/womens-hockey-worlds-roundup-canada-united-states-herning-9.7423741?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d3a0a9f4-3246-49cf-aa8e-e95795206c8a,1794861024865/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B",
-    "data": "2026-11-16T18:13:25.000Z"
+    "titulo": "120-year-old church bell weighing 300 pounds stolen from belfry in rural Manitoba",
+    "resumo": "The case of the stolen church bell has police sounding an alarm — and scratching their heads.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-9.7423842?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/2608035d-b9c8-460e-ba47-e81dbe031ef8,1794856963210/full/max/0/default.jpg?im=Crop%2Crect%3D%2843%2C10%2C1089%2C612%29%3B",
+    "data": "2026-11-16T18:23:53.000Z"
   },
   {
     "categoria": "Brasil",
@@ -738,15 +810,6 @@
     "data": "2026-11-16T16:42:05.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "1 man, 2 children dead in Burlington, Ont., house fire, Ontario Fire Marshal says",
-    "resumo": "A man, a 12-year-old child and a one-year-old boy are dead following a house fire in Burlington, Ont., the Ontario Fire Marshal said Monday morning in a news briefing.",
-    "link": "https://www.cbc.ca/news/canada/hamilton/burlington-fire-update-9.7423480?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a94f0b04-5b40-495a-a7fb-74d43d228712,1794850611360/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4240%2C2385%29%3B",
-    "data": "2026-11-16T16:36:31.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Lindsay Clancy to face a new trial in spring of 2027 over children&apos;s killing",
@@ -754,15 +817,6 @@
     "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/3000x2193!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
     "data": "2026-11-16T16:28:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Five EU countries announce migrant deportation centre in Rwanda",
-    "resumo": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-    "data": "2026-11-16T16:27:24.000Z"
   },
   {
     "categoria": "Internacional",
@@ -925,15 +979,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
     "data": "2026-11-16T14:22:36.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "What Nithya Raman Plans to Do First as L.A. Mayor",
-    "resumo": "Once she takes office, she pledges to use metrics to deliver “a city that works” after a pandemic, wildfires and clashes with Trump. But budget constraints and more stand in the way.",
-    "link": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-raman-la-TOP-pkzh/16nat-raman-la-TOP-pkzh-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-16T14:08:12.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1303,50 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
     "data": "2026-11-16T03:04:01.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Physicists defy expectations by controlling the magnetic heart of a single atom",
-    "resumo": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom&#039;s nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand why it works.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
-    "imagem": null,
-    "data": "2026-11-16T02:56:02.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-    "resumo": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-16T01:47:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-    "resumo": "<p>Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon</p><p>Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining.</p><p>On the penultimate day of",
-    "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-    "imagem": "https://i.guim.co.uk/img/media/5656d136eaed416d7dd76ab2932c283b5ce64f39/373_0_3525_2820/master/3525.jpg?width=140&quality=85&auto=format&fit=max&s=b5f344ca36bf7198ae159b63c8dc109a",
-    "data": "2026-11-16T01:13:44.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Huge waves pummel California coast, forcing closure of popular piers",
-    "resumo": "<p>Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city</p><p>The <a href=\"https://www.theguardian.com/us-news/california\">California</a> coast was <a href=\"https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay\">pummeled</a> again on Sunday by huge",
-    "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
-    "imagem": "https://i.guim.co.uk/img/media/1a1e5e3fbb5f413df3cb62b0cb50831adc5a0734/597_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=9ee5566dc21ac7ed5904d54115dea7ad",
-    "data": "2026-11-16T01:00:42.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "An ancient virus may help explain what makes the human brain different",
-    "resumo": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop. Scientists at Lund University discovered that ancient viral DNA embedded in the chimpanzee genome switches off a gene called LINC00662, which remains active i",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
-    "imagem": null,
-    "data": "2026-11-16T00:32:12.000Z"
   }
 ]
