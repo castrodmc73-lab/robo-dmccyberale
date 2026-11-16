@@ -1,66 +1,363 @@
 [
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Avoid this Black Friday scam - how to check it's a real deal",
-    "resumo": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
-    "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
-    "data": "2026-11-16T09:43:47.000Z"
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher é presa suspeita de aplicar golpe da cesta básica em idosos em Rio Claro",
+    "resumo": "Uma mulher foi presa por suspeita de aplicar golpes da cesta básica em idosos em Rio Claro (RJ). A prisão aconteceu durante a segunda fase da \"Operação Mesa Segura\", que foi deflagrada na sexta-feira (13). Segundo a Polícia Civil, a operação começou no início do mês de novembro com o objetivo de desarticular uma organização criminosa espe",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/suspeita-de-aplicar-golpes-e-presa-em-rio-claro.ghtml",
+    "imagem": null,
+    "data": "2026-11-16T11:02:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Apreensão de medicamentos clandestinos no Galeão dispara 587% em 1 ano; foram quase 4 mil canetas emagrecedoras",
+    "resumo": "Apreensão de medicamentos clandestinos no Galeão dispara 587% em 1 ano A Polícia Federal (PF) e a Receita Federal registraram um salto na apreensão de medicamentos clandestinos no Aeroporto Internacional Tom Jobim, no Galeão, entre 2025 e 2026. O número de ampolas transportadas ilegalmente por passageiros passou de 794 para 5.460, uma alt",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/16/apreensao-de-medicamentos-clandestinos-no-galeao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xIJA2xuHLRlRIf8KZSOQnrqiQgc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/4/fAGzySQve9QLvxdiwzsg/16caneta.jpeg",
+    "data": "2026-11-16T11:00:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Tetracampeão mundial de paracanoagem é achado em ilha após 20 horas desaparecido no mar",
+    "resumo": "Tetracampeão mundial de paracanoagem é encontrado no mar após 20h desaparecido em SP O paracanoísta Mário Ferreira de Queiroz, de 51 anos, foi encontrado nesta segunda-feira (16) após ficar desaparecido por cerca de 20 horas durante um treino no mar em Praia Grande, no litoral de São Paulo. Ele foi localizado nas pedras de uma ilha. Há um",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/16/tetracampeao-mundial-de-paracanoagem-e-achado-em-ilha-apos-20-horas-desaparecido-no-mar-em-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YUuWEsXUtCDd65vEijmcmilir14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/2/NBU9ReRS2IVe64W3GACA/inserir-um-titulo-2026-11-16t065125.244.jpg",
+    "data": "2026-11-16T11:00:04.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+    "resumo": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, Cantwell said the DOC has \"undermined Am",
+    "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-16T11:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem e filho morrem após carro sair da pista e bater contra árvore no interior de SP",
+    "resumo": "Pai e filho morrem após carro bater contra árvore em rodovia de Santa Albertina (SP) Téwll Alves/Divulgação Um homem de 79 anos anos e o filho dele, de 50, morreram após o carro em que estavam sair da pista e bater contra uma árvore na tarde de domingo (15), na zona rural de Santa Albertina, no interior de SP. De acordo com o boletim de o",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/16/acidente-carro-santa-albertina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C-7sonIzA2VTPpGUKHaDOK4Gvbo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/z/cNNBQ7TBG9GlNSbLGzLg/g1-63-.jpg",
+    "data": "2026-11-16T10:59:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Two mass shootings in South Africa leave 17 dead",
+    "resumo": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+    "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
+    "data": "2026-11-16T10:57:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dino Sani, campeão com a Seleção Brasileira na Copa de 1958, morre aos 94 anos",
+    "resumo": "Dino Sani Reprodução/CBF O ex-jogador e treinador Dino Sani morreu aos 94 anos, na noite deste domingo (15). Campeão mundial com a Seleção Brasileira na Copa de 1958, na Suécia. A morte foi confirmada pela Confederação Brasileira de Futebol (CBF) e pela Federação Paulista de Futebol (FPF). Nascido na capital paulista em 23 de maio de 1932",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/16/dino-sani-campeao-com-a-selecao-brasileira-na-copa-de-1958-morre-aos-94-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/v4EaMWo2GNIwFeeP3qMe0c6L28s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/N/E6QPD6TEWX7qFHw4OKuQ/20141118113627-0.jpeg",
+    "data": "2026-11-16T10:56:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Tocantins tem alertas de tempestade para todos os municípios até terça-feira (17); veja previsão",
+    "resumo": "Chuva forte registrada em Palmas Ana Paula Rehbein/TV Anhanguera Os 139 municípios do Tocantins estão sob alerta de perigo potencial para tempestade emitido pelo Instituto Nacional de Meteorologia (Inmet). O aviso segue válido até as 23h59 de terça-feira (17). O órgão orienta a população a evitar abrigo sob árvores durante rajadas de vent",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/16/tocantins-tem-alertas-de-tempestade-para-todos-os-municipios-ate-terca-feira-17-veja-previsao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C-noGYMGuXazvJTKOyjolDoh_10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/b/rTIZXETFaIHSIIMvuoGg/chuva.jpg",
+    "data": "2026-11-16T10:56:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Filha de médico e técnica de enfermagem que tenta vaga em medicina já havia iniciado outro curso: 'espero que consiga se encontrar'",
+    "resumo": "Filha de médico e técnica de enfermagem tenta vaga em Medicina e recebe apoio da família A técnica de enfermagem Raquel Fontenele, de 41 anos, aguardava do lado de fora do local de provas enquanto a filha, Ana Vitória, de 22 anos, fazia o segundo dia do Exame Nacional do Ensino Médio (Enem) 2026. Segundo ela, a jovem sonha em cursar medic",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/16/filha-medico-enem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6rZlK0SclyX-iAHf5R8x1LFmmP8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/M/dHPprwQxOhIU2KvSwe3Q/edicao-imagens-g1-21-.jpg",
+    "data": "2026-11-16T10:51:51.000Z"
   },
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "resumo": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+    "resumo": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one haidresser has told the BBC.",
     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ea/live/b856ca50-e18d-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-16T09:42:11.000Z"
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/b0e14fa0-e108-11f1-b3df-4961589d9b68.jpg",
+    "data": "2026-11-16T10:51:45.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Velório e cremação do músico Aroldo Macêdo serão abertos ao público em Salvador",
-    "resumo": "Aroldo Macedo morre aos 68 anos em Salvador Felipe Oliveira O velório e a cerimônia de cremação do músico e guitarrista baiano Aroldo Macêdo acontecerão na terça-feira (17), em Salvador, e serão abertos ao público. A despedida está marcada para começar às 8h, no Bosque de Paz, onde a cremação será realizada às 10h. Aroldo morreu aos 68 an",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/16/velorio-e-cremacao-do-musico-aroldo-macedo-serao-abertos-ao-publico-em-salvador.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LvWDBqvOeVgUTWM--VMEjQgWZvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/J/bHknMzQBOheloUzUVSWg/designer.png",
-    "data": "2026-11-16T09:40:09.000Z"
+    "titulo": "Baú de caminhão se solta e cai na pista da Dutra em Taubaté",
+    "resumo": "Baú de caminhão se solta e cai na pista da Dutra em Taubaté. Vídeo: Tania Manfra/Vanguarda Repórter O baú de um caminhão se desprendeu do veículo e caiu na pista expressa da Rodovia Presidente Dutra (BR-116), em Taubaté (SP), na madrugada desta segunda-feira (16). Ninguém ficou ferido. Segundo a concessionária RioSP, o incidente foi regis",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/16/bau-de-caminhao-se-solta-e-cai-na-pista-da-dutra-em-taubate.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dGRktwGy2IoDNFM_TIfdSBQDc3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/JUPa8VQ1eBdWELezVj6Q/texto-do-seu-paragrafo-2026-11-16t074258.598.png",
+    "data": "2026-11-16T10:50:47.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Homem morre e duas pessoas ficam feridas após ataque a tiros, na Grande João Pessoa",
-    "resumo": "Homem morre e duas pessoas ficam feridas após ataque a tiros, na Grande João Pessoa Reprodução / TV Cabo Branco Um homem identificado como Rauli Rafael, de 37 anos, foi morto a tiros e outras duas pessoas ficaram feridas durante um ataque na noite do domingo (15), no bairro Mário Andreazza, em Bayeux, na Grande João Pessoa. ✅ Clique aqui ",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/homem-morre-e-duas-pessoas-ficam-feridas-apos-ataque-a-tiros-na-grande-joao-pessoa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/46XpqwmJWcTpC42lJSDz4zZHpnM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/x/fHjxaAQ2esdpSmzAQWBw/captura-de-tela-2026-11-16-063153.jpg",
-    "data": "2026-11-16T09:38:03.000Z"
+    "titulo": "Assista ao Bom Dia Vanguarda ao vivo no g1",
+    "resumo": "Assista ao Bom Dia Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-bom-dia-vanguarda-ao-vivo-no-g1.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg",
+    "data": "2026-11-16T10:48:12.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Chuva forte provoca deslizamentos, dispara sirene no Catuçaba e deixa 20 desalojados em São Luiz do Paraitinga",
-    "resumo": "Chuva forte provoca deslizamentos, dispara sirene no Catuçaba e deixa 20 desalojados em São Luiz do Paraitinga Divulgação/Defesa Civil de SP A chuva forte que atingiu São Luiz do Paraitinga (SP) na noite deste domingo (15) provocou estragos em estradas e deixou 20 pessoas desalojadas no distrito de Catuçaba. Os moradores deixaram suas cas",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/16/chuva-forte-provoca-deslizamentos-dispara-sirene-no-catucaba-e-deixa-20-desalojados-em-sao-luiz-do-paraitinga.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tFN38GaRnhZh6QNvAcNNlOy3TXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/M/BGaMeITg68rdmah1HgQw/texto-do-seu-paragrafo-2026-11-16t062820.376.png",
-    "data": "2026-11-16T09:31:10.000Z"
+    "titulo": "Mega-Sena 3086: 8 apostas do oeste do PA acertam a quadra; prêmio vai a R$ 34 milhões",
+    "resumo": "G1 | Loterias - Mega-Sena 3086 8 apostas registradas no oeste e sudoeste do Pará acertaram a quadra no concurso 3086 da Mega-Sena, sorteado domingo (15). Como não houve acertadores das seis dezenas no país, o prêmio principal acumulou. ✅ Clique aqui e siga o canal g1 Santarém e Região no WhatsApp Os jogos premiados na região saíram para o",
+    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/16/mega-sena-3086-8-apostas-do-oeste-do-pa-acertam-a-quadra-premio-vai-a-r-34-milhoes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lfq4Sn9Gzx7L59i6U9TRItx8DFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/EK5gX1TOi999VK1DyhBA/whatsapp-image-2026-01-03-at-12.29.30-9-.jpeg",
+    "data": "2026-11-16T10:47:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Racionamento de água na Grande Aracaju começa nesta segunda-feira",
+    "resumo": "Torneira Pedro França Começa nesta segunda-feira (16) o racionamento de água em Aracaju, Nossa Senhora do Socorro e São Cristóvão. O município de Barra dos Coqueiros ainda não foi incluído na primeira fase do processo. De acordo com o governo, o racionamento será realizado de forma gradativa e acontece por conta das chuvas abaixo da média",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/16/racionamento-de-agua-na-grande-aracaju-comeca-nesta-segunda-feira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_xNauyw4C1tTRSwF9BFd1C0QYdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/C/oftcBcTuCQiANJOizgbA/crop-foto-23-.jpg",
+    "data": "2026-11-16T10:46:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casal morre e filho de 2 anos fica gravemente ferido em acidente MGC-369 em Boa Esperança",
+    "resumo": "Casal morre e filho de 2 anos fica ferido em acidente na MGC-369 em Minas Gerais Corpo de Bombeiros/Divulgação Um casal morreu e uma criança ficou gravemente ferida em uma batida entre dois carros bateram, na rodovia MGC-369, entre Boa Esperança e Campos Gerais, na tarde de domingo (15). 📲 Siga a página do g1 Sul de Minas no Instagram De",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/16/acidente-familia-na-mgc-369.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3qS14utckBQx-zgZKy1wVVSvUrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/0/hOABb2RO6RksyaP3eqEQ/acidente-jornalista.jpeg",
+    "data": "2026-11-16T10:45:37.000Z"
   },
   {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: diplomats divided as climate crisis talks enter second week",
-    "resumo": "<p>Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits</p><p>Moves to <a href=\"https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns\">weaken the UK’s targets on electric vehicles</a> would hurt the car industry as well as consu",
+    "resumo": "<p>Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits</p><p>A draft text from the negotiations over finance at Cop31 has laid bare the divisions between developed and developing countries over who should pay for the climate crisis.</p><p>The text, published late on Sunday night, con",
     "link": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/c23430a7c80647ec8d6367b442f7b732c326074b/776_0_6120_4896/master/6120.jpg?width=140&quality=85&auto=format&fit=max&s=2d5c37600949665074144007be3aaac2",
-    "data": "2026-11-16T09:29:26.000Z"
+    "data": "2026-11-16T10:40:15.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Lebanon’s second airport could provide economic and political benefits",
+    "resumo": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+    "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T10:28:22.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+    "resumo": "The aircraft carrier joins two others operating in the US Central Command area of responsibility.",
+    "link": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T10:14:27.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Jordan bans Telegram over national security concerns",
+    "resumo": "The measure comes amid a security crackdown after last month&#039;s deadly attack on a Greek Orthodox church.",
+    "link": "https://www.aljazeera.com/news/2026/11/16/jordan-bans-telegram-messing-app-over-national-security-concerns?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T10:12:28.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PM faz operação contra criminosos do TCP na Maré; para dificultar a entrada da polícia, bandidos atearam fogo em barricadas",
-    "resumo": "PM faz operação contra criminosos do Terceiro Comando Puro no Complexo da Maré Policiais militares do Batalhão de Operações Policiais Especiais (Bope) e do Batalhão de Choque fazem, na manhã desta segunda-feira (16), uma operação contra criminosos do Terceiro Comando Puro (TCP) no Complexo da Maré, na Zona Norte do Rio. A ação ocorre nas ",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/16/pm-faz-operacao-complexo-da-mare.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WRYIScU4ZxFrNiMLazC3IvSDi5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/E/JeHoBwRreUYIFB0i9qSw/barricadas.jpeg",
-    "data": "2026-11-16T09:27:28.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Brasil avança em políticas de alimentação e clima, diz estudo",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/brasil-avanca-em-politicas-de-alimentacao-e-clima-diz-estudo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/brasil-avanca-em-politicas-de-alimentacao-e-clima-diz-estudo",
+    "imagem": null,
+    "data": "2026-11-16T10:11:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Judge Could Set New Trial Date for Lindsay Clancy",
+    "resumo": "The judge who oversaw Ms. Clancy’s first trial that ended in a deadlocked jury is holding a hearing on Monday to determine how to proceed.",
+    "link": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-clancy-hearing-pjbf/16nat-clancy-hearing-pjbf-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T10:03:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+    "resumo": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+    "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T10:03:11.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Raman Has Lots of Plans. Los Angeles Has Lots of Obstacles.",
+    "resumo": "Mayor-elect Nithya Raman pledges to use metrics to deliver “a city that works” after a pandemic, wildfires and clashes with Trump. Budget constraints and more stand in the way.",
+    "link": "https://www.nytimes.com/2026/11/16/us/raman-la-mayor-priorities.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-raman-la-TOP-pkzh/16nat-raman-la-TOP-pkzh-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T10:02:36.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats Will Wield Enormous Power in Statehouses. What Will They Do?",
+    "resumo": "While attention has focused on the incoming Democratic Congress, the real change could happen in state capitals where Democrats will control a dozen new statehouse chambers.",
+    "link": "https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/us/16nat-trifectas-democrats-top-option-1/16nat-trifectas-democrats-top-option-1-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T10:02:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Prêmio TV Brasil Petrobras Para Elas: Yanne é eleita a craque do ano",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/premio-tv-brasil-petrobras-para-elas-yanne-e-eleita-craque-do-ano\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/premio-tv-brasil-petrobras-para-elas-yanne-e-eleita-craque-do-ano",
+    "imagem": null,
+    "data": "2026-11-16T10:02:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Morre Miguel Ángel Félix Gallardo, o \"chefe dos chefes\" do tráfico de drogas do México",
+    "resumo": "Considerado o arquiteto do narcotráfico moderno, Félix Gallardo morreu em um hospital, aos 80 anos, de falência múltipla dos órgãos.",
+    "link": "https://www.dw.com/pt-br/morre-miguel-ángel-félix-gallardo-o-chefe-dos-chefes-do-tráfico-de-drogas-do-méxico/a-79956619?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-16T10:02:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "A Bull Market, Fueled by Pikachu, Charizard and Nostalgia",
+    "resumo": "On the 30th anniversary of the franchise, Pokémon cards are skyrocketing in value — to the point that collecting them isn’t just big business, it’s a viable livelihood.",
+    "link": "https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/09/multimedia/00xp-pokemon-02/00xp-pokemon-02-mediumSquareAt3X.jpg",
+    "data": "2026-11-16T10:00:56.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+    "resumo": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn&apos;t sit back while their neighbors went hungry.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4120x2318+0+0/resize/4120x2318!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F0b%2F283a29d0443a81b8617283d090b8%2F20261107-ksuzuki-sandiegosnap-122.jpg",
+    "data": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+    "resumo": "The trip to China marks Trump&apos;s second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/3000x1903!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
+    "data": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "These birds fly 17,000 miles every year. Climate change could make it harder",
+    "resumo": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F42%2Fb14bf3e54be0b6dd74858931dce3%2F359a9538.jpg",
+    "data": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "NPR&apos;s Student Podcast Challenge is back for 2027",
+    "resumo": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1643+0+0/resize/3000x1643!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fac%2F655f0f4f4bdfbd7f5fc1c45349ad%2Fspc-lead-graphic-web-final1.jpg",
+    "data": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Why sleep matters when it comes to weight gain and loss",
+    "resumo": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1936x1549+0+0/resize/1936x1549!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2F07%2F44eecfd64374a4f6afd0e028b630%2Fgettyimages-2251705905.jpg",
+    "data": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Can Canada claw its way back into the Chinese lobster market?",
+    "resumo": "The Canadian lobster industry is thinking of ways to recapture the Chinese market after competitors took advantage of retaliatory tariffs. Vietnam in particular was able to position its lobster well in 2025, filling the gap Canada left and becoming a strong competitor.",
+    "link": "https://www.cbc.ca/news/canada/nova-scotia/ns-lobster-compeition-vietnam-chinese-market-9.7421271?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.6436179,1751053937000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C385%2C7451%2C4191%29%3B",
+    "data": "2026-11-16T10:00:00.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Avoid this Black Friday scam - how to check it's a real deal",
+    "resumo": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
+    "data": "2026-11-16T09:58:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Antimicrobial resistance could kill 39 million people over 25 years: WHO",
+    "resumo": "UN&#039;s health agency says growing resistance to antibiotics and other medicines threatens &#039;future of modern medicine&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T09:57:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Sadiq Khan: Global North must take responsibility for climate change",
+    "resumo": "At COP31, Sadiq Khan urges wealthy nations to support the Global South, which bears the brunt of climate change.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T09:52:11.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Morning news brief",
+    "resumo": "Thousands of travelers are still waiting to reschedule flights after Friday&apos;s nationwide ground stop, Sen. Chris Van Hollen mounts bid to become Senate majority leader, President Trump heads to Asia.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6038373/morning-news-brief",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038373",
+    "data": "2026-11-16T09:46:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "“É só a cor”: estudante negra relata episódios de racismo na faculdade",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/e-so-cor-estudante-negra-relata-episodios-de-racismo-na-faculdade\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/e-so-cor-estudante-negra-relata-episodios-de-racismo-na-faculdade",
+    "imagem": null,
+    "data": "2026-11-16T09:32:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+    "resumo": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-16T09:31:36.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "N.L.’s top-billing doctor faces malpractice lawsuits from 2 former patients",
+    "resumo": "The ophthalmologist who was Newfoundland and Labrador's top-billing doctor for the last two years straight is being sued by two former patients, including one who says his right eye was completely blinded during a botched cataract surgery.",
+    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/dang-lawsuits-former-patients-9.7420536?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/78be8feb-0817-4de5-8745-c8745a53b155,1794581135862/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1819%2C1023%29%3B",
+    "data": "2026-11-16T09:30:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -72,24 +369,6 @@
     "data": "2026-11-16T09:27:06.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Oito pessoas morrem e cinco ficam feridas em sequência de ataques a tiros em Porto Alegre e Região Metropolitana",
-    "resumo": "Oito pessoas morrem e cinco ficam feridas em ataques a tiros no RS Uma sequência de ataques a tiros deixou oito pessoas mortas e cinco feridas entre a noite de domingo (15) e a madrugada desta segunda-feira (16) na Zona Norte de Porto Alegre e em Alvorada, na Região Metropolitana. Quatro vítimas morreram em Porto Alegre, nos bairros Mário",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/16/ataques-tiros-mortos-porto-alegre-alvorada-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/J5-Xw9HtsJkbKBvdb23ct0rkjro=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/v/UaWsZPRqas5ek1CUhb8A/g1-35-.jpg",
-    "data": "2026-11-16T09:25:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "China diz que Xi, Trump e Putin falarão sobre 'paz mundial' em reunião trilateral",
-    "resumo": "Os presidentes da Rússia, Vladimir Putin, da China, Xi Jinping, e dos EUA, Donald Trump Reuters A China anunciou nesta segunda-feira (16) que o presidente Xi Jinping e seus homólogos americano e russo, Donald Trump e Vladimir Putin, falarão sobre a \"paz mundial\" durante seu primeiro encontro trilateral, que acontecerá nesta semana à marge",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/16/china-diz-que-xi-trump-e-putin-falarao-sobre-paz-mundial-em-reuniao-trilateral.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AGcXLuDdYjMyefULqxSN1TgMvO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/UAUJSAQK6Jbdfw7P7PJw/photo-collage.png-4-.png",
-    "data": "2026-11-16T09:21:35.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
@@ -97,60 +376,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545f/live/c6cd0f20-e18a-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-16T09:21:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher é presa por suspeita de matar doméstica a facadas no interior do Ceará",
-    "resumo": "Mulher é presa por suspeita de matar doméstica a facadas em Juazeiro do Norte Uma mulher foi presa por suspeita de matar uma doméstica a facadas em Juazeiro do Norte, no Cariri cearense, neste domingo (15). A vítima, identificada como Tatiana Farias de Oliveira Magalhães, foi encontrada sem vida no período da manhã. Ela estava caída na Ru",
-    "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/11/16/mulher-e-presa-por-suspeita-de-matar-domestica-a-facadas-no-interior-do-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Z5plI7KetxKMemS4OOCkvnbXppI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Z/Lx1gEwRiqHI5RbC7Jj1w/crime-jua-4.jpg",
-    "data": "2026-11-16T09:19:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Carreta carregada com pó de alumínio tomba na Rodovia dos Tamoios, atinge carro e deixa um ferido",
-    "resumo": "Uma carreta carregada com pó de alumínio tombou e atingiu um carro na noite deste domingo (15), na Rodovia dos Tamoios (SP-099), próximo ao pedágio de Jambeiro, no sentido São José dos Campos (SP). A motorista do carro ficou ferida e presa nas ferragens. A repórter e apresentadora Daniela Lopes, da TV Vanguarda, apurou que o acidente acon",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/16/carreta-carregada-com-po-de-aluminio-tomba-na-rodovia-dos-tamoios-atinge-carro-e-deixa-um-ferido.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HDA9QhA3pceHSMxNt1RScS3DNcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/N/TUfWXrRmKuCHG5zvhXKQ/texto-do-seu-paragrafo-2026-11-16t060929.687.png",
-    "data": "2026-11-16T09:12:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Jornal da Manhã!",
-    "resumo": "Assista ao Jornal da Manhã!",
-    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-    "imagem": null,
-    "data": "2026-11-16T09:11:32.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "AO VIVO: assista à programação da NSC TV",
-    "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
-    "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
-    "imagem": null,
-    "data": "2026-11-16T09:08:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Bom Dia ES",
-    "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
-    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
-    "data": "2026-11-16T09:07:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Projeto prepara estudantes baixa renda de graça para concursos públicos em Macapá",
-    "resumo": "Projeto prepara estudantes baixa renda de graça para concursos públicos em Macapá. Carlos Cardozo/Rede Amazônica Um projeto social oferece aulas preparatórias gratuitas para estudantes de baixa renda que buscam aprovação em concursos públicos, em Macapá. A iniciativa funciona há oito anos no bairro Morada das Palmeiras, na Zona Norte da c",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/16/projeto-prepara-estudantes-baixa-renda-de-graca-para-concursos-publicos-em-macapa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9hX9LYL-G6zM9rSakGlXym844ag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/p/8nR4rMQUGaQTH3sPu8Ig/captura-de-tela-2026-11-15-162743.png",
-    "data": "2026-11-16T09:00:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -164,10 +389,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Canada presented itself as a global leader in methane reductions at COP31. But is Alberta holding it back?",
-    "resumo": "Canada took centre stage at COP31 last week to showcase its track record on cutting methane emissions. But some experts say the country can't be a global leader on reducing methane until Alberta, Canada's largest oil and gas producer, updates its equivalent regulations.",
-    "link": "https://www.cbc.ca/news/climate/canada-alberta-methane-emissions-cop31-9.7419482?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/92020be7-ff28-4a60-a2ff-f916f9efd506,1794510641139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5911%2C3324%29%3B",
+    "titulo": "What will it take for the world's superpowers to agree on AI regulations in war?",
+    "resumo": "As the UN prepares to discuss autonomous weapons this week, insiders say hopes of meaningful, binding regulations around AI in warfare are slim — and time may be running out.",
+    "link": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-ccw-geneva-9.7418597?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/55ec9d9a-fe7e-406f-adb7-03436808f8bf,1794506939068/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C276%2C3631%2C2042%29%3B",
     "data": "2026-11-16T09:00:00.000Z"
   },
   {
@@ -182,18 +407,36 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "What will it take for the world's superpowers to agree on AI regulations in war?",
-    "resumo": "As the UN prepares to discuss autonomous weapons this week, insiders say hopes of meaningful, binding regulations around AI in warfare are slim — and time may be running out.",
-    "link": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-ccw-geneva-9.7418597?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/55ec9d9a-fe7e-406f-adb7-03436808f8bf,1794506939068/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C276%2C3631%2C2042%29%3B",
+    "titulo": "Canada presented itself as a global leader in methane reductions at COP31. But is Alberta holding it back?",
+    "resumo": "Canada took centre stage at COP31 last week to showcase its track record on cutting methane emissions. But some experts say the country can't be a global leader on reducing methane until Alberta, Canada's largest oil and gas producer, updates its equivalent regulations.",
+    "link": "https://www.cbc.ca/news/climate/canada-alberta-methane-emissions-cop31-9.7419482?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/92020be7-ff28-4a60-a2ff-f916f9efd506,1794510641139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5911%2C3324%29%3B",
     "data": "2026-11-16T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+    "resumo": "Montreal students are denouncing the Service de police de la Ville de Montréal (SPVM) for what they call unjustified acts of violence during a protest against education austerity that took place on Friday.",
+    "link": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/df70f35c-0e99-4b36-9232-632dcfab29eb,1794609013303/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-16T09:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+    "resumo": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/abcff740-e181-11f1-9386-1b849272ca8f.jpg",
+    "data": "2026-11-16T08:56:04.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
     "resumo": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
-    "link": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-16T08:54:58.000Z"
   },
@@ -209,8 +452,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Ahmed Tibi appointed as deputy speaker of Israel’s Knesset",
-    "resumo": "This is a breaking news story.",
+    "titulo": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
+    "resumo": "Leader of alliance representing Palestinian citizens of Israel says election is &#039;rightful achievement&#039; for Joint List.",
     "link": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-16T08:45:07.000Z"
@@ -234,15 +477,6 @@
     "data": "2026-11-16T08:20:17.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ecuador’s president denies existence of US military base",
-    "resumo": "Daniel Noboa says US personnel in the country for &#039;temporary activities&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T08:14:48.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Migrants targeted, charity workers menaced for helping them. Are we that kind of society? | Natasha Walter",
@@ -250,24 +484,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/16/charity-workers-migrants-violent-threats",
     "imagem": "https://i.guim.co.uk/img/media/adaf24cbcbdb271fe8df5c05b243a899c8060276/523_0_6365_5095/master/6365.jpg?width=140&quality=85&auto=format&fit=max&s=0c0bbf5cc10df1278ed184f1fed1aa71",
     "data": "2026-11-16T08:00:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why is China resisting a nuclear treaty with the US and Russia?",
-    "resumo": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-    "link": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T07:54:09.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "At least 11 killed in blaze on Thailand’s Phuket island",
-    "resumo": "Authorities are investigating the cause of the fire, which also injured 16, but have ruled out arson.",
-    "link": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T07:42:48.000Z"
   },
   {
     "categoria": "Internacional",
@@ -286,33 +502,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
     "data": "2026-11-16T07:23:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
-    "resumo": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
-    "link": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T07:13:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "The Red Sea cannot be secured without restoring the Yemeni state",
-    "resumo": "Deployment of naval forces to the region cannot restore maritime security. Reinstating the Yemeni government can.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/16/the-red-sea-cannot-be-secured-without-restoring-the-yemeni-state?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T07:06:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "How Russia is preparing Iran for the next escalation",
-    "resumo": "Russian space intelligence sharing can help Tehran get ready for an imminent US assault.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/16/how-russia-is-preparing-iran-for-the-next-escalation?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T06:57:31.000Z"
   },
   {
     "categoria": "Opinião",
@@ -351,21 +540,12 @@
     "data": "2026-11-16T06:00:37.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US and rivals spar over next UN boss as race lurches towards deadline",
-    "resumo": "Costa Rica&#039;s Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.",
-    "link": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T05:57:54.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "How Could a Router Lead to a Nationwide Ground Stop?",
     "resumo": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear.",
     "link": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
-    "imagem": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X.jpg",
+    "imagem": "https://static01.nyt.com/images/2026/12/15/multimedia/15nat-WWK-router-gtqw/15nat-WWK-router-gtqw-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-16T05:25:25.000Z"
   },
   {
@@ -384,7 +564,7 @@
     "resumo": "For a second year, Trump administration policies appear to be scaring away international students, disrupting the finances of the American colleges that depend on them.",
     "link": "https://www.nytimes.com/2026/11/16/us/international-student-college-enrollment-declines.html",
     "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-international-students-hp-promo/16nat-international-students-hp-promo-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T05:01:06.000Z"
+    "data": "2026-11-16T05:01:07.000Z"
   },
   {
     "categoria": "Internacional",
@@ -403,6 +583,15 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/41dd20f3-6a36-4fb9-b21b-98c9bba1f8cd,1794798345736/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C338%2C6500%2C3656%29%3B",
     "data": "2026-11-16T04:11:45.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "The secret to building Moon bases may be hiding in emergency blankets",
+    "resumo": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon&#039;s extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+    "imagem": null,
+    "data": "2026-11-16T03:51:01.000Z"
   },
   {
     "categoria": "Internacional",
@@ -425,15 +614,6 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Woman gets back at ex by sparking cat donation campaign | The Moment",
-    "resumo": "The president of SOS Prairie Rescue, Ashlyn Weninger, tells The National about the moment the group received an anonymous message that started a matching campaign encouraging people who went through a bad breakup to donate, called Spite for Strays.",
-    "link": "https://www.cbc.ca/player/play/9.7423135?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/af533a03-e174-45d4-924a-c94cf3844b00,1794795355134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-16T03:09:24.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
     "titulo": "Edmonton Elks defeat Montreal Alouettes to capture 113th Grey Cup",
     "resumo": "The Edmonton Elks are Grey Cup champions for the 15th time in franchise history. Led by quarterback Cody Fajardo's four total touchdowns, two passing and two rushing, the Elks hung on to defeat the Montreal Alouettes 37-30 at McMahon Stadium in Calgary on Sunday.",
     "link": "https://www.cbc.ca/sports/football/cfl/cfl-montreal-alouettes-edmonton-elks-grey-cup-nov-15-9.7422907?cmp=rss",
@@ -443,11 +623,20 @@
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Investors sue chip giant Intel after 29% stock plunge",
-    "resumo": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+    "titulo": "Intel sued by investors after PC sales slump hits share price",
+    "resumo": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
     "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
     "data": "2026-11-16T03:04:01.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+    "resumo": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom&#039;s nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand why it works.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+    "imagem": null,
+    "data": "2026-11-16T02:56:02.000Z"
   },
   {
     "categoria": "Internacional",
@@ -495,15 +684,6 @@
     "data": "2026-11-16T01:13:44.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Snowbirds bid farewell to legendary jets in final flight over Calgary",
-    "resumo": "The legendary CT-114 Tutor jets of the Canadian Forces Snowbirds took to the skies one last time over Calgary's McMahon Stadium Nov. 15, 2026, right before the 113th Grey Cup kicked off, setting the stage for a dynamic match between the Edmonton Elks and Montreal Alouettes.",
-    "link": "https://www.cbc.ca/news/canada/calgary/calgary-snowbirds-jets-flight-caf-rcaf-9.7422962?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1580df0b-dde8-49e9-8d26-3dfae07ddc42,1794795091636/full/max/0/default.jpg?im=Crop%2Crect%3D%281005%2C469%2C6191%2C3482%29%3B",
-    "data": "2026-11-16T01:08:05.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Clothing factories shut in Bangladesh as workers strike over pay",
@@ -520,6 +700,15 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
     "imagem": "https://i.guim.co.uk/img/media/1a1e5e3fbb5f413df3cb62b0cb50831adc5a0734/597_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=9ee5566dc21ac7ed5904d54115dea7ad",
     "data": "2026-11-16T01:00:42.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "An ancient virus may help explain what makes the human brain different",
+    "resumo": "A virus that infected chimpanzees millions of years ago may have helped shape one of the most important differences between humans and our closest relatives: how our brains develop. Scientists at Lund University discovered that ancient viral DNA embedded in the chimpanzee genome switches off a gene called LINC00662, which remains active i",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
+    "imagem": null,
+    "data": "2026-11-16T00:32:12.000Z"
   },
   {
     "categoria": "Brasil",
@@ -540,6 +729,15 @@
     "data": "2026-11-15T23:35:02.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Teenager Andreeva caps stunning week with WTA Finals title",
+    "resumo": "French Open champion Mirra Andreeva caps her stellar season with a hard-fought victory over Elina Svitolina to win the WTA Finals.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69dd/live/afd408a0-e1a8-11f1-b0a4-450a350911f4.jpg",
+    "data": "2026-11-15T23:18:38.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
@@ -547,15 +745,6 @@
     "link": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
     "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-vanhollen-vlhj/15dc-vanhollen-vlhj-mediumSquareAt3X.jpg",
     "data": "2026-11-15T23:02:15.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-    "resumo": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
-    "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55e/live/4bc0f750-e140-11f1-859a-418a418deb7d.jpg",
-    "data": "2026-11-15T22:57:27.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -612,15 +801,6 @@
     "data": "2026-11-15T22:06:59.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Canada bars Russia from Junior World Championships",
-    "resumo": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-    "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
-    "data": "2026-11-15T22:01:16.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
@@ -659,18 +839,18 @@
   {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
-    "titulo": "Na Amazônia, Leão 14 condena \"exploração irresponsável\" da floresta",
-    "resumo": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
-    "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-rdf",
+    "titulo": "IA reacende debate sobre renda básica universal na Alemanha",
+    "resumo": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
+    "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-15T21:41:00.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
-    "titulo": "IA reacende debate sobre renda básica universal na Alemanha",
-    "resumo": "Mercado de trabalho deverá ser profundamente afetado, com até 800 mil empregos eliminados em 15 anos. Economistas se dividem sobre viabilidade financeira da proposta para amortecer ruptura.",
-    "link": "https://www.dw.com/pt-br/ia-reacende-debate-sobre-renda-básica-universal-na-alemanha/a-79953150?maca=bra-rss-br-all-1030-rdf",
+    "titulo": "Na Amazônia, Leão 14 condena \"exploração irresponsável\" da floresta",
+    "resumo": "Pontífice citou produção de ouro e petróleo e pediu esclarecimento de assassinatos de lideranças indígenas. Viagem do chefe do Vaticano ao país adotivo causa alvoroço.",
+    "link": "https://www.dw.com/pt-br/na-amazônia-leão-14-condena-exploração-irresponsável-da-floresta/a-79953690?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-15T21:41:00.000Z"
   },
@@ -709,15 +889,6 @@
     "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-15T20:43:49.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A Campus Sexual Assault Lawsuit Tests an Unusual Legal Strategy",
-    "resumo": "Frustrated by Texas Christian University’s handling of her sexual assault case, a former student from Virginia is suing under her home state’s consumer protection laws.",
-    "link": "https://www.nytimes.com/2026/11/15/us/sexual-assault-lawsuit-texas-christian-university-consumer-protection.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16-nat-tcu-jane-doe-print/13nat-tcu-pklv-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-15T20:10:41.000Z"
   },
   {
     "categoria": "Internacional",
@@ -765,33 +936,6 @@
     "data": "2026-11-15T19:15:43.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-negociacoes-avancam-mas-financiamento-e-desafio-para-2a-semana\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-negociacoes-avancam-mas-financiamento-e-desafio-para-2a-semana",
-    "imagem": null,
-    "data": "2026-11-15T19:09:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Bullying: após morte, família e especialistas pedem rigor de escolas",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/bullying-apos-morte-familia-e-especialistas-pedem-rigor-de-escolas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/bullying-apos-morte-familia-e-especialistas-pedem-rigor-de-escolas",
-    "imagem": null,
-    "data": "2026-11-15T18:26:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Lucas Pinheiro vence etapa finlandesa da copa do mundo de esqui alpino",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/lucas-pinheiro-vence-etapa-finlandesa-da-copa-do-mundo-de-esqui-alpino\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\">",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/lucas-pinheiro-vence-etapa-finlandesa-da-copa-do-mundo-de-esqui-alpino",
-    "imagem": null,
-    "data": "2026-11-15T18:17:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
@@ -826,15 +970,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
     "imagem": "https://i.guim.co.uk/img/media/165c7b34ce2a2c015ffffa474500c94165a9ea1a/182_0_3445_2756/master/3445.jpg?width=140&quality=85&auto=format&fit=max&s=3fc1f8ccfb68bd38c1a29224fad67747",
     "data": "2026-11-15T17:30:19.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
-    "resumo": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts is unlikely to happen immediately.",
-    "link": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/13/multimedia/dc-federal-workers-zglc/dc-federal-workers-zglc-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T17:09:23.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -936,15 +1071,6 @@
     "data": "2026-11-15T14:00:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The Sony Aibo was a robot revolution dressed like a dog",
-    "resumo": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what Sony was [&#8230;]",
-    "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-15T13:57:30.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
@@ -954,22 +1080,13 @@
     "data": "2026-11-15T13:43:22.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "South Korea's top scorer in tax accountancy exam admits cheating",
     "resumo": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
     "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png",
     "data": "2026-11-15T13:37:45.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Laws limiting coal miners&apos; exposure to toxic dust are in danger of being rolled back",
-    "resumo": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6039311",
-    "data": "2026-11-15T13:11:30.000Z"
   },
   {
     "categoria": "Economia",
@@ -999,15 +1116,6 @@
     "data": "2026-11-15T12:36:52.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Mais de 100 mil vão às ruas em novos protestos na França, mais de 200 são presos",
-    "resumo": "A polícia deteve 219 pessoas no quinto sábado seguido de manifestações contra o alto custo de vida e em defesa de uma melhor educação.",
-    "link": "https://www.dw.com/pt-br/mais-de-100-mil-vão-às-ruas-em-novos-protestos-na-frança-mais-de-200-são-presos/a-79951672?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-15T10:36:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
@@ -1024,60 +1132,6 @@
     "link": "https://www.dw.com/pt-br/com-mais-mulheres-sem-véu-regime-do-irã-mira-em-boicote-a-quem-rejeita-o-hijab/a-79935780?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-15T10:02:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028",
-    "resumo": "Politicians, donors and campaign strategists are already imagining a large and contentious field of presidential contenders.",
-    "link": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-2028-warnock-01-mfhb/15pol-dems-2028-warnock-01-mfhb-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T10:01:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "The Reward for Black Women’s Work in Georgia: Leaders Who Look Like Them",
-    "resumo": "Diligent ground-level efforts by Black women helped make Democrats competitive again in Georgia. Now they’ll hold seven of the top eight elected leadership roles in the state.",
-    "link": "https://www.nytimes.com/2026/11/15/us/black-women-georgia-leaders.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/15/multimedia/15nat-black-women-tfqj/15nat-black-women-tfqj-mediumSquareAt3X.jpg",
-    "data": "2026-11-15T10:00:54.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Midterm voters ended the long-running GOP dominance in state legislatures",
-    "resumo": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F9a%2Fbd6787154ee2b81abbbf783d0aec%2Fimg-6611.jpg",
-    "data": "2026-11-15T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
-    "resumo": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg",
-    "data": "2026-11-15T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "A new generation of disability rights activists carry on Judy Heumann&apos;s legacy",
-    "resumo": "The film <em>Being Heumann</em> tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
-    "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x5304+0+0/resize/7952x5304!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff8%2Fb95af317401cb54343937619e0f7%2Fbeing-heumann-photo-0103.jpg",
-    "data": "2026-11-15T10:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Canada's health-care spending tops $10,000 per person this year. Where is the money going?",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/health/canada-health-care-spending-9.7419956?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.3941692,1484774970000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
-    "data": "2026-11-15T09:00:41.000Z"
   },
   {
     "categoria": "Economia",
@@ -1098,24 +1152,6 @@
     "data": "2026-11-15T04:31:56.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-    "resumo": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
-    "data": "2026-11-15T04:28:45.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Scientists discover a bizarre paradox among endangered penguins",
-    "resumo": "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand&#039;s endangered Erect-crested penguins. While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions. Even more surprisingly",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
-    "imagem": null,
-    "data": "2026-11-15T03:42:52.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Dinosaurs may have been eating seaweed 100 million years ago",
@@ -1127,29 +1163,11 @@
   {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
-    "titulo": "Physicists use laser light to unlock a crystal&#039;s hidden electrical powers",
-    "resumo": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves. The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
-    "imagem": null,
-    "data": "2026-11-15T02:18:16.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
     "titulo": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
     "resumo": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
     "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
     "imagem": null,
     "data": "2026-11-15T01:52:47.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "FAA ground stop disrupts college football",
-    "resumo": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
-    "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fb5%2F30886ed245579f651c8eea629e9a%2Fgettyimages-2305144013.jpg",
-    "data": "2026-11-15T01:13:59.000Z"
   },
   {
     "categoria": "Economia",
@@ -1231,15 +1249,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
     "imagem": null,
     "data": "2026-11-14T12:48:01.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
-    "resumo": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system&#039;s official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
-    "imagem": null,
-    "data": "2026-11-14T11:58:42.000Z"
   },
   {
     "categoria": "Economia",
@@ -1339,14 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-13T18:36:57.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
-    "resumo": "<p>From Cairo to Moscow to Washington, governments are turning up the pressure on media workers</p><p>Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction. In 2024, a court issued her a one-year sentence for “spreading false news” and run",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
-    "imagem": "https://i.guim.co.uk/img/media/62938400271e1c2d5fb9106df866448f00e04d07/404_0_4038_3230/master/4038.jpg?width=140&quality=85&auto=format&fit=max&s=515401f3fc904cca3a02aee93d0c2be3",
-    "data": "2026-11-13T18:01:46.000Z"
   }
 ]
