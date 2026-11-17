@@ -1,66 +1,228 @@
 [
   {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "'We're a capitalist society': Grindr defends $120 a month premium tier",
+    "resumo": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
+    "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c57/live/770860f0-e268-11f1-900c-895604014268.jpg",
+    "data": "2026-11-17T09:41:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "O que Putin exige da Otan e da Europa",
+    "resumo": "Kremlin quer a retirada da aliança de grande parte do Leste Europeu como condição para o fim da guerra na Ucrânia. O que está por trás do plano russo e o que isso significaria para a segurança de milhões de europeus?",
+    "link": "https://www.dw.com/pt-br/o-que-putin-exige-da-otan-e-da-europa/a-79964253?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-17T09:35:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Bom dia Goiás, 17 de novembro de 2026",
+    "resumo": "Assista ao jornal completo.",
+    "link": "https://g1.globo.com/go/goias/edicao/2026/11/17/videos-bom-dia-goias-17-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3dQyxieG0aDPW4TDl_-IAg_ZRUY=/s01.video.glbimg.com/deo/vi/13/89/15198913",
+    "data": "2026-11-17T09:33:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Por que a Europa pediu a seus cidadãos para fazerem kits de emergência?",
+    "resumo": "Kit de emergência Reuters Nas últimas semanas, governos na Europa têm pedido que seus cidadãos se preparem para emergências mantendo um kit de sobrevivência em suas casas. O objetivo é garantir que a população consiga se sustentar sozinha por um determinado período caso ocorram interrupções graves nos serviços essenciais. A medida - que n",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/por-que-a-europa-pediu-a-seus-cidadaos-para-fazerem-kits-de-emergencia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/K3VzhNvfzGkVg6_GrHbFoN_KiiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/n/UVRC5kSAi3reptpormag/novo-projeto.jpg",
+    "data": "2026-11-17T09:32:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+    "resumo": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T09:29:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia Civil prende suspeitos de cometerem crimes contra mulheres em Maceió e no interior",
+    "resumo": "Polícia Civil realiza operação para prender suspeitos em Maceió, Rio Largo e Palmeira dos Índios Divulgação/PC-AL A Polícia Civil de Alagoas cumpre, nesta terça-feira (17), mandados de prisão e de busca e apreensão contra suspeitos de crimes relacionados à violência contra mulheres em Maceió, Rio Largo e Palmeira dos Índios. 📱Participe d",
+    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/17/policia-civil-prende-suspeitos-de-cometerem-crimes-contra-mulheres-em-maceio-e-no-interior-de-al.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QTsXtTePzv7pMrT1WrbjfwuCByQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/t/0dHrjdQZAsA3H43VUIXA/policia-civil-realiza-operacao-para-prender-suspeitos-em-maceio-rio-largo-e-palmeira-dos-indios.jpg",
+    "data": "2026-11-17T09:28:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+    "resumo": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
+    "data": "2026-11-17T09:27:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "AO VIVO: assista à programação da NSC TV",
+    "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
+    "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+    "imagem": null,
+    "data": "2026-11-17T09:27:28.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
-    "resumo": "<p>Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement</p><p>Australia was dubbed “Fossil of the Day” yesterday for what campaigners called a masterclass in climate hypocrisy.</p><p>The title, awarded by Climate Action Network (CAN) each day to a country blocking progress, singled out th",
+    "resumo": "<p>Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement</p><p>Artificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study.</p><p>While AI models can accurately confirm simple facts about climate change",
     "link": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
     "imagem": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b181284a0bf44cd61bc80a8b9066f6c8",
-    "data": "2026-11-17T08:33:51.000Z"
+    "data": "2026-11-17T09:23:23.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+    "resumo": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
+    "data": "2026-11-17T09:20:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Journalist who exposed alleged drug links shot dead in Costa Rica",
+    "resumo": "Costa Rican journalist Camilo Rodriguez has been shot dead near the capital San Jose.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T09:18:37.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Óbidos chega a 10 casos confirmados de doença de Chagas; um paciente segue internado",
-    "resumo": "A investigação epidemiológica começou em 4 de novembro, após a confirmação do primeiro caso. Divulgação: PMO O município de Óbidos, no oeste do Pará, confirmou 10 casos de doença de Chagas. O boletim epidemiológico foi divulgado pela Secretaria Municipal de Saúde (Semsa) nesta segunda-feira (16). A suspeita é de que as vítimas tenham se c",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/obidos-chega-a-10-casos-confirmados-de-doenca-de-chagas-um-paciente-segue-internado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9qw7Pbvn9u3QOhdcqx0JLJRS7C0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/R/5Z6TAYTgO4fAlSWc4Lhg/whatsapp-image-2026-11-16-at-21.18.28.jpeg",
-    "data": "2026-11-17T08:30:12.000Z"
+    "titulo": "Assista ao Bom Dia ES",
+    "resumo": "Assista ao Bom Dia ES Comece o dia bem informado com as notícias do Espírito Santo a partir das 6h.",
+    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif",
+    "data": "2026-11-17T09:17:34.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Matrículas na rede municipal de Santarém para 2027 começam em dezembro; veja prazos e como garantir uma vaga",
-    "resumo": "A pré-matrícula on-line para novos alunos da rede municipal de Santarém será realizada de 7 a 18 de dezembro de 2026. Agência Santarém A Secretaria Municipal de Educação de Santarém (Semed), no oeste do Pará, definiu o calendário e as regras para as matrículas da rede pública municipal para o ano letivo de 2027. A pré-matrícula para novos",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/matriculas-na-rede-municipal-de-santarem-para-2027-comecam-em-dezembro-veja-prazos-e-como-garantir-uma-vaga.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NxOBcg9kWNItZe4fmhd7Upxipu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/V/kLnlSlTvOtrnSfLHAuBw/whatsapp-image-2026-11-16-at-21.18.28-1-.jpeg",
-    "data": "2026-11-17T08:28:56.000Z"
+    "titulo": "PM faz operação contra o TCP na Maré pelo 2º dia seguido",
+    "resumo": "PM faz operação contra o TCP na Maré pelo 2º dia seguido A Polícia Militar iniciou nesta terça-feira (17) uma operação contra criminosos do Terceiro Comando Puro (TCP) no Complexo da Maré. Homens do Comando de Operações Especiais (COE) foram para o Morro do Timbau e para o Fogo Cruzado. Criminosos atearam fogo a barricadas. É o 2º dia con",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/17/pm-faz-operacao-contra-o-tcp-na-mare.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LWN3Ca9O_FEQRqsCZ4q278SCeQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/R/mLewBxSs6vb2rmAvA7Kw/17mare1a.jpg",
+    "data": "2026-11-17T09:17:00.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
+    "resumo": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+    "data": "2026-11-17T09:15:38.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Suspeito de matar homem que lhe deu abrigo é preso em Monte Alegre",
-    "resumo": "Suspeito estava foragido desde a data do crime. Divulgação: 18°BPM Um jovem de 23 anos foi preso pela Polícia Militar nesta segunda-feira (16) em Monte Alegre, no oeste do Pará. Ele é o principal suspeito de matar um morador de 52 anos que havia lhe dado abrigo. O crime ocorreu em fevereiro de 2025, no assentamento Serra Azul, na zona rur",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/suspeito-de-matar-homem-que-lhe-deu-abrigo-e-preso-em-monte-alegre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Cv7zzFU36e0FPKB_4xvTPgdAMfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/1/AsEdcsQ2eBiNQ00QT6tw/whatsapp-image-2026-11-16-at-21.18.28-2-.jpeg",
-    "data": "2026-11-17T08:27:32.000Z"
+    "titulo": "Caminhão com carga de papel higiênico cai de viaduto e motorista fica ferido na BR-116",
+    "resumo": "Caminhão com carga de papel higiênico cai de viaduto e motorista fica ferido na BR-116 Ronaldo Bernardi/Agência RBS Um caminhão carregado de papel higiênico caiu do viaduto da RS-118, sobre a BR-116, em Sapucaia do Sul, na Região Metropolitana de Porto Alegre, na madrugada desta terça-feira (17). O motorista ficou ferido e foi socorrido n",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/carreta-tomba-br-116-sapucaia-do-sul-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/a2zpU2V6Bd6QZZ6giqe2weu5AE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/U/WIgx1GS6mbc6j9MlwB9g/g1-38-.jpg",
+    "data": "2026-11-17T09:13:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
+    "resumo": "Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T09:12:38.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Casal com bebê de colo é flagrado furtando cartas Pokémon em loja no litoral de SP; VÍDEO",
-    "resumo": "Casal com bebê de colo é flagrado furtando cartas Pokémon em loja no litoral de SP Um casal foi flagrado furtando cartas colecionáveis de Pokémon em uma loja de brinquedos em Santos, no litoral de São Paulo. Imagens obtidas pelo g1 mostram a dupla, que estava com um bebê de colo, pegando os objetos e guardando-os em uma sacola (assista ac",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/17/casal-com-bebe-de-colo-e-flagrado-furtando-cartas-pokemon-em-loja-no-litoral-de-sp-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7VIl-Wt2yUXgFOTqf_t4jOvn4PA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/Ne99KFSkWB7115UwIwUg/foto-furto-figurinhas.jpg",
-    "data": "2026-11-17T08:24:52.000Z"
+    "titulo": "Paraíba gastou R$ 94,9 milhões com aplicação da Lei de Drogas em 2024, aponta estudo",
+    "resumo": "Forças de Segurança da Paraíba realizam em conjunto a Operação Semana Santa, nesta quarta-feira Zuíla David/TV Cabo Branco A Paraíba gastou R$ 94,9 milhões com a aplicação da Lei de Drogas em 2024, segundo pesquisa realizada pelo Centro de Estudos de Segurança e Cidadania (CESeC). No estado, a maior parte do valor foi investido no Sistema",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/paraiba-gastou-r-949-milhoes-com-aplicacao-da-lei-de-drogas-em-2024-aponta-estudo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FD6c6Tw3GBfWtLecjHWTfEcZiSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/n/LnveuBQrAoA5impPymoA/operacao-no-busto.jpg",
+    "data": "2026-11-17T09:10:04.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Passarela desaba com fiéis durante procissão religiosa no litoral de SP; VÍDEO",
-    "resumo": "Ponte desaba e derruba fiéis na água durante festa religiosa em Iguape, SP Uma passarela de acesso cedeu enquanto fiéis aguardavam o embarque para uma procissão marítima durante uma festa religiosa em Iguape, no litoral de São Paulo. Ninguém ficou ferido. O acidente ocorreu no domingo (15), durante a Festa de Nossa Senhora do Rocio. Segun",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/17/passarela-desaba-com-fieis-durante-procissao-religiosa-no-litoral-de-sp-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7RP0LX6DLiyP91IHmtlzqnH5Av0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/x/EM2CO0QVuN0L6Y1nOU9Q/passarela-cai.jpg",
-    "data": "2026-11-17T08:23:46.000Z"
+    "titulo": "Papai Noel dos Correios: cartinhas podem ser adotadas em 14 cidades da Paraíba; veja como fazer",
+    "resumo": "Papai noel dos Correios: cartinhas podem ser adotadas em 14 cidades da PB a partir desta terça (17) Loide Gonçalves/g1 A campanha Papai Noel dos Correios tem início nesta terça-feira (17) na Paraíba. Neste ano, a iniciativa conta com a participação de 14 cidades paraibanas e já recebeu quase 4 mil cartinhas com pedidos de crianças. ✅ Cliq",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/papai-noel-dos-correios-cartinhas-podem-ser-adotadas-em-14-cidades-da-paraiba-veja-como-fazer.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/44Z-iIQa8mmE7hdljqkYEHeP8f4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/M/h/ASTo0ITbCV6KSuhlFFUQ/img-2435.jpg",
+    "data": "2026-11-17T09:08:44.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Faca usada por mulher para matar namorado tinha o nome dele gravado no litoral de SP; ela foi solta",
-    "resumo": "Justiça concede liberdade provisória a mulher suspeita de matar namorado em São Vicente A faca usada por Isabella Assis Ferreira, de 28 anos, para matar o namorado Gabriel Lima Brito, de 26, em São Vicente, no litoral de São Paulo, tinha o nome dele gravado no cabo. Conforme apurado pela TV Tribuna, afiliada da Globo, o homem tinha o equi",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/17/faca-usada-por-mulher-para-matar-namorado-tinha-o-nome-dele-gravado-no-litoral-de-sp-ela-foi-solta.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9hn6RPVlb6AJVLnJ61_nSgpaciA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/C/ccBkpjTn6tB7s4ZOg9tg/crime-quarentenario.jpg",
-    "data": "2026-11-17T08:23:19.000Z"
+    "titulo": "FestLuso terá teatro, dança e shows gratuitos em Teresina e Floriano; veja programação",
+    "resumo": "Espetáculo Cassacos – Grupo Criar – Ceará Artur Bluz A 16ª edição do Festival Internacional de Teatro e das Artes dos Países de Língua Portuguesa (FestLuso) será realizada entre os dias 23 e 29 de novembro, em Teresina e Floriano, no Piauí. A programação gratuita reúne espetáculos de teatro e dança, shows musicais e saraus. O evento conta",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/17/festluso-em-teresina-e-floriano-programacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DrpRi0e1Cqpq2L1567amMrrMQlg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/j/ZXICRIRdO5hLA2fRdqEw/edicao-imagens-g1-58-.jpg",
+    "data": "2026-11-17T09:05:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Jornal da Manhã",
+    "resumo": "Assista ao Jornal da Manhã",
+    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "imagem": null,
+    "data": "2026-11-17T09:04:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é condenado a 37 anos de prisão por matar a ex-companheira a facadas no Ceará",
+    "resumo": "Homem é condenado a 37 anos por matar ex-companheira a facadas A Justiça condenou Leandro Augusto de Oliveira a 37 anos e 6 meses de prisão, em regime fechado, por matar a ex-companheira a facadas em Juazeiro do Norte, no Cariri cearense. O julgamento ocorreu nesta segunda-feira (16). A vítima, identificada como Rafaela de Lima Almeida, d",
+    "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/11/17/homem-e-condenado-a-37-anos-de-prisao-por-matar-a-ex-companheira-a-facadas-no-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_rMhHrKMgpRjt9iUykLHxiCudRo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/x/cvGHB1TJa32nIBFQkRfw/feminicidio-juazeiro.jpg",
+    "data": "2026-11-17T09:02:44.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "5 European countries want to start deporting migrants to Rwanda, despite concerns from human rights groups",
+    "resumo": "Five European countries have embarked on a deal with Rwanda to take in migrants whose asylum claims have been rejected. They are hoping the scheme acts as a deterrent, but a similar plan in Britain was quashed after the court called it unlawful.",
+    "link": "https://www.cbc.ca/news/world/rwanda-deportation-hub-european-countries-9.7423753?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b5b4cf80-eb7e-4082-8b65-8ff981ca2ebd,1794862086879/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C363%2C4891%2C2751%29%3B",
+    "data": "2026-11-17T09:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
+    "resumo": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T08:41:21.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Vance calls out ‘neoconservatives’ over Iran war",
+    "resumo": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T08:25:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+    "resumo": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T08:15:32.000Z"
   },
   {
     "categoria": "Internacional",
@@ -91,15 +253,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-    "resumo": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg",
-    "data": "2026-11-17T08:06:32.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
     "resumo": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
@@ -117,58 +270,13 @@
     "data": "2026-11-17T08:00:08.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Procurado pela Interpol, influencer será julgado acusado de fingir ser garota com câncer para tirar R$ 207 mil de namorado virtual em SP",
-    "resumo": "Influenciador Felipe Heystee (à esquerda) é acusado de fingir ser garota de 19 anos com suspeita de câncer para tirar mais de R$ 200 mil de homem que por dois anos achava ser seu namorado virtual Reprodução/Arquivo Procurado pela Interpol, o influenciador digital Luis Felipe de Oliveira, de 23 anos, conhecido como Felipe Heystee, deverá s",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/procurado-pela-interpol-influencer-sera-julgado-acusado-de-fingir-ser-garota-com-cancer-para-tirar-r-207-mil-de-namorado-virtual-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7tBYPHqbsI13GdAD88C2FDBpjqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/U/QmtmccTmOvLu3IHnAY7A/fotojet-3-.jpg",
-    "data": "2026-11-17T08:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O que 3 meses de banho frio podem fazer pela sua saúde — e por que vale a pena conhecer os benefícios",
-    "resumo": "AdobeStock Tomar um banho frio dificilmente parece uma opção atraente, especialmente quando a temperatura do lado de fora não está tão alta. Mas e se alguns minutos de desconforto trouxessem benefícios em troca? Uma pesquisa da Universidade de Basileia, na Suíça, encontrou resultados promissores sobre os possíveis efeitos do banho frio, s",
-    "link": "https://g1.globo.com/saude/noticia/2026/11/17/o-que-3-meses-de-banho-frio-podem-fazer-pela-sua-saude-e-por-que-vale-a-pena-conhecer-os-beneficios.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/SVBymTEHfEL4zm91a8NBpXaQdMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/g/Ubd08AQDGLldG4WljzxA/adobestock-130397331.jpeg",
-    "data": "2026-11-17T08:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "É #FAKE vídeo de mulher que corre por paredão e dá salto mortal no topo de barragem; cena foi fabricada com inteligência artificial",
-    "resumo": "É #FAKE vídeo em que corredora sobe e salta em paredão Reprodução Circula nas redes sociais o vídeo de uma mulher correndo por um paredão até o alto barragem, onde executa um mortal e deslizando de volta para baixo. É #FAKE. ✅ Siga o canal de Fato ou Fake no WhatsApp Selo Fake (Horizontal) g1 🔴 Como é o vídeo? Publicado em 5 de novembro ",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/17/e-fake-video-de-mulher-que-corre-por-paredao-e-da-salto-mortal-no-topo-de-barragem-cena-foi-fabricada-com-inteligencia-artificial.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/05vfJoo-xv8_LoG-l8kdWsdJ5RI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/6ghAg3RISQaJAF6FxnaA/imagem-28-.png",
-    "data": "2026-11-17T08:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Empresa é condenada após esperar fim do expediente para levar funcionário com sintomas de AVC ao hospital em MG",
-    "resumo": "A decisão é da Segunda Turma do Tribunal Regional do Trabalho de Minas Gerais (TRT-MG) TRT-MG/Divulgação Uma empresa de laticínios em Pará de Minas, no Centro-Oeste de Minas, foi condenada por demorar a prestar socorro a um funcionário que sofreu um Acidente Vascular Cerebral (AVC) durante o expediente. Segundo a Justiça do Trabalho, ele ",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/empresa-e-condenada-apos-esperar-fim-do-expediente-para-levar-funcionario-com-sintomas-de-avc-ao-hospital-em-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XkcZ0stS42OyOWZo5jos41ZRZog=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/m/R/f5PC47Q6OIRkevhcbDoA/fachada-tribunal-regional-do-trabalho-minas-gerais-trt-mg-3a-regiao.jpeg",
-    "data": "2026-11-17T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quem é a dupla sertaneja que viralizou após fazer show para 15 pessoas no aniversário de cidade de MS",
-    "resumo": "Dupla tem show gratuito ‘vazio’ durante festa de aniversário de Naviraí em MS A dupla sertaneja Sócrates e Matheus, formada por tio e sobrinho de Mato Grosso do Sul, viralizou nas redes sociais após se apresentar para menos de 15 pessoas durante a festa de aniversário de Naviraí (MS). O show gratuito ocorreu na quinta-feira (12), e os mús",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/17/quem-e-a-dupla-sertaneja-que-viralizou-apos-fazer-show-para-15-pessoas-no-aniversario-de-cidade-de-ms.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/zOjI_sZK0Cw-zHWGz2WpS9j4evc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/h/uhDDVoSLKD6XxRpSGjOA/formato-g1.jpg",
-    "data": "2026-11-17T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Entregador é surpreendido por assaltantes e tem carro com mais de 100 encomendas roubado em Uberlândia",
-    "resumo": "Entregador tem carro roubado durante entrega em MG Um entregador de 38 anos teve o carro roubado por dois criminosos na manhã de domingo (15), enquanto realizava entregas no bairro Novo Mundo, em Uberlândia, no Triângulo Mineiro. No veículo havia 123 encomendas. Segundo a Polícia Militar (PM), o homem foi abordado por dois indivíduos por ",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/17/video-entregador-e-surpreendido-por-assaltantes-e-tem-carro-com-mais-de-100-encomendas-roubado-em-uberlandia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sFTIcM08Yt0wUv-4WYL81m6O-7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/t/QNGfl1S0ao8NwJ6QzrBg/design-sem-nome-3-.png",
-    "data": "2026-11-17T08:00:00.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Japan sends up jets after alleged Russian incursion of its airspace",
+    "resumo": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
+    "data": "2026-11-17T07:44:17.000Z"
   },
   {
     "categoria": "Internacional",
@@ -182,20 +290,11 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Bahrain thwarts drone attack; Iran claims targeting US military radar",
+    "titulo": "Bahrain thwarts drone attack; Iran claims targeting US radar",
     "resumo": "The IRGC says the attack is part of efforts to counter &#039;hostile activities of US forces in the region&#039;.",
     "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-17T07:35:54.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
-    "resumo": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-    "data": "2026-11-17T07:21:37.000Z"
   },
   {
     "categoria": "Internacional",
@@ -205,15 +304,6 @@
     "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-17T07:21:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "The new French malaise",
-    "resumo": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T07:03:12.000Z"
   },
   {
     "categoria": "Opinião",
@@ -226,30 +316,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Will Netanyahu lose this time?",
-    "resumo": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T06:53:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
     "resumo": "<p>Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news#top-of-blog\">Asean and Apec summits –",
     "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
     "imagem": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
     "data": "2026-11-17T06:37:35.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
-    "resumo": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T06:06:58.000Z"
   },
   {
     "categoria": "Internacional",
@@ -277,33 +349,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png",
     "data": "2026-11-17T05:59:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
-    "resumo": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
-    "link": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T05:50:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Leonid meteor shower 2026: When and where to see it from where you live",
-    "resumo": "The Leonids, among the year&#039;s fastest meteor showers, peak on November 17-18. Find the best time to watch in your city.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T05:42:03.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US bank outage: What caused Chase problems and Zelle payment delays?",
-    "resumo": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here&#039;s what happened.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T05:19:34.000Z"
   },
   {
     "categoria": "Clima",
@@ -414,15 +459,6 @@
     "data": "2026-11-17T01:04:45.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "'Crypto King' Aiden Pleterski testifies about escape attempt during alleged kidnapping",
-    "resumo": "Self-described \"Crypto King\" Aiden Pleterski described how he tried to escape and how his alleged kidnappers ultimately released him during his continued testimony at their jury trial in Toronto on Monday.",
-    "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-escape-attempt-9.7424448?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4eb8a4d4-b742-42ab-b5ac-1c4dddccc0fb,1792515393297/full/max/0/default.jpg?im=Crop%2Crect%3D%28199%2C0%2C3562%2C2003%29%3B",
-    "data": "2026-11-17T00:53:51.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Victim Advocates Sue Newsom Over Attempt to Empty California’s Death Row",
@@ -439,15 +475,6 @@
     "link": "https://www.dw.com/pt-br/eua-passam-a-exigir-licença-para-venda-de-chips-avançados-ao-brasil/a-79964427?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-17T00:42:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Volunteers back in Manitoba after grounding of U.S. flights set them on long road trip home",
-    "resumo": "A group of Manitobans doing volunteer work are back home after Friday's closure of U.S. airspace forced them on a long journey across that country.",
-    "link": "https://www.cbc.ca/news/canada/manitoba/volunteers-operation-walk-manitoba-doug-brown-9.7424408?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a68c82d8-5027-4656-bb56-3c697c5017c1,1794872459424/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C848%2C477%29%3B",
-    "data": "2026-11-17T00:35:44.000Z"
   },
   {
     "categoria": "Canadá",
@@ -477,15 +504,6 @@
     "data": "2026-11-17T00:12:35.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "The battle for Trump's 'Trash Island' golf course | About That",
-    "resumo": "Andrew Chang explains the fight over what U.S. President Donald Trump calls 'Trash Island' — and why a federal judge blocked the Trump administration from closing Washington's historic East Potomac Park. Images provided by The Canadian Press, Reuters, Adobe Stock and Getty Images",
-    "link": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B",
-    "data": "2026-11-17T00:05:23.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Famílias de 14 vítimas da ditadura têm nova certidão de óbito no RS",
@@ -500,7 +518,7 @@
     "titulo": "We couldn't afford a house alone, so we bought one with strangers",
     "resumo": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
     "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
     "data": "2026-11-17T00:00:02.000Z"
   },
   {
@@ -529,15 +547,6 @@
     "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-16T23:35:58.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Data centres in the U.S. put out more carbon emissions in a year than Denmark, says Harvard study",
-    "resumo": "The 400 largest data centres in the United States put more heat-trapping gases into the atmosphere in one year than the entire nation of Denmark did, and that was before the artificial intelligence boom really got going, according to a Harvard University study published Monday.",
-    "link": "https://www.cbc.ca/news/climate/data-centres-carbon-emissions-cop31-study-9.7424144?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/3708fa10-632a-460d-a406-aace0baf7c82,1794865416616/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C282%2C4443%2C2499%29%3B",
-    "data": "2026-11-16T23:35:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1080,15 +1089,6 @@
     "data": "2026-11-16T14:02:10.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Gérard Depardieu drops appeal against sexual assault conviction",
-    "resumo": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-    "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-16T13:40:56.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
@@ -1103,7 +1103,7 @@
     "titulo": "GTA 6 hacker pleads guilty after release from secure hospital",
     "resumo": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
     "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e7/live/e63476a0-e1ee-11f1-99b6-a35a62fa4264.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
     "data": "2026-11-16T13:34:22.000Z"
   },
   {
@@ -1252,15 +1252,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Two mass shootings in South Africa leave 17 dead",
-    "resumo": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
-    "link": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e5/live/66487e80-e1a0-11f1-902c-ad301cbf1208.jpg",
-    "data": "2026-11-16T10:57:48.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
     "resumo": "<p>Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human</p><p>The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has triggered furious protests by local people opposed to their capture, which officials argue is necessary to stop human-wi",
@@ -1289,19 +1280,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "They saw people losing food benefits. So they started handing out free groceries",
-    "resumo": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn&apos;t sit back while their neighbors went hungry.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4120x2318+0+0/resize/4120x2318!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F0b%2F283a29d0443a81b8617283d090b8%2F20261107-ksuzuki-sandiegosnap-122.jpg",
+    "titulo": "These birds fly 17,000 miles every year. Climate change could make it harder",
+    "resumo": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F42%2Fb14bf3e54be0b6dd74858931dce3%2F359a9538.jpg",
     "data": "2026-11-16T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-    "resumo": "The trip to China marks Trump&apos;s second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/3000x1903!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
+    "titulo": "NPR&apos;s Student Podcast Challenge is back for 2027",
+    "resumo": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1643+0+0/resize/3000x1643!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fac%2F655f0f4f4bdfbd7f5fc1c45349ad%2Fspc-lead-graphic-web-final1.jpg",
     "data": "2026-11-16T10:00:00.000Z"
   },
   {
@@ -1348,5 +1339,14 @@
     "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
     "data": "2026-11-16T06:24:08.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Midnight Diner: Netflix just dropped its most beautiful show in years … and it’s barely been noticed",
+    "resumo": "<p>Disarmingly thoughtful stillness is the order of the day in the latest season of this Japanese show about a Tokyo eatery. What a shame it feels buried under other content</p><p>The first time we see the Master (Kaoru Kobayashi) in the sixth season of Midnight Diner, he cuts a curiously morose figure. His usually bustling establishment ",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/for-the-slug-midnight-diner-netflix-japanese-restaurant-drama-tv-show",
+    "imagem": "https://i.guim.co.uk/img/media/f4bf2ae55b5e111498e05925b07bab22599bc94d/309_113_1623_1298/master/1623.jpg?width=140&quality=85&auto=format&fit=max&s=e46b5543e061813744df980888c1d3be",
+    "data": "2026-11-16T05:00:33.000Z"
   }
 ]
