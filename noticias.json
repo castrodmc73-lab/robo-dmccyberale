@@ -1,111 +1,237 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Bom Dia Tocantins, de 17 de novembro de 2026",
+    "resumo": "Confira todos os vídeos do telejornal.",
+    "link": "https://g1.globo.com/to/tocantins/edicao/2026/11/17/videos-bom-dia-tocantins-de-17-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MPoKzw2g856I3p_hMoE2kSOX3GY=/s01.video.glbimg.com/deo/vi/03/91/15199103",
+    "data": "2026-11-17T11:21:41.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "What do you want to know about the Cop31 climate talks? Ask Fiona Harvey and Ajit Niranjan",
+    "resumo": "<p>The Guardian’s environment editor Fiona Harvey and Europe environment correspondent Ajit Niranjan will answer your questions on Cop31, the draft deal on fossil fuels, the fight over climate finance and what overshooting 1.5C means for the world.</p><p>The Cop31 climate summit in Antalya is in its final days, and negotiators are fightin",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/17/what-do-you-want-to-know-about-the-cop31-climate-talks-ask-fiona-harvey-and-ajit-niranjan",
+    "imagem": "https://i.guim.co.uk/img/media/27a354721d84af588c31e5fcb303ba781ed60548/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=a1785d8f6d4aa4ee259458d79123fda5",
+    "data": "2026-11-17T11:19:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Inscrições do concurso da prefeitura de Baía da Traição, na PB, começam nesta terça-feira (17)",
+    "resumo": "Prefeitura de Baía da Traição Reprodução/Google Street View Começam nesta terça-feira (17) as inscrições para o concurso da prefeitura de Baía da Traição, no Litoral Norte da Paraíba. O certame oferece 117 vagas para cargos de níveis fundamental, médio, técnico e superior. As inscrições seguem até as 23h59 do dia 16 de dezembro de 2026, p",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/inscricoes-do-concurso-da-prefeitura-de-baia-da-traicao-na-pb-comecam.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ADZeafc_1UNuBfCBiBKC0GnfTt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/h/qaXB6dSIKvQxLKkZxMuA/prefeitura-de-baia-da-traicao.jpg",
+    "data": "2026-11-17T11:18:53.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+    "resumo": "<p>Host city offers showcase of China’s rise into a confident and innovative power central to global economy</p><p>In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet an",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+    "imagem": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=140&quality=85&auto=format&fit=max&s=ed6d728039eaaf2cd4498d9ce9ba4655",
+    "data": "2026-11-17T11:18:26.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "US government confirms investigation into tech firm Megaspeed",
+    "resumo": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+    "data": "2026-11-17T11:17:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "EUA confirmam investigação sobre a Megaspeed por suposto desvio de chips para a China",
+    "resumo": "Megaspeed Taryn Ng/AFP O governo dos Estados Unidos confirmou uma investigação sobre o grupo Megaspeed, de Singapura, por supostamente ajudar empresas chinesas a contornar as restrições americanas à exportação de chips. 🗒️Tem alguma sugestão de reportagem? Envie para o g1 Em um comunicado conjunto divulgado na noite de segunda-feira (16)",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/eua-confirmam-investigacao-sobre-a-megaspeed-por-suposto-desvio-de-chips-para-a-china.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5yXrZf8cWxGM_rUHWT0qt-zuhuA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/k/x3PIaHRbOAnm6HSkllHQ/79909063-1004.webp",
+    "data": "2026-11-17T11:16:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cadu Xavier define nomes para comandar Secretaria da Fazenda e PGE no RN",
+    "resumo": "Cadu anunciou primeiros nomes do secretariados na redes sociais Redes sociais/Reprodução O governador eleito do Rio Grande do Norte, Cadu Xavier (PT), anunciou nesta terça-feira (17) os dois primeiros nomes que vão integrar a equipe do futuro governo, a partir de 2027. Renata dos Santos foi escolhida para comandar a Secretaria Estadual da",
+    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/17/cadu-xavier-define-nomes-para-comandar-secretaria-da-fazenda-e-pge-no-rn.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vfUPIkdjbC_GPeuY1wQ55QWlFiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/p/weDu9LT867ZB9VkHjr6g/mixcollage-17-nov-2026-08-09-am-2085.jpg",
+    "data": "2026-11-17T11:11:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mudança no trânsito do bairro Jabotiana, em Aracaju, começa nesta terça-feira; veja alterações",
+    "resumo": "Conjunto Santa Lúcia, no bairro Jabotiana em Aracaju. Ascom/ SMTT Ruas e avenidas do conjunto Santa Lúcia, no bairro Jabotiana, passam a ter mudanças no fluxo de circulação de veículos a partir desta terça-feira (17). A alteração é realizada pela Superintendência Municipal de Transportes e Trânsito (SMTT). Com a medida, vias que atualment",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/17/mudanca-no-transito-do-bairro-jabotiana-em-aracaju.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/h5cbSDYeIOhpIov3wY03YSYGQk4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/ht3SleRKSLpWZaS33vag/santa-lucia.jpg",
+    "data": "2026-11-17T11:10:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Manaus recebe 'Último Pagode do Ano' com oito horas de shows sem intervalos; saiba como comprar ingressos",
+    "resumo": "Último pagode do ano Divulgação O evento \"Último Pagode do Ano\" será realizado no dia 7 de dezembro, véspera de feriado, a partir das 20h, no Podium da Arena da Amazônia, em Manaus. A programação promete oito horas ininterruptas de samba e pagode, com apresentações de Uendel Pinheiro, Gustavo Lins, Thiago Soares e Bruno Diegues. Os ingres",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/manaus-recebe-ultimo-pagode-do-ano-com-oito-horas-de-shows-sem-intervalos-saiba-como-comprar-ingressos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8-Tz2EThiyyElGCKnxte2rvIobU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/o/9zWERUSbCCeejc7SXOsQ/design-sem-nome-2026-11-17t070341.086.png",
+    "data": "2026-11-17T11:10:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Trocas de tiros terminam com suspeito baleado e materiais para o tráfico de drogas apreendidos em Angra dos Reis",
+    "resumo": "Trocas de tiros terminam com suspeito baleado e materiais para o tráfico de drogas apreendidos em Angra dos Reis Divulgação/Polícia Militar Trocas de tiros entre suspeitos e policiais terminou com um homem baleado e materiais para o tráfico de drogas apreendidos na segunda-feira (16) em Angra dos Reis (RJ). O caso aconteceu no Morro da Ca",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/tres-trocas-de-tiros-terminam-com-suspeito-baleado-e-materiais-para-o-trafico-de-drogas-apreendidos-em-angra-dos-reis.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JK8g_dt8Su-7KCloVUTSZV_W4JI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/7/McvnVCTXS0n4LCPM5ueQ/whatsapp-image-2026-11-17-at-07.21.30-1-.jpeg",
+    "data": "2026-11-17T11:09:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Bangladesh police clash with garment workers amid protests over wages",
+    "resumo": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T11:06:12.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
+    "resumo": "<p>Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement</p><p>The co-host of the Cop31 climate summit is among the countries with the greatest responsibility for having exporting fuels that destroy a stable climate, according to new analysis by <a href=\"https://www.carbonbrief.org/reveale",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
+    "imagem": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b181284a0bf44cd61bc80a8b9066f6c8",
+    "data": "2026-11-17T11:02:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+    "resumo": "<p>Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news#top-of-blog\">Asean and Apec summits – live updates</a></p></li></ul",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+    "imagem": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
+    "data": "2026-11-17T11:00:39.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "The NFL’s Salute to Service honors the military – and leaves out the realities of war | Lee Escobedo",
+    "resumo": "<p>This month, the league rightly honors veterans across the US. But little is mentioned about the death tolls, or the reasons behind our wars</p><p>My mom taught me to thank veterans. Whenever we saw someone in a veterans hat, she set the example. Nobody in her family served, but my paternal grandfather fought in the Pacific in the secon",
+    "link": "https://www.theguardian.com/sport/2026/nov/17/the-nfls-salute-to-service-honors-the-military-and-leaves-out-the-realities-of-war",
+    "imagem": "https://i.guim.co.uk/img/media/f2d920e137d260c2d9f2784da6418f485644f076/414_208_3864_3093/master/3864.jpg?width=140&quality=85&auto=format&fit=max&s=6b68e90fc39d77a97f19dd4c8ec91db7",
+    "data": "2026-11-17T11:00:37.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "How the rightwing operative David Horowitz shaped Stephen Miller | Sidney Blumenthal",
+    "resumo": "<p>Horowitz, who swung from the far left to the far right, sought total political warfare against institutions and immigration </p><p>Stephen Miller has risen to the top of the White House in the downdraft of Donald Trump’s abject defeat in the midterm elections. It is no irony to Trump that he has elevated Miller as his ideal bullying en",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/17/david-horowitz-stephen-miller",
+    "imagem": "https://i.guim.co.uk/img/media/681cdb1dfbd0746d99637a9dbabdc11af8de1100/451_0_4489_3592/master/4489.jpg?width=140&quality=85&auto=format&fit=max&s=89a92cb5762122e098d5a8b3d5e42e92",
+    "data": "2026-11-17T11:00:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Black Friday: Operação fiscaliza promoções para que consumidores não caiam na 'black fraude' no AC",
+    "resumo": "Três dicas para fugir de golpes na Black Friday Com objetivo de evitar propaganda enganosa e práticas abusivas aos consumidores, o Instituto de Proteção e Defesa do Consumidor (Procon-AC) começou as ações de fiscalização na Black Friday em estabelecimentos do estado, durante o período em que ofertas e promoções são intensificadas. Segundo",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/17/black-friday-operacao-fiscaliza-promocoes-para-que-consumidores-nao-caiam-na-black-fraude-no-ac.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rZqzx53iojprmug8QdVtV3phse4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/m/Nu3uGiQ3KALn04EZMYmw/midia-de-distribuicao-g1-2026-11-16t115613.889.png",
+    "data": "2026-11-17T11:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "I&apos;m a human doctor with human intelligence. But I sure do like my AI notetaker",
+    "resumo": "<em>Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It&apos;s very popular, and here&apos;s how to think through the pros and the cons of the new technology. </em>",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x2800+0+0/resize/3500x2800!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F4f%2Ff1d983494f34b82fa698fa8913cc%2Fnpr-ai-fa.jpg",
+    "data": "2026-11-17T11:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Trump diz que vai pressionar Putin e Xi Jinping pelo fim da guerra na Ucrânia",
+    "resumo": "Ataque da Ucrânia derruba parte de ponte que liga Rússia e Crimeia O presidente dos Estados Unidos, Donald Trump, afirmou nesta terça-feira (17) que deve pressionar os líderes da Rússia, Vladimir Putin, e da china, Xi Jinping, para encerrar a guerra na Ucrânia. A jornalistas, o americano afirmou que o assunto deve ser um dos temas da reun",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/trump-diz-que-vai-pressionar-putin-e-xi-jinping-pelo-fim-da-guerra-na-ucrania.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AGcXLuDdYjMyefULqxSN1TgMvO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/UAUJSAQK6Jbdfw7P7PJw/photo-collage.png-4-.png",
+    "data": "2026-11-17T10:59:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Após desviar de gambá, motorista perde controle de veículo e bate em poste em Porto Alegre",
+    "resumo": "Após desviar de gambá, motorista perde controle de veículo e bate em poste em Porto Alegre Um carro bateu em um poste na madrugada desta terça-feira (17) em Porto Alegre . De acordo com o motorista, a colisão aconteceu após ele avistar um gambá na pista. O acidente aconteceu por volta das 3h na Avenida Severo Dulius, na Zona Norte da capi",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/carro-bate-poste-desviar-gamba-porto-alegre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SUnCz0P1FHuFRH3rSTNs5s1jfV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/dBJGYNQBKS6b03IDOhgA/g1-41-.jpg",
+    "data": "2026-11-17T10:59:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pela 2ª vez seguida, bilhete de São José ganha prêmio principal da Loteria Federal e leva R$ 1,3 milhão",
+    "resumo": "G1 | Loterias - Loteria Federal 6118 Uma aposta de São José dos Campos, no interior de São Paulo, faturou o prêmio principal do sorteio 6.118 da Loteria Federal, realizado pela Caixa Econômica na noite desta segunda-feira (16), e ganhou R$ 1,350 milhão. O bilhete, de número 062545 foi adquirido na Lotérica Satélite, que fica no Jardim Sat",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/17/pela-2a-vez-seguida-bilhete-de-sao-jose-ganha-premio-principal-da-loteria-federal-e-leva-r-13-milhao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/OCXyBZg95AVu4zNaBT694CRjDBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/S/2Nwzb2QtSRZLdAjEegzA/apostadores-de-bolao-sorteado-na-mega-da-virada-2022-em-santos-devem-ganhar-mais-de-r-3-milhoes.jpg",
+    "data": "2026-11-17T10:58:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Invasão a residência termina com três mortos em Barra Mansa",
+    "resumo": "Delegacia de Barra Mansa Divulgação/Polícia Civil Uma invasão em uma residência terminou com três pessoas mortas na manhã desta terça-feira (17), em Barra Mansa (RJ). O caso aconteceu por volta das 5h10, no bairro Jardim América. Segundo as informações preliminares da Polícia Militar, um grupo de suspeitos, que estavam em dois carros, for",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/17/tres-pessoas-sao-mortas-em-barra-mansa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/D5ZJUQ5AeFT2O79yLBYeoTzkCtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/j/IG5NMbQuahUT5s2hPEyg/image.jpg",
+    "data": "2026-11-17T10:55:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+    "resumo": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T10:53:42.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "resumo": "Zelensky says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+    "resumo": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
     "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
-    "data": "2026-11-17T10:34:29.000Z"
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+    "data": "2026-11-17T10:45:55.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Trabalhador rural que morreu após avião agrícola atingir carro voltava de entrevista de emprego, diz família",
-    "resumo": "Avião agrícola atinge carro em Aragarças O trabalhador rural Denilson Lima de Araújo, de 28 anos, que morreu após o carro em que estava ser atingido por um avião agrícola em uma estrada de terra na zona rural de Aragarças, no oeste de Goiás, voltava de uma fazenda onde havia ido tratar de uma oportunidade de trabalho, segundo o irmão, Alu",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/17/trabalhador-rural-que-morreu-apos-aviao-agricola-atingir-carro-voltava-de-entrevista-de-emprego-diz-familia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HDDvswDz3xVKcBxs18NTCZ1pID8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/H/IBEcdYSReNVJifFfMOpg/png-5-.png",
-    "data": "2026-11-17T10:33:02.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Trump arrives in Philippines to kick off Asia trip",
+    "resumo": "Manila is President Trump&apos;s first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5227+0+0/resize/7840x5227!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2F49%2Fa294d8eb44928fd04761b88c0ba1%2Fap26321375771842.jpg",
+    "data": "2026-11-17T10:43:55.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Lotofácil: 12 apostas do Paraná ficam a um número de ganhar prêmio principal",
-    "resumo": "G1 | Loterias - Lotofácil 3831 P 12 apostas do Paraná ficaram a um número de ganhar o prêmio principal da Lotofácil sorteado nesta segunda-feira (16), no concurso 3881. Elas acertaram 14 das 15 dezenas sorteadas, e receberam prêmios de R$1.336,66. 🔎Na Lotofácil são sorteados 15 de 25 números, e ganha prêmios quem acertar 11, 12, 13, 14 o",
-    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/17/lotofacil-12-apostas-do-parana-ficam-a-um-numero-de-ganhar-premio-principal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
-    "data": "2026-11-17T10:31:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Perito diz que fotos da autópsia de Epstein sugerem que ele foi assassinado na prisão",
-    "resumo": "Jeffrey Epstein Reuters Aviso: esta reportagem trata de suicídio. Um especialista forense afirmou acreditar que a morte do criminoso sexual Jeffrey Epstein na prisão foi resultado de um homicídio, e não de suicídio. Em entrevista ao programa BBC Newsnight, o professor Michael Freeman disse que, após analisar os arquivos do Instituto Médic",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/perito-diz-que-fotos-da-autopsia-de-epstein-sugerem-que-ele-foi-assassinado-na-prisao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RKvCcMjIX0aIqZJ5YOfFQXADdyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/i/0RUJhJSQmnF67cmfkDiA/epstein.jpg",
-    "data": "2026-11-17T10:30:50.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Equipe de Lula manda esquerda parar de atacar ajuste fiscal para evitar derrota no Senado",
-    "resumo": "Senado deve votar destaques do ajuste fiscal nesta terça-feira (17) A equipe do presidente Lula determinou que seus aliados na esquerda parem de atacar o ajuste fiscal para evitar uma derrota nesta terça-feira (17) no Senado Federal. A oposição tenta aproveitar o racha entre aliados de Lula para derrubar parte das medidas fiscais em votaç",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/17/equipe-de-lula-manda-esquerda-parar-de-atacar-ajuste-fiscal-para-evitar-derrota-no-senado.ghtml",
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+    "resumo": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-17T10:30:49.000Z"
+    "data": "2026-11-17T10:42:42.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Chuva forte causa alagamentos e estragos na capital, Grande BH e Região Central de Minas",
-    "resumo": "Chuva forte provoca estragos em BH, Grande BH e Região Central de Minas A chuva forte que atingiu Belo Horizonte, a Região Metropolitana e cidades da Região Central de Minas provocou alagamentos, deslizamentos, quedas de árvores e postes e danos a imóveis e estradas. Na capital, motoristas enfrentaram pontos de alagamento no Anel Rodoviár",
-    "link": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/11/17/chuva-forte-causa-alagamentos-e-estragos-na-capital-grande-bh-e-regiao-central-de-minas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7HQmtrsxWN8HhH9JVUNTE0DJy5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/4/aQ81NeROGOyXUhZMShQg/chuvas.png",
-    "data": "2026-11-17T10:30:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bom Dia Cidade Piracicaba",
-    "resumo": "Bom Dia Cidade Piracicaba",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/bom-dia-cidade-piracicaba-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
-    "data": "2026-11-17T10:30:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Professora de assentamento no oeste paulista conquista pódio em prêmio nacional de educação",
-    "resumo": "Professora em assentamento do interior de SP conquista pódio em prêmio nacional O reconhecimento nacional para uma professora do oeste paulista chegou depois de 13 anos de trabalho com leitura e escrita em uma escola da região. A professora Daniela Aparecida Ferreira Arfelli, da Escola Estadual Assentamento Santa Clara, em Mirante do Para",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/17/professora-de-assentamento-no-oeste-paulista-conquista-podio-em-premio-nacional-de-educacao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rc6babrPlF86JDPaWaLnQY0kfcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/d/44WDxPTFax3L4sQWJWWA/g1-2026-11-16t125322.943.png",
-    "data": "2026-11-17T10:26:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Abelhas nativas ajudam a reproduzir palmeira-juçara e a preservar Mata Atlântica: 'Mantêm a floresta em pé'",
-    "resumo": "Abelhas nativas ajudam a reproduzir palmeira-juçara e a preservar a Mata Atlântica Pequenas no tamanho, mas essenciais para o equilíbrio dos ecossistemas, as abelhas nativas desempenham um papel fundamental na preservação de diferentes espécies e na manutenção da Mata Atlântica. Além de contribuir para a reprodução de diversas plantas, el",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/17/abelhas-nativas-ajudam-a-reproduzir-palmeira-jucara-e-a-preservar-mata-atlantica-mantem-a-floresta-em-pe.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DaksEj5N7MfJjVrKnWR-qqhK3t0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/K/pVoy1BQhAoBpO0ihkgKw/whatsapp-image-2026-11-16-at-17.08.42.jpeg",
-    "data": "2026-11-17T10:25:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incidência de raios aumenta em até 207% na região de Piracicaba; entenda motivos",
-    "resumo": "Incidência de raios aumenta na região de Piracicaba A incidência de queda de raios teve aumento expressivo entre 2025 e 2026 em cidades da região de Piracicaba (SP). O balanço do Instituto Nacional de Pesquisas Espaciais (Inpe) faz um comparativo de janeiro a setembro dos dois anos. Segundo o levantamento, quatro dos cinco maiores municíp",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/17/incidencia-de-raios-aumenta-em-ate-207percent-na-regiao-de-piracicaba-entenda-motivos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hLrFcQU4s1vnr4qrPfmdMJOjwGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/el2WUgQsScnBVsGXfXaw/vlcsnap-2026-11-16-19h23m49s987.png",
-    "data": "2026-11-17T10:25:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Operação mira grupo suspeito de tráfico de drogas em quiosques na orla de João Pessoa",
-    "resumo": "Operação mira grupo suspeito de usar quiosques da orla de João Pessoa para tráfico de drogas Reprodução / Polícia Civil Um grupo criminoso suspeito de atuar no tráfico de drogas em quiosques da orla de Cabo Branco, em João Pessoa, foi alvo de uma operação da Polícia Civil da Paraíba na manhã desta terça-feira (17). A ação teve como objeti",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/17/operacao-mira-grupo-suspeito-de-trafico-de-drogas-em-quiosques-na-orla-de-joao-pessoa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HJymPFttQhBSQT5GjuSrEQQCLzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/O/4B4u0vQgaBmE7z9chphQ/captura-de-tela-2026-11-17-072256.jpg",
-    "data": "2026-11-17T10:24:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Três pessoas são presas em operação que investiga assassinato de motorista por aplicativo na Bahia",
-    "resumo": "Três pessoas foram presas em operação em Porto Seguro Polícia Civil Três pessoas foram presas nesta terça-feira (17), em Porto Seguro, no extremo sul da Bahia, por suspeita de participação no homicídio de um motorista por aplicativo na cidade. Além das prisões, foram cumpridos nove mandados de busca e apreensão. O motorista por aplicativo",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/tres-pessoas-sao-presas-em-operacao-no-sul-da-bahia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4sVMoji-G6QN75ElNB98EP8v-MU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/k/NfpJDITCWax6JlE5moxg/foto-2-golpista-6-.png",
-    "data": "2026-11-17T10:23:00.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Brasil gasta R$ 14,5 bilhões por ano com guerra às drogas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/brasil-gasta-r-145-bilhoes-por-ano-com-guerra-drogas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>O",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/brasil-gasta-r-145-bilhoes-por-ano-com-guerra-drogas",
+    "imagem": null,
+    "data": "2026-11-17T10:41:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -126,15 +252,6 @@
     "data": "2026-11-17T10:22:52.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Alunos representam o Brasil com app sobre astrofísica em fórum de ciência na Argentina",
-    "resumo": "Alunos do interior de SP criam projeto sobre astrofísica e ganham nota máxima em feira Dois estudantes bolsistas de São José do Rio Preto, no interior de São Paulo, conquistaram o 1º lugar com nota máxima na Mostratec Júnior, considerada a maior feira de ciência e tecnologia jovem da América Latina, realizada em Novo Hamburgo (RS). A prem",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/17/alunos-representam-o-brasil-com-app-sobre-astrofisica-em-forum-de-ciencia-na-argentina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/b9ZxaxMnT-pu3dQyaKY1dMY68m8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/p/MQsOW0TUektheh2Ogh7g/formato-padrao-imagens-g1-2026-11-16t145239.276.jpg",
-    "data": "2026-11-17T10:22:18.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "How new US chip restrictions on South East Asia will hit China",
@@ -144,13 +261,31 @@
     "data": "2026-11-17T10:22:09.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
-    "resumo": "<p>Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement</p><p>Thousands of miles away from where negotiators are grappling over how to address the serious impacts from a warming world, the California coast is experiencing a glimpse of what’s to come.</p><p>The severe effects of a historic",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-    "imagem": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b181284a0bf44cd61bc80a8b9066f6c8",
-    "data": "2026-11-17T10:21:02.000Z"
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Mega-Sena sorteia prêmio de R$ 34 milhões nesta terça-feira",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-34-milhoes-nesta-terca-feira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stron",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-sorteia-premio-de-r-34-milhoes-nesta-terca-feira",
+    "imagem": null,
+    "data": "2026-11-17T10:20:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Em meio a que",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+    "imagem": null,
+    "data": "2026-11-17T10:15:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Will President Trump meet Kim Jong Un?",
+    "resumo": "President Trump says he would be keen to meet the North Korea leader in China.",
+    "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-17T10:13:27.000Z"
   },
   {
     "categoria": "Internacional",
@@ -160,6 +295,15 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-17T10:13:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Beneficiários com NIS de final 2 recebem Bolsa Família de novembro",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-novembro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-novembro",
+    "imagem": null,
+    "data": "2026-11-17T10:02:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -186,6 +330,15 @@
     "resumo": "A new study of school cellphone bans finds they may help students make up for some of the learning they&apos;ve lost since 2013 – a divergence from earlier study results.",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F92%2F75ae7d5549d0b190800164f316f6%2Fgettyimages-2244489408.jpg",
+    "data": "2026-11-17T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Canadian home sales edged up in October amid overall flat housing market: CREA",
+    "resumo": "Home sales across Canada edged up slightly in October — defying the expectations of some analysts — but remained below levels from October 2025, according to the Canadian Real Estate Association (CREA).",
+    "link": "https://www.cbc.ca/news/business/crea-october-home-sales-numbers-9.7424208?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4641409d-5d9d-4cd9-881d-fd65d97874e8,1794868188239/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C273%2C5249%2C2952%29%3B",
     "data": "2026-11-17T10:00:00.000Z"
   },
   {
@@ -334,30 +487,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
-    "resumo": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T08:15:32.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-    "resumo": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T08:12:06.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "AI models abandon climate facts to please users, UNESCO report finds",
-    "resumo": "AI models abandon climate facts to agree with users in eight out of 10 tests.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ai-models-abandon-climate-facts-to-please-users-unesco-report-finds?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T08:10:26.000Z"
+    "fonte": "BBC News",
+    "titulo": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+    "resumo": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5db/live/3bffede0-e252-11f1-876d-1dfc6cf3b709.jpg",
+    "data": "2026-11-17T08:11:20.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -403,15 +538,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/17/automated-warfare-here-governments-restrain-ai-militaries-treaty",
     "imagem": "https://i.guim.co.uk/img/media/ad8030abd56aff89b15a66a8d8337a3319ddada7/46_0_3455_2765/master/3455.jpg?width=140&quality=85&auto=format&fit=max&s=9cd8235e101d2783a3d13cdfb1e0198c",
     "data": "2026-11-17T07:00:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-    "resumo": "<p>Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news#top-of-blog\">Asean and Apec summits –",
-    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-    "imagem": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d705d30eaf39229da515c775b9c5324e",
-    "data": "2026-11-17T06:37:35.000Z"
   },
   {
     "categoria": "Internacional",
@@ -502,15 +628,6 @@
     "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
     "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
     "data": "2026-11-17T02:02:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
-    "resumo": "<p>Community leader says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’</p><p>Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago.</p><p>Panguna",
-    "link": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
-    "imagem": "https://i.guim.co.uk/img/media/8b6e5cb5abf829af76f5ebcfe3c864c525dd5235/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f50df09a317aa88ccdc9d333e1f80a8",
-    "data": "2026-11-17T02:02:30.000Z"
   },
   {
     "categoria": "Internacional",
@@ -648,15 +765,6 @@
     "data": "2026-11-16T23:25:35.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Five EU countries announce migrant deportation centre in Rwanda",
-    "resumo": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-    "data": "2026-11-16T23:20:45.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Band of baby sea turtles swims into ocean after historic California nesting",
@@ -776,15 +884,6 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Gordie Howe bridge surpasses 1M vehicle crossings while other bridges, tunnel lose traffic",
-    "resumo": "The Gordie Howe International Bridge has seen more than a million crossings since it officially opened to vehicle traffic on July 27, according to new numbers from the Bridge and Tunnel Operators Association.",
-    "link": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-traffic-update-9.7424008?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/cb1cbe85-e73f-463a-88f6-de850638920f,1790286421780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
-    "data": "2026-11-16T21:09:31.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
     "titulo": "Exodus in Poilievre's office as 5 staffers plan departures",
     "resumo": "Five members of the Opposition leader's office have informed Conservative Leader Pierre Poilievre they plan to quit. The departures will leave big gaps in Poilievre's office, particularly in communications and policy.",
     "link": "https://www.cbc.ca/news/politics/olo-poilievre-staff-exodus-9.7423944?cmp=rss",
@@ -864,15 +963,6 @@
     "data": "2026-11-16T20:06:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Anitta é indicada ao Grammy Internacional para melhor álbum global",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/anitta-e-indicada-ao-grammy-internacional-para-melhor-album-global\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/anitta-e-indicada-ao-grammy-internacional-para-melhor-album-global",
-    "imagem": null,
-    "data": "2026-11-16T19:59:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
@@ -882,33 +972,6 @@
     "data": "2026-11-16T19:50:47.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Recife se despede de Claudionor Germano, o rei do frevo",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/recife-se-despede-de-claudionor-germano-o-rei-do-frevo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/recife-se-despede-de-claudionor-germano-o-rei-do-frevo",
-    "imagem": null,
-    "data": "2026-11-16T19:46:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Jovens com medida socioeducativa têm oficina de robótica no REC’n’Play",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/jovens-com-medida-socioeducativa-tem-oficina-de-robotica-no-recnplay\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/jovens-com-medida-socioeducativa-tem-oficina-de-robotica-no-recnplay",
-    "imagem": null,
-    "data": "2026-11-16T19:36:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Lindsay Clancy to face retrial next year for deaths of her three children",
-    "resumo": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-16T19:30:30.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Supreme Court Rejects Trump Bid to Revive University Research Cuts",
@@ -916,15 +979,6 @@
     "link": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-trump-university-of-california.html",
     "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-scotus-grants-gfvk/16dc-scotus-grants-gfvk-mediumSquareAt3X.jpg",
     "data": "2026-11-16T19:19:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Anvisa proíbe dois tira-manchas à base de percarbonato de sódio",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-proibe-dois-tira-manchas-base-de-percarbonato-de-sodio\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><st",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-proibe-dois-tira-manchas-base-de-percarbonato-de-sodio",
-    "imagem": null,
-    "data": "2026-11-16T19:02:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1008,15 +1062,6 @@
     "data": "2026-11-16T17:36:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Nearly two million people are behind bars in the US. How did we get here?",
-    "resumo": "Lynn Novick&apos;s new, four-part PBS documentary series, <em>Crime and Punishment in America</em>, goes inside the U.S. prison system and explores how <br>our approach to criminals has changed over time.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6042432",
-    "data": "2026-11-16T17:34:07.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Estudo compara efeitos de urinar sentado ou em pé",
@@ -1044,15 +1089,6 @@
     "data": "2026-11-16T16:42:05.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Lindsay Clancy to face a new trial in spring of 2027 over children&apos;s killing",
-    "resumo": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
-    "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/3000x2193!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
-    "data": "2026-11-16T16:28:19.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "América Latina procura frear danos do boom turístico",
@@ -1060,15 +1096,6 @@
     "link": "https://www.dw.com/pt-br/américa-latina-procura-frear-danos-do-boom-turístico/a-79958379?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-16T16:22:00.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
-    "resumo": "<p>While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates\">Cop31 live – latest updates</a></p></li></ul><p>Artificial intelligence models can quickly turn ",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
-    "imagem": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/158_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8eb7a2c8a68a8762d7e682153f2e98cd",
-    "data": "2026-11-16T16:05:58.000Z"
   },
   {
     "categoria": "Clima",
@@ -1321,32 +1348,5 @@
     "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
     "imagem": "https://i.guim.co.uk/img/media/e86938f808aacaed63529ffbd461f2de4ff10c74/500_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=08baed31878c1dff227aa589c3e71a31",
     "data": "2026-11-16T09:27:06.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business",
-    "resumo": "<p>She threw a (metaphorical) brick through Spotify’s window and exposed industry failings with her ‘Butts for Tour Buses’ campaign. Now the singer is embracing her Irish roots with her new album’s fighting spirit</p><p>Kate Nash was standing on a fire truck in a&nbsp;showgirl outfit complete with white tights and pink G-string, shouting ",
-    "link": "https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans",
-    "imagem": "https://i.guim.co.uk/img/media/52998905ac1b42cd2f35c76938d9c4dbf8e5bc80/0_1607_6192_4954/master/6192.jpg?width=140&quality=85&auto=format&fit=max&s=66629008ac461c60f53f352e3c802a13",
-    "data": "2026-11-16T08:00:36.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "The DCU’s James Gunn and Peter Safran are out – this is the biggest disaster to hit superhero movies in years",
-    "resumo": "<p>The adventurous weirdness of the Gunn/Safran era that fans responded to is now history. Can the DCU ever get back on track?</p><p>What was <a href=\"https://www.theguardian.com/film/2022/oct/28/dc-james-gunn-guardians-of-the-galaxy-dceu\">Warner Bros’ plan in 2022</a>, when the studio decided to reboot its superhero output, jettison the ",
-    "link": "https://www.theguardian.com/film/2026/nov/16/james-gunn-fired-dc-studios-peter-safran-superman-skydance",
-    "imagem": "https://i.guim.co.uk/img/media/7f5751f059b0ae4dacc7f62de06673f7226f6075/270_0_2650_2120/master/2650.jpg?width=140&quality=85&auto=format&fit=max&s=eb5d10437867b2201a4427c501025e3c",
-    "data": "2026-11-16T06:30:35.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Gas starts flowing from Jackdaw after government green light",
-    "resumo": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-16T06:24:08.000Z"
   }
 ]
