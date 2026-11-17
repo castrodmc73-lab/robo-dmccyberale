@@ -2,29 +2,245 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
+    "titulo": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+    "resumo": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
+    "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
+    "data": "2026-11-17T01:25:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pescadores equatorianos processam governo Trump após ataque com drone afundar barco",
+    "resumo": "EUA fazem novo ataque a embarcação no Pacífico; dois sobrevivem Um grupo de pescadores equatorianos entrou com uma ação judicial nos Estados Unidos contra o governo de Donald Trump nesta segunda-feira (16). Eles pedem indenização por um ataque com drone que afundou a embarcação em que estavam, em março, e deixou tripulantes feridos, segun",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/16/pescadores-equatorianos-processam-governo-trump-apos-ataque-com-drone-afundar-barco.ghtml",
+    "imagem": null,
+    "data": "2026-11-17T01:25:03.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
+    "resumo": "The California coast has seen an influx of olive ridley sea turtles, which are the smallest such reptiles and are normally found in tropical waters.",
+    "link": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
+    "imagem": null,
+    "data": "2026-11-17T01:24:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Papa Leão XIV se despede da América do Sul depois de viagem de 12 dias a 3 países",
+    "resumo": "Papa Leão XIV se despede da América do Sul depois de uma viagem de 12 dias O Papa Leão XIV despediu-se nesta segunda-feira (16) da América do Sul depois de uma viagem de 12 dias a três países. Doze dias de carinho, muito carinho. E na última volta do papamóvel, um susto. O papa se contorceu e levou a mão ao rosto com expressão de dor. Mas",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/papa-leao-xiv-se-despede-da-america-do-sul-depois-de-viagem-de-12-dias-a-3-paises.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/o5G35EV27PecEOF7attm-ISe89g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/l/PWmeB5TKaru24wQnhWvg/globo-canal-4-20261116-2000-frame-98430.jpeg",
+    "data": "2026-11-17T01:19:03.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+    "resumo": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been deno",
+    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+    "imagem": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7",
+    "data": "2026-11-17T01:10:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jornalista que denunciava crime organizado é morto na Costa Rica",
+    "resumo": "O jornalista costa-riquenho Camilo Rodríguez, que denunciava em suas redes sociais vínculos entre narcotraficantes e políticos, foi assassinado a tiros nesta segunda-feira (16), em Heredia, informaram autoridades do país. Rodríguez, de 51 anos, havia denunciado ameaças de morte feitas por chefões do tráfico. Ele foi atacado em seu carro p",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/16/jornalista-que-denunciava-crime-organizado-e-morto-na-costa-rica.ghtml",
+    "imagem": null,
+    "data": "2026-11-17T01:10:41.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+    "resumo": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+    "data": "2026-11-17T01:04:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Países da Europa negociam criação de centro de deportação de imigrantes ilegais em Ruanda",
+    "resumo": "Países da Europa negociam criação de um centro de deportação de imigrantes ilegais, em Ruanda Países da Europa negociam criação de centro de deportação de imigrantes ilegais em Ruanda. Eles enfrentaram uma das rotas de imigração mais perigosas do mundo: a travessia do Atlântico, entre a costa africana e as Ilhas Canárias, na Espanha. Entr",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/paises-da-europa-negociam-criacao-de-centro-de-deportacao-de-imigrantes-ilegais-em-ruanda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/KOVJTRsOaNoWEYJYYvjab8ZR_Qw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/y/jPKlp4QW6k5uoZFwVi2g/globo-canal-4-20261116-2000-frame-89305.jpeg",
+    "data": "2026-11-17T01:03:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quina 7169: três apostas de MT acertam quatro números e ganham até R$ 19 mil",
+    "resumo": "Canhoto da Quina sem preenchimento Augusto Castro Três apostas feitas em Mato Grosso acertaram quatro dos cinco números sorteados no concurso 7169 da Quina, realizado nesta segunda-feira (16). Cada uma ganhou R$ 9.521,59. Os jogos premiados foram registrados em Alta Floresta, Cuiabá e Rondonópolis. As apostas de Alta Floresta e Cuiabá for",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/16/quina-7169-tres-apostas-de-mt-acertam-quatro-numeros-e-ganham-ate-r-19-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cGlFVPuldhRSRXa09ZWwtWDXZHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/P/P1a5CFQt6cPjEZoGbntQ/formato-g1-3-.jpg",
+    "data": "2026-11-17T00:58:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA",
+    "resumo": "EUA restringem exportações de chips de inteligência artificial para o Brasil e quatro países da Ásia Os Estados Unidos decidiram restringir as exportações de chips avançados de inteligência artificial para o Brasil e quatro países da Ásia. As vendas vão precisar de uma licença especial. Essa medida vem depois do escândalo de espionagem en",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/sob-a-alegacao-de-risco-de-a-tecnologia-ser-desviada-para-a-china-eua-restringem-acesso-do-brasil-a-chips-avancados-de-ia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Qe-8wBH8AgrL3KbIY051NByx3Nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/a/GA4QV2SLA3PbRcKkmyYw/globo-canal-4-20261116-2000-frame-82659.jpeg",
+    "data": "2026-11-17T00:55:43.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "'Crypto King' Aiden Pleterski testifies about escape attempt during alleged kidnapping",
+    "resumo": "Self-described \"Crypto King\" Aiden Pleterski described how he tried to escape and how his alleged kidnappers ultimately released him during his continued testimony at their jury trial in Toronto on Monday.",
+    "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-escape-attempt-9.7424448?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4eb8a4d4-b742-42ab-b5ac-1c4dddccc0fb,1792515393297/full/max/0/default.jpg?im=Crop%2Crect%3D%28199%2C0%2C3562%2C2003%29%3B",
+    "data": "2026-11-17T00:53:51.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Administration Divide on China Policy Breaks Into Public View",
+    "resumo": "The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.",
+    "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-nvidia-zblt/16dc-trump-nvidia-zblt-mediumSquareAt3X.jpg",
+    "data": "2026-11-17T00:51:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lotofácil 3831: onze apostas de MT acertam 14 números e ganham até R$ 2,6 mil",
+    "resumo": "Lotofácil Millena Sartori/g1 Onze apostas feitas em Mato Grosso acertaram 14 das 15 dezenas do concurso 3831 da Lotofácil, sorteado nesta segunda-feira (16). Os prêmios variam de R$ 1.336,66 a R$ 2.673,32. Os jogos premiados foram registrados em Cuiabá (duas apostas), Nova Ubiratã, Pedra Preta, Peixoto de Azevedo, Primavera do Leste, Rond",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/16/lotofacil-3831-onze-apostas-de-mt-acertam-14-numeros-e-ganham-ate-r-26-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
+    "data": "2026-11-17T00:49:50.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Victim Advocates Sue Newsom Over Attempt to Empty California’s Death Row",
+    "resumo": "Gov. Gavin Newsom is trying to spare the lives of 548 prisoners on California’s death row. Prosecutors and victims’ families say that it amounts to an abuse of power.",
+    "link": "https://www.nytimes.com/2026/11/16/us/newsom-sued-death-penalty-commuations-california.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-ca-deathpenalty-lawsuit-tckg/16nat-ca-deathpenalty-lawsuit-tckg-mediumSquareAt3X.jpg",
+    "data": "2026-11-17T00:46:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente suspeito da morte de 'Júnior Chaveiro' morre após intervenção da PM no Ceará",
+    "resumo": "Homem é morto a tiros no interior do Ceará Um adolescente de 17 anos morreu após ser baleado durante uma intervenção de policiais militares em Sobral, na Região Norte do Ceará. O g1 apurou com uma fonte da Polícia Militar que ele era suspeito de envolvimento na morte do comerciante Francisco Marques Araújo Júnior, conhecido como \"Júnior C",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/16/adolescente-suspeito-da-morte-de-junior-chaveiro-morre-apos-intervencao-da-pm-no-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SUqIW22acWAdiCZRrHOqc-hLJnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/ABJRrUQ9mAqyfZid6ZTA/mercuoca-4.jpg",
+    "data": "2026-11-17T00:46:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ex-prefeito diz que vai à Justiça contra Cleitinho após críticas ao uso de emenda em festa em MG",
+    "resumo": "Imagens mostram o senador Cleitinho e o ex-prefeito de Mirabela, Luciano Rabelo Veloso. Redes sociais O ex-prefeito de Mirabela, no Norte de Minas, Luciano Rabelo Veloso, afirmou que vai à Justiça contra o senador Cleitinho após críticas ao uso de uma emenda parlamentar de R$ 500 mil na Festa de Agosto de 2024. O ex-gestor também acusa o ",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/ex-prefeito-diz-que-vai-a-justica-contra-cleitinho-apos-criticas-ao-uso-de-emenda-em-festa-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vpI8MFJqEIFQTIObGv8X5Kh_p7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/x/mGp30lQ7qYXKPS2gh42g/design-sem-nome-47-.jpg",
+    "data": "2026-11-17T00:46:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "resumo": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T00:45:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Resultados das Loterias Caixa",
+    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
+    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
+    "data": "2026-11-17T00:42:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "EUA passam a exigir licença para venda de chips avançados ao Brasil",
+    "resumo": "Washington afirma que medida busca evitar o desvio de tecnologias para Pequim por meio de países intermediários. Regra também inclui Indonésia, Malásia, Singapura e Tailândia.",
+    "link": "https://www.dw.com/pt-br/eua-passam-a-exigir-licença-para-venda-de-chips-avançados-ao-brasil/a-79964427?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-17T00:42:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia investiga se empresário preso por enviar videogame com explosivos a concorrente é responsável por outros ataques",
+    "resumo": "Polícia prende empresário suspeito de enviar videogame com explosivo a concorrente, na Grande SP A polícia investiga se o empresário preso por enviar um videogame com explosivos a um concorrente na Grande São Paulo é responsável por outros ataques a comerciantes da região. Quando o videogame chegou à loja de eletrônicos para um conserto, ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/policia-investiga-se-empresario-preso-por-enviar-videogame-com-explosivos-a-concorrente-e-responsavel-por-outros-ataques.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DJ3WmemnvOuSNdDcjo3taYBmogc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/S/bU1uIrTk6G4SSDuP6h7Q/globo-canal-4-20261116-2000-frame-111422.jpeg",
+    "data": "2026-11-17T00:41:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Super Sete hoje: resultado do concurso 923 e números sorteados",
+    "resumo": "Resultado da Super Sete g1 Veja abaixo os números sorteados das colunas no concurso 923 da Super Sete realizado nesta segunda-feira (16): Números sorteados por coluna Confira o resultado do sorteio da Super Sete. Veja quantas apostas foram premiadas no concurso 923: Ninguém conseguiu os 7 acertos, e a premiação acumulou para R$ 550 mil; 6",
+    "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/16/super-sete-hoje-resultado-do-concurso-923-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vG2IiXbVr-gGAMGFRjHe17xwbJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/Q/70dazAQDuUnr02m7SLhA/supersete-923-gnjus.jpeg",
+    "data": "2026-11-17T00:41:09.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Volunteers back in Manitoba after grounding of U.S. flights set them on long road trip home",
+    "resumo": "A group of Manitobans doing volunteer work are back home after Friday's closure of U.S. airspace forced them on a long journey across that country.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/volunteers-operation-walk-manitoba-doug-brown-9.7424408?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/a68c82d8-5027-4656-bb56-3c697c5017c1,1794872459424/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C848%2C477%29%3B",
+    "data": "2026-11-17T00:35:44.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Meta would 'consider' pulling services from Canada if lawful access bill passes as is",
+    "resumo": "Representatives from Meta say the social media company would have to \"consider\" pulling encryption services from Canada if the government's proposed lawful access bill passes without further changes.",
+    "link": "https://www.cbc.ca/news/politics/meta-encryption-services-lawful-access-9.7424473?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/fa8461a3-6788-44db-8f20-c02533523f22,1794874175807/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C265%2C5750%2C3234%29%3B",
+    "data": "2026-11-17T00:34:34.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UK seeks closer ties with EU after Brexit fail",
+    "resumo": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T00:30:21.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "resumo": "The country&#039;s unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T00:21:19.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Customers report service outages at major US banks",
+    "resumo": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
+    "data": "2026-11-17T00:18:01.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
     "titulo": "Family Seeks Hate Crime Charge in Near-Fatal Attack on Somali Uber Driver",
     "resumo": "Mohamed Yusuf, a married father of five, was assaulted by a passenger early Saturday morning outside Minneapolis, according to police and his family.",
     "link": "https://www.nytimes.com/2026/11/16/us/somali-uber-driver-assault-minnesota.html",
     "imagem": "https://static01.nyt.com/images/2026/11/16/obituaries/16xp-driver/16xp-driver-mediumSquareAt3X.jpg",
-    "data": "2026-11-17T00:12:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Moradores reforçam estoques de água para enfrentar racionamento na Grande Aracaju",
-    "resumo": "Racionamento de água é iniciado na Grande Aracaju O racionamento de água começa na noite desta segunda-feira (16) em áreas de Aracaju e em Nossa Senhora do Socorro. A medida prevê interrupções programadas no abastecimento durante a noite, das 22h às 7h, como parte das ações para enfrentar a redução do volume da Barragem do Poxim. Em São C",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/16/moradores-reforcam-estoques-de-agua-para-enfrentar-racionamento-na-grande-aracaju.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-6xrm8dlXKg42f0x2tXNA080bWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/f/mSjDiVSPKVh6wFRkpb0g/imagem-g1-20-.jpg",
-    "data": "2026-11-17T00:11:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Senado vota pacote do governo de ajuste das contas; falta analisar 4 propostas para alterar o texto principal",
-    "resumo": "Senado deve concluir na terça=feira (17) votação do pacote de ajuste fiscal O Senado deve concluir nesta terça-feira (17) a votação do pacote do governo de ajuste das contas. Uma das propostas é retirar do texto a restrição ao uso de créditos pelas empresas para asbater imposto. O texto principal do projeto foi aprovado no plenário do Sen",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/senado-vota-pacote-do-governo-de-ajuste-das-contas-falta-analisar-4-propostas-para-alterar-o-texto-principal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/E6ttTwy3yV7AKrxQ4vEeb6BQjdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/gvweZqQ1eSQ4sivvmdtQ/globo-canal-4-20261116-2000-frame-65229.jpeg",
-    "data": "2026-11-17T00:08:04.000Z"
+    "data": "2026-11-17T00:12:35.000Z"
   },
   {
     "categoria": "Canadá",
@@ -34,33 +250,6 @@
     "link": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B",
     "data": "2026-11-17T00:05:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Chuva provoca alagamentos, transbordamento de rio e alerta da Defesa Civil na Região Serrana",
-    "resumo": "Defesa Civil envia alerta para moradores de Petrópolis e Teresópolis após forte chuva A chuva que atingiu a Região Serrana do Rio na tarde desta segunda-feira (16) provocou transtornos em Petrópolis e em Teresópolis. Houve registros de alagamentos, transbordamento de rio, queda de barreira e alterações no transporte público. Em Nova Fribu",
-    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/16/chuva-provoca-alagamentos-transbordamento-de-rio-e-alerta-da-defesa-civil-na-regiao-serrana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0ThxIaZTvXH9vQ9mGhaHzkdrcpQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/j/V2DZ8eQrqXBtkxIK9BrQ/chuva-serra.png",
-    "data": "2026-11-17T00:05:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PM Ambiental resgata 30 galos feridos após denúncia de rinha no litoral de SP",
-    "resumo": "Polícia Militar Ambiental resgatou 37 aves em Praia Grande (SP) Divulgação/Polícia Militar Ambiental A Polícia Militar Ambiental resgatou 30 galos com sinais de maus-tratos em Praia Grande, no litoral de São Paulo. Os animais tinham esporas cortadas e ferimentos no peito, nas costas e nas cristas. Segundo a corporação, eles seriam usados ",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/16/pm-ambiental-resgata-30-galos-feridos-apos-denuncia-de-rinha-no-litoral-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/483Y5YKEDZ3Pek8b2v2g8BHZp3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/Y/H0U767SeORmJODlYJmYA/g1-phed-70-.png",
-    "data": "2026-11-17T00:01:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ministra Carmem Lúcia fala sobre defesa da democracia em evento em Goiânia: 'Não adianta ter instituições democráticas na lei, se não tivermos uma sociedade democrática'",
-    "resumo": "Cármen Lúcia participa de evento sobre Direitos Humanos na UFG, em Goiânia A Ministra do Supremo Tribunal Federal (STF), Cármen Lúcia, falou sobre a defesa da democracia durante um evento do qual participou na Universidade Federal de Goiás (UFG), em Goiânia, nesta segunda-feira (16). De acordo com a ministra: \"Não adianta ter instituições",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/16/ministra-carmem-lucia-fala-sobre-defesa-da-democracia-em-evento-em-goiania-nao-adianta-ter-instituicoes-democraticas-na-lei-se-nao-tivermos-uma-sociedade-democratica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WNe2zeNiUYcW2bzuzAdrqqua-0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/g/njfAdNTvaDrTWwKMlBNw/copia-de-copia-de-padrao-foto-g1-goias-2026-11-16t205748.430.jpg",
-    "data": "2026-11-17T00:00:20.000Z"
   },
   {
     "categoria": "Economia",
@@ -81,24 +270,6 @@
     "data": "2026-11-17T00:00:02.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Reino Unido abre investigação após Russell Brand enviar mensagem da prisão se dizendo inocente",
-    "resumo": "O ator e comediante britânico Russell Brand chega ao Tribunal da Coroa de Southwark durante a segunda semana de seu julgamento por acusações de estupro e agressão sexual envolvendo seis mulheres entre 1999 e 2009, acusações que ele nega, em Londres, Grã-Bretanha, 22 de outubro de 2026. REUTERS/Jack Taylor O governo do Reino Unido abriu um",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/16/reino-unido-abre-investigacao-apos-russell-brand-enviar-mensagem-da-prisao-se-dizendo-inocente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xbRHS0sdbUqqz-6Y-NDnHe-OaW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/I7tRpAR8Wr7xS2IK9TaQ/2026-10-22t085413z-1123043290-rc288oatltn6-rtrmadp-3-britain-court-brand.jpg",
-    "data": "2026-11-16T23:58:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Estudantes da rede estadual já podem solicitar créditos do Passe Livre em Manaus",
-    "resumo": "Justiça determina volta do passe livre estudantil em Manaus Estudantes da rede estadual de ensino de Manaus já podem solicitar os créditos do Passe Livre Estudantil. Um aviso enviado pelo aplicativo Cadê Meu Ônibus na noite desta segunda-feira (16) orienta os alunos a acessar o site da Prefeitura para pedir o benefício. A liberação ocorre",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/16/estudantes-da-rede-estadual-ja-podem-solicitar-creditos-do-passe-livre-em-manaus.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RqTeI3PQwpKNlMR7Dh3gA9MjJNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/Q/BLqCtAQJajnalxDfYtTw/51870945927-d2c7661b74-k.jpg",
-    "data": "2026-11-16T23:58:10.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
@@ -109,48 +280,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Governo do Tocantins contrata Cebraspe para concurso da Polícia Civil com 452 vagas e salários de até R$ 21,9 mil",
-    "resumo": "Polícia Civil do Tocantins Dicom SSP-TO/Divulgação O governo do Tocantins contratou o Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe) para organizar e realizar a seleção do concurso público da Polícia Civil do Tocantins (PCTO). A seleção oferecerá 452 vagas distribuídas entre três cargos estratégic",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/16/governo-do-tocantins-contrata-cebraspe-para-concurso-da-policia-civil-com-452-vagas-e-salarios-de-ate-r-219-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1PziYGWZs_6xHoGRIydwugH4R5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/C/R6lBo6SEGRlDLIRY1G8Q/policia-civil-.png",
-    "data": "2026-11-16T23:57:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Filha de Carla Perez e Xanddy, Camilly Victória anuncia lançamento de trabalho como cantora em festa só para mulheres",
-    "resumo": "Ouça 'Falso Amor', uma das novas músicas de Camilly Vict A cantora e produtora musical Camilly Victória, filha de Carla Perez e Xanddy, anunciou nesta segunda-feira (16) o lançamento de um novo trabalho como cantora, em Salvador. O EP será apresentado durante um show na festa NYX, que é exclusiva para mulheres e pessoas não-binárias alinh",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/16/filha-de-carla-perez-e-xanddy-camilly-victoria-anuncia-lancamento-de-trabalho-como-cantora.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/d6JMNqic_uLw3d9MYlL5VvrI0Qk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/X/kamQXBTiK8k6791tDLJA/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-11-16t202453.293.jpg",
-    "data": "2026-11-16T23:53:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incertezas sobre a política fiscal aumentam a tensão no mercado financeiro",
-    "resumo": "As incertezas com os rumos das contas públicas fizeram o dólar disparar nesta segunda-feira (16). A bolsa de valores caiu quase 2%. Às 9h, uma hora antes da abertura dos negócios na bolsa, saíram dados econômicos ruins. O Banco Central mostrou que a atividade econômica do país encolheu 0,2% em setembro. Com isso, o índice que é considerad",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/incertezas-sobre-a-politica-fiscal-aumentam-a-tensao-no-mercado-financeiro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/t697D5Kv3CZtYfC0aB54-imILOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/r/bPw71SRY2YHJhXbsKfXg/globo-canal-4-20261116-2000-frame-63259.jpeg",
-    "data": "2026-11-16T23:52:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pescador desaparece no Vale do Javari, e Funai diz colaborar com investigação no Amazonas",
-    "resumo": "Equipes procuram por pescador desaparecido no Rio Itacoaí O pescador José Nelson desapareceu na região do Vale do Javari, no município de Atalaia do Norte, no interior do Amazonas. A Fundação Nacional dos Povos Indígenas (Funai) informou que está colaborando com as autoridades policiais na investigação do caso e negou qualquer omissão ou ",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/16/pescador-desaparece-no-vale-do-javari-e-funai-diz-colaborar-com-investigacao-no-amazonas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KhsbHpODCqri4hhVHPXqx0k7cac=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/Y/9QOfqWTfanj79MH9E90w/1683943005645eee5ddb1c6-1683943005-3x2-md.jpg",
-    "data": "2026-11-16T23:52:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-16T23:50:10.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Brasil assina na COP31 pacto global por IA sustentável e empregos",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-assina-na-cop-31-pacto-global-por-ia-sustentavel-e-empregos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-assina-na-cop-31-pacto-global-por-ia-sustentavel-e-empregos",
+    "imagem": null,
+    "data": "2026-11-16T23:45:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -234,18 +369,9 @@
     "data": "2026-11-16T23:20:45.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "The U.K. is granting pardons to women convicted for having abortions",
-    "resumo": "The U.K. government says it will grant automatic pardons to all women convicted of having illegal abortions over the last 165 years.",
-    "link": "https://www.cbc.ca/radio/asithappens/uk-abortion-pardons-9.7424193?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/0c07dd84-30ed-48e4-bbc8-e5c6e2e63d08,1794867173847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5847%2C3288%29%3B",
-    "data": "2026-11-16T23:20:41.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
-    "titulo": "Band of baby sea turtles released into ocean after historic California nesting",
+    "titulo": "Band of baby sea turtles swim into ocean after historic California nesting",
     "resumo": "<p>Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast</p><p>Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have bee",
     "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
     "imagem": "https://i.guim.co.uk/img/media/4861d06aace7cca64a1450b2e61fb90d86e1600a/243_0_2431_1945/master/2431.jpg?width=140&quality=85&auto=format&fit=max&s=12b0764cfaa73133ca97044e6dbc0d99",
@@ -259,24 +385,6 @@
     "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-16T23:17:34.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Military's No. 2 defends GlobalEye surveillance jets despite capability concerns",
-    "resumo": "Vice-Admiral Angus Topshee told MPs on Monday that he's satisfied with the procurement process for Saab's GlobalEye surveillance jets, arguing the aircraft will contribute to an integrated continental defence network.",
-    "link": "https://www.cbc.ca/news/politics/surveillance-jets-global-eye-canada-saab-9.7424260?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B",
-    "data": "2026-11-16T23:15:35.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Customers report service outages at major US banks",
-    "resumo": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-    "data": "2026-11-16T23:15:21.000Z"
   },
   {
     "categoria": "Economia",
@@ -327,7 +435,7 @@
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "United Airlines system outage disrupts departures just days after the big ground stop",
-    "resumo": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the [&#8230;]",
+    "resumo": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights",
     "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304760092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-16T22:54:59.000Z"
@@ -351,13 +459,13 @@
     "data": "2026-11-16T22:40:07.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
-    "resumo": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
-    "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T22:28:26.000Z"
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+    "resumo": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+    "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
+    "data": "2026-11-16T22:32:47.000Z"
   },
   {
     "categoria": "Internacional",
@@ -423,15 +531,6 @@
     "data": "2026-11-16T21:41:57.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Journalists call for justice after reporter found dead in Mexican coastal city of Acapulco",
-    "resumo": "A Mexican journalist was found dead on Saturday on the outskirts of Acapulco, a popular resort city in the southern Guerrero state, marking the latest in a string of alleged attacks targeting reporters in the country.",
-    "link": "https://www.cbc.ca/news/world/mexico-journalist-dead-investigation-9.7423747?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/7e82f1df-56f5-4a63-b2f9-eda44212a275,1794854743123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
-    "data": "2026-11-16T21:41:09.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Houthi rebel advance in Yemen may further destabilise global economy",
@@ -477,15 +576,6 @@
     "data": "2026-11-16T21:09:19.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-    "resumo": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
-    "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T21:07:23.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Sudanese army air attack kills 13 in western Sudan: Rights group",
@@ -493,15 +583,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-16T21:06:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Manchester United’s Endless Loop",
-    "resumo": "Thirteen years, eight permanent managers, almost £100 million spent on sacking and hiring — and still no hiring",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T21:00:22.000Z"
   },
   {
     "categoria": "Canadá",
@@ -522,15 +603,6 @@
     "data": "2026-11-16T20:46:01.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Photos: California residents gather to watch massive El Nino-fuelled waves",
-    "resumo": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US&#039;s California coast.",
-    "link": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T20:42:18.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
@@ -538,15 +610,6 @@
     "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-16T20:41:28.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "London Palestine Film Festival returns for 27th year",
-    "resumo": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-16T20:36:25.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -591,7 +654,7 @@
     "resumo": "Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.",
     "link": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html",
     "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16nat-epstein-autopsy-jvkm/16nat-epstein-autopsy-jvkm-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T20:08:09.000Z"
+    "data": "2026-11-16T20:08:10.000Z"
   },
   {
     "categoria": "Internacional",
@@ -747,15 +810,6 @@
     "data": "2026-11-16T18:23:53.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Fies 2026: chamada para vagas remanescentes sai nesta segunda-feira",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/fies-2026-chamada-para-vagas-remanescentes-sai-nesta-segunda-feira",
-    "imagem": null,
-    "data": "2026-11-16T18:11:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "U.N. talks seek to rein in &apos;killer robots&apos; as fears over AI weapons grow",
@@ -862,24 +916,6 @@
     "link": "https://www.dw.com/pt-br/américa-latina-procura-frear-danos-do-boom-turístico/a-79958379?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-16T16:22:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-    "resumo": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been deno",
-    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-    "imagem": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7",
-    "data": "2026-11-16T16:21:40.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "How Obamacare Premiums Are Rising",
-    "resumo": "Margot Sanger-Katz, our reporter on health care policy, explains why Affordable Care Act plans are becoming more costly, and who will face the steepest cost increases.",
-    "link": "https://www.nytimes.com/video/us/politics/100000011250099/how-obamacare-premiums-are-rising.html",
-    "imagem": null,
-    "data": "2026-11-16T16:20:59.000Z"
   },
   {
     "categoria": "Clima",
@@ -1053,15 +1089,6 @@
     "data": "2026-11-16T13:40:11.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Quebecor makes $31B offer to acquire Telus",
-    "resumo": "Proposed deal would combine complementary networks, spectrum and operating capabilities. But the deal would require approval from authorities including the Competition Bureau, and the federal government has been trying to boost competition among telecom companies.",
-    "link": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/6dbb47e3-b956-4123-ae91-6aed08a000de,1794835926733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C532%2C6589%2C3706%29%3B",
-    "data": "2026-11-16T13:38:25.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "GTA 6 hacker pleads guilty after release from secure hospital",
@@ -1198,15 +1225,6 @@
   },
   {
     "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "‘Steering Failure’ Likely Caused Tanker’s Collision With Riverboat, N.T.S.B. Says",
-    "resumo": "A tanker struck a docked passenger ship in New Orleans on Friday, causing it to capsize. Investigators emphasized that their findings were preliminary.",
-    "link": "https://www.nytimes.com/2026/11/16/us/new-orleans-cruise-ship-steering-failure.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-ship-zhcw/16xp-ship-zhcw-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T11:38:59.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Regulating AI will being a top priority for congressional Democrats in the new year",
     "resumo": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI.",
@@ -1330,23 +1348,5 @@
     "link": "https://www.theguardian.com/music/2026/nov/16/kate-nash-interview-cailin-spotify-bum-onlyfans",
     "imagem": "https://i.guim.co.uk/img/media/52998905ac1b42cd2f35c76938d9c4dbf8e5bc80/0_1607_6192_4954/master/6192.jpg?width=140&quality=85&auto=format&fit=max&s=66629008ac461c60f53f352e3c802a13",
     "data": "2026-11-16T08:00:36.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "The DCU’s James Gunn and Peter Safran are out – this is the biggest disaster to hit superhero movies in years",
-    "resumo": "<p>The adventurous weirdness of the Gunn/Safran era that fans responded to is now history. Can the DCU ever get back on track?</p><p>What was <a href=\"https://www.theguardian.com/film/2022/oct/28/dc-james-gunn-guardians-of-the-galaxy-dceu\">Warner Bros’ plan in 2022</a>, when the studio decided to reboot its superhero output, jettison the ",
-    "link": "https://www.theguardian.com/film/2026/nov/16/james-gunn-fired-dc-studios-peter-safran-superman-skydance",
-    "imagem": "https://i.guim.co.uk/img/media/7f5751f059b0ae4dacc7f62de06673f7226f6075/270_0_2650_2120/master/2650.jpg?width=140&quality=85&auto=format&fit=max&s=eb5d10437867b2201a4427c501025e3c",
-    "data": "2026-11-16T06:30:35.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Gas starts flowing from Jackdaw after government green light",
-    "resumo": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
-    "data": "2026-11-16T06:24:08.000Z"
   }
 ]
