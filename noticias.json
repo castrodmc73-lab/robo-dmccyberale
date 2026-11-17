@@ -1,21 +1,165 @@
 [
   {
     "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Investigação expõe suposta má conduta do maior banco da Alemanha",
-    "resumo": "Instituição ignorou alertas internos sobre potenciais crimes financeiros em negócios lucrativos com clientes de alto risco. Banco manteve relações com oligarcas russos, Donald Trump e Jeffrey Epstein.",
-    "link": "https://www.dw.com/pt-br/investigação-expõe-suposta-má-conduta-do-maior-banco-da-alemanha/a-79972604?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-17T16:29:00.000Z"
+    "fonte": "BBC News",
+    "titulo": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "resumo": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a331/live/4e364d80-e287-11f1-b166-176de21e2352.jpg",
+    "data": "2026-11-17T17:37:04.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Transportation Secretary Details Request for $50 Billion for Air Traffic Improvements",
+    "resumo": "The one-page explanation, which will be laid out for Republican members of Congress Tuesday, was thin on specifics.",
+    "link": "https://www.nytimes.com/2026/11/17/us/duffy-hill-ground-stop-faa.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-duffy-hill-chfk/17dc-duffy-hill-chfk-mediumSquareAt3X.jpg",
+    "data": "2026-11-17T17:34:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: EPTV 1 Sul de Minas de terça-feira, 17 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/17/videos-eptv-1-sul-de-minas-de-terca-feira-17-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_MdGqxRlQmdlhuFWrvVnpLHb_U8=/s01.video.glbimg.com/deo/vi/16/02/15200216",
+    "data": "2026-11-17T17:27:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Avião com compartimento secreto era usado para transportar emagrecedores e eletrônicos do Paraná a São Paulo",
+    "resumo": "Polícia Federal apreende avião com fundo falso no Paraná; ação investiga a entrada de produtos ilegais pela fronteira com o Paraguai Um grupo suspeito de contrabando e descaminho utilizava um avião com um compartimento secreto para transportar medicamentos para emagrecimento e produtos eletrônicos da região de Foz do Iguaçu, no oeste do P",
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/17/aviao-com-compartimento-secreto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/9iQLRrVDqKlBsfFpXkE3C93WDDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/V/Z3Z6MNQWANQf7yhVSL6g/g1-pr-2026-11-17t141316.538.jpg",
+    "data": "2026-11-17T17:27:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prêmio vai reconhecer marcas mais lembradas pelos consumidores em Manaus",
+    "resumo": "Studio 5 Shopping e Convenções, em Manaus Divulgação O Top of Mind Manaus 2026 vai premiar as marcas mais lembradas espontaneamente pelos consumidores da capital amazonense. A pesquisa, realizada pela Action Pesquisas, ouviu 3 mil moradores e avaliou 54 segmentos de mercado, entre comércio, serviços e indústria. A cerimônia de premiação e",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/premio-vai-reconhecer-marcas-mais-lembradas-pelos-consumidores-em-manaus.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ckLd4ThHSAbkFCXLNibJnmmtDvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/V/4/0cbZLgQTG6hrkBjBfhGg/studio-5-shopping-e-convencoes-em-manaus-foto-divulgacao.jpeg",
+    "data": "2026-11-17T17:26:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Zona Sul e Centro concentram 37% dos casos de mpox no Rio; boate suspendeu atividades após aumento",
+    "resumo": "Homens concentram a maioria dos casos de mpox no RJ A Zona Sul e o Centro do Rio concentram 37% de todos os casos de mpox registrados no município em 2026. Com um óbito confirmado por mpox, a cidade enfrenta a maior escalada da doença desde o surto ocorrido em 2022. Foram 73 casos na Zona Sul, quase 25% do total da cidade, e 37 no Centro,",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/17/concentra-casos-mpox-rio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QotOAUJ0BzySBTrTLm6p0VWxl6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/n/YWAk1eROe8v5FBI068CQ/rj2-limpo-20261114-1830-frame-104790.jpeg",
+    "data": "2026-11-17T17:24:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Na expectativa de votar ajuste fiscal na Câmara, governo retira urgência de projeto sobre criminalização de bets",
+    "resumo": "Acesso bloqueado Brasil Sem Bets bets site celular Isabela Ortiz/g1 O governo Lula (PT) retirou nesta terça-feira (17) a urgência do projeto que tipifica os crimes de exploração e divulgação de bets. O texto trancaria, ou seja, impediria outras votações no plenário da Câmara nesta semana, incluindo a proposta de ajuste fiscal da administr",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/17/na-expectativa-de-votar-ajuste-fiscal-na-camara-governo-retira-urgencia-de-projeto-sobre-criminalizacao-de-bets.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/S_ammuvQGYFqnEnz5K17JE7_pME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/q/KtHeBKRgOLtcEpbkk9XQ/captura-de-tela-2026-10-14-100236.png",
+    "data": "2026-11-17T17:24:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Instituto EP abre inscrições para projeto que doa espaço de leitura a escolas públicas; veja como participar",
+    "resumo": "'Cuboteca' foi entregue a escola municipal de Altinópolis (SP) Luciano Zanollo O Instituto EP abriu as inscrições para a terceira edição do projeto Cuboteca, que tem como objetivo incentivar a alfabetização e o letramento de alunos da educação básica em escolas públicas. A iniciativa prevê a doação de um container adaptado para funcionar ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/17/instituto-ep-abre-inscricoes-para-projeto-que-doa-espaco-de-leitura-a-escolas-publicas-veja-como-participar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_m1MStFItcHIjweAaYLZ6WDwMqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/OuxdAJRi6VO3PLC7aYTw/whatsapp-image-2026-11-03-at-13.46.52.jpeg",
+    "data": "2026-11-17T17:23:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Batida entre carro e moto deixa duas pessoas com fratura exposta em Campinas",
+    "resumo": "Batida entre carro e moto deixa duas pessoas com fratura exposta em Campinas Uma batida entre um carro e uma motocicleta deixou duas pessoas com fratura exposta na manhã desta terça-feira (17), no cruzamento das ruas Dona Luísa de Gusmão e Arlindo Carpino, na região do bairro Taquaral, em Campinas (SP). As vítimas e a dinâmica do acidente",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/17/batida-carro-moto-deixa-pessoas-fratura-exposta-campinas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1w09E3QqfmXNFma5cLTrBkDW49o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/x/6tWJ68TNepmsLBCQVB1Q/copia-de-area-1-2026-11-17t141111.716.png",
+    "data": "2026-11-17T17:22:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Três pessoas são presas suspeitas de tráfico de drogas e comércio ilegal de armas no Acre",
+    "resumo": "Três pessoas são presas por tráfico de drogas e comércio ilegal de armas no Acre Três pessoas foram presas durante uma operação de combate a facções criminosas no bairro Cidade Nova, em Rio Branco, nesta terça-feira (17). Além das prisões, também foram cumpridos três mandados de busca e apreensão. Em entrevista coletiva, o delegado da Del",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/17/tres-pessoas-sao-presas-suspeitas-de-trafico-de-drogas-e-comercio-ilegal-de-armas-no-acre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wbbkeG3kEiT5Ux2MBACSRKQy4r4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/iVA5O7QAS9KZO5mI02IQ/midia-de-distribuicao-g1-2026-11-17t115713.540.png",
+    "data": "2026-11-17T17:22:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mais de 7,6 mil candidatos farão novo exame nacional que virou porta de entrada para concursos de cartórios",
+    "resumo": "Sede do Conselho Nacional de Justiça (CNJ), em Brasília. Gil Ferreira/CNJ/Divulgação Mais de 7,6 mil candidatos em todo o país vão participar, no próximo domingo (22), da 4ª edição do Exame Nacional dos Cartórios (ENAC), prova que se tornou uma etapa obrigatória para quem deseja disputar concursos públicos para assumir a titularidade de c",
+    "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/exame-nacional-cartorios-quarta-edicao-prova-novembro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iADHmDlirOlWazZ3WzIJ317AaYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/d/x1qXZfThOGS2FLuKYQ8w/sede-cnj.jpg",
+    "data": "2026-11-17T17:21:39.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Huang says he's willing to return as Nvidia boss in first remarks since resignation",
+    "titulo": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "resumo": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
+    "data": "2026-11-17T17:19:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
     "resumo": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
     "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/95f186a0-e29e-11f1-8dda-8925a81c3da5.jpg",
-    "data": "2026-11-17T16:27:41.000Z"
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-17T17:19:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Influência de Cria: com dinheiro de demissão, Jefh Clicks comprou um drone para dar voz à periferia",
+    "resumo": "Chamaram de loucura: Jefh gastou dinheiro da demissão em drone e deu voz à periferia Quando perdeu o emprego de porteiro, Jefh Clicks tomou uma decisão que muitos ao redor consideraram uma loucura: pegou o dinheiro da demissão e comprou um drone. Sem curso de pilotagem e ainda enfrentando o câncer da mãe, começou a aprender sozinho e colo",
+    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/17/influencia-de-cria-com-dinheiro-de-demissao-jefh-clicks-comprou-um-drone-para-dar-voz-a-periferia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NLcjSgJp9-oz_XIKAiE8dV1RJP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/K/dlPFivQYiRL81wCIFZsQ/credito-gus.jpg",
+    "data": "2026-11-17T17:19:44.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Costa Rican journalist shot dead in first such killing in 25 years",
+    "resumo": "<p>Camilo Rodriguez’s death comes as the country grapples with a surge in drug violence </p><p>The Costa Rican journalist Camilo Rodriguez, who gained prominence for publishing allegations against ⁠suspected drug traffickers and politicians, was shot dead on Monday, authorities said.</p><p>The first known killing of a journalist ⁠in Costa",
+    "link": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+    "imagem": "https://i.guim.co.uk/img/media/aa64ef87330c205b86ab607a030790f6f68e6a5f/281_0_4426_3542/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=03af4990465cadd31aede63914ff22a4",
+    "data": "2026-11-17T17:19:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Advogado que morreu durante viagem foi encontrado morto em apartamento após voltar da praia, diz amigo",
+    "resumo": "O advogado Hudson Guimarães Rocha morreu durante viagem para participar do Campeonato Brasileiro de Advogado Reprodução/ Perfil do Instagram da Master Society da OAB/GO O advogado Hudson Guimarães Rocha, de 57 anos, que morreu durante uma viagem a Recife para disputar o Campeonato Brasileiro de Advogados, foi encontrado sem vida em um apa",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/17/advogado-que-morreu-durante-viagem-foi-encontrado-morto-em-apartamento-apos-voltar-da-praia-diz-amigo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4ExvnOdUwVNn60gJ1YvIKCOUU-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/P/j2aIAeTTGBdoeBD6XLhg/hudson-guimaraes-rocha.jpg",
+    "data": "2026-11-17T17:17:54.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Our climate experts Ajit Niranjan and Fiona Harvey answer your questions on Cop31 – live",
+    "resumo": "<p>The Guardian’s environment editor Fiona Harvey and Europe environment correspondent Ajit Niranjan are answering your questions on Cop31, the draft deal on fossil fuels, the fight over climate finance and what overshooting 1.5C means for the world.</p><p><strong>Ask a question: log in or sign up </strong><a href=\"https://profile.theguar",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/17/what-do-you-want-to-know-about-the-cop31-climate-talks-ask-fiona-harvey-and-ajit-niranjan",
+    "imagem": "https://i.guim.co.uk/img/media/27a354721d84af588c31e5fcb303ba781ed60548/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=a1785d8f6d4aa4ee259458d79123fda5",
+    "data": "2026-11-17T17:17:18.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano emergencial",
+    "resumo": "Cidade do RS combate esporotricose após aumento de casos em humanos e em gatos O número de animais com diagnóstico positivo para esporotricose aumentou em Guaíba, na Região Metropolitana de Porto Alegre. O total passou de 293 para 302, nove casos a mais do que no levantamento anterior divulgado pela prefeitura. A cidade também registrou 4",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/casos-de-esporotricose-em-animais-aumentam-em-guaiba-e-prefeitura-apresenta-plano-emergencial.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6HO-xU-gaYbFZxOwwgjt_bUEtkQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/E/wGBjSBQ8O22Hm2hPnZ6Q/videoframe-5409.png",
+    "data": "2026-11-17T17:13:39.000Z"
   },
   {
     "categoria": "Internacional",
@@ -24,7 +168,16 @@
     "resumo": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
     "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
-    "data": "2026-11-17T16:26:22.000Z"
+    "data": "2026-11-17T17:10:03.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "CAIR defends civil rights work against Trump’s ‘smear’",
+    "resumo": "The country&#039;s largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T17:09:49.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -33,79 +186,151 @@
     "resumo": "With fewer babies being born and more school choice, districts across the country have concluded they must downsize. Families are trying to push back.",
     "link": "https://www.nytimes.com/2026/11/17/us/public-schools-closing-birth-rate-enrollment.html",
     "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17nat-school-closures-01-lfmz/17nat-school-closures-01-lfmz-mediumSquareAt3X.jpg",
-    "data": "2026-11-17T16:26:10.000Z"
+    "data": "2026-11-17T17:04:31.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista aos telejornais da TV Liberal",
-    "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
-    "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-    "imagem": null,
-    "data": "2026-11-17T16:25:26.000Z"
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Climate crisis more visible in film and TV but solutions remain rare, study finds",
+    "resumo": "<p>A report analyzing more than 35,000 scripts finds that storylines address its causes, but individual actions remain more prominent than systemic solutions</p><p>Climate change and its causes are <a href=\"https://www.theguardian.com/tv-and-radio/2022/oct/04/tv-shows-movies-climate-crisis\">appearing</a> more frequently in film and televi",
+    "link": "https://www.theguardian.com/environment/2026/nov/17/climate-crisis-film-tv-solutions-study",
+    "imagem": "https://i.guim.co.uk/img/media/b8a57ffd0c50ade1dda055fde2869886ab43ba1f/588_0_4761_3808/master/4761.jpg?width=140&quality=85&auto=format&fit=max&s=83e4a331077e890184834b8bb5bac3f9",
+    "data": "2026-11-17T17:00:17.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Inside Microsoft’s giant Outlook outage",
+    "resumo": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to Outlook emails for nearly 24 hours. It a",
+    "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-17T17:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
+    "resumo": "There are currently no signs that the outage is the result of a cyberattack or other nefarious activity, according to people familiar with the matter.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-nsa-hbgj/17dc-nsa-hbgj-mediumSquareAt3X.jpg",
+    "data": "2026-11-17T16:58:47.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "resumo": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+    "data": "2026-11-17T16:56:38.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Carney government amends controversial bill to fast-track pipelines and mines",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/politics/bill-c-39-major-projects-fast-track-environmental-concerns-amendments-9.7424528?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4a8ac5f2-1608-405e-a9c8-97d16900b1f3,1794878566586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C7547%2C4245%29%3B",
+    "data": "2026-11-17T16:56:12.000Z"
   },
   {
     "categoria": "Economia",
     "fonte": "The Guardian",
-    "titulo": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – business live",
-    "resumo": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china\"><strong>Jensen Huang’s departure as Nvidia CEO becomes a political proxy war</strong></a></p></li></ul><p><strong>China has threatened to retaliate against the US after Washingt",
+    "titulo": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
+    "resumo": "<p>Rolling coverage of the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement\"><strong>Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/global/2026/nov/16/jensen-huang-n",
     "link": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/ba481d82e267325ef8519025c0b17f3d0b3e89be/478_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=31f862bc58f9d4915592de39fbc28520",
-    "data": "2026-11-17T16:23:59.000Z"
+    "data": "2026-11-17T16:54:21.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ajuste fiscal: Senado deve votar hoje mudanças no projeto do governo",
-    "resumo": "Ajuste fiscal: Senado deve votar hoje mudanças no projeto do governo Proposta promove corte de benefícios fiscais e altera cálculo do piso constitucional da saúde. Texto-base foi aprovado por 45 votos a 31. O Senado deve votar, nesta terça-feira (17), propostas de mudanças no pacote do ajuste fiscal do governo. . Os senadores vão analisar",
-    "link": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CvZFyFXgPBVZoMsW3hAcdjrPnMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/w/nmrPtYRlOquPE3T9GPQQ/55649695989-636e0aaabd-k.jpg",
-    "data": "2026-11-17T16:23:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Acidente entre motos deixa mulher em estado grave em rodovia de MG",
-    "resumo": "Batida entre motos deixa mulher ferida, em Itapecerica PMRv/Divulgação Uma mulher, de 24 anos, ficou gravemente ferida após uma batida entre duas motos na MG-164, na altura do km 251, em Itapecerica. O acidente aconteceu na tarde desta segunda-feira (16) no trecho que liga o Itapecerica a Camacho. Segundo a Polícia Militar Rodoviária (PRM",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/17/acidente-entre-motos-deixa-mulher-em-estado-grave-em-rodovia-de-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tKtXM0ZwvUBVGjNICZqP5-S8NQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/b/jkQ3PPT660AzKfKxzYUQ/whatsapp-image-2026-11-17-at-11.59.16-1-.jpeg",
-    "data": "2026-11-17T16:19:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pacotão apresentado por Riedel prevê ICMS mais alto, reforma administrativa e mudanças no IPVA em MS",
-    "resumo": "Pacotão apresentado por Riedel prevê ICMS mais alto, reforma administrativa e mudanças no O governador Eduardo Riedel (PP) apresentou nesta terça-feira (17) um pacotão de Projetos de Lei que prevê mudanças fiscais, administrativas e de governadoria para Mato Grosso do Sul. Ao todo, 26 PLs foram apresentados aos deputados estaduais em uma ",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/17/pacotao-apresentado-por-riedel-preve-icms-mais-alto-reforma-administrativa-e-mudancas-no-ipva-em-ms.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/npaaQzpdvBlAlygv4P9vtd01vd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/t/349CljSaeUDABtwtg1Kw/pacotao-de-riedel.jpg",
-    "data": "2026-11-17T16:17:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia apreende 43 notebooks, tablets e computadores em imóvel em Betim",
-    "resumo": "Materiais apreendidos pela PM em imóvel em Betim, com 43 notebooks, dois computadores e sete tablets. PMMG/Divulgação A Polícia Militar apreendeu 43 notebooks, dois microcomputadores, sete tablets e 143 carregadores de notebook em um imóvel no bairro São Luiz, em Betim, na Região Metropolitana de Belo Horizonte, no domingo (15). A apreens",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/policia-apreende-43-notebooks-tablets-e-computadores-em-imovel-em-betim.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BkYFwCbuiFaY4YL9raAo44A1oOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/4/uT2QgkQhalAzTX6dHLLw/apreensao-betim.jpg",
-    "data": "2026-11-17T16:17:37.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+    "resumo": "The law targets the group&#039;s financing and activities as Houthis make advances in southwestern Yemen.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T16:53:25.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Measles Is Officially Back in the United States. What Now?",
-    "resumo": "It will take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
+    "resumo": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
     "link": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
     "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
-    "data": "2026-11-17T16:16:43.000Z"
+    "data": "2026-11-17T16:50:04.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é encontrado em grota com múltiplas fraturas após ser espancado no Barreiro, em BH",
-    "resumo": "Giroflex Foto: Divulgação Um homem de 59 anos foi encontrado com múltiplas fraturas pelo corpo e caído em uma grota no bairro Vila Ecológica, região do Barreiro, em Belo Horizonte. A ocorrência foi registrada na noite desta segunda-feira (16) como homicídio tentado. Militares foram ao local após receberem um chamado sobre uma vítima caída",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/homem-e-encontrado-em-grota-com-multiplas-fraturas-apos-ser-espancado-no-barreiro-em-bh.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/K4SkeH28byrtJx_eVWFG62rniks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/J/GZ5KcoSoWFBeER2b2Vig/whatsapp-image-2023-12-19-at-10.17.31.jpeg",
-    "data": "2026-11-17T16:15:38.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Stolen 120-year-old church bell found discarded in rural Manitoba ditch",
+    "resumo": "A heavy church bell stolen from the top of a belfry in rural Manitoba has been found abandoned in a ditch.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/stolen-church-bell-found-manitoba-9.7424855?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/a0043a27-e26c-40b0-9efc-ea73f91c2fbf,1794925951061/full/max/0/default.jpg?im=Crop%2Crect%3D%2856%2C18%2C1137%2C639%29%3B",
+    "data": "2026-11-17T16:44:34.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Photos: Tens of thousands rally in France over living standards and wages",
+    "resumo": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+    "link": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T16:39:01.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+    "resumo": "Online petition with more than 32,000 signatures demands the university &#039;cancel Nathan Cofnas&#039;s invitation to speak&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-17T16:38:28.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Krampus stirs up controversy in Ontario town after being banned from Santa Claus parade",
+    "resumo": "Krampus, a European Christmas folk creature, has been banned from Strathory, Ont.,'s Santa Claus parade despite winning second place in the event's costume contest last year. Organizers say there were complaints that the figure wasn't \"family friendly.\"",
+    "link": "https://www.cbc.ca/news/canada/london/krampus-strathroy-9.7424513?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b5e52c5a-c202-4258-90e3-767389eb2c24,1794875466038/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C1206%2C678%29%3B",
+    "data": "2026-11-17T16:33:28.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "South Korea to check student collars, eyeglasses at university entrance exams after cheating admission",
+    "resumo": "South Korea will tighten checks on students taking the high-stakes national university entrance exam this week, Prime Minister Han Seong-sook said, after a candidate in another test confessed to using a hidden ​camera and AI to cheat.",
+    "link": "https://www.cbc.ca/news/world/south-korea-exam-anti-cheating-measures-9.7424889?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B",
+    "data": "2026-11-17T16:30:13.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Investigação expõe suposta má conduta do maior banco da Alemanha",
+    "resumo": "Instituição ignorou alertas internos sobre potenciais crimes financeiros em negócios lucrativos com clientes de alto risco. Banco manteve relações com oligarcas russos, Donald Trump e Jeffrey Epstein.",
+    "link": "https://www.dw.com/pt-br/investigação-expõe-suposta-má-conduta-do-maior-banco-da-alemanha/a-79972604?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-17T16:29:00.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Jon Stewart on Trump administration response to air travel crisis: ‘So chaotic and amateurish’",
+    "resumo": "<p>Late-night hosts discussed the administration’s unhelpful response to the FAA’s rare ground stop this weekend</p><p>Late-night hosts responded to the FAA’s <a href=\"https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained\">sudden, rare ground stop</a> as <a href=\"https://www.theguardian.com/us-news/donaldtrump\">D",
+    "link": "https://www.theguardian.com/culture/2026/nov/17/jon-stewart-late-night-response-faa-trump-air-travel-crisis",
+    "imagem": "https://i.guim.co.uk/img/media/58e18e95440b1d5b3c14e9bc2b7bcff923d162c2/287_0_1334_1068/master/1334.jpg?width=140&quality=85&auto=format&fit=max&s=8aaba2edd875c9dad880c0c30c1b3c72",
+    "data": "2026-11-17T16:25:56.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The DOJ says it’s investigating Megaspeed",
+    "resumo": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interes",
+    "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-17T16:19:03.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -135,28 +360,10 @@
     "data": "2026-11-17T16:13:18.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Viatura da Força Nacional é alvejada com 20 tiros em emboscada na Terra Indígena Apyterewa, no Pará",
-    "resumo": "Viatura da Força Nacional é alvo de tiros dentro de área indígena no Pará. Reprodução/Força Nacional Uma equipe da Força Nacional de Segurança Pública e agentes da Fundação Nacional dos Povos Indígenas (Funai) foram alvos de um ataque a tiros nesta segunda-feira (16) na dentro da Terra Indígena Apyterewa, no sudoeste do Pará. A emboscada ",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/17/viatura-da-forca-nacional-e-alvejada-com-20-tiros-em-emboscada-na-terra-indigena-apyterewa-no-para.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-cF4CwFzdoX1VgfLQruGK5iIPo4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/Z/0gYLfXRc2o5kgBnLMr3Q/whatsapp-image-2026-11-17-at-12.49.39.jpeg",
-    "data": "2026-11-17T16:12:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Impossível não sentir indignação', diz irmã de vítima após suspensão de processo por atropelamento em Teresina",
-    "resumo": "Vídeos de acidente que matou casal em cruzamento na Zona Leste de Teresina são excluídos de processo Reprodução Francyelle Costa lamentou a decisão do Tribunal de Justiça do Piauí (TJ-PI) que suspendeu o processo contra João Henrique Soares Leite Bonfim, acusado de provocar o acidente que matou o casal Francisco Felipe Oliveira Duarte e L",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/17/irma-vitima-suspensao-processo-atropelamento-teresina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KxjX_9PckP-Sf_8Dr6BEPMPiuFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/h/4AjnALSS2mw8PsY7qKBw/edicao-imagens-g1-30-.jpg",
-    "data": "2026-11-17T16:12:27.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Jensen Huang says he’s willing to return as Nvidia CEO",
-    "resumo": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement published by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me to [&#8230;]",
+    "resumo": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
     "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-17T16:09:57.000Z"
@@ -169,60 +376,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-17T16:07:53.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-    "resumo": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-    "data": "2026-11-17T16:07:41.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "What do you want to know about the Cop31 climate talks? Ask Fiona Harvey and Ajit Niranjan",
-    "resumo": "<p>The Guardian’s environment editor Fiona Harvey and Europe environment correspondent Ajit Niranjan will answer your questions on Cop31, the draft deal on fossil fuels, the fight over climate finance and what overshooting 1.5C means for the world.</p><p><strong>Ask a question: log in or sign up </strong><a href=\"https://profile.theguardi",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/17/what-do-you-want-to-know-about-the-cop31-climate-talks-ask-fiona-harvey-and-ajit-niranjan",
-    "imagem": "https://i.guim.co.uk/img/media/27a354721d84af588c31e5fcb303ba781ed60548/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=a1785d8f6d4aa4ee259458d79123fda5",
-    "data": "2026-11-17T16:06:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Roraima tem pior índice do Brasil no início do tratamento de câncer do colo do útero",
-    "resumo": "Grupo Rede Amazônica lança campanha de prevenção ao câncer do colo de útero Roraima tem o pior índice do Brasil no início do tratamento de mulheres diagnosticadas com câncer do colo do útero. Apenas 21,2% das pacientes começaram a receber assistência em até 60 dias após o diagnóstico, prazo estabelecido pela legislação federal. Os dados s",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/17/roraima-tem-pior-indice-do-brasil-no-inicio-do-tratamento-de-cancer-do-colo-do-utero.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/s3FqsK3Y9buXVL91R2BGiejTwcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/K/7HHN8jSganUycvgrz5PA/pacientecomcancer.jpeg",
-    "data": "2026-11-17T16:06:09.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Líder da Coreia do Norte, Kim Jong-un inspeciona complexo turístico do país em meio a especulações sobre viagem à China",
-    "resumo": "Kim Jun-Un inspeciona complexo turístico na Coreia do Norte O líder da Coreia do Norte, Kim Jong-un, inspecionou, nos últimos dias, as obras de uma zona turística próxima à fronteira com a China, informou nesta terça-feira (17) a agência estatal de notícias KCNA. A visita ocorre em meio a especulações sobre uma viagem de Kim ao país vizin",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/17/lider-da-coreia-do-norte-kim-jong-un-inspeciona-complexo-turistico-do-pais-em-meio-a-especulacoes-sobre-viagem-a-china.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/S32O93T5E6Lp_3w0J8ZKqvQAPio=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/6/XBwG2UT8u9cAxlqNooEA/2026-11-16t223513z-2077262677-rc29poa37bzt-rtrmadp-3-northkorea-politics.jpg",
-    "data": "2026-11-17T16:05:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "China ameaça retaliar contra EUA por restrições a chips de IA que também afetam o Brasil",
-    "resumo": "O presidente dos EUA, Donald Trump, fala com membros da imprensa ao partir para sua viagem às Filipinas e à China, na Casa Branca, em Washington, DC, EUA, em 16 de novembro de 2026 REUTERS/Kevin Lamarque O governo da China afirmou nesta terça-feira (17) que se opõe firmemente à nova regra dos Estados Unidos que restringe a exportação de c",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/china-ameaca-retaliar-contra-eua-por-restricoes-a-chips-de-ia-que-tambem-afetam-o-brasil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
-    "data": "2026-11-17T16:05:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia prende quatro pessoas na primeira etapa de protocolo contra série de ataque a tiros no RS",
-    "resumo": "Oito pessoas morrem e cinco ficam feridas em sequência de ataques a tiros no RS Quatro homens foram presos e um adolescente foi apreendido entre a noite de segunda-feira (16) e a madrugada desta terça-feira (17) em Porto Alegre. A ação policial faz parte do Protocolo das Sete Medidas contra os Homicídios, acionado pelas forças de seguranç",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/policia-prende-quatro-pessoas-na-primeira-etapa-de-protocolo-contra-serie-de-ataque-a-tiros-no-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Aiq0kHUt6ipvHhUhhbmMdxP7W-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/q5uCArR6OwYflBTpqZ1A/g1-44-.jpg",
-    "data": "2026-11-17T16:04:29.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -277,6 +430,15 @@
     "link": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
     "imagem": "https://i.guim.co.uk/img/media/d0a88ca5a769d3c3b46ec39dc9331d052d903d18/690_0_5827_4664/master/5827.jpg?width=140&quality=85&auto=format&fit=max&s=291bd0f77e68fcb97b0bd08d9b877dd2",
     "data": "2026-11-17T15:58:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Vini Jr. brilha e Brasil goleia Singapura em último confronto do ano",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/vini-jr-brilha-e-brasil-goleia-singapura-em-ultimo-confronto-do-ano\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/vini-jr-brilha-e-brasil-goleia-singapura-em-ultimo-confronto-do-ano",
+    "imagem": null,
+    "data": "2026-11-17T15:58:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -432,15 +594,6 @@
     "data": "2026-11-17T14:59:39.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US senators demand FAA pause upgrades linked to nationwide ground stop",
-    "resumo": "Thousands of routers used in communications systems are slated to be replaced, raising the risk of more problems.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T14:57:33.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "This E Ink photo frame can double as your family’s digital dashboard",
@@ -450,29 +603,11 @@
     "data": "2026-11-17T14:49:21.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Bessent vs Lutnick: Who is winning the China chip debate?",
-    "resumo": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
-    "link": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T14:46:37.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "PF cria divisão especializada em integridade esportiva",
     "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pf-faz-parceria-com-ministerio-para-combater-fraudes-no-esporte\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>A",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pf-faz-parceria-com-ministerio-para-combater-fraudes-no-esporte",
-    "imagem": null,
-    "data": "2026-11-17T14:30:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ghost Towns of Afghanistan: The Environmental Toll of Decades of War",
-    "resumo": "A father confronts the aftermath of environmental damage from years of war in Afghanistan.",
-    "link": "https://www.aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-17T14:30:00.000Z"
   },
@@ -504,24 +639,6 @@
     "data": "2026-11-17T14:25:45.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer",
-    "resumo": "Amazon no longer considers the midrange Fire TV Stick 4K Plus as part of its official lineup following the launch of it latest Fire TV Stick 4K, but that doesn&#8217;t mean the streaming device isn&#8217;t still good value. In fact, it&#8217;s an even more attractive option now that it&#8217;s dropped to $29.99 ($40 off) at [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Amazon-Fire-TV-Stick-4K-Lifestyle-Press-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-17T14:25:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "UK sanctions eight Israeli construction firms over West Bank settlements",
-    "resumo": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for &#039;protecting the two-state solution&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-17T14:09:08.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Call my (estate) agent! Why celebrities are always buying each other’s homes",
@@ -538,15 +655,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/18/is-australia-ready-to-embrace-a-new-christian-left-religion-politics-ntwnfb",
     "imagem": "https://i.guim.co.uk/img/media/c25d1afb8c0b6be79ee02a5035d7b7b3a337ddf2/300_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=da80d0a4a87b12e640d88efc2044d7a1",
     "data": "2026-11-17T14:00:13.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Windows 11 actually runs better on 8GB of RAM now",
-    "resumo": "As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting configuration. The MacBook Neo got away with it, but Windows laptops, including [&#8",
-    "link": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0018.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-17T14:00:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -570,7 +678,7 @@
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Where do people want to see Britain’s climate action plan working? On their own doorstep | Miatta Fahnbulleh",
-    "resumo": "<p>I am at Cop 31 – concerned about the crisis around the world, but mindful that voters want jobs, warmer homes and cheaper prices</p><ul><li><p>Miatta Fahnbulleh is the UK secretary of state for energy security and net zero</p></li></ul><p>In this cold weather, it is easy to forget that Britain has just been through its hottest summer o",
+    "resumo": "<p>I am at Cop31 – concerned about the crisis around the world, but mindful that voters want jobs, warmer homes and cheaper prices</p><ul><li><p>Miatta Fahnbulleh is the UK secretary of state for energy security and net zero</p></li></ul><p>In this cold weather, it is easy to forget that Britain has just been through its hottest summer on",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/17/britain-climate-action-plan-working-cop31-voters-jobs-home-prices",
     "imagem": "https://i.guim.co.uk/img/media/26595059259e42aaed666994080fc967a494d579/0_0_2503_2003/master/2503.jpg?width=140&quality=85&auto=format&fit=max&s=dcf53506f1eac0b631b3eb81eb0446a3",
     "data": "2026-11-17T13:32:44.000Z"
@@ -578,8 +686,8 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Former Nvidia CEO Jensen Huang to appear before U.S. Congress next month",
-    "resumo": "Former Nvidia CEO Jensen Huang has agreed ‌to appear for transcribed interviews before U.S. Congress lawmakers next month as national security questions around the company intensify.",
+    "titulo": "Former Nvidia CEO Jensen Huang signals willingness to return as CEO",
+    "resumo": "The former CEO of the top AI chipmaker who resigned last week amid a spying scandal said he \"would be honoured\" ‌to come back as CEO if the board decided his return would be in the best interest of shareholders and employees. Jensen Huang's first public statement since he resigned last week comes as the former leader agreed to answer ques",
     "link": "https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/f45535e2-99c2-44cb-bab4-c22dbb1d0b44,1794498994529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C4692%2C2639%29%3B",
     "data": "2026-11-17T13:30:31.000Z"
@@ -601,15 +709,6 @@
     "link": "https://www.dw.com/pt-br/brasil-teve-1-6-mil-intoxicações-por-pesticidas-europeus-em-2025/a-79969105?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-17T13:10:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
-    "resumo": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
-    "link": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B",
-    "data": "2026-11-17T13:07:05.000Z"
   },
   {
     "categoria": "Cultura",
@@ -657,6 +756,15 @@
     "data": "2026-11-17T13:00:46.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+    "resumo": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-17T12:54:32.000Z"
+  },
+  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Government must act now or lose Royal Mail, former minister warns",
@@ -675,15 +783,6 @@
     "data": "2026-11-17T12:35:53.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Canada advances to CONCACAF Nations League semifinals with win over Guatemala",
-    "resumo": "The Canadian men's soccer team closed out its 2026 schedule in style on Monday night with an emphatic 4-1 victory over Guatemala to secure a berth in the final four of the CONCACAF Nations League.",
-    "link": "https://www.cbc.ca/sports/soccer/concacaf-nations-league-canada-guatemala-november-16-9.7424702?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c43e41e8-0a96-4a30-bd16-8521367fb711,1794918535800/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5888%2C3312%29%3B",
-    "data": "2026-11-17T12:30:35.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
@@ -700,15 +799,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mulheres-lideram-63-dos-negocios-da-rocinha-diz-pesquisa",
     "imagem": null,
     "data": "2026-11-17T12:20:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Carney government amends controversial bill to fast-track pipelines and mines",
-    "resumo": "Liberal MPs agreed to make minor changes to a controversial piece of legislation that's supposed to speed up the approval of major projects.",
-    "link": "https://www.cbc.ca/news/politics/bill-c-39-major-projects-fast-track-environmental-concerns-amendments-9.7424528?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4a8ac5f2-1608-405e-a9c8-97d16900b1f3,1794878566586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C7547%2C4245%29%3B",
-    "data": "2026-11-17T12:15:18.000Z"
   },
   {
     "categoria": "Ciência",
@@ -774,15 +864,6 @@
     "data": "2026-11-17T11:58:42.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Gunmen kill Costa Rican journalist who reported on drugs trade",
-    "resumo": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg",
-    "data": "2026-11-17T11:58:16.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "The hidden language of psychopathy is not what scientists expected",
@@ -810,21 +891,21 @@
     "data": "2026-11-17T11:44:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Parque do Albardão: de cemitério marinho a esperança de santuário",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-do-albardao-de-cemiterio-marinho-esperanca-de-santuario\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-do-albardao-de-cemiterio-marinho-esperanca-de-santuario",
-    "imagem": null,
-    "data": "2026-11-17T11:41:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Can Google win the AI race without killing its cash cow?",
     "resumo": "In late October, Google had the worst stock day in its history as a public company.<em> The Planet Money </em>newsletter asks: has Google been caught in \"the innovator&apos;s dilemma\"?",
     "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Ff4%2F13d6cbbc4841bdd4a3e5318cbb63%2Fgettyimages-460917708-1.jpg",
+    "data": "2026-11-17T11:30:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Former Red Deer, Alta., mayor seriously hurt in hit and run with e-bike or e-scooter calls for stricter rules",
+    "resumo": "Former Red Deer mayor Ken Johnston is calling for changes to e-bike and e-scooter rules in the central Alberta city after he was seriously injured by one of the vehicles in what police are calling a hit and run.",
+    "link": "https://www.cbc.ca/news/canada/edmonton/red-deer-mayor-ebikes-escooters-hit-and-run-9.7424641?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c1e292cb-d660-450d-9823-331e44943319,1794889288877/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C311%2C1153%2C648%29%3B",
     "data": "2026-11-17T11:30:00.000Z"
   },
   {
@@ -929,15 +1010,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "More people are getting the flu. Should you get a flu shot before you travel?",
-    "resumo": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that&apos;s upon us? Cold and flu season.",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe9%2Fb67c6a214e7b9c02d386dead53d5%2Fgettyimages-2303905886.jpg",
-    "data": "2026-11-17T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "Does locking up a student&apos;s cell phone improve test scores? A new study suggests so",
     "resumo": "A new study of school cellphone bans finds they may help students make up for some of the learning they&apos;ve lost since 2013 – a divergence from earlier study results.",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
@@ -951,6 +1023,15 @@
     "resumo": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F4c%2Fbc4bb31e4251b34b1ff9ba477c7e%2Fbluecollarapprenticeohio-012.JPG",
+    "data": "2026-11-17T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "More people are getting the flu. Should you get a flu shot before you travel?",
+    "resumo": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that&apos;s upon us? Cold and flu season.",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe9%2Fb67c6a214e7b9c02d386dead53d5%2Fgettyimages-2303905886.jpg",
     "data": "2026-11-17T10:00:00.000Z"
   },
   {
@@ -1035,15 +1116,6 @@
     "data": "2026-11-17T08:06:57.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Body of Melbourne Cup horse found dumped in Sydney skip",
-    "resumo": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
-    "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/632b/live/b9ed96e0-e251-11f1-876d-1dfc6cf3b709.jpg",
-    "data": "2026-11-17T07:01:00.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "‘I confront my demons’: crime, corruption and poverty in Latin America – in pictures",
@@ -1051,15 +1123,6 @@
     "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/17/julio-mitchels-latin-america-in-pictures",
     "imagem": "https://i.guim.co.uk/img/media/5f4ddf43542c73e2c57bf613389df68db1bdf767/294_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=90db4c9cbc4fb2b7cbc1d54ee0ec2df3",
     "data": "2026-11-17T07:00:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-    "resumo": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-    "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2905/live/37886bc0-e1df-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-17T06:23:51.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1087,15 +1150,6 @@
     "link": "https://www.theguardian.com/artanddesign/2026/nov/17/edward-hopper-sexual-problems-melancholy-wife-lighthouses",
     "imagem": "https://i.guim.co.uk/img/media/f7e1259ca1ca5bdf0f5057a0c0e1ed300ff93c8e/1471_884_2078_1663/master/2078.jpg?width=140&quality=85&auto=format&fit=max&s=ac56db4ff9d7a9b6042623fe3b46894e",
     "data": "2026-11-17T05:00:05.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Sebastián Lelio remembered: ‘He had one hand with the ordinary day-to-day and the other in the heavens’",
-    "resumo": "<p>Actor Elaine Cassidy, composer Matthew Herbert and writer Rebecca Lenkiewicz pay tribute to the extraordinary talents of the acclaimed Chilean director, <a href=\"https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies\">who has died aged 52</a></p><p><em>Elaine Cassidy, actor, The Wonder </em></p> <a href=\"htt",
-    "link": "https://www.theguardian.com/film/2026/nov/17/sebastian-lelio-remembered-elaine-cassidy-matthew-herbert-rebecca-lenkiewicz",
-    "imagem": "https://i.guim.co.uk/img/media/3e956ffcb26a5aafcb71a91fc7b3b223a49767d3/341_0_4419_3537/master/4419.jpg?width=140&quality=85&auto=format&fit=max&s=758f79a7177fc020e28633264e19e91b",
-    "data": "2026-11-17T05:00:04.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1179,15 +1233,6 @@
     "data": "2026-11-17T00:42:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Meta would 'consider' pulling services from Canada if lawful access bill passes as is",
-    "resumo": "Representatives from Meta say the social media company would have to \"consider\" pulling encryption services from Canada if the government's proposed lawful access bill passes without further changes.",
-    "link": "https://www.cbc.ca/news/politics/meta-encryption-services-lawful-access-9.7424473?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/fa8461a3-6788-44db-8f20-c02533523f22,1794874175807/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C265%2C5750%2C3234%29%3B",
-    "data": "2026-11-17T00:34:34.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Family Seeks Hate Crime Charge in Near-Fatal Attack on Somali Uber Driver",
@@ -1204,15 +1249,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
     "data": "2026-11-17T00:00:02.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
-    "resumo": "The court filing confirms that the Trump administration has sought on two parallel fronts to identify the sources for an article as part of one overarching investigation.",
-    "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/dc-leak-qbtp/dc-leak-qbtp-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T23:44:56.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1240,15 +1276,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
     "data": "2026-11-16T23:12:24.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Bessent Takes Hawkish Turn in White House Debate on China",
-    "resumo": "The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology.",
-    "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-mediumSquareAt3X.jpg",
-    "data": "2026-11-16T22:46:09.000Z"
   },
   {
     "categoria": "Economia",
@@ -1321,32 +1348,5 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
     "imagem": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=140&quality=85&auto=format&fit=max&s=0a9deff8c98976654963a86fb1198129",
     "data": "2026-11-16T17:52:13.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Crise na Nvidia expõe dilema da China na corrida pelos chips de IA",
-    "resumo": "Cerca de 600 mil chips H200, da fabricante americana, aguardam em Hong Kong autorização do governo chinês para importação. País asiático se depara com escolha entre comprar dos EUA ou apostar na própria indústria.",
-    "link": "https://www.dw.com/pt-br/crise-na-nvidia-expõe-dilema-da-china-na-corrida-pelos-chips-de-ia/a-79961956?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-16T17:36:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Estudo compara efeitos de urinar sentado ou em pé",
-    "resumo": "Na Alemanha, urinar sentado é praticamente obrigatório para homens. Em outros países, é um tabu. Mas a postura afeta a saúde? Pesquisadores colombianos levaram a questão para o laboratório.",
-    "link": "https://www.dw.com/pt-br/estudo-compara-efeitos-de-urinar-sentado-ou-em-pé/a-79961703?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-16T17:11:00.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-    "resumo": "<p>Many countries surprised to see first version delivered with more than four days of negotiation remaining</p><p>A draft text of a possible final outcome from the <a href=\"https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve\">Cop31 UN climate summit</a> is an attempt",
-    "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-    "imagem": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=140&quality=85&auto=format&fit=max&s=7659af382f72d9cbbbdcbf0d29fde307",
-    "data": "2026-11-16T16:54:42.000Z"
   }
 ]
