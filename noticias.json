@@ -1,111 +1,300 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+    "resumo": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+    "data": "2026-11-18T16:37:49.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal da Manhã Alagoas de quarta-feira, 18 de novembro de 2026",
+    "titulo": "Planeta Atlântida divulga line-up para edição de 2027: Luan Santana, Anitta, Pedro Sampaio e mais; confira",
+    "resumo": "Planeta Atlântida anuncia datas da edição de 2027 Mantendo a tradição de ser palco para diferentes gêneros musicais, o Planeta Atlântida divulgou, nesta quarta-feira (18), o line-up da edição de 2027, que será realizada nos dias 29 e 30 de janeiro, em Atlântida, no Litoral gaúcho. Entre os artistas confirmados estão nomes como Anitta, Lua",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/planeta-atlantida/noticia/2026/11/18/planeta-atlantida-line-up-edicao-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dIn2ZPDEd-CL1-f2pCqDXtY4eyc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/r/GVABaoSNAEYDjAqyL5zQ/documento.png",
+    "data": "2026-11-18T16:33:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos",
+    "resumo": "Vazamento de documentos expõe relações do Deutsche Bank com Epstein, Trump e oligarcas russos REUTERS/Yves Herman Uma investigação jornalística baseada em milhões de documentos vazados revelou, na terça-feira (17), como o Deutsche Bank priorizou seus interesses comerciais em detrimento de alertas internos em operações de risco com Jeffrey",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/18/vazamento-de-documentos-expoe-relacoes-do-deutsche-bank-com-epstein-trump-e-oligarcas-russos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Az6GrdXs-mRxgIj1lqXNrWX99rc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/T/lK1ZY2QZeXmlXXOs7qwQ/2026-11-18t160857z-1080681046-rc2a0y9l10p9-rtrmadp-3-deutsche-bank-media.jpg",
+    "data": "2026-11-18T16:30:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Servidor público é preso suspeito de estupro após neta denunciar crime por carta na escola em Boa Vista",
+    "resumo": "Servidor público foi preso em processo que investiga estupro de vulnerável contra a neta Polícia Civil/Divulgação Um servidor público de 62 anos foi preso suspeito de estupro de vulnerável contra a própria neta, hoje com 14 anos. Segundo a Polícia Civil, os abusos aconteciam dentro de casa desde 2024, quando a menina tinha 12 anos. A pris",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/servidor-publico-e-preso-suspeito-de-estupro-apos-neta-denunciar-crime-por-carta-na-escola-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4v3vh-uqyUraOUX7zEwxI1bQOfc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/8/qNKooaRRScm8T2mYCPmg/suspeito-3-.jpg",
+    "data": "2026-11-18T16:28:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Operação contra rota de tráfico flagra depósito de drogas e máquina de contar dinheiro em Santa Bárbara",
+    "resumo": "Operação contra rota de tráfico encontra depósito de drogas e máquina de contar dinheiro em Santa Bárbara d’Oeste Polícia Civil de Campinas/Dise/ Reprodução Uma mulher foi presa após a Polícia Civil encontrar um depósito de drogas em Santa Bárbara d'Oeste na manhã desta quarta-feira (18). A ação integrou operação da Delegacia de Polícia d",
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/18/operacao-contra-rota-de-trafico-flagra-deposito-de-drogas-e-maquina-de-contar-dinheiro-em-santa-barbara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hwMiixLPK1Jirw8LtGXJrZCwvcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/P4uPYUSe6t25yRGxdduQ/policia-civil-1-.jpeg",
+    "data": "2026-11-18T16:28:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Número de inadimplentes no DF cai em outubro, mas valor total das dívidas aumenta, diz pesquisa; entenda",
+    "resumo": "Calculadora e dinheiro, em imagem de arquivo Marcello Casal Jr/Agência Brasil O número de pessoas inadimplentes caiu no Distrito Federal em outubro, mas o valor das dívidas continuou aumentando. No mês, 1.466.219 consumidores estavam endividados, 0,7% a menos do que em setembro, quando eram 1.477.103 pessoas. Apesar da redução de 10.884 i",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/numero-de-inadimplentes-no-df-cai-em-outubro-mas-valor-total-das-dividas-aumenta-diz-pesquisa-entenda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/f-nOqPZsG93YNPRI2oJm28aa4s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/n/iHfDgETQOTBUa5dzPk0A/edicao-imagens-g1-2026-11-13t102653.948.jpg",
+    "data": "2026-11-18T16:25:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia cumpre mandado de prisão contra suspeito de furtar mil relógios na Grande Natal",
+    "resumo": "Polícia cumpre mandado contra suspeito de furtar mil relógios na Grande Natal A Polícia Civil do Rio Grande do Norte cumpriu, nesta quarta-feira (18), um mandado de prisão preventiva contra um homem de 23 anos suspeito de participar do furto de cerca de mil relógios em Parnamirim, na Grande Natal. O mandado foi cumprido em uma unidade pri",
+    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/18/policia-cumpre-mandado-de-prisao-contra-suspeito-de-furtar-mil-relogios-na-grande-natal.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/e9q1iggEZiCumlqbV6R4vbm4S9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/y/t/ij0ESTQ9SoaPIkohk8Yw/giroflex.jpeg",
+    "data": "2026-11-18T16:25:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Trabalhadores da GM em São José dos Campos aprovam demissão voluntária com carro zero, sete salários e bônus de até R$ 133 mil; veja próximos passos",
+    "resumo": "Funcionários da GM aprovam o PDV, plano de demissão voluntária Os trabalhadores do primeiro e do segundo turno da fábrica da General Motors (GM), em São José dos Campos (SP), aprovaram a proposta de abertura de um Plano de Demissão Voluntária (PDV). A votação foi realizada em assembleias nesta terça-feira (17) e reuniu cerca de 3 mil func",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/18/trabalhadores-da-gm-em-sao-jose-dos-campos-aprovam-demissao-voluntaria-com-carro-zero-sete-salarios-e-bonus-de-ate-r-133-mil-veja-proximos-passos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gvCguz5L3rsapRzxtVXi5Ad0rEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/K/jomfpETvOoEBkVzdzXWw/texto-do-seu-paragrafo-2026-11-17t074110.020.png",
+    "data": "2026-11-18T16:23:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ladrões furtam celulares de motoristas dentro de estacionamentos no Centro de SP; câmeras registram ação",
+    "resumo": "Ladrões furtam celulares de motoristas dentro de estacionamento no Centro de SP Imagens de câmeras de segurança registraram ladrões que invadiram de moto um estacionamento na Rua Araújo, na República, e furtaram celulares de clientes que aguardavam a chegada dos veículos. Os criminosos se aproximaram das vítimas, arrancaram os aparelhos d",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/ladroes-furtam-celulares-de-motoristas-dentro-de-estacionamentos-no-centro-de-sp-cameras-registram-acao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Wtc0Wha3LsBwjKw4uJGCO1SPR2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/j/Fn7VSAQTm4HpIuf4zYtA/montagem-horizontal-1200px-63-.jpg",
+    "data": "2026-11-18T16:23:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quarta-feira, 18 de novembro de 2026",
     "resumo": "",
-    "link": "https://g1.globo.com/al/alagoas/edicao/2026/11/18/videos-jornal-da-manha-alagoas-de-quarta-feira-18-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DF6YcBKUzd5vLSZ5TGhIl_4n_0g=/s01.video.glbimg.com/deo/vi/29/50/15205029",
-    "data": "2026-11-18T15:30:08.000Z"
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/18/videos-eptv-1-sul-de-minas-de-quarta-feira-18-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7lvGAwRXtI5oeJQ8Z2VMz59hjs0=/s01.video.glbimg.com/deo/vi/81/67/15206781",
+    "data": "2026-11-18T16:21:54.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Multas a caminhões que circulam em locais e horários proibidos em SP aumentam 143% em dois anos",
-    "resumo": "Caminhões transitam na Marginal Tietê Reprodução/TV Globo O número de multas aplicadas a caminhões que desrespeitam restrições de circulação na cidade de São Paulo mais do que dobrou nos últimos dois anos. Entre janeiro e julho de 2026, foram registradas mais de 288 mil autuações por circulação em locais ou horários proibidos, um aumento ",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/multas-a-caminhoes-que-circulam-em-locais-e-horarios-proibidos-em-sp-aumentam-143percent-em-dois-anos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tjFKFd1zDNQAI70btlsdliBOxp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/z/AA8FWVTDAuCQKMyFZzSQ/sp1-caminhoes-marginal0047s03.mp4-frame-283.jpeg",
-    "data": "2026-11-18T15:27:59.000Z"
+    "titulo": "Morre aos 70 anos irmão da jornalista Ilze Scamparini; corpo é sepultado no interior de SP",
+    "resumo": "Ilze e o irmão Mário Reprodução Mario Henrique Scamparini, irmão da jornalista e correspondente da TV Globo na Itália Ilze Scamparini, morreu nesta terça-feira (17), aos 70 anos. Ele foi sepultado nesta quarta-feira (18), em Araras, no interior de São Paulo, no túmulo da família, onde também estão enterrados os pais. A morte foi anunciada",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/morre-aos-70-anos-irmao-da-jornalista-ilze-scamparini-corpo-e-sepultado-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/V460m4ZJmSZVttkxrTbmFCKyGak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/E/iLuBBXTY2mCe3uQiol0A/montagem-horizontal-1200px-51-.jpg",
+    "data": "2026-11-18T16:20:31.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Suspeito de matar ex-companheira no RN e forjar suicídio da vítima é preso no Piauí",
-    "resumo": "Delegado fala sobre prisão de suspeito de matar ex-companheira e forjar suicídio da vítima Um homem de 39 anos, foragido da Justiça pelo crime de feminicídio no Rio Grande do Norte, foi preso nesta terça-feira (17) no município de Ipiranga do Piauí (PI). Ele é suspeito de matar a ex-companheira e forjar o suicídio da vítima. A prisão fez ",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/18/suspeito-de-matar-ex-companheira-no-rn-e-forjar-suicidio-da-vitima-e-preso-no-piaui.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/K4SkeH28byrtJx_eVWFG62rniks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/J/GZ5KcoSoWFBeER2b2Vig/whatsapp-image-2023-12-19-at-10.17.31.jpeg",
-    "data": "2026-11-18T15:27:49.000Z"
+    "titulo": "Defesa Civil de Betim se mobiliza após chuva forte causar alagamentos e quedas de muros",
+    "resumo": "Betim, na Grande BH, registra ao menos cinco quedas de muros após chuvas fortes Globocop/ TV Globo A Defesa Civil de Betim se mobiliza no início desta tarde de quarta-feira (18) para atender chamados relacionados às fortes chuvas que atingiram a cidade na Região Metropolitana de Belo Horizonte. Até as 10h16, o órgão havia recebido 21 ocor",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/defesa-civil-de-betim-se-mobiliza-apos-chuva-forte-causar-alagamentos-e-quedas-de-muros.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/D-64xe4xsZpplC0cqvc0EhDoQ14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/zycpRcQwSulYXLhgnH9w/queda-muro-betim-2.png",
+    "data": "2026-11-18T16:18:39.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Menina de 4 anos que morreu com sinais de agressão é enterrada em São José: 'Monstro, a gente quer justiça', diz avó",
-    "resumo": "Lavínia Quintana morreu com sinais de agressão em São José Reprodução/TV Vanguarda Familiares se despediram da menina de 4 anos que morreu com sinais de agressão em São José dos Campos (SP) na manhã desta quarta-feira (18), e clamaram por justiça após o caso. A criança foi enterrada em um cemitério na Zona Sul da cidade. A mãe e um tio da",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/18/menina-de-4-anos-que-morreu-com-sinais-de-agressao-e-enterrada-em-sao-jose-monstro-a-gente-quer-justica-diz-avo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IPhVNtSIMj5Lvi_C2DAf2PoRX_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/X/5aBhN9QMSDexKfy4I3RA/ft-g1-37-.png",
-    "data": "2026-11-18T15:27:49.000Z"
+    "titulo": "STF cassa chapa do Podemos no AP por fraude à cota de gênero; partido diz respeitar decisão",
+    "resumo": "STF cassa chapa do Podemos no Amapá por fraude à cota de gênero; partido diz respeitar decisão Gustavo Moreno/STF Uma decisão divulgada nesta terça-feira (17) pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), anulou todos os votos recebidos pelo Podemos para deputado estadual no Amapá nas eleições de 2022. A medida cas",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/18/stf-cassa-chapa-do-podemos-no-ap-por-fraude-a-cota-de-genero-partido-diz-respeitar-decisao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5PA600aLwbfQ7RdbAEelnbPukuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/i/rSi4FWTVmVuQP6CYBtHg/55518635084-8a79024e70-k.jpg",
+    "data": "2026-11-18T16:17:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+    "resumo": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T16:16:48.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The Anti-A.I. Campus Movement Is Growing",
+    "resumo": "Some students are refusing to use A.I., and others are starting petitions to limit it across entire campuses. Colleges have taken notice.",
+    "link": "https://www.nytimes.com/2026/11/18/us/anti-ai-protests-petitions-colleges.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/10/multimedia/00nat-luddites-01-jzqc/00nat-luddites-01-jzqc-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T16:16:31.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "resumo": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+    "data": "2026-11-18T16:10:44.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
+    "resumo": "The vote put Representative Hakeem Jeffries of New York in line to become the first Black lawmaker to win the post second in line to the presidency.",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-jeffries-tfpq/18dc-jeffries-tfpq-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T16:10:38.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Five EU nations to deport migrants to Rwanda",
+    "resumo": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T16:05:37.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+    "resumo": "After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line to automatically turn off the flow when one of those sensors detects a problem. The Shelly Neo Smart Water Valve is [&#8230;]",
+    "link": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shelly1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-18T16:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird",
+    "resumo": "The 8BitDo 64 was a loose remake of the Nintendo 64's unusual triple-grip controller that did away with that gamepad's centered analog stick. But with its new GC Bluetooth Gamepad, 8BitDo has done a much better job at staying faithful to the design of the Nintendo GameCube's excellent controllers, including their unique button layout, thu",
+    "link": "https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/8bitdogc1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-18T16:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Largest US egg producer to cull 1.8 million birds after bird flu outbreak",
+    "resumo": "Cal-Maine reports avian influenza at Florida site, with 2.7 percent of its total flock affected.",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T15:57:35.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pax Silica is the new face of US imperialism in the Philippines",
+    "resumo": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T15:57:20.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+    "resumo": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F57%2F1cdfc9bb4447a18aa5df06a032bf%2Fgettyimages-2305571337.jpg",
+    "data": "2026-11-18T15:56:30.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
+    "resumo": "The residents of the Hollywood Hills have sued Los Angeles, saying the city has not done enough to address the dangerous conditions created by tourists vying for a glimpse of the iconic Hollywood sign.",
+    "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-18T15:52:48.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Never played, already gone. JJ Gabriel leaves Man United",
+    "resumo": "Teenage football star JJ Gabriel has made a cinematic farewell to Manchester United fans.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/never-played-already-gone-jj-gabriel-leaves-man-united?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T15:50:43.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Criciúma Faz Bem 2026: conheça os vencedores e os bons exemplos valorizados em 6 categorias",
-    "resumo": "Criciúma Faz Bem 2026 Após 1.090.276 votos e a maior votação da história do prêmio, a terça-feira (17) foi dia de divulgar e reconhecer os vencedores do Criciúma Faz Bem 2026, iniciativa da NSC TV que convida o público a escolher projetos, pessoas e iniciativas que mudam realidades na maior cidade do Sul de Santa Catarina. ✅Clique e siga ",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/18/criciuma-faz-bem-2026-conheca-os-vencedores.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BYgyRl6ZR1MKy-OhWasIxl5JmQE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/5/gt2YtVRMStACEdjPEyCA/img-7701.jpg",
-    "data": "2026-11-18T15:26:10.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/agencia-brasil-conquista-1o-lugar-no-premio-einstein-admirados\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><s",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/agencia-brasil-conquista-1o-lugar-no-premio-einstein-admirados",
+    "imagem": null,
+    "data": "2026-11-18T15:49:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Remember the frontier AI pause? Chip companies don’t either",
+    "resumo": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that th",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-18T15:44:02.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+    "resumo": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
+    "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg",
+    "data": "2026-11-18T15:39:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Hakeem Jeffries formally nominated as first Black US House speaker",
+    "resumo": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T15:37:52.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "EPTV 1 Piracicaba ao vivo",
-    "resumo": "EPTV 1 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-1-piracicaba-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
-    "data": "2026-11-18T15:25:32.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Número de desempregados há dois anos ou mais é o menor já registrado",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado",
+    "imagem": null,
+    "data": "2026-11-18T15:36:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Por que GTA 6 é mais do que apenas um jogo",
+    "resumo": "Às vésperas do lançamento de \"Grand Theft Auto 6,\" milhões de pessoas ao redor do mundo aguardam para, finalmente, poder jogá-lo. Título mobiliza diferentes gerações e já pode ser considerado um símbolo cultural.",
+    "link": "https://www.dw.com/pt-br/por-que-gta-6-é-mais-do-que-apenas-um-jogo/a-79979551?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-18T15:34:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Russian attacks on Ukraine kill at least five people",
+    "resumo": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as &#039;brutal&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T15:32:01.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "EPTV 1 Campinas ao vivo",
-    "resumo": "EPTV 1 Campinas ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-    "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-1-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg",
-    "data": "2026-11-18T15:24:50.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Amapá registra 2.233 focos de incêndio e aumento de 262,5% em relação ao ano passado",
-    "resumo": "Incêndio no interior do Amapá e nas ilhas do Pará faz nuvem de fumaça em Macapá De agosto a novembro de 2026, o Amapá registrou 2.233 focos de fogo, segundo a Secretaria de Estado do Meio Ambiente (Sema). No mesmo período de 2025, foram contabilizados 616 focos, o que representa um aumento de 262,6% ou 1.617 focos a mais neste período em ",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/18/amapa-registra-2233-focos-de-incendio-e-aumento-de-2625percent-em-relacao-ao-ano-passado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/l_6_jcuI7EPA2PPEqxL-kVc4lmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/b/FQuH4NTa2RbVZTCgxQoQ/1.jpg",
-    "data": "2026-11-18T15:24:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Climatologista avalia efeitos das chuvas e impacto no nível da Barragem do Poxim em Sergipe",
-    "resumo": "Climatologista avalia os efeitos das chuvas em Sergipe e o nível da barragem do Poxim O climatologista Elder dos Santos comentou, nesta quarta-feira (18), durante entrevista ao Bom Dia Sergipe, os efeitos das chuvas em Sergipe e o impacto delas no nível da Barragem do Poxim, que atualmente está com 20% da sua capacidade útil. Ela é respon",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/18/climatologista-avalia-efeitos-das-chuvas-e-impacto-no-nivel-da-barragem-do-poxim-em-sergipe.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uMBTXhfE_dwOCxNzgwMrAzEchxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/p/GSzb3oQPuTxHMhnJk78w/monitoramento.jpeg",
-    "data": "2026-11-18T15:22:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bombeiros descartam rompimento de barragem e atribuem alagamento à cheia de rio em Cuiabá",
-    "resumo": "Equipes tentam resgatar moradores ilhados no Distrito do Aguaçu em Cuiabá A hipótese de rompimento de uma barragem que deixou moradores ilhados no distrito do Aguaçu, em Cuiabá, foi descartada pelo Corpo de Bombeiros nesta quarta-feira (18). Segundo os militares, os alagamentos foram provocados pela elevação do nível do rio após as fortes",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/bombeiros-descartam-rompimento-de-barragem-e-atribuem-alagamento-a-cheia-de-rio-em-cuiaba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jC1se_koqMGrHqwfY3M5t-qqo8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/s/Xz1BoRThe98n2AsOG6BA/whatsapp-image-2026-11-18-at-11.19.23.jpeg",
-    "data": "2026-11-18T15:21:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Creche de Campo Grande fecha após confirmação de caso de sarna humana",
-    "resumo": "Emei fechada em Campo Grande. Emilenne Queiroz/g1 MS A EMEI Jasmim Ibrahim Bacha, no bairro Nova Lima, foi fechada nesta quarta-feira (18), em Campo Grande, após a confirmação de um caso de sarna humana na unidade. O local foi fechado para sanitização. A Secretaria Municipal de Saúde (Sesau) também investiga outros três casos suspeitos da",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/creche-publica-e-fechada-apos-confirmacao-de-caso-de-sarna-em-campo-grande.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Gr0OPuafV-PZI5pmWKgvGX3n03k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/G/iiAAKBTqujukALlg1yJw/whatsapp-image-2026-11-18-at-11.21.06.jpeg",
-    "data": "2026-11-18T15:21:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao JRO1 desta quarta-feira, 18",
-    "resumo": "Assista ao JRO1 desta quarta-feira, 18",
-    "link": "https://g1.globo.com/ro/rondonia/ao-vivo/assista-ao-jro1-desta-quarta-feira-18.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WIOnbiyPd1I8oqVIMzuMa36bPwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/E/frXf8pTuyndA0hY1UDDg/whatsapp-image-2026-11-18-at-10.42.33-1-.jpeg",
-    "data": "2026-11-18T15:20:28.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Investigados na Cash Out moveram R$ 11 bilhões, diz MPF",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/investigados-na-cash-out-moveram-r-11-bilhoes-diz-mpf\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>O",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/investigados-na-cash-out-moveram-r-11-bilhoes-diz-mpf",
+    "imagem": null,
+    "data": "2026-11-18T15:19:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -210,7 +399,7 @@
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
-    "resumo": "Israeli army says the operation west of the &#039;Yellow Line&#039; aims to &#039;eliminate a threat&#039;.",
+    "resumo": "At least three Palestinians killed as Israeli forces launch strikes near refugee camp.",
     "link": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-18T14:39:09.000Z"
@@ -223,15 +412,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-18T14:36:20.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
-    "resumo": "A weeks-long operation was behind two waves of strikes using long-range missiles and drones developed in Ukraine.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T14:35:56.000Z"
   },
   {
     "categoria": "Internacional",
@@ -261,15 +441,6 @@
     "data": "2026-11-18T14:17:26.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Can the US and Iran sustain a ‘frozen war’?",
-    "resumo": "Tehran may eventually decide that &#039;escalating confrontation&#039; is preferable to status quo, says analyst Hamidreza Azizi.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T14:13:51.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena",
@@ -279,15 +450,6 @@
     "data": "2026-11-18T14:13:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What’s holding South Africa’s economy back?",
-    "resumo": "South Africa seeks billions in new investment to revive weak growth and tackle unemployment crisis.",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T14:12:57.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas",
@@ -295,24 +457,6 @@
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-alcool-ou-drogas",
     "imagem": null,
     "data": "2026-11-18T14:12:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
-    "resumo": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T14:11:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
-    "resumo": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
-    "link": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T14:08:08.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -378,15 +522,6 @@
     "data": "2026-11-18T13:36:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "How the US House of Representatives chooses its leaders: A visual guide",
-    "resumo": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T13:24:22.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
@@ -441,15 +576,6 @@
     "data": "2026-11-18T13:03:38.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "GTA 6: Everything you need to know about the highly anticipated game",
-    "resumo": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T13:02:33.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "IBGE: percentual de negros com ensino superior é metade do de brancos",
@@ -487,15 +613,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-    "resumo": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
-    "data": "2026-11-18T12:39:24.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Como o sarampo se espalhou até virar um surto nos EUA",
     "resumo": "Estados Unidos perderam o status de país livre da doença altamente contagiosa. Política antivacina e queda da imunização ajudam a explicar o retrocesso.",
@@ -515,7 +632,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Xi, Putin meet in China, ahead of summit with Trump",
+    "titulo": "Xi, Putin and Trump expected to meet for about an hour, Kremlin says",
     "resumo": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
     "link": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
@@ -558,33 +675,6 @@
     "data": "2026-11-18T11:55:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Parque do Albardão faz oito meses com impactos econômicos em debate",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-nacional-do-albardao-impactos-socioeconomicos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Logo",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-nacional-do-albardao-impactos-socioeconomicos",
-    "imagem": null,
-    "data": "2026-11-18T11:40:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Suno now lets you make AI videos for your AI music",
-    "resumo": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Vis",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-18T11:16:53.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Chuvas e trovoadas permanecem intensas na maior parte do país",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-e-trovoadas-permanecem-intensas-na-maior-parte-do-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-e-trovoadas-permanecem-intensas-na-maior-parte-do-pais",
-    "imagem": null,
-    "data": "2026-11-18T11:15:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Bancroft sandpaper claims heap pressure on Cummins",
@@ -592,15 +682,6 @@
     "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg",
     "data": "2026-11-18T11:12:46.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Grand Theft Auto VI has arrived",
-    "resumo": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with [&#8230;]",
-    "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-18T11:06:16.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -639,15 +720,6 @@
     "data": "2026-11-18T11:00:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Grand Theft Auto VI does something impossible — it lives up to the hype",
-    "resumo": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies across three generations of game consoles. It sits just behind Tetris and Minecraft on the list of [&#8230;]",
-    "link": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-17-copy.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-18T11:00:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Why SNL's 'Sister' sketch felt too real",
@@ -664,15 +736,6 @@
     "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5124x3416+0+0/resize/5124x3416!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F5f%2F5300d36b41daab38cfccf78d8910%2Fap26322331417415.jpg",
     "data": "2026-11-18T10:32:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Agências bancárias fecham para atendimento presencial nesta sexta (20)",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/agencias-bancarias-fecham-para-atendimento-presencial-nesta-sexta-20\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/agencias-bancarias-fecham-para-atendimento-presencial-nesta-sexta-20",
-    "imagem": null,
-    "data": "2026-11-18T10:32:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -712,15 +775,6 @@
   },
   {
     "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Fans Flock to This Famous Sign. Neighbors Say, Get Off My Road.",
-    "resumo": "The residents of the Hollywood Hills have sued Los Angeles, saying the city has not done enough to address the dangerous conditions created by tourists vying for a glimpse of the iconic Hollywood sign.",
-    "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T10:03:36.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
     "resumo": "A federal judge is keeping East Potomac Park open for now, but hasn&apos;t ordered the government to keep the municipal golf course operational.",
@@ -731,28 +785,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Project Gryffindor: Meta&apos;s plan to get more school kids using Instagram",
-    "resumo": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8064x5622+0+0/resize/8064x5622!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fef%2Ff8dbd03c47e4bbe621c1757ede65%2Fgettyimages-2196627077.jpg",
-    "data": "2026-11-18T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Special education teachers shared their stories. You told NPR you felt seen",
-    "resumo": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they&apos;re not alone.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2Fda%2Fafe9ca1141be8431147b21076526%2Fnpr-final-jaimieshelton.jpg",
-    "data": "2026-11-18T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "OpenAI announces new AI safety program; researchers worry it won&apos;t be enough",
     "resumo": "OpenAI CEO Sam Altman said he would grant \"employee level\" access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive.",
     "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x4024+0+0/resize/6048x4024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F74%2F259df12d43b480cf47e4263def46%2Fgettyimages-2303373034.jpg",
+    "data": "2026-11-18T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Project Gryffindor: Meta&apos;s plan to get more school kids using Instagram",
+    "resumo": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8064x5622+0+0/resize/8064x5622!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fef%2Ff8dbd03c47e4bbe621c1757ede65%2Fgettyimages-2196627077.jpg",
     "data": "2026-11-18T10:00:00.000Z"
   },
   {
@@ -855,24 +900,6 @@
     "data": "2026-11-18T05:10:02.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-    "resumo": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T04:59:06.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Rubio says US not 'under systemic attack' after series of tech outages",
-    "resumo": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7e9/live/0b2ef0e0-e35f-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-18T04:57:06.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
@@ -891,15 +918,6 @@
     "data": "2026-11-18T04:00:54.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-    "resumo": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
-    "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T03:26:28.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Waymo pulls driverless taxis from all US freeways",
@@ -916,15 +934,6 @@
     "link": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
     "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-chips/17xp-chips-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-18T02:37:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-    "resumo": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-    "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-18T02:29:52.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1035,15 +1044,6 @@
     "data": "2026-11-17T14:25:45.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Brasil teve 1,6 mil intoxicações por pesticidas europeus em 2025",
-    "resumo": "Agrotóxicos são vendidos por gigantes do setor sediadas na Alemanha e Suíça, segundo investigação do Greenpeace e Public Eye. Brasil é um dos grandes importadores de substâncias vetadas na UE.",
-    "link": "https://www.dw.com/pt-br/brasil-teve-1-6-mil-intoxicações-por-pesticidas-europeus-em-2025/a-79969105?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-17T13:10:00.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "A mysterious twist in the universe’s oldest light could reveal new physics",
@@ -1145,10 +1145,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Carney meets with Trump at APEC, says Canada's trade ties with China are not U.S. president's top concern",
+    "titulo": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of a possible trade agreement",
     "resumo": "",
-    "link": "https://www.cbc.ca/news/politics/carney-china-trade-9.7426126?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c9de10c3-d2e5-4c83-808a-3ff02e1de86a,1795011662081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "link": "https://www.cbc.ca/news/politics/carney-trump-trade-canada-busy-9.7426568?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1b935d4d-fe26-41dc-9c49-bfb056124cf7,1795017494920/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
     "data": "2025-05-05T15:35:52.000Z"
   }
 ]
