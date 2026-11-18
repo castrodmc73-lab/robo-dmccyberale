@@ -1,7 +1,169 @@
 [
   {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Higher fuel prices push UK inflation to 3.6%",
+    "resumo": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
+    "data": "2026-11-18T07:15:33.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: clock running down on climate talks as deep divisions remain",
+    "resumo": "<p>Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating</p><p>Delegates arrived to the Cop31 conference centre under grey skies and showered by a fine drizzle this morning. The weather could have been straight from a school creative writing piece, for these are the fina",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&quality=85&auto=format&fit=max&s=6aec30482d2c5d171594d537dbf1fcd2",
+    "data": "2026-11-18T07:14:38.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+    "resumo": "Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T07:10:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bebê de um mês é salva por policial militar após família procurar ajuda em quartel em MG; VÍDEO",
+    "resumo": "Bebê de um mês é salva por policial militar após mãe procurar ajuda em quartel em MG Uma bebê de apenas um mês de vida foi socorrida por um policial militar após a família procurar ajuda no quartel da Polícia Militar (PM) em Sapucaí-Mirim, no Sul de Minas. Em um vídeo divulgado pela corporação, é possível ver a chegada da criança ao local",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/18/bebe-de-um-mes-e-salva-por-policial-militar-apos-familia-procurar-ajuda-em-quartel-em-mg-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/HcQ7G8vOpIyWEbIrVsqirFRm3-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/F/Bq3xJBScKZnczI4bPFcQ/whatsapp-image-2026-11-17-at-17.05.05.jpeg",
+    "data": "2026-11-18T07:00:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quem são os três oficiais que devem assumir a cúpula da PM de MG",
+    "resumo": "Governador eleito anuncia nova cúpula da segurança em MG Três oficiais da Polícia Militar de Minas Gerais devem assumir os principais cargos da cúpula da corporação em 2027. Os nomes foram apresentados nesta terça-feira (17) pelo governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos). Em um vídeo gravado na Cabana do Pai Tomá",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/quem-sao-os-tres-oficiais-que-devem-assumir-a-cupula-da-pm-de-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VdxRtO5PHLsAPIFH0zuj2wWo3y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/9TXRCgSfAhnGsiaYnBdg/cupula-pmmg.jpg",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Peixe-leão, espécie invasora flagrada no ES, pode comer 20 peixes em meia hora; saiba o que fazer se encontrar",
+    "resumo": "Peixe-leão, espécie invasora com veneno, é registrado pela primeira vez no litoral do ES O peixe-leão flagrado na Ilha Escalvada, em Guarapari, no litoral do Espírito Santo, pode devorar até 20 peixes em meia hora e produzir até 30 mil ovos. Considerada uma espécie invasora, a presença do animal preocupa os órgãos ambientais pelos riscos ",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/18/peixe-leao-especie-invasora-flagrada-no-es-pode-comer-20-peixes-em-meia-hora-saiba-o-que-fazer-se-encontrar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6Em_f1c01cEVbbUMf-7DZz4v7rM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/I/pknVa2QgqplZ8c1UStzA/thumb-fotos.jpg",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mãe de paciente que morreu durante tratamento de canal em MG cobra explicação sobre causa da morte",
+    "resumo": "Consultório odontológico - foto ilustrativa Freepik A mãe de Valéria Siqueira da Silva, que morreu durante um tratamento de canal em um consultório odontológico de Barbacena, no Campo das Vertentes, ainda aguarda respostas sobre a causa da morte. Segundo Maria Auxiliadora, o atestado de óbito entregue à família registra a causa como \"inde",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/18/mae-de-paciente-que-morreu-durante-tratamento-de-canal-em-mg-cobra-explicacao-sobre-causa-da-morte.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/anc43sW1qi6ShjQ3n4PflNxWmoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/SquqRlSs2MFpXVBio6HA/escritorio-odontologico.png",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Superdotação e vestibular: por que facilidade para aprender não garante aprovação",
+    "resumo": "Por que superdotação não garante aprovação no vestibular Apesar dos ótimos resultados em provas apenas ao prestar a atenção nas aulas, Hilton Dias de Oliveira, de 18 anos, tem dificuldade para sentar e estudar, o que aumenta o desafio na preparação para vestibular. \"É diferente, você precisa sentar e estudar e isso eu não costumo fazer\", ",
+    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/18/superdotacao-e-vestibular-por-que-facilidade-para-aprender-nao-garante-aprovacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JRzI8baVPWWDyBvC1K8UeS-9qFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Q/ArB5YKSy2YpsdKR8R0BA/design-sem-nome.png",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "‘Quero minha cachorra de volta’, diz tutora de husky que ONG entregou a outra família em Cravinhos, SP",
+    "resumo": "Justiça determina que husky doada por ONG após fugir retorne à família Reprodução/Arquivo Pessoal A tutora Carla Martins Ribeiro Tena, de Cravinhos (SP), diz que ouviu de uma funcionária da ONG que recolheu sua husky Pandora que só teria a cadela de volta “na frente do juiz”. Segundo ela, a Associação Ambientalista Toda Vida informou que ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/18/quero-minha-cachorra-de-volta-diz-tutora-de-husky-que-ong-entregou-a-outra-familia-em-cravinhos-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/nbcU8QkHn_elumFcO5tttK1mGoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/u/NzyDotQ0Ogb8nBgRXoEA/design-sem-nome-10-.png",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Petrolina e Araripina têm vagas de emprego nesta quarta-feira; veja",
+    "resumo": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina e Araripina nesta quarta-feira (18). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades podem entrar em contato com a Sedepe através da inte",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/18/petrolina-e-araripina-tem-vagas-de-emprego-nesta-quarta-feira-veja.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Membro de facção que matou DJ por confundi-la com rival é preso na Grande Fortaleza",
+    "resumo": "Membro de facção que matou DJ por confundi-la com rival é preso na Grande Fortaleza. John Igor da Silva Albuquerque foi preso em Paraipaba, na Região Metropolitana de Fortaleza. Ele é condenado pela morte da DJ Ana Karolina de Souza Santos, assassinada no bairro Bonsucesso, em Fortaleza. A prisão de John Igor ocorreu no último dia 29 de o",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/18/membro-de-faccao-que-matou-dj-por-confundi-la-com-rival-e-preso-na-grande-fortaleza.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BP1pkZxQFA4byIgs7g9kzSPLqQw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/H/i3IEGCS1S36L752GGYXg/dj-morta-fortaleza.jpg",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Queijo falso ou verdadeiro? Inteligência artificial desenvolvida em MG quer ajudar a descobrir",
+    "resumo": "As telas do aplicativo mostram o resultado da análise: de um lado um queijo verdadeiro e do outro, um queijo falsificado reprodução/Aplicativo de Inspeção É queijo da Canastra mesmo ou só parece? Pesquisadores do Instituto Federal de Minas Gerais (IFMG), campus Bambuí, no Centro-Oeste do estado, estão desenvolvendo um sistema que usa inte",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/queijo-falso-ou-verdadeiro-inteligencia-artificial-desenvolvida-em-mg-quer-ajudar-a-descobrir.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Kr1Cl5YbNY7uHHAFAdznFzuNmMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/D/HhZ6SuRaWzBclLHQUhAA/queijo3.jpeg",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Alaíde Costa canta Fátima Guedes, Zé Renato, Joyce Moreno e Johnny Alf no álbum 'Meu vício na dor de amar demais'",
+    "resumo": "Capa do álbum 'Meu vício na dor de amar demais', de Alaíde Costa Fábio Audi / Divulgação ♫ NOTÍCIA ♬ Idealizada por Marcus Preto, a capa do álbum que Alaíde Costa lançará em 27 de novembro, “Meu vício na dor de amar demais”, expõe a cantora em bela e expressiva foto de Fábio Audi. Terceiro título da trilogia idealizada por Emicida e Preto",
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/18/alaide-costa-canta-fatima-guedes-ze-renato-joyce-moreno-e-johnny-alf-no-album-meu-vicio-na-dor-de-amar-demais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/x1yWBN7XmDIDu4qIVMcfMxyD9o8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Z/CMgspAQRaGARLW6SntMA/album-meuvicionadordeamardemais.png",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jão, Zé Ramalho, Festival da Jabuticaba, Orquestra de Ouro Preto, teatro: veja agenda da semana",
+    "resumo": "Jão, Zé Ramalho, festival, teatro, orquestra: confira as atrações culturais da semana em BH. Divulgação O fim de semana em Belo Horizonte e na Região Metropolitana está com atrações para todos os gostos. O g1 preparou uma agenda cultural com opções para aproveitar. Confira: Jão – “Memórias Póstumas” Jão em sessão de fotos do disco 'Memóri",
+    "link": "https://g1.globo.com/guia/guia-bh/noticia/2026/11/18/jao-ze-ramalho-festival-da-jabuticaba-orquestra-de-ouro-preto-teatro-veja-agenda-da-semana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CE-rn84XhOytfh3ZFlYksspMnho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/I1lTCsRBav3ePXztI3GQ/blank-5-grids-collage-2-.png",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: 'Lixo voador' é flagrado por câmera de segurança e quase atinge carro em Uberlândia",
+    "resumo": "'Lixo voador' é flagrado por câmera de segurança e quase atinge carro em Uberlândia Uma câmera de segurança de um prédio do bairro Santa Mônica, em Uberlândia, no Triângulo Mineiro, registrou o momento em que lixo foi jogado do alto do condomínio e passou muito perto de um carro que trafegava pela rua Professor João Luís. O caso aconteceu",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/18/video-lixo-voador-e-flagrado-por-camera-de-seguranca-e-quase-atinge-carro-em-uberlandia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7dG4i53kdMoPat1Y5RmXCbRda9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/K/Rt8HZTR3yZfajaqyuYYA/lixo-voador.png",
+    "data": "2026-11-18T07:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "imagem": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
+    "data": "2026-11-18T06:56:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Africa’s economic future cannot depend on Washington",
+    "resumo": "Trump&#039;s move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T06:22:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "How the Houthis fund war effort and tighten grip on Yemen",
+    "resumo": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T06:19:17.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
     "titulo": "How important are Nvidia and Jensen Huang to the US economy?",
     "resumo": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
     "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
@@ -18,22 +180,13 @@
     "data": "2026-11-18T06:00:33.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
-    "resumo": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T05:53:57.000Z"
-  },
-  {
     "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
-    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-    "imagem": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
-    "data": "2026-11-18T05:41:54.000Z"
+    "fonte": "Al Jazeera",
+    "titulo": "What’s in the air you breathe? How to stay safe during smog season",
+    "resumo": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T05:55:08.000Z"
   },
   {
     "categoria": "Economia",
@@ -47,8 +200,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
-    "resumo": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+    "titulo": "Rafael Grossi is eyeing the UN’s top job. Will US support nuke his chances?",
+    "resumo": "The nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
     "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-18T05:24:02.000Z"
@@ -108,60 +261,6 @@
     "data": "2026-11-18T05:00:32.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo",
-    "resumo": "Imagem de divulgação de GTA VI. Reprodução/Rockstar Games Após 13 anos de espera, o Grand Theft Auto VI (GTA 6) chega aos consoles nesta quinta-feira (19). O jogo da Rockstar Games passou por adiamentos e vazamentos, mas será lançado oficialmente à meia-noite. O jogo sucede GTA 5, em uma franquia que, segundo a Take-Two, já passou de 475 ",
-    "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-vi-chega-amanha-veja-tudo-que-voce-precisa-saber-sobre-o-jogo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/I4W-_YElSvBSpM5LvPoGCtjlVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png",
-    "data": "2026-11-18T05:00:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Aluno do interior de SP viraliza ao se emocionar com premiação por evoluir nos estudos para o Saresp",
-    "resumo": "Aluno viraliza ao se emocionar com premiação por evoluir nos estudos para o Saresp O choro sincero de um estudante de 10 anos ganhou as redes sociais na última semana quando o aluno foi homenageado diante de outros colegas em Altinópolis (SP). No vídeo, Eduardo Delfino aparece abraçado por um amigo e emocionado, ao ouvir a professora, tam",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/18/aluno-do-interior-de-sp-viraliza-ao-se-emocionar-com-premiacao-por-evoluir-nos-estudos-para-o-saresp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YXDlZjawBolxh50O2LxGY4kcBaE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/j/UXLzb9SPOqOS7iNXa2AA/design-sem-nome-22-.jpg",
-    "data": "2026-11-18T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Avião de Amado Batista desceu 15 mil pés em cinco minutos para descongelar tubo, diz piloto",
-    "resumo": "Mulher de Amado Batista relata pane durante voo O avião do cantor Amado Batista, que precisou fazer uma descida de emergência, executou uma descida rápida de 30 mil para 15 mil pés em cerca de cinco minutos, segundo o comandante do voo, Marcus Boldrin. Em entrevista ao g1, o piloto explicou que optou por uma manobra intermediária entre a ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/18/aviao-de-amado-batista-desceu-15-mil-pes-em-cinco-minutos-para-descongelar-tubo-diz-piloto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nEac73Yvk4bf2gAQX3inogJ-ZQg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/S/qoRgoFTIKxQRxtxgSxBg/png-4-.png",
-    "data": "2026-11-18T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Iniciativa do governo Tump para destinar US$ 50 bilhões para a aviação enfrenta oposição nos EUA",
-    "resumo": "Passageiros aguardam na fila de segurança do Aeroporto Nacional Ronald Reagan, próximo a Washington, após a retomada das decolagens nos EUA, neste sábado (14). Reuters Senadores republicanos afirmaram nesta terça-feira (17) que não apoiariam o pedido do governo do presidente Donald Trump de US$ 50 bilhões (R$ cerca de 290 bilhões) para re",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/iniciativa-do-governo-tump-para-destinar-us-50-bilhoes-para-a-aviacao-enfrenta-oposicao-nos-eua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Zd4T0EbXIdd_x0Njrp8byPyjVFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/v/PTfxVuTbWq91wAdgb7YQ/2026-11-14t154335z-775010430-rc2onoau1byx-rtrmadp-3-usa-faa-ground-stop.jpg",
-    "data": "2026-11-18T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Identidade e memória': entenda por que o STF agora tem uma escultura de Xangô no acesso ao plenário",
-    "resumo": "STF inaugura escultura de Xangô em Brasília Erika Mendes/g1 DF O Supremo Tribunal Federal (STF) inaugurou nesta terça-feira (17), uma escultura de Oxê de Xangô, símbolo da Justiça na tradição iorubá e das religiões de matriz africana. A peça foi instalada no hall do Salão Nobre, no segundo andar do edifício-sede da Corte, em Brasília, pró",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/identidade-e-memoria-entenda-por-que-o-stf-agora-tem-uma-escultura-de-xango-no-acesso-ao-plenario.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rwqXu-hn5UibmuPt_9qL1gwmvc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/z/KeMdx0SUqkMEpa4nIHsg/clb-inauguracao-stf-1-.jpeg",
-    "data": "2026-11-18T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "GTA 6 em Uberaba: Peirópolis, Piscinão e Expozebu viram cenário do jogo em vídeos publicados nas redes",
-    "resumo": "Peirópolis, Piscinão e Expozebu viram cenário de GTA 6 em Uberaba Com lançamento previsto nesta quinta-feira (19), o GTA 6 tem inspirado conteúdos nas redes sociais. Perfis utilizaram inteligência artificial para criar cenas do jogo ambientadas em pontos de Uberaba. A praça Rui Barbosa, os dinossauros de Peirópolis, os shows da ExpoZebu e",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/18/gta-6-em-uberaba-peiropolis-piscinao-e-expozebu-viram-cenario-do-jogo-em-videos-publicados-nas-redes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9tpNSwdaaDimLsuZ0yCAtsPumiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/G/3YclKBT8O56ZnedNhuTg/gta-ura-01.png",
-    "data": "2026-11-18T05:00:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
@@ -187,60 +286,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
     "imagem": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=8869a08f117f3b859f3c91649b07cac0",
     "data": "2026-11-18T04:25:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (18) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 26ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
-    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0EjmKOdI7m9P9bgpi_fR2J5yP4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/O/KXdq7ISWAV1QWoLnn7Ng/previsao-tempo-bras-lia-20261118-011616.jpeg",
-    "data": "2026-11-18T04:16:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quarta-feira (18) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ec3HGm0JIO4r8DkHBxpLqk-fQyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/K/zlAAQKQmKFyjhjrqb0BA/previsao-tempo-goi-nia-20261118-011559.jpeg",
-    "data": "2026-11-18T04:16:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quarta-feira (18) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoad",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NuBKwYHXYXeBrKN3cdw2XTe7-BU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/Q3BnSEQjAc4xyR4me03w/previsao-tempo-aparecida-de-goi-nia-20261118-011541.jpeg",
-    "data": "2026-11-18T04:15:53.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quarta-feira (18) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de c",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/g1tRHnFvLvDQ5J5lGgNBX8EFraY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/4y9n3SQuiTn0ZcaNHqpA/previsao-tempo-cuiab-20261118-011522.jpeg",
-    "data": "2026-11-18T04:15:33.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quarta-feira (18) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/n2Wq0rPLSEjU4r3Blp-QRrRKKgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/M/Nqhr8uQByD6qL4F7yuqA/previsao-tempo-campo-grande-20261118-011504.jpeg",
-    "data": "2026-11-18T04:15:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quarta-feira (18) para Porto Alegre (RS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jMw7kuXYr2HIkitxy-ZGyjvwemk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/W/n3mjmiSN6AaAkNWPM5xg/previsao-tempo-porto-alegre-20261118-011440.jpeg",
-    "data": "2026-11-18T04:14:58.000Z"
   },
   {
     "categoria": "Internacional",
@@ -338,7 +383,7 @@
     "titulo": "Waymo pulls driverless taxis from all US freeways",
     "resumo": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
     "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-18T03:07:22.000Z"
   },
   {
@@ -353,7 +398,7 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+    "titulo": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
     "resumo": "Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.",
     "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
     "imagem": null,
@@ -397,26 +442,8 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hungary on the hunt for a football hero",
-    "resumo": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T02:32:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "ICE agents shove and pepper-spray pregnant woman",
-    "resumo": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T02:17:12.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "The Guardian",
-    "titulo": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+    "titulo": "South Korea’s high-stakes university exams upended by AI cheating scandal",
     "resumo": "<p>South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams</p><p>The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam <a href=\"https://viewer.gu",
     "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
     "imagem": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=508a09f51a91f0a82c9b0fcf2109c3eb",
@@ -432,15 +459,6 @@
     "data": "2026-11-18T02:02:44.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What is Trump hoping to achieve at APEC meeting in China?",
-    "resumo": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T01:33:05.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
@@ -452,7 +470,7 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+    "titulo": "Nvidia says it won't reinstate Huang as it reports soaring sales",
     "resumo": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
@@ -945,15 +963,6 @@
     "data": "2026-11-17T18:26:00.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-    "resumo": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-17T18:24:21.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "William and Kate celebrate Earthshot Prize winners in Mumbai",
@@ -961,15 +970,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-17T18:20:36.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
-    "resumo": "<p>Britain joins other signatories to statement urging introduction of targeted taxes on heavy emitters </p><p>The UK has signed a statement that backs levies on polluting sectors to pay for the impacts of the climate crisis, in a strong political signal that could pave the way for frequent flyer and crypto taxes.</p><p>Signing the <a hre",
-    "link": "https://www.theguardian.com/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
-    "imagem": "https://i.guim.co.uk/img/media/13315150703ff8fcca48f5afcf8acb9723cff8c9/820_46_5609_4488/master/5609.jpg?width=140&quality=85&auto=format&fit=max&s=f9b027f909feae34ba6c25386e79e369",
-    "data": "2026-11-17T17:59:41.000Z"
   },
   {
     "categoria": "Estados Unidos",
