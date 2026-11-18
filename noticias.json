@@ -1,129 +1,282 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Aliados de Alcolumbre dão como certo julgamento da Lei da Dosimetria depois de encontro com Moraes",
+    "resumo": "Depois de ter se reunido com Alexandre de Moraes, o presidente do Senado, Davi Alcolumbre (União-AP), disse a interlocutores estar confiante de que o ministro do STF vai liberar para julgamento a constitucionalidade da Lei da Dosimetria, depois de segurar desde maio as ações contra a medida. 🔎A proposta reduz as penas de quem participou ",
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/18/aliados-de-alcolumbre-dao-como-certo-julgamento-da-lei-da-dosimetria-depois-de-encontro-com-moraes.ghtml",
+    "imagem": null,
+    "data": "2026-11-18T14:32:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como funcionava esquema de bets clandestinas que levou à prisão de influenciadoras na Paraíba",
+    "resumo": "Influenciadoras são presas em operação contra bets clandestinas, na PB O esquema de bets clandestinas investigado pela Polícia Civil e pelo Ministério Público da Paraíba (MPPB) usava influenciadores digitais para atrair apostadores por meio de simulações de ganhos nas redes sociais. Entre os investigados estão as influenciadoras conhecida",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/18/como-funcionava-esquema-de-bets-clandestinas-que-levou-a-prisao-de-influenciadoras-na-paraiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/U7x1nCkd9-QnM-_FBzVj0rtt3R8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/c/6ku6FBSvesCTETPNKg9Q/fotojet.jpg",
+    "data": "2026-11-18T14:31:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Receita Federal apreende Botox e medicamentos para emagrecer escondidos em caixas de bombons em Montes Claros; VÍDEO",
+    "resumo": "Receita Federal apreende Botox e medicamentos para emagrecer em caixas de bombons A Receita Federal apreendeu mercadorias avaliadas em aproximadamente R$ 70 mil durante uma fiscalização realizada em um centro de distribuição de encomendas em Montes Claros, nesta terça-feira (17). Entre os produtos encontrados estavam 40 frascos de medicam",
+    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/18/receita-federal-apreende-botox-e-medicamentos-para-emagrecer-escondidos-em-caixas-de-bombons-em-montes-claros-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Y43R7urSkpaLCy7k2Ez24VGHB6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/5/lHCfqiRaiIkCSUnekMXg/receita99.jpeg",
+    "data": "2026-11-18T14:31:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dupla tenta fugir mas é presa com 1,7 mil litros de combustível para garimpo ilegal em Boa Vista",
+    "resumo": "PRF apreende 1.750 litros de combustível de aviação destinado ao garimpo ilegal, em Boa Vista. Divulgação/PRF Dois homens foram presos na tarde de terça-feira (17) com 1.750 litros de combustível de aviação que seriam vendidos para o garimpo ilegal. A prisão ocorreu no km 6 da rodovia estadual RR-319, na região do Passarão, zona rural de ",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/dupla-tenta-fugir-mas-e-presa-com-17-mil-litros-de-combustivel-para-garimpo-ilegal-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Elaf8Joro8ijTWVjcVuTkawRo-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/O/uNzoRATbqXLXhETABPWA/prf-1-.png",
+    "data": "2026-11-18T14:31:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Operação com helicóptero apreende perfumes, anabolizantes e eletrônicos em rodovia do Oeste Paulista",
+    "resumo": "Mercadoria estrangeira apreendida por policiais militares estava em quatro carros abordado na Rodovia Raposo Tavares (SP-270), na noite de terça-feira (17) Fotos: Polícia Militar/Reprodução Uma operação da Polícia Militar resultou na apreensão de aproximadamente R$ 1 milhão em mercadorias de origem estrangeira, na Rodovia Raposo Tavares (",
+    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/18/operacao-com-helicoptero-apreende-perfumes-anabolizantes-e-eletronicos-em-rodovia-do-oeste-paulista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cwLCh3QEUIjNSE0GRb5-quKeaBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/n/ANi8dyQsKec8i4lpTDoQ/pp-contrabando-carros.jpeg",
+    "data": "2026-11-18T14:30:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Conta de luz sobe até 22,51% para cerca de 2 milhões de consumidores do RS; saiba que regiões são afetadas",
+    "resumo": "Entenda a sua conta de luz As tarifas de energia da CEEE Equatorial (CEEE-D) terão efeito médio de alta de 20,16% a partir de domingo (22). A revisão atinge cerca de dois milhões de unidades consumidoras em 72 municípios das regiões Metropolitana, Campanha, Centro-Sul, Sul, Litoral Norte e Litoral Sul do Rio Grande do Sul e ficará vigente",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/aumento-tarifa-ceee-equatorial.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/roEf2M2YeHtWNBbv8NaLfzlzi00=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/0/eQ5lOnQVOSalT7zEmc2A/g1-1200-x-675-px-.png",
+    "data": "2026-11-18T14:30:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ar volta a ficar péssimo em Parintins no dia em que aulas são retomadas após suspensão",
+    "resumo": "Qualidade do ar em Parintins é péssima nessa quarta-feira (18) Karen Matos/Rede Amazônica A qualidade do ar voltou a ser considerada péssima em Parintins, no interior do Amazonas, nesta quarta-feira (18). No mesmo dia, as aulas das redes municipal e estadual de ensino foram retomadas após 14 dias de suspensão por causa da fumaça das queim",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/18/ar-volta-a-ficar-pessimo-em-parintins-no-dia-em-que-aulas-sao-retomadas-apos-suspensao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7vCEN9fGyn62H1XZHMhDwp6sH6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/U/L8a2TKQOmqKSUgOaRnIQ/design-sem-nome-2026-11-18t095106.675.png",
+    "data": "2026-11-18T14:27:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Integrante do Comando Vermelho que estava na lista de mais procurados do Brasil é preso na PB",
+    "resumo": "Edivan Melo de Jesus estava entre os criminosos paraibanos mais procurados do país. Reprodução/Polícia Federal Edivan Melo de Jesus, conhecido como \"Nego\" e apontado como uma das principais lideranças do Comando Vermelho na Paraíba, foi preso na manhã desta quarta-feira (18), em Juarez Távora, no Agreste da Paraíba. ✅ Clique aqui para seg",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/18/integrante-do-comando-vermelho-que-estava-na-lista-de-mais-procurados-do-brasil-e-preso-na-pb.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6hKIfHN-stAW9pLCaQBIMD-_LKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/M/BAKSUlQbOyXZkp5GV4kQ/edivan-ok.jpg",
+    "data": "2026-11-18T14:27:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Edital do CFO 2027 do Corpo de Bombeiros da Paraíba é divulgado; saiba como participar",
+    "resumo": "Oficiais dos Bombeiros da Paraíba Divulgação/Corpo de Bombeiros da Paraíba O Corpo de Bombeiros da Paraíba divulgou o edital do concurso público para o Curso de Formação de Oficiais no Diário Oficial do Estado desta quarta-feira (18). Ao todo, são 20 vagas para o quadro de Oficiais, com o objetivo de preencher no futuro os cargos de 2º Te",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/18/edital-do-cfo-2027-do-corpo-de-bombeiros-da-paraiba-e-divulgado-saiba-como-participar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_BtVR3BLrgTA8QbqT43qXMRpUb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/e/6/kQdUcLTJekSH8G7WKTDw/bombeiros.jpg",
+    "data": "2026-11-18T14:25:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Sabor de Casa: aprenda a fazer o clássico bolo de cenoura com calda de chocolate",
+    "resumo": "Sabor de Casa: aprenda a fazer bolo de cenoura Reprodução/EPTV O quadro Sabor de Casa, do EPTV 1, ensina o preparo do clássico bolo de cenoura com calda de chocolate nesta quarta-feira (18). A receita da confeiteira Carolina Meirelles Vieira leva poucos ingredientes e é fácil de fazer. Carolina contou que aprendeu a receita após ganhar um",
+    "link": "https://g1.globo.com/sp/campinas-regiao/receitas/noticia/2026/11/18/sabor-de-casa-aprenda-a-fazer-o-classico-bolo-de-cenoura-com-calda-de-chocolate.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QHldHCzxN6jrToryZpmEnokOr04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/4/a7MscQT0Ae8henkBpMTg/eptv-cp-bdc-2409-flagra-faixa-exclusiva.jpg",
+    "data": "2026-11-18T14:25:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Liberal",
+    "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+    "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "imagem": null,
+    "data": "2026-11-18T14:22:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça do RJ manda soltar contrarregra preso em operação na Favela do Lixão",
+    "resumo": "O contrarregra Josenildo Amante Pereira, conhecido como Magrão Reprodução A Justiça do Rio de Janeiro determinou a soltura do contrarregra Josenildo Amarante Pereira, conhecido como Magrão, preso durante uma operação da Polícia Civil na Favela do Lixão, em Duque de Caxias, na última sexta-feira (13). A decisão do desembargador Marcelo Cas",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/18/justica-do-rj-manda-soltar-contrarregra-preso-em-operacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zSfjjWmyo-51b3UJv-vEG3iTfPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/GA0O5SS0G9kbVKWLXKkw/imagem-cortada-61-.jpg",
+    "data": "2026-11-18T14:22:00.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
     "resumo": "<p>Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit</p><p>California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation that attended unofficially due to President Donald Trump’s withdrawal fr",
     "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&quality=85&auto=format&fit=max&s=6aec30482d2c5d171594d537dbf1fcd2",
-    "data": "2026-11-18T13:43:58.000Z"
+    "data": "2026-11-18T14:20:24.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gabarito da prova CINZA do Enem 2026 - 2º dia; consulte",
-    "resumo": "Cadernos de prova do 2º dia do Enem 2026 Angelo Miguel/MEC Os gabaritos oficiais do Exame Nacional do Ensino Médio (Enem) 2026 foram divulgados nesta quarta-feira (18), no site do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). É possível acessá-los clicando neste link. Abaixo, veja as respostas de Ciências ",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/18/gabarito-da-prova-cinza-do-enem-2026-2o-dia-consulte.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/j56QChUhLBNZi5IF-hq4SmRXHls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/b/EQEjKxSF6Ztg7xQeBSMA/55655008208-f80597a61a-k.jpg",
-    "data": "2026-11-18T13:40:48.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+    "resumo": "The inquiries would focus on President Trump, his family and top officials in his administration and would include a look at Commerce Secretary Howard Lutnick and policies related to Nvidia.",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-investigate-vtkq/18dc-investigate-vtkq-mediumSquareAt3X-v3.jpg",
+    "data": "2026-11-18T14:17:26.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gabarito da prova VERDE do Enem 2026 - 2º dia; consulte",
-    "resumo": "Cadernos de prova do 2º dia do Enem 2026 Angelo Miguel/MEC Os gabaritos oficiais do Exame Nacional do Ensino Médio (Enem) 2026 foram divulgados nesta quarta-feira (18), no site do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). É possível acessá-los clicando neste link. Abaixo, veja as respostas de Ciências ",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/18/gabarito-da-prova-verde-do-enem-2026-2o-dia-consulte.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/j56QChUhLBNZi5IF-hq4SmRXHls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/b/EQEjKxSF6Ztg7xQeBSMA/55655008208-f80597a61a-k.jpg",
-    "data": "2026-11-18T13:39:57.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inscrições para exame de proficiência ofertado pela Unifap encerram nesta quinta-feira (19)",
-    "resumo": "g1 em 1 minuto: Unifap abre inscrições para exame de proficiência em 3 idiomas As inscrições para o Exame de Língua Estrangeira para a Pós-Graduação (Elep) ofertado pela Universidade Federal do Amapá (Unifap) encerram as inscrições nesta quinta-feira (19). O exame é voltado para estudantes universitários e profissionais graduados. O teste",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/18/inscricoes-para-exame-de-proficiencia-ofertado-pela-unifap-encerram-nesta-quinta-feira-19.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bMbXuxXWf3B_66oG000l6hZkZFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/K/l2YxSnRuqMOZCX6dMJPA/aleixo-g1-27-.jpg",
-    "data": "2026-11-18T13:39:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Criança de seis anos morre e adolescente fica ferida após moto elétrica ser atingida por carro no RS",
-    "resumo": "Criança de seis anos morre e adolescente fica ferida moto elétrica ser atingida por carro no RS Policia Civil Uma criança de seis anos morreu e uma adolescente de 16 anos ficou ferida em um acidente de trânsito envolvendo uma moto elétrica na tarde de terça-feira (17), em Vacaria, na Serra Gaúcha. As duas vítimas estavam no veículo quando",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/crianca-morre-acidente-bicicleta-eletrica-vacaria-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EQ5l2tJzrUjNvFb6GMvJdAAxG0E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/L/CZAgoIQkmvhuIGBbr1gg/g1-48-.jpg",
-    "data": "2026-11-18T13:39:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gabarito da prova AMARELA do Enem 2026 - 2º dia; consulte",
-    "resumo": "Cadernos de prova do 2º dia do Enem 2026 Angelo Miguel/MEC Os gabaritos oficiais do Exame Nacional do Ensino Médio (Enem) 2026 foram divulgados nesta quarta-feira (18), no site do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). É possível acessá-los clicando neste link. Abaixo, veja as respostas de Ciências ",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/18/gabarito-da-prova-amarela-do-enem-2026-2o-dia-consulte.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/j56QChUhLBNZi5IF-hq4SmRXHls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/b/EQEjKxSF6Ztg7xQeBSMA/55655008208-f80597a61a-k.jpg",
-    "data": "2026-11-18T13:39:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gabarito da prova AZUL do Enem 2026 - 2º dia; consulte",
-    "resumo": "Cadernos de prova do 2º dia do Enem 2026 Angelo Miguel/MEC Os gabaritos oficiais do Exame Nacional do Ensino Médio (Enem) 2026 foram divulgados nesta quarta-feira (18), no site do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). É possível acessá-los clicando neste link. Abaixo, veja as respostas de Ciências ",
-    "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/18/gabarito-da-prova-azul-do-enem-2026-2o-dia-consulte.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/j56QChUhLBNZi5IF-hq4SmRXHls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/b/EQEjKxSF6Ztg7xQeBSMA/55655008208-f80597a61a-k.jpg",
-    "data": "2026-11-18T13:38:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motorista fica ferido ao bater caminhão após levar picada de abelha em rodovia de Charqueada",
-    "resumo": "Caminhão bate em barreira após motorista ser picado por abelha em Charqueada Um motorista ficou ferido após se envolver em um acidente com caminhão que dirigia na tarde desta terça-feira (17). Segundo a concessionária Eixo-SP responsável para administração da Rodovia Irineu Penteado (SP-191), a vítima bateu o veículo contra a barreira de ",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/18/motorista-fica-ferido-ao-bater-caminhao-apos-levar-picada-de-abelha-em-rodovia-de-charqueada.ghtml",
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Can the US and Iran sustain a ‘frozen war’?",
+    "resumo": "Tehran may eventually decide that &#039;escalating confrontation&#039; is preferable to status quo, says analyst Hamidreza Azizi.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-18T13:38:32.000Z"
+    "data": "2026-11-18T14:13:51.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ministério da Saúde abre processo seletivo com vagas em Belém e salários de até R$ 10,3 mil",
-    "resumo": "Ministério da Saúde abre processo seletivo com vagas para profissionais de nível superior O Ministério da Saúde abriu um processo seletivo simplificado com 300 vagas imediatas e outras 459 para formação de cadastro de reserva em cargos de nível superior. Há oportunidades para atuação em Belém, além de outras cidades do país. Os salários v",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/18/ministerio-da-saude-abre-processo-seletivo-com-vagas-em-belem-e-salarios-de-ate-r-103-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OxIoER4686bifj1k2wKop1DH6z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/D/mBasjBTmOj5tjcsdLEhg/ministerio-da-saude.jpg",
-    "data": "2026-11-18T13:38:22.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "What’s holding South Africa’s economy back?",
+    "resumo": "South Africa seeks billions in new investment to revive weak growth and tackle unemployment crisis.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T14:12:57.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mãe sofre tentativa de assassinato um dia depois de perder o filho à tiros em Itaperuna; homem foi preso",
-    "resumo": "Homem foi preso suspeito de tentativa de homicídio em Itaperuna. Polícia Civil Um homem foi preso na sexta fase da Operação Caça ao Sicário, em Itaperuna, no Noroeste Fluminense. Ele é suspeito de tentar matar a mãe de Joseph Carvalho Ribeiro, assassinado em um ataque à tiros no dia 10 de outubro no bairro Esperança, um dia após o crime. ",
-    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/18/mae-sofre-tentativa-de-assassinato-um-dia-depois-de-perder-o-filho-a-tiros-em-itaperuna-homem-foi-preso.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/O-ciBi5dOVoH11pl1Xxmbb8j7cM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/rk5l0dTBOhzg09wvigwA/preso-itaperuna.jpg",
-    "data": "2026-11-18T13:38:16.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
+    "resumo": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T14:11:07.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Chacina em Formosa: vídeo mostra que vítima tentou fugir de policial, filho e amigo, mas foi executada",
-    "resumo": "Chacina em Formosa: novo vídeo mostra detalhes do crime Chacina em Formosa: novo vídeo mostra detalhes do crime O vídeo que mostra detalhes da chacina de Formosa evidencia que uma das quatro vítimas tentou fugir, mas foi executada no meio da rua, no bairro Parque Lago. Nas imagens, é possível ver o momento em que o militar da reserva Matu",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/18/chacina-em-formosa-video-mostra-que-vitima-tentou-fugir-de-policial-filho-e-amigo-mas-foi-executada.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/FHuUwfFQlVuB9fnOaeXtWyQ-sho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/i/kPgSZhQZSYxDd4Brz7UA/copia-de-copia-de-padrao-foto-g1-goias-2026-11-17t174808.521.jpg",
-    "data": "2026-11-18T13:38:01.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+    "resumo": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
+    "link": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T14:08:08.000Z"
   },
   {
     "categoria": "Clima",
     "fonte": "The Guardian",
-    "titulo": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
-    "resumo": "<p>Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007</p><p>Foie gras imports into the UK will no longer be banned as ministers drop the pledge in order to smooth a trade deal with the EU that will be announced this week.</p><p>As first reported by the Financial Times, th",
-    "link": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
-    "imagem": "https://i.guim.co.uk/img/media/70e660fd41167b951c370313da615a9538afcd67/145_272_4671_3738/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=00ccaf9239d9dca75987523370748aa4",
-    "data": "2026-11-18T13:37:47.000Z"
+    "titulo": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+    "resumo": "<p>Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says</p><p>Environment secretary Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic decline of Britain’s wild birds, the UK’s environment regulator has said.</p><",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+    "imagem": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=b124c59b5d3d0a13ef96a78ee105d3f0",
+    "data": "2026-11-18T14:07:35.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "U.S. Catholic Bishops Are Discussing A.I. at Annual Meeting",
+    "resumo": "At their annual fall meeting, the bishops are discussing how to address the negative impacts of A.I., even as some struggle to navigate the fast-evolving technology.",
+    "link": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17nat-ai-bishops-bzvp/17nat-ai-bishops-bzvp-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T14:03:13.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "imagem": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
+    "data": "2026-11-18T14:02:36.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "‘Huge experiment in biogeography’: US offshore windfarms are creating artificial reefs",
+    "resumo": "<p>Scientists and fishers study how these ‘reefs’ and the creatures living on them are transforming the ocean floor – and what it means for the fishing industry</p><p>A few years ago, Tony DiLernia, a New York-based charter boat captain, heard rumors of prime fishing near the Block Island windfarm, off the tip of Long Island. So he went w",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
+    "imagem": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
+    "data": "2026-11-18T14:00:04.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "In rare good news, wages have risen strongly. But Australian workers are still falling behind | Greg Jericho",
+    "resumo": "<p>Despite the highest wage growth in years, we wait for signs of workers getting ahead of inflation – or of the supposed benefits of the AI boom</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://ww",
+    "link": "https://www.theguardian.com/business/grogonomics/2026/nov/19/real-wage-growth-australian-economy-workers-still-falling-behind",
+    "imagem": "https://i.guim.co.uk/img/media/cf4ce384e9c39f9a9e0ba72b49a3916086f9f5f8/455_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=aedac9af0610e1c5b86efc3161f4b01d",
+    "data": "2026-11-18T14:00:04.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+    "resumo": "<p>Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.th",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+    "imagem": "https://i.guim.co.uk/img/media/227dcc4be932d831c026650a4f387a0123b9c5be/581_0_2919_2335/master/2919.jpg?width=140&quality=85&auto=format&fit=max&s=9745027689042fb357d933ed89a17036",
+    "data": "2026-11-18T14:00:02.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "How The Verge is picking which Black Friday deals to share",
+    "resumo": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, the companies would prefer that [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-18T14:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Will Wright’s next game uses AI to map your memories",
+    "resumo": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
+    "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-18T14:00:00.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
+    "resumo": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+    "data": "2026-11-18T13:55:14.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Multas de trânsito aumentam quase 19% em dois anos em São José dos Campos; veja as vias com mais autuações",
-    "resumo": "Multas de trânsito aumentam em São José dos Campos O número de multas de trânsito em São José dos Campos aumentou 18,9% entre janeiro e setembro de 2024 e o mesmo período de 2026. Segundo dados da Prefeitura, foram registradas 236.717 autuações nos nove primeiros meses de 2024. Em 2025, o total subiu para 253.771 e, neste ano, chegou a 28",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/18/multas-de-transito-aumentam-quase-19percent-em-dois-anos-em-sao-jose-dos-campos-veja-as-vias-com-mais-autuacoes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/an8QNk4LBdraxb2J0ywfgdUW1yA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/pz877IRBS3iWBghnw8zw/texto-do-seu-paragrafo-2026-11-18t102049.125.png",
-    "data": "2026-11-18T13:35:54.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Operação Cash Out investiga esquema de bets e bloqueia R$ 2,3 bilhões",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/operacao-cash-out-investiga-esquema-de-bets-e-bloqueia-r-23-bilhoes\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/operacao-cash-out-investiga-esquema-de-bets-e-bloqueia-r-23-bilhoes",
+    "imagem": null,
+    "data": "2026-11-18T13:55:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
+    "resumo": "Amazon wants to offer fast delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle over control of its airspace.",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T13:54:15.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Clínica de Juiz de Fora cria protocolo próprio de reabilitação auditiva",
-    "resumo": "O protocolo inclui regulagem personalizada dos aparelhos auditivos e orientação em todas as etapas do processo. Vicente Rocha A proposta do Protocolo ESCUTTI consiste em reabilitação auditiva individualizada, que considera as necessidades de cada paciente e reforça que o processo de ouvir melhor vai além da adaptação de aparelhos auditivo",
-    "link": "https://g1.globo.com/mg/zona-da-mata/especial-publicitario/clinica-escutti/noticia/2026/11/18/clinica-de-juiz-de-fora-cria-protocolo-proprio-de-reabilitacao-auditiva.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YLTPpwNfZ3Q8HZP6uNIY1DA5Vl0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/f/Hr5hNWRf2kwpkazUWWaw/foto-1-1200x750.jpg",
-    "data": "2026-11-18T13:34:41.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Inep divulga gabarito oficial do Enem 2026; veja como consultar",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/inep-divulga-gabarito-oficial-do-enem-2026-veja-como-consultar\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/inep-divulga-gabarito-oficial-do-enem-2026-veja-como-consultar",
+    "imagem": null,
+    "data": "2026-11-18T13:36:00.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "‘I hope paramedics are on standby for the sex scenes!’ The wet and wild TV experience leaving fans dizzy",
+    "resumo": "<p>From icy squirts to bed-bouncing vibrations, erotic hockey drama Heated Rivalry just got even raunchier in ‘extreme sensory’ 4DX cinema screenings. But one scene proved too much – even for the super fans</p><p>I’m in the cinema foyer when I first spot them: hockey jerseys. Lots of them. “I’ve no idea what to expect!” giggles Chloe, who",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry",
+    "imagem": "https://i.guim.co.uk/img/media/41cdd40a7a17671b30de4c792e0ca3e73dcd2b39/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3a413eacec7d606297a272345750b597",
+    "data": "2026-11-18T13:27:02.000Z"
   },
   {
     "categoria": "Internacional",
@@ -135,21 +288,12 @@
     "data": "2026-11-18T13:24:22.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
-    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-    "imagem": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
-    "data": "2026-11-18T13:20:29.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "resumo": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
     "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/d7b747f0-e339-11f1-a094-5fdc692f3e33.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-18T13:17:06.000Z"
   },
   {
@@ -180,12 +324,21 @@
     "data": "2026-11-18T13:07:00.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+    "resumo": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg",
+    "data": "2026-11-18T13:04:48.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
     "resumo": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
     "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=g-s1-153872",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1299x972+0+0/resize/1299x972!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2Fc9%2F4515beef44108b9fec527d0f7167%2Fzambia-zimbabwe-map.jpg",
     "data": "2026-11-18T13:03:38.000Z"
   },
   {
@@ -210,7 +363,7 @@
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Nvidia isn’t selling any more AI chips to China",
-    "resumo": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+    "resumo": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
     "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-18T13:01:05.000Z"
@@ -311,7 +464,7 @@
     "titulo": "Xi, Putin meet in China, ahead of summit with Trump",
     "resumo": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
     "link": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/5efbf693-00a0-45b0-921c-c074f9a56fb8,1794999891540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C39%2C3989%2C2243%29%3B",
+    "imagem": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
     "data": "2026-11-18T12:21:51.000Z"
   },
   {
@@ -353,11 +506,20 @@
   {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
-    "titulo": "NASA’s Voyager 1 probe is now one light-day away",
-    "resumo": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET, and is now 16.094 billion miles away from our [&#8230;]",
+    "titulo": "NASA’s Voyager 1 probe is now 1 light-day away",
+    "resumo": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET and is now 16.094 billion miles away from our [&#8230;]",
     "link": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-18T12:03:36.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "‘Everything he said sounded like a song title!’ The rackety, romantic life of Bobby Charles, alligator-befriending bard of the bayou",
+    "resumo": "<p>He was nearly an early rock’n’roll star but took a different path, from Fats Domino to the Band and pro-environment songwriting. As a career-spanning box set is released, those who knew him remember an American original</p><p>‘I was listening to Bob Dylan’s Theme Time radio show,” says Korey Richey, multi-instrumentalist with LCD Sound",
+    "link": "https://www.theguardian.com/music/2026/nov/18/bobby-charles-story-box-set",
+    "imagem": "https://i.guim.co.uk/img/media/4b6a25e0f7bbf20dc1950c5f37b50e53251a86e3/0_228_1500_1199/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=78d55cf424912211522a4dfcb9a80edb",
+    "data": "2026-11-18T12:00:57.000Z"
   },
   {
     "categoria": "Internacional",
@@ -370,15 +532,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-    "resumo": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T11:57:09.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
     "resumo": "Primeira prisão de Daniel Vorcaro e liquidação do Master em novembro de 2025 expuseram vasto esquema de fraudes e tentáculos do banqueiro nos Três Poderes. Um ano depois, perdas somam dezenas de bilhões de reais.",
@@ -387,31 +540,22 @@
     "data": "2026-11-18T11:55:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-    "resumo": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia&#039;s investigation into the scandal.",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T11:51:26.000Z"
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
+    "resumo": "<p>The Crown star was reportedly an early favourite of director Denis Villeneuve, but ‘had reservations about the baggage associated with the role from the start’</p><p>Josh O’Connor, one of the actors on the final shortlist for the role of James Bond which was ultimately won by Robert Pattinson, was an early favourite of director Denis V",
+    "link": "https://www.theguardian.com/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
+    "imagem": "https://i.guim.co.uk/img/media/f0267f7910cf541bbc76968089e75bbe1f13ba20/644_0_6444_5156/master/6444.jpg?width=140&quality=85&auto=format&fit=max&s=de7b76ef8192f894610dcc7d0d4099b2",
+    "data": "2026-11-18T11:51:31.000Z"
   },
   {
-    "categoria": "Opinião",
+    "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
     "resumo": "<p>After the release of Grand Theft Auto VI this week, Rockstar employees like me can make history again. We need union recognition to safeguard our jobs</p><p>When I first got the call offering me a job at Rockstar, I was thrilled. I thought back to being a child and sneaking into my brother’s room to grab the PlayStation Portable so I c",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
     "imagem": "https://i.guim.co.uk/img/media/c650ecb1ff92f94953053cc8603e64cb53be313f/942_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=c6bcd78b8b8d4b455bd996c27328bb36",
     "data": "2026-11-18T11:50:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Who would gain from carving up Pakistan’s provinces?",
-    "resumo": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T11:47:32.000Z"
   },
   {
     "categoria": "Brasil",
@@ -421,15 +565,6 @@
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-nacional-do-albardao-impactos-socioeconomicos",
     "imagem": null,
     "data": "2026-11-18T11:40:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
-    "resumo": "US President Donald Trump was greeted by Chinese President Xi Jinping as he arrived in China.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T11:37:29.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -477,13 +612,13 @@
     "data": "2026-11-18T11:00:56.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Greetings from a Berlin square, where an artist&apos;s statue watches over children at play",
-    "resumo": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fef%2Fd82de5a44adaa655033d34b2db6a%2Ffarflungpostcard-en-berlin.jpg",
-    "data": "2026-11-18T11:00:00.000Z"
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
+    "resumo": "<p>With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT chaos – as well as new empathy for the fugitive couple at its centre</p><p>In GTA VI, Rockstar has created the most extraordinarily, indulgently detailed virtual world that we have yet seen. Reviewing it feels a bit like trying to review,",
+    "link": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+    "imagem": "https://i.guim.co.uk/img/media/53ac3eb2cb6dc9001ada3ba916d998589415975e/164_0_1827_1462/master/1827.jpg?width=140&quality=85&auto=format&fit=max&s=4ed0b6d61b03463e2536ef1c2e36a427",
+    "data": "2026-11-18T11:00:55.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -492,6 +627,15 @@
     "resumo": "An inspired synthesis of violent satire and contemplative storytelling, <em>Grand Theft Auto VI </em>is more mature and ambitious than any prior game in the record-breaking franchise.",
     "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F0d%2F728b89154973a4e942ced4d58d36%2Fjason-and-lucia-03.jpg",
+    "data": "2026-11-18T11:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Greetings from a Berlin square, where an artist&apos;s statue watches over children at play",
+    "resumo": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fef%2Fd82de5a44adaa655033d34b2db6a%2Ffarflungpostcard-en-berlin.jpg",
     "data": "2026-11-18T11:00:00.000Z"
   },
   {
@@ -524,8 +668,8 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Why SNL’s ‘Sister’ sketch felt too real",
-    "resumo": "SNL’s ‘Sister’ sketch went viral after it satirized the toll that caregiving for aging parents can play, particularly on women. CBC’s Nick Logan breaks down the stats behind caregiving in Canada and why some viewers said the sketch hit hard.",
+    "titulo": "Why SNL's 'Sister' sketch felt too real",
+    "resumo": "SNL's 'Sister' sketch went viral after it satirized the toll that caregiving for aging parents can play, particularly on women. CBC's Nick Logan breaks down the stats behind caregiving in Canada and why some viewers said the sketch hit hard.",
     "link": "https://www.cbc.ca/player/play/9.7426142?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/138b1177-487d-459f-a6dd-98b7cec02dd2,1794998966530/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C582%2C327%29%3B",
     "data": "2026-11-18T10:49:43.000Z"
@@ -569,15 +713,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
-    "resumo": "The inquiries would focus on President Trump, his family and top officials in his administration and would include a look at Commerce Secretary Howard Lutnick and policies related to Nvidia.",
-    "link": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-investigate-vtkq/18dc-investigate-vtkq-mediumSquareAt3X-v3.jpg",
-    "data": "2026-11-18T10:04:14.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
     "resumo": "President Trump plans to discuss Ukraine with the leaders of Russia and China. He has halted some sanctions on Russia and announced that the United States will buy Russian diesel.",
     "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html",
@@ -603,15 +738,6 @@
     "data": "2026-11-18T10:03:36.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "U.S. Catholic Bishops to Discuss A.I. at Annual Meeting",
-    "resumo": "At their annual fall meeting, the bishops are discussing how to address the negative impacts of A.I., even as some struggle to navigate the fast-evolving technology.",
-    "link": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17nat-ai-bishops-bzvp/17nat-ai-bishops-bzvp-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T10:02:23.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Bolsa Família: Caixa paga beneficiários com NIS de final 3 a 0",
@@ -628,6 +754,33 @@
     "link": "https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x793+0+0/resize/1024x793!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6a%2F0d%2F181c834f4701b65b09dcd25464ad%2Fservice-pnp-hec-43200-43255v.jpg",
     "data": "2026-11-18T10:02:00.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "Josephine review – Channing Tatum and Gemma Chan ballast knotty drama about a child witness to a rape",
+    "resumo": "<p>Mason Reeves steals the show as an eight year old who stumbles across a sex assault but, despite strong performances, parts of the film feel contrived</p><p>Beth de Araújo’s new movie takes a very big swing, and it has won prizes and acclaim since its premiere at Sundance. I was unsure about some of the film’s high-concept ideas but th",
+    "link": "https://www.theguardian.com/film/2026/nov/18/josephine-review-mason-reeves",
+    "imagem": "https://i.guim.co.uk/img/media/dd31eea04dda79e57250b8e5a82ce81d278e221c/337_0_2109_1688/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=640332f168d16b51ff0327f6c4f799c6",
+    "data": "2026-11-18T10:00:48.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "‘We want our story to be told’: inside a shocking 36-year fight for justice in Baltimore",
+    "resumo": "<p>A staggering case of injustice is explored in the galling HBO documentary When a Witness Recants. The three subjects and producer Ta-Nehisi Coates explain how it unfolded</p><p>For most of his life, the writer Ta-Nehisi Coates would occasionally think of a chilling episode from his childhood in West Baltimore: almost exactly 43 years a",
+    "link": "https://www.theguardian.com/film/2026/nov/18/when-a-witness-recants-hbo-documentary",
+    "imagem": "https://i.guim.co.uk/img/media/478b6ebc6e4669390c6824896cb8df1449700341/648_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=cff5e045dfb2b5f1caef1a46591a4166",
+    "data": "2026-11-18T10:00:47.000Z"
+  },
+  {
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "‘Worst decision in history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
+    "resumo": "<p>‘Deliciously dark’! ‘Not sexy enough’! Opinion is split on whether the star of Twilight and The Batman is the right choice to play 007. Here’s what some of you thought</p><p>So it’s official, Robert Pattinson will be James Bond. The long-awaited announcement of who would be stepping into 007’s tuxedo came as a surprise, and has divided",
+    "link": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
+    "imagem": "https://i.guim.co.uk/img/media/eab76eab47acbea94d14ab5fa07f87f02beeba11/0_795_9126_7301/master/9126.jpg?width=140&quality=85&auto=format&fit=max&s=b775c0509bd029e0e4c0fa9e6199d3e5",
+    "data": "2026-11-18T10:00:47.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -673,15 +826,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
     "imagem": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=140&quality=85&auto=format&fit=max&s=47f1524f7013cb8ff259c8847b637917",
     "data": "2026-11-18T09:58:28.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Valerie Solanas’s obscenely funny Scum Manifesto is an unignorable burst of female outrage | Emily Woof",
-    "resumo": "<p>Before an assassination attempt on Andy Warhol in 1968, Solanas used her fierce writing to confront male supremacy. What can her work teach us about expressing raw anger?</p><p>It is exhausting to always express anger constructively and reasonably – especially when what you are angry about is violence, exploitation and the inexcusable ",
-    "link": "https://www.theguardian.com/stage/2026/nov/18/valerie-solanas-scum-manifesto-andy-warhol-emily-woof",
-    "imagem": "https://i.guim.co.uk/img/media/2003d1b1ad7143e5d2fb2473758e58e9e4fdbd3a/390_331_3279_2624/master/3279.jpg?width=140&quality=85&auto=format&fit=max&s=f56cb375a6aa6c041d64315f2e09c605",
-    "data": "2026-11-18T09:30:37.000Z"
   },
   {
     "categoria": "Clima",
@@ -762,7 +906,7 @@
     "resumo": "A judge has ruled that Bill Essayli was acting “unlawfully” as U.S. attorney in Los Angeles. He is one of three prosecutors appointed by the Trump administration through a unique process.",
     "link": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
     "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-prosecutor-fqlp/18nat-prosecutor-fqlp-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T08:21:49.000Z"
+    "data": "2026-11-18T08:21:50.000Z"
   },
   {
     "categoria": "Opinião",
@@ -774,13 +918,13 @@
     "data": "2026-11-18T08:00:36.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-    "resumo": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-18T07:48:18.000Z"
+    "categoria": "Cultura",
+    "fonte": "The Guardian",
+    "titulo": "From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder",
+    "resumo": "<p>With the UK release of You Can See Everything looming, now’s an ideal time to get up to speed on the bizarre, puckish and very meta comedic oeuvre of its star</p><p></p><p>“There are three sides to every story: your side, my side, and the truth. And no one is lying. Memories shared serve each differently.” Those words were spoken by fi",
+    "link": "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything",
+    "imagem": "https://i.guim.co.uk/img/media/08d17e003ab321c38f581324883389ad5cc8fc3b/0_351_2523_2017/master/2523.jpg?width=140&quality=85&auto=format&fit=max&s=83aec173404e15bd6075aae8ff6ab619",
+    "data": "2026-11-18T08:00:35.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -810,15 +954,6 @@
     "data": "2026-11-18T06:00:33.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-    "resumo": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-    "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-18T05:11:42.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
@@ -834,15 +969,6 @@
     "resumo": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian government of Abdel Fatah al-Sisi.</p><p>The charge relates to a €7.4bn deal <a",
     "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
     "imagem": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=779e036d6f4f59b8c0421e3491fdb9bb",
-    "data": "2026-11-18T05:00:32.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Macron banned smartphones in schools. A month later, France was ablaze. Could they be connected? | Joseph de Weck",
-    "resumo": "<p>French teachers argue that a digital detox woke students up to the decrepit state of their schools – and drove them out into the streets</p><p>Remember the 1999 blockbuster <a href=\"https://www.imdb.com/title/tt0133093/\">The Matrix</a>? It may be more than a quarter of a century old, but it has become a byword and a meme for a frighten",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/macron-banned-smartphones-in-schools-a-month-later-france-was-ablaze-could-they-be-connected",
-    "imagem": "https://i.guim.co.uk/img/media/fc51c1c991d7571d2759171894ef70d921347067/1227_0_6946_5557/master/6946.jpg?width=140&quality=85&auto=format&fit=max&s=8d5a638c0ed32a3c1113710a4716f9e4",
     "data": "2026-11-18T05:00:32.000Z"
   },
   {
@@ -909,8 +1035,8 @@
     "data": "2026-11-18T03:26:28.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Internacional",
+    "fonte": "BBC News",
     "titulo": "Waymo pulls driverless taxis from all US freeways",
     "resumo": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
     "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
@@ -937,6 +1063,15 @@
   },
   {
     "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+    "resumo": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+    "link": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-18T02:29:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "South Korea’s high-stakes university exams upended by AI cheating scandal",
     "resumo": "<p>South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams</p><p>The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam <a href=\"https://viewer.gu",
@@ -945,13 +1080,13 @@
     "data": "2026-11-18T02:03:27.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "F.A.A. Shelves Routers Like the One Linked to the Nationwide Ground Stop",
-    "resumo": "Federal officials said they believed that a router made by Juniper Networks caused a data overload that disrupted communications.",
-    "link": "https://www.nytimes.com/2026/11/17/us/faa-routers-ground-stop.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-faa-routers-tmwk/17xp-faa-routers-tmwk-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T01:27:05.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Irishman charged with destroying US military aircraft with axe",
+    "resumo": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+    "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60e7/live/998637c0-e2ee-11f1-8fb4-dbb4511af007.jpg",
+    "data": "2026-11-18T02:00:37.000Z"
   },
   {
     "categoria": "Internacional",
@@ -970,15 +1105,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
     "imagem": null,
     "data": "2026-11-18T01:10:14.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-    "resumo": "<p>Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050</p><p></p><p>Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding climate targets, according to advisers tracking Britain’s progress to net zero.</p><p>The analysis by the",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-    "imagem": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=25559e4d4f6f4eb3d6a26e08cf74ca5b",
-    "data": "2026-11-18T00:01:26.000Z"
   },
   {
     "categoria": "Economia",
@@ -1008,24 +1134,6 @@
     "data": "2026-11-17T23:41:18.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stro",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
-    "imagem": null,
-    "data": "2026-11-17T23:41:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "STF inaugura símbolo da Justiça na tradição iorubá",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-inaugura-simbolo-da-justica-na-tradicao-ioruba\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>O Su",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-inaugura-simbolo-da-justica-na-tradicao-ioruba",
-    "imagem": null,
-    "data": "2026-11-17T23:35:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
@@ -1044,15 +1152,6 @@
     "data": "2026-11-17T23:02:12.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-    "resumo": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
-    "data": "2026-11-17T22:46:30.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
@@ -1060,24 +1159,6 @@
     "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_0270.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-17T22:38:41.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-    "resumo": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chine",
-    "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-17T22:32:50.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-    "resumo": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the [&#8230;]",
-    "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ifixit.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-17T22:25:41.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1132,15 +1213,6 @@
     "link": "https://www.dw.com/pt-br/o-que-explica-a-explosão-da-inadimplência-no-agronegócio/a-79975178?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-17T21:22:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US loses measles elimination status after 26 years amid record case numbers",
-    "resumo": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
-    "data": "2026-11-17T21:04:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1224,15 +1296,6 @@
     "data": "2026-11-17T16:29:00.000Z"
   },
   {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Jon Stewart on Trump administration response to air travel crisis: ‘So chaotic and amateurish’",
-    "resumo": "<p>Late-night hosts discussed the administration’s unhelpful response to the FAA’s rare ground stop this weekend</p><p>Late-night hosts responded to the FAA’s <a href=\"https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained\">sudden, rare ground stop</a> as <a href=\"https://www.theguardian.com/us-news/donaldtrump\">D",
-    "link": "https://www.theguardian.com/culture/2026/nov/17/jon-stewart-late-night-response-faa-trump-air-travel-crisis",
-    "imagem": "https://i.guim.co.uk/img/media/58e18e95440b1d5b3c14e9bc2b7bcff923d162c2/287_0_1334_1068/master/1334.jpg?width=140&quality=85&auto=format&fit=max&s=8aaba2edd875c9dad880c0c30c1b3c72",
-    "data": "2026-11-17T16:25:56.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Instalações no Laos e Camboja reforçam influência militar chinesa",
@@ -1285,68 +1348,5 @@
     "link": "https://www.dw.com/pt-br/brasil-teve-1-6-mil-intoxicações-por-pesticidas-europeus-em-2025/a-79969105?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-17T13:10:00.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
-    "resumo": "<p>Former 007 George Lazenby was supportive while The Lighthouse director Robert Eggers reveals what Pattinson was doing when the news broke<br><br><strong>• </strong><a href=\"https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next\"><strong>Robert Pattinson is James Bond. What happens next?</strong",
-    "link": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
-    "imagem": "https://i.guim.co.uk/img/media/1af950b033a60e4879dba795ec7d77db0e82a11f/882_293_2419_1936/master/2419.jpg?width=140&quality=85&auto=format&fit=max&s=025a8e5f71b6731cf7692124dc0a24ca",
-    "data": "2026-11-17T13:03:24.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "These US coal plants on the Ohio River shut down years ago. Now, residents say their waste is destroying lives",
-    "resumo": "<p>Landfill owner’s data show lithium above groundwater standards near the drinking water source for millions</p><p>Down winding roads and past quiet homesteads, all that can be heard in the otherwise bucolic air of rural Clermont county, <a href=\"https://www.theguardian.com/us-news/ohio\">Ohio</a>, is the roar of dump trucks.</p><p>The sp",
-    "link": "https://www.theguardian.com/us-news/2026/nov/17/coal-plants-ohio-river-landfill",
-    "imagem": "https://i.guim.co.uk/img/media/0c57dac28d92b40748c59c4dd7c04e2bd8aabbd0/959_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=3458bb9f773f486489b4970e933a4c21",
-    "data": "2026-11-17T13:00:48.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Keepsake County review – eccentric stealing simulator with a social conscience",
-    "resumo": "<p><strong>PC; Forward Instinct<br></strong>This irreverent stealth game depicts Samuel’s lonely life robbing garish, midwestern abodes – it’s a Shameless way to make a living</p><p>For many people, McMansions are an eyesore, but for the protagonist of Keepsake County, a renowned burglar, they are an enticing opportunity. Prowling at purp",
-    "link": "https://www.theguardian.com/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
-    "imagem": "https://i.guim.co.uk/img/media/7ef2b11da9c5a89d7dd4656d295ef27929343ce1/0_11_1080_864/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=5d4f540843864ca23ca3e90a0d7761cd",
-    "data": "2026-11-17T13:00:47.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Polly Klaas’s murder is routinely used to justify the death penalty. As her sisters, we oppose it | Annie Nichol and Jess Nichol",
-    "resumo": "<p>After so many years of hearing our family’s tragedy invoked in support of capital punishment, we wanted to make clear where we actually stand</p><p>For more than three decades, our sister Polly Klaas’s murder has been used to justify California’s death penalty.</p><p>When people debate the merit of punitive policies passed in Polly’s n",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/17/polly-klaas-death-penalty-family",
-    "imagem": "https://i.guim.co.uk/img/media/541cb90ef4084a7de8a6e9415b5617499aa37f90/316_0_3369_2695/master/3369.jpg?width=140&quality=85&auto=format&fit=max&s=6e6f2eb6cce669a0770d6173ee75d16b",
-    "data": "2026-11-17T13:00:46.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Where are the most jobs for 18-24 year-olds?",
-    "resumo": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7b/live/5b9d4c80-e345-11f1-99a1-253766e7ad8b.png",
-    "data": "2026-11-17T12:35:53.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "A mysterious twist in the universe’s oldest light could reveal new physics",
-    "resumo": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-    "imagem": null,
-    "data": "2026-11-17T12:14:04.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
-    "resumo": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researchers suggest that what children do on screens may matter more than how much time they spend using them.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
-    "imagem": null,
-    "data": "2026-11-17T12:03:58.000Z"
   }
 ]
