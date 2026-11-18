@@ -1,93 +1,39 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
-    "resumo": "Previsão do tempo hoje em Jaboatão dos Guararapes g1 A previsão do tempo para esta quarta-feira (18) para Jaboatão dos Guararapes (PE) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 31ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, so",
-    "link": "https://g1.globo.com/pe/pernambuco/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-jaboatao-dos-guararapes-pe-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/T5d_z2ZSx2eBCxgZZn-ZwO0oTtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/7/xgBihLToav3QO9wgXrwA/previsao-tempo-jaboat-o-dos-guararapes-20261118-010508.jpeg",
-    "data": "2026-11-18T04:05:21.000Z"
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Security flaw found in Java, world's third-largest programming language",
+    "resumo": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+    "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-18T05:03:38.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
-    "resumo": "Previsão do tempo hoje em Cabo de Santo Agostinho g1 A previsão do tempo para esta quarta-feira (18) para Cabo de Santo Agostinho (PE) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 30ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, so",
-    "link": "https://g1.globo.com/pe/pernambuco/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-cabo-de-santo-agostinho-pe-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AMxrgaSUWYzecM1Ha33f1-ni980=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/h/dqMaExT6Kv3wvHjlJfnA/previsao-tempo-cabo-de-santo-agostinho-20261118-010448.jpeg",
-    "data": "2026-11-18T04:05:01.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+    "resumo": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T04:59:05.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para João Pessoa (PB): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
-    "resumo": "Previsão do tempo hoje em João Pessoa g1 A previsão do tempo para esta quarta-feira (18) para João Pessoa (PB) é de sol com algumas nuvens e chuva passageira durante o dia. À noite o tempo fica firme. As máximas são de 32ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ",
-    "link": "https://g1.globo.com/pb/paraiba/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-joao-pessoa-pb-sol-com-algumas-nuvens-e-chuva-passageira-durante-o-dia-a-noite-o-tempo-fica-firme.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-Scyz0CW126UfEzzS6mbCOs2nBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/BP7WlpTPiiBbNvmpBvvg/previsao-tempo-jo-o-pessoa-20261118-010422.jpeg",
-    "data": "2026-11-18T04:04:41.000Z"
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "imagem": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
+    "data": "2026-11-18T04:46:35.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Natal (RN): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
-    "resumo": "Previsão do tempo hoje em Natal g1 A previsão do tempo para esta quarta-feira (18) para Natal (RN) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 31ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol ",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-natal-rn-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gaMB9lsFn9gZlRfDRJifxPyByMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/tvoIqXQnAMsoQXo4nwfQ/previsao-tempo-natal-20261118-010402.jpeg",
-    "data": "2026-11-18T04:04:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Fortaleza (CE): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
-    "resumo": "Previsão do tempo hoje em Fortaleza g1 A previsão do tempo para esta quarta-feira (18) para Fortaleza (CE) é de dia de sol com algumas nuvens e névoa ao amanhecer. Noite com poucas nuvens. As máximas são de 32ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da ta",
-    "link": "https://g1.globo.com/ce/ceara/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-fortaleza-ce-dia-de-sol-com-algumas-nuvens-e-nevoa-ao-amanhecer-noite-com-poucas-nuvens.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QTLJ-cKCPL5PWNirnshoRSRZgxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/I8AXJRSKW0kK2qAzK73w/previsao-tempo-fortaleza-20261118-010345.jpeg",
-    "data": "2026-11-18T04:03:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Teresina (PI): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Teresina g1 A previsão do tempo para esta quarta-feira (18) para Teresina (PI) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 36ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
-    "link": "https://g1.globo.com/pi/piaui/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-teresina-pi-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CO_UpmkPNWbl4F_1rbvl4lSBrmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Y/3T9PNbQjqZ8hGlEPKOyg/previsao-tempo-teresina-20261118-010329.jpeg",
-    "data": "2026-11-18T04:03:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para São Luís (MA): muitas nuvens o dia todo, com aberturas de sol",
-    "resumo": "Previsão do tempo hoje em São Luís g1 A previsão do tempo para esta quarta-feira (18) para São Luís (MA) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 32ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com algumas nuvens. À ",
-    "link": "https://g1.globo.com/ma/maranhao/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-sao-luis-ma-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bloHGJdwHYn9u6tViQxurxAAacc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/v/qdovUURBu3wZ0XaQ3AEQ/previsao-tempo-s-o-lu-s-20261118-010312.jpeg",
-    "data": "2026-11-18T04:03:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Palmas (TO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Palmas g1 A previsão do tempo para esta quarta-feira (18) para Palmas (TO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol",
-    "link": "https://g1.globo.com/to/tocantins/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-palmas-to-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HHlU28TIGahrtF_cysEvadRWnFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/a/8djWaDTwCTnKxKq5tB7A/previsao-tempo-palmas-20261118-010255.jpeg",
-    "data": "2026-11-18T04:03:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Macapá (AP): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Macapá g1 A previsão do tempo para esta quarta-feira (18) para Macapá (AP) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol e ",
-    "link": "https://g1.globo.com/ap/amapa/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-macapa-ap-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/b5nldIYd0fGLDk6Zf5-VaiExAXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/V1fiGTR7WY2cmTWNQUBQ/previsao-tempo-macap-20261118-010236.jpeg",
-    "data": "2026-11-18T04:02:49.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (18) para Belém (PA) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chu",
-    "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-belem-pa-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5vL--84w-cYgP2vzLwaoWkYLQHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/AfL2HwRq6Tonsi1XCGEA/previsao-tempo-bel-m-20261118-010210.jpeg",
-    "data": "2026-11-18T04:02:30.000Z"
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+    "resumo": "<p>Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics</p><p>Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the US, Mary Peltola took to the stage in a Sheraton Hotel ballroom in Anchorage, Alaska, to gre",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+    "imagem": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=8869a08f117f3b859f3c91649b07cac0",
+    "data": "2026-11-18T04:25:29.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -96,25 +42,142 @@
     "resumo": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
     "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
     "imagem": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T04:02:15.000Z"
+    "data": "2026-11-18T04:18:13.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Boa Vista (RR): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
-    "resumo": "Previsão do tempo hoje em Boa Vista g1 A previsão do tempo para esta quarta-feira (18) para Boa Vista (RR) é de sol com algumas nuvens durante o dia. À noite o céu fica com muitas nuvens, mas não chove. As máximas são de 37ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. N",
-    "link": "https://g1.globo.com/rr/roraima/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-boa-vista-rr-sol-com-algumas-nuvens-durante-o-dia-a-noite-o-ceu-fica-com-muitas-nuvens-mas-nao-chove.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tbvTUEhGMmU6vWoTJgaorl8ds6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/i/PBbWYuTV2JFlV4lDEBew/previsao-tempo-boa-vista-20261118-010153.jpeg",
-    "data": "2026-11-18T04:02:04.000Z"
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (18) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 26ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0EjmKOdI7m9P9bgpi_fR2J5yP4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/O/KXdq7ISWAV1QWoLnn7Ng/previsao-tempo-bras-lia-20261118-011616.jpeg",
+    "data": "2026-11-18T04:16:27.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Manaus (AM): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Manaus g1 A previsão do tempo para esta quarta-feira (18) para Manaus (AM) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 36ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e t",
-    "link": "https://g1.globo.com/am/amazonas/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-manaus-am-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JdXP1ryo1RybAPL1x6AYSkRegYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/LIGrg9SlOB005vfrVFLw/previsao-tempo-manaus-20261118-010134.jpeg",
-    "data": "2026-11-18T04:01:45.000Z"
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quarta-feira (18) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ec3HGm0JIO4r8DkHBxpLqk-fQyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/K/zlAAQKQmKFyjhjrqb0BA/previsao-tempo-goi-nia-20261118-011559.jpeg",
+    "data": "2026-11-18T04:16:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quarta-feira (18) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoad",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NuBKwYHXYXeBrKN3cdw2XTe7-BU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/Q3BnSEQjAc4xyR4me03w/previsao-tempo-aparecida-de-goi-nia-20261118-011541.jpeg",
+    "data": "2026-11-18T04:15:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quarta-feira (18) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de c",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/g1tRHnFvLvDQ5J5lGgNBX8EFraY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/4y9n3SQuiTn0ZcaNHqpA/previsao-tempo-cuiab-20261118-011522.jpeg",
+    "data": "2026-11-18T04:15:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quarta-feira (18) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/n2Wq0rPLSEjU4r3Blp-QRrRKKgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/M/Nqhr8uQByD6qL4F7yuqA/previsao-tempo-campo-grande-20261118-011504.jpeg",
+    "data": "2026-11-18T04:15:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quarta-feira (18) para Porto Alegre (RS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/jMw7kuXYr2HIkitxy-ZGyjvwemk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/W/n3mjmiSN6AaAkNWPM5xg/previsao-tempo-porto-alegre-20261118-011440.jpeg",
+    "data": "2026-11-18T04:14:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com muitas nuvens; pancadas de chuva pela manhã e à noite",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quarta-feira (18) para Caxias do Sul (RS) é de sol com muitas nuvens. Pancadas de chuva pela manhã e à noite. As máximas são de 28ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No períod",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-muitas-nuvens-pancadas-de-chuva-pela-manha-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LEomzRHiIY2jEjGmCF7pIQGoPZQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/o/wh1uZxQeuwR68bbCTSBw/previsao-tempo-caxias-do-sul-20261118-011421.jpeg",
+    "data": "2026-11-18T04:14:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quarta-feira (18) para Joinville (SC) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 30ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da t",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/X6tRQhCN99YQ_fA7n6BPOR3bzQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/cKRrrpSOa2KU5DLOAckQ/previsao-tempo-joinville-20261118-011404.jpeg",
+    "data": "2026-11-18T04:14:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quarta-feira (18) para Florianópolis (SC) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 26ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No perí",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/492DH3Lx4-zqXQHXjRVktcFqeL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/I/QWjSB0SB2nvQGUOxmTtA/previsao-tempo-florian-polis-20261118-011346.jpeg",
+    "data": "2026-11-18T04:13:57.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quarta-feira (18) para Maringá (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-maringa-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/P5nzI2QsGMv_puVsLu36mYUtdZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/G/oRXxiBSoOEAqxAWz0vAA/previsao-tempo-maring-20261118-011327.jpeg",
+    "data": "2026-11-18T04:13:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quarta-feira (18) para Londrina (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-londrina-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dwjjxTs225RcPUIbi60z5M6G8Wg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/G/Hgg8opRE6CAbIRUFeQZw/previsao-tempo-londrina-20261118-011310.jpeg",
+    "data": "2026-11-18T04:13:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quarta-feira (18) para Curitiba (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cXydNT9MgATREo3nWj8qJbgclJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/u/O5Wpn7QBSlXDQCjrBjcw/previsao-tempo-curitiba-20261118-011252.jpeg",
+    "data": "2026-11-18T04:13:03.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Australia issues sanctions targeting Israeli settlers",
+    "resumo": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T04:12:03.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
+    "resumo": "The contest between Senators Chuck Schumer and Chris Van Hollen to be majority leader is sowing party divisions and putting them on public display.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-democrts-mcgj/17dc-democrts-mcgj-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T04:11:30.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Rubio rules out cyberattacks or links between tech outages",
+    "resumo": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T04:01:16.000Z"
   },
   {
     "categoria": "Economia",
@@ -133,24 +196,6 @@
     "link": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B",
     "data": "2026-11-18T03:56:54.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Apec summit live: Xi and Putin speak as world leaders gather in China",
-    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
-    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-    "imagem": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
-    "data": "2026-11-18T03:53:27.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-    "resumo": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T03:49:36.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -360,24 +405,6 @@
     "data": "2026-11-18T01:07:01.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ecuadorian fishermen sue Trump administration over drone strike",
-    "resumo": "Crew say their boat was attacked by drones launched from US-operated vessel as part of &#039;manifestly unlawful&#039; campaign.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T01:04:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "DR Congo’s rival peace efforts fail to halt violence in the east",
-    "resumo": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T00:57:56.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Waymo Pulls Its Driverless Taxis From All U.S. Freeways Temporarily",
@@ -475,15 +502,6 @@
     "link": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
     "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-jeffries-medicare-fzkj/17dc-jeffries-medicare-fzkj-mediumSquareAt3X.jpg",
     "data": "2026-11-17T23:25:32.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
-    "resumo": "The contest between Senators Chuck Schumer and Chris Van Hollen to be majority leader is sowing party divisions and putting them on public display.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-democrts-mcgj/17dc-democrts-mcgj-mediumSquareAt3X.jpg",
-    "data": "2026-11-17T23:23:41.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1330,23 +1348,5 @@
     "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
     "imagem": "https://i.guim.co.uk/img/media/bb1079d7b1b05f3a9af68af148e1b5ef166362d5/584_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=eda43a93133416061307f9758513ca0d",
     "data": "2026-11-17T06:00:05.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘His wife was horrified’: did Edward Hopper paint his sexual problems?",
-    "resumo": "<p>He is the maestro of American melancholy. But in a new biography, the artist is called a ‘sadist’ and a ‘prize hog’ by his wife – who was aghast to see their domestic and bedroom problems surface in his most famous works</p><p></p><p></p><p>It should have been a happy occasion. In 1950, an Edward Hopper retrospective was staged at the ",
-    "link": "https://www.theguardian.com/artanddesign/2026/nov/17/edward-hopper-sexual-problems-melancholy-wife-lighthouses",
-    "imagem": "https://i.guim.co.uk/img/media/f7e1259ca1ca5bdf0f5057a0c0e1ed300ff93c8e/1471_884_2078_1663/master/2078.jpg?width=140&quality=85&auto=format&fit=max&s=ac56db4ff9d7a9b6042623fe3b46894e",
-    "data": "2026-11-17T05:00:05.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "United Airlines says ‘widespread’ system outage resolved",
-    "resumo": "<p>Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans</p><p><a href=\"https://www.theguardian.com/business/united-airlines\">United ⁠Airlines</a> said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration",
-    "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-    "imagem": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07",
-    "data": "2026-11-17T02:57:06.000Z"
   }
 ]
