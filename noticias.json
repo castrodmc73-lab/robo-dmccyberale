@@ -1,57 +1,201 @@
 [
   {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "Waymo temporarily pulls driverless taxis from all US freeways",
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Jaboatão dos Guararapes (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+    "resumo": "Previsão do tempo hoje em Jaboatão dos Guararapes g1 A previsão do tempo para esta quarta-feira (18) para Jaboatão dos Guararapes (PE) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 31ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, so",
+    "link": "https://g1.globo.com/pe/pernambuco/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-jaboatao-dos-guararapes-pe-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/T5d_z2ZSx2eBCxgZZn-ZwO0oTtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/7/xgBihLToav3QO9wgXrwA/previsao-tempo-jaboat-o-dos-guararapes-20261118-010508.jpeg",
+    "data": "2026-11-18T04:05:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cabo de Santo Agostinho (PE): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+    "resumo": "Previsão do tempo hoje em Cabo de Santo Agostinho g1 A previsão do tempo para esta quarta-feira (18) para Cabo de Santo Agostinho (PE) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 30ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, so",
+    "link": "https://g1.globo.com/pe/pernambuco/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-cabo-de-santo-agostinho-pe-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AMxrgaSUWYzecM1Ha33f1-ni980=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/h/dqMaExT6Kv3wvHjlJfnA/previsao-tempo-cabo-de-santo-agostinho-20261118-010448.jpeg",
+    "data": "2026-11-18T04:05:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para João Pessoa (PB): sol com algumas nuvens e chuva passageira durante o dia; à noite o tempo fica firme",
+    "resumo": "Previsão do tempo hoje em João Pessoa g1 A previsão do tempo para esta quarta-feira (18) para João Pessoa (PB) é de sol com algumas nuvens e chuva passageira durante o dia. À noite o tempo fica firme. As máximas são de 32ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ",
+    "link": "https://g1.globo.com/pb/paraiba/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-joao-pessoa-pb-sol-com-algumas-nuvens-e-chuva-passageira-durante-o-dia-a-noite-o-tempo-fica-firme.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-Scyz0CW126UfEzzS6mbCOs2nBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/BP7WlpTPiiBbNvmpBvvg/previsao-tempo-jo-o-pessoa-20261118-010422.jpeg",
+    "data": "2026-11-18T04:04:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Natal (RN): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+    "resumo": "Previsão do tempo hoje em Natal g1 A previsão do tempo para esta quarta-feira (18) para Natal (RN) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 31ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol ",
+    "link": "https://g1.globo.com/rn/rio-grande-do-norte/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-natal-rn-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gaMB9lsFn9gZlRfDRJifxPyByMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/v/tvoIqXQnAMsoQXo4nwfQ/previsao-tempo-natal-20261118-010402.jpeg",
+    "data": "2026-11-18T04:04:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Fortaleza (CE): dia de sol com algumas nuvens e névoa ao amanhecer; noite com poucas nuvens",
+    "resumo": "Previsão do tempo hoje em Fortaleza g1 A previsão do tempo para esta quarta-feira (18) para Fortaleza (CE) é de dia de sol com algumas nuvens e névoa ao amanhecer. Noite com poucas nuvens. As máximas são de 32ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da ta",
+    "link": "https://g1.globo.com/ce/ceara/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-fortaleza-ce-dia-de-sol-com-algumas-nuvens-e-nevoa-ao-amanhecer-noite-com-poucas-nuvens.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QTLJ-cKCPL5PWNirnshoRSRZgxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/S/I8AXJRSKW0kK2qAzK73w/previsao-tempo-fortaleza-20261118-010345.jpeg",
+    "data": "2026-11-18T04:03:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Teresina (PI): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Teresina g1 A previsão do tempo para esta quarta-feira (18) para Teresina (PI) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 36ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
+    "link": "https://g1.globo.com/pi/piaui/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-teresina-pi-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CO_UpmkPNWbl4F_1rbvl4lSBrmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Y/3T9PNbQjqZ8hGlEPKOyg/previsao-tempo-teresina-20261118-010329.jpeg",
+    "data": "2026-11-18T04:03:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para São Luís (MA): muitas nuvens o dia todo, com aberturas de sol",
+    "resumo": "Previsão do tempo hoje em São Luís g1 A previsão do tempo para esta quarta-feira (18) para São Luís (MA) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 32ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com algumas nuvens. À ",
+    "link": "https://g1.globo.com/ma/maranhao/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-sao-luis-ma-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bloHGJdwHYn9u6tViQxurxAAacc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/v/qdovUURBu3wZ0XaQ3AEQ/previsao-tempo-s-o-lu-s-20261118-010312.jpeg",
+    "data": "2026-11-18T04:03:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Palmas (TO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Palmas g1 A previsão do tempo para esta quarta-feira (18) para Palmas (TO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, sol",
+    "link": "https://g1.globo.com/to/tocantins/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-palmas-to-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/HHlU28TIGahrtF_cysEvadRWnFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/a/8djWaDTwCTnKxKq5tB7A/previsao-tempo-palmas-20261118-010255.jpeg",
+    "data": "2026-11-18T04:03:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Macapá (AP): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Macapá g1 A previsão do tempo para esta quarta-feira (18) para Macapá (AP) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol e ",
+    "link": "https://g1.globo.com/ap/amapa/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-macapa-ap-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/b5nldIYd0fGLDk6Zf5-VaiExAXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/W/V1fiGTR7WY2cmTWNQUBQ/previsao-tempo-macap-20261118-010236.jpeg",
+    "data": "2026-11-18T04:02:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Belém (PA): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Belém g1 A previsão do tempo para esta quarta-feira (18) para Belém (PA) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chu",
+    "link": "https://g1.globo.com/pa/para/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-belem-pa-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5vL--84w-cYgP2vzLwaoWkYLQHw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/AfL2HwRq6Tonsi1XCGEA/previsao-tempo-bel-m-20261118-010210.jpeg",
+    "data": "2026-11-18T04:02:30.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+    "resumo": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T04:02:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Boa Vista (RR): sol com algumas nuvens durante o dia; à noite o céu fica com muitas nuvens, mas não chove",
+    "resumo": "Previsão do tempo hoje em Boa Vista g1 A previsão do tempo para esta quarta-feira (18) para Boa Vista (RR) é de sol com algumas nuvens durante o dia. À noite o céu fica com muitas nuvens, mas não chove. As máximas são de 37ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. N",
+    "link": "https://g1.globo.com/rr/roraima/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-boa-vista-rr-sol-com-algumas-nuvens-durante-o-dia-a-noite-o-ceu-fica-com-muitas-nuvens-mas-nao-chove.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tbvTUEhGMmU6vWoTJgaorl8ds6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/i/PBbWYuTV2JFlV4lDEBew/previsao-tempo-boa-vista-20261118-010153.jpeg",
+    "data": "2026-11-18T04:02:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Manaus (AM): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Manaus g1 A previsão do tempo para esta quarta-feira (18) para Manaus (AM) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 36ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e t",
+    "link": "https://g1.globo.com/am/amazonas/previsao-do-tempo/noticia/2026/11/18/previsao-do-tempo-hoje-para-manaus-am-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JdXP1ryo1RybAPL1x6AYSkRegYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/LIGrg9SlOB005vfrVFLw/previsao-tempo-manaus-20261118-010134.jpeg",
+    "data": "2026-11-18T04:01:45.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+    "resumo": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-18T04:00:54.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
+    "resumo": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S. President Donald Trump repeatedly won by wide margins.",
+    "link": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B",
+    "data": "2026-11-18T03:56:54.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Apec summit live: Xi and Putin speak as world leaders gather in China",
+    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "imagem": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
+    "data": "2026-11-18T03:53:27.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+    "resumo": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T03:49:36.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
+    "resumo": "Incoming senators and prospective presidential candidates blamed the health secretary’s history of vaccine skepticism for the rise of measles in the country.",
+    "link": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-measles-reax-tzcj/17pol-measles-reax-tzcj-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-18T03:33:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+    "resumo": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T03:28:41.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Mary Peltola flips Alaska&apos;s Senate seat into Democrats&apos; column",
+    "resumo": "Former Democratic Rep. Mary Peltola has narrowly won Alaska&apos;s U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press.",
+    "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/4285x2868!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg",
+    "data": "2026-11-18T03:27:23.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+    "resumo": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+    "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T03:26:28.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Waymo pulls driverless taxis from all US freeways",
     "resumo": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
     "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
     "data": "2026-11-18T03:07:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Macaé institui Política Municipal de Alfabetização na rede pública",
-    "resumo": "Iniciativa estabelece diretrizes para fortalecer o ensino e garantir a equidade educacional nas escolas municipais Arquivo Secom A Prefeitura de Macaé, por meio da Secretaria Municipal de Educação, instituiu as diretrizes da Política Municipal de Alfabetização da rede pública de ensino, denominada Alfabetiza Macaé. Estabelecida pela porta",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/18/macae-institui-politica-municipal-de-alfabetizacao-na-rede-publica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8enh3s5erw2jQ1LaRG9x_Nvhk6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/3/A5ACJwTI6U0XmYoWijIQ/foto-1-alfabetiza-macae.jpeg",
-    "data": "2026-11-18T03:05:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Verão na Região dos Lagos: Prolagos orienta donos de casas de veraneio",
-    "resumo": "A Concessionária orienta para a verificação das instalações hidráulicas dos móveis Ascom Prolagos Com a proximidade do verão e do feriado pelo Dia de Zumbi e da Consciência Negra (20/11), a Prolagos orienta proprietários de casas de veraneio e imóveis destinados à locação por temporada na Região dos Lagos a anteciparem os preparativos par",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/11/18/verao-na-regiao-dos-lagos-prolagos-orienta-donos-de-casas-de-veraneio.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/A60f3qw3uEAsYnhP7ssVIcInFF4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/7/Vp4coOSaANBwLPe7d98Q/retangulo-interno-1200x750px-4-.png",
-    "data": "2026-11-18T03:04:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vilarejo amplia aposta nas portas Rohden para projetos de diferentes estilos",
-    "resumo": "Em uma renovação, é comum que o olhar vá primeiro para piso, paredes ou pintura. As portas, porém, ocupam uma área importante da composição e aparecem repetidamente ao longo da casa. Em corredores, quartos, salas e entradas, trocar esse elemento pode modificar a percepção dos ambientes mesmo quando marcenaria, revestimentos e mobiliário p",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/18/vilarejo-amplia-aposta-nas-portas-rohden-para-projetos-de-diferentes-estilos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dkaMeDY-HFwcDx1iRxJeS5uep4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/7/7FzZKJSOuBwZpwYBR5Bw/foto-1-12-11.png",
-    "data": "2026-11-18T03:03:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Inscrições escolares em Uberlândia: veja como tentar uma vaga na rede municipal em 2027",
-    "resumo": "Prefeitura abre inscrição para ingresso na rede municipal de ensino de Uberlândia em 2027 Danilo Henriques/Secom/Prefeitura de Uberlândia Serão abertas nesta quarta-feira (18), e seguem até 2 de novembro, as inscrições online para matrículas de 2027 na rede municipal de ensino de Uberlândia e também nas Organizações da Sociedade Civil (OS",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/18/inscricoes-escolares-em-uberlandia-veja-como-tentar-uma-vaga-na-rede-municipal-em-2027.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xJQEGGz7iDXSNOgZKcug_b8OxUs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/m/wIk7J0TA2ZflAtU2n6dw/design-sem-nome-10-.png",
-    "data": "2026-11-18T03:02:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Colab de Rio das Ostras já conta com mais de 150 serviços cadastrados",
-    "resumo": "Mais de 150 serviços já estão disponíveis para o cidadão no Colab Secom Considerado um dos principais aplicativos do Programa Rio das Ostras Digital, o Colab é uma plataforma que tem conectado os cidadãos aos serviços prestados pela Prefeitura para facilitar a gestão da Cidade, modernizando o atendimento público, eliminando filas, reduzin",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/18/colab-de-rio-das-ostras-ja-conta-com-mais-de-150-servicos-cadastrados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MLtVTCxu6jBzeILip9lSgyqQso4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/w/BAvBUATwuyAOyU99oAAA/320x180-foto-destaque-horizontal-86-.png",
-    "data": "2026-11-18T03:02:00.000Z"
   },
   {
     "categoria": "Opinião",
@@ -63,67 +207,13 @@
     "data": "2026-11-18T03:00:29.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Crise do Master: um ano depois, clientes relatam perdas e desconfiança; veja o que mudou no mercado",
-    "resumo": "Escândalo do Banco Master: uma ano após a liquidação, investidores ainda sentem efeitos Há um ano, o Banco Central (BC) decretou a liquidação extrajudicial do Banco Master, dando início ao maior acionamento da história do Fundo Garantidor de Créditos (FGC). A estimativa inicial era de 1,6 milhão de credores e R$ 41 bilhões em garantias a ",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/18/crise-do-master-um-ano-depois-clientes-relatam-perdas-e-desconfianca-veja-o-que-mudou-no-mercado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/djOY4v2XSb_cC7W3Mnn0PjPwbRY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/B/wnIIKfSLCGyf1EQ189RA/age20251118011.jpg",
-    "data": "2026-11-18T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Senado deve ouvir nesta quarta ministro da Justiça sobre troca de delegados; diretor da PF não confirma presença",
-    "resumo": "A Comissão de Constituição e Justiça (CCJ) e a Comissão de Segurança Pública (CSP) do Senado devem ouvir nesta quarta-feira (18) o ministro da Justiça e Segurança Pública, Wellington Lima e Silva, sobre o afastamento de delegados da Polícia Federal. Na semana passada, as comissões aprovaram requerimentos para convidar o diretor-geral da P",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/18/senado-deve-ouvir-nesta-quarta-ministro-da-justica-sobre-troca-de-delegados-diretor-da-pf-nao-confirma-presenca.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vNH4qi_TXkGswaOftrhCSU3kt6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/F/HYONlBSFCouObIOcdgVQ/gnews-celulares-frame-71100.jpeg",
-    "data": "2026-11-18T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Companheiro de professor espancado no Rio diz que agressores fizeram ameaças de morte e ofensas homofóbicas",
-    "resumo": "Professor é espancado no Centro do Rio após tentar impedir violência contra mulher O companheiro do professor André Luís de Oliveira, conhecido como André Aires, afirma que o namorado foi alvo de insultos homofóbicos e ameaças de morte antes de ser espancado no Centro do Rio, na manhã de domingo (15). Segundo ele, uma mulher que acompanha",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/18/companheiro-de-professor-espancado-no-rio-relato-homofobia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_hypcieZ44Ip_SyYnX-OAXUq6Rk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/QAUOazTAetRqA5Dpxwbw/imagem-cortada-73-.jpg",
-    "data": "2026-11-18T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fachin recebe nesta quarta relatório da PF sobre ministros no caso Master e deve avaliar modelo para definir próximos passos",
-    "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, deve receber nesta quarta-feira (18) os relatórios produzidos pela Polícia Federal, com menções a ministros do Supremo Tribunal Federal (STF) e parentes no caso Master. O formato do material pode ser decisivo para a definição dos próximos passos da crise na Corte. As p",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-recebe-nesta-quarta-relatorio-da-pf-sobre-ministros-no-caso-master-e-deve-avaliar-modelo-para-definir-proximos-passos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg",
-    "data": "2026-11-18T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Armas nucleares, influência e territórios: o que está na mesa e o querem Trump, Putin e Xi em encontro histórico",
-    "resumo": "Trump, Xi e Putin terão 'encontro de poderosos' Donald Trump, Vladimir Putin e Xi Jinping terão um encontro histórico nesta quinta-feira (19), que pode impactar o futuro da geopolítica mundial. Entre os assuntos em discussão estão temas delicados, como a proliferação de armas nucleares e guerras. ✅ Siga o canal de notícias internacionais ",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/armas-nucleares-influencia-e-territorios-o-que-esta-na-mesa-e-o-querem-trump-putin-e-xi-em-encontro-historico.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XLm1MuaVpByRKiqAKV70LKJ4y6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/b/3C4ndFRjAUZL7WyJe6Zw/2026-11-17t180202z-1672833670-rc2wooaucnzf-rtrmadp-3-apec-summit-yalta-artwork.jpg",
-    "data": "2026-11-18T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sandy e namorado têm piscina natural e deck fechado em visita a Ilhabela (SP): 'Muito simpática', diz gerente de restaurante",
-    "resumo": "Sandy em passeio em restaurante de Ilhabela, no Litoral Norte de SP. Reprodução/Casa de Tuca Uma piscina natural e um deck fechado fizeram parte do almoço da cantora Sandy com o namorado, o médico Pedro Andrade, em Ilhabela, no Litoral Norte de São Paulo. Segundo o restaurante, o espaço foi reservado exclusivamente para o grupo, a pedido ",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/18/sandy-e-namorado-tem-piscina-natural-e-deck-fechado-em-visita-a-ilhabela-sp-muito-simpatica-diz-gerente-de-restaurante.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/czMQd70GSAINauk5bnZWeZOJd2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/a/De9xz9Thawi87sAVCIEg/foto-g1.jpg",
-    "data": "2026-11-18T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Secretários defendem ministro da Segurança com experiência na 'linha de frente' e sem indicação política e querem combate a líderes de facções",
-    "resumo": "Comando Vermelho domina o crime na maior parte do Amazonas Divulgação Secretários estaduais de Segurança Pública defendem que o futuro Ministério da Segurança Pública seja comandado por um profissional com experiência na área e capacidade de diálogo com governadores de diferentes partidos. Os representantes dos estados também cobram recur",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/18/secretarios-defendem-ministro-da-seguranca-com-experiencia-na-linha-de-frente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/emxFjrPnOlJI_k8IVr-MlCnAlX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/dFoTk8RAy0U9kfu2VEOg/design-sem-nome-2026-10-30t093612.648.png",
-    "data": "2026-11-18T03:00:00.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+    "resumo": "Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T03:00:22.000Z"
   },
   {
     "categoria": "Opinião",
@@ -133,15 +223,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/18/no-public-interest-isaac-heeney-pat-cummins-partners-privacy-sydney-swans-ntwnfb",
     "imagem": "https://i.guim.co.uk/img/media/0ba8eb8d30347b259630d715dd9aa40ac1ba98ce/367_0_3249_2601/master/3249.jpg?width=140&quality=85&auto=format&fit=max&s=f2a6a633d3f941dc8902ef6ed309aa3c",
     "data": "2026-11-18T02:53:01.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-    "resumo": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704f/live/8581feb0-e2f5-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-18T02:40:45.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -189,21 +270,12 @@
     "data": "2026-11-18T02:17:12.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-    "resumo": "The Senate health committee was scheduled to vote on her nomination Wednesday morning, but it became increasingly clear that she did not have enough support.",
-    "link": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T02:09:10.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
     "resumo": "<p>South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams</p><p>The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam <a href=\"https://viewer.gu",
     "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-    "imagem": "https://i.guim.co.uk/img/media/5706bb90f88894929de254f870b0a65c4da595c6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=1ff210b80e3357f8f4811bb0cd6a1273",
+    "imagem": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=508a09f51a91f0a82c9b0fcf2109c3eb",
     "data": "2026-11-18T02:03:27.000Z"
   },
   {
@@ -223,15 +295,6 @@
     "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
     "data": "2026-11-18T02:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-    "resumo": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-breakdown-hmvc/18nat-breakdown-hmvc-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T01:36:41.000Z"
   },
   {
     "categoria": "Internacional",
@@ -315,24 +378,6 @@
     "data": "2026-11-18T00:57:56.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
-    "resumo": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T00:47:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
-    "resumo": "Head of Iran&#039;s IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T00:33:36.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Waymo Pulls Its Driverless Taxis From All U.S. Freeways Temporarily",
@@ -414,15 +459,6 @@
     "data": "2026-11-17T23:35:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
-    "resumo": "Incoming senators and prospective presidential candidates blamed the health secretary’s history of vaccine skepticism for the rise of measles in the country.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-measles-reax-tzcj/17pol-measles-reax-tzcj-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-17T23:34:37.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
@@ -488,7 +524,7 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Thomas Markle charged over child sex abuse material in Philippines",
+    "titulo": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
     "resumo": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
     "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
@@ -538,15 +574,6 @@
     "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-17T22:32:50.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Oprah Winfrey names novel by Ontario-born author as her latest book club pick",
-    "resumo": "Previous Canadian books featured on Oprah’s Book Club include A Fine Balance by Rohinton Mistry and Fall on Your Knees by Ann-Marie Macdonald.",
-    "link": "https://www.cbc.ca/books/oprah-book-club-pick-mary-lawson-9.7420605?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/2328bcfe-eba0-4dc7-912c-c6b908d99193,1794583372039/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B",
-    "data": "2026-11-17T22:28:11.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -709,15 +736,6 @@
     "link": "https://www.dw.com/pt-br/o-que-explica-a-explosão-da-inadimplência-no-agronegócio/a-79975178?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-17T21:22:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "With House Democratic Majority Still Growing, Recounts Are Starting in Closest Races",
-    "resumo": "The exact size of the Democratic majority in Congress was undetermined as recounts were sought in two races in North Carolina and one in Minnesota two weeks after the elections.",
-    "link": "https://www.nytimes.com/2026/11/17/us/elections/recounts-house-races-north-carolina-minnesota.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-nc-recount-wptg/17pol-nc-recount-wptg-mediumSquareAt3X.jpg",
-    "data": "2026-11-17T21:11:19.000Z"
   },
   {
     "categoria": "Internacional",
@@ -889,15 +907,6 @@
     "link": "https://www.theguardian.com/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
     "imagem": "https://i.guim.co.uk/img/media/13315150703ff8fcca48f5afcf8acb9723cff8c9/820_46_5609_4488/master/5609.jpg?width=140&quality=85&auto=format&fit=max&s=f9b027f909feae34ba6c25386e79e369",
     "data": "2026-11-17T17:59:41.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-    "resumo": "<p>High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy</p><p>Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese s",
-    "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-    "imagem": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=f670013bc0a3af1c5be5d664c18c5be9",
-    "data": "2026-11-17T17:58:05.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1179,8 +1188,8 @@
     "data": "2026-11-17T11:30:00.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "US government confirms investigation into tech firm Megaspeed",
     "resumo": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
     "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
@@ -1257,15 +1266,6 @@
     "resumo": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that&apos;s upon us? Cold and flu season.",
     "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe9%2Fb67c6a214e7b9c02d386dead53d5%2Fgettyimages-2303905886.jpg",
-    "data": "2026-11-17T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Does locking up a student&apos;s cell phone improve test scores? A new study suggests so",
-    "resumo": "A new study of school cellphone bans finds they may help students make up for some of the learning they&apos;ve lost since 2013 – a divergence from earlier study results.",
-    "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F92%2F75ae7d5549d0b190800164f316f6%2Fgettyimages-2244489408.jpg",
     "data": "2026-11-17T10:00:00.000Z"
   },
   {
