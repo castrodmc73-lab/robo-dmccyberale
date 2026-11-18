@@ -1,30 +1,273 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fraude de R$ 1,3 bilhão com notas falsas é alvo de operação no interior de SP",
-    "resumo": "Operação policial em Rio Claro mira organização suspeita de fraude fiscal bilionária A Polícia Civil realiza uma operação em Rio Claro (SP), na manhã desta quarta-feira (18), para combater um esquema de fraude de R$ 1,3 bilhão. Batizada de Operação X.509, a ação investiga o uso de certificados digitais falsos para emitir notas fiscais ele",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/18/fraude-de-r-13-bilhao-com-notas-falsas-e-alvo-de-operacao-no-interior-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/iObgmDXdPfiY8vzZGpbW99d3iDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/x/paGT1tRm68KuywwQe5UQ/whatsapp-image-2026-11-18-at-07.42.50-3-.jpeg",
-    "data": "2026-11-18T11:21:42.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "How Mary Peltola Triumphed in Alaska’s Senate Race",
+    "resumo": "Beleaguered by high fuel costs and wary of overfishing, Alaskans were drawn to the Democrat’s hyperlocal pitch.",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18pol-alaska-analysis-HFO-hjwm/18pol-alaska-analysis-HFO-hjwm-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T12:25:26.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Grand Theft Auto 6 is a masterpiece, say critics",
+    "resumo": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-18T12:22:15.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Xi, Putin meet in China, ahead of summit with Trump",
+    "resumo": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
+    "link": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5efbf693-00a0-45b0-921c-c074f9a56fb8,1794999891540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C39%2C3989%2C2243%29%3B",
+    "data": "2026-11-18T12:21:51.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Detentos ateiam fogo em colchões durante princípio de rebelião em cadeia de Piancó, na PB",
-    "resumo": "Detentos ateiam fogo em colchões durante princípio de rebelião em cadeia na PB Um princípio de rebelião foi registrado na noite desta terça-feira (17) na cadeia pública de Piancó, no Sertão da Paraíba. Durante a ocorrência, detentos atearam fogo em colchões e outros materiais dentro de uma cela onde estavam cerca de 20 presos. Segundo a S",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/18/detentos-ateiam-fogo-em-colchoes-durante-principio-de-rebeliao-em-cadeia-de-pianco-na-pb.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YXg6fVSJSdrXmfSldtOjM2hdbzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/r/bqb95gTnWjpWs8MYAjlA/design-sem-nome-15-.jpg",
-    "data": "2026-11-18T11:17:33.000Z"
+    "titulo": "Festival de Ação e Cultura Negra em Suzano tem shows de Denise D’Paula e Binho Ribeiro",
+    "resumo": "Denise D'Paula e Binho Ribeiro se apresentam no 1º Festival de Ação e Cultura Negra Divulgação / Redes Sociais O 1º Festival de Ação e Cultura Negra de Suzano segue até 29 de novembro com apresentações de música, teatro e exposições. Entre os destaques estão os shows de Denise D'Paula e Binho Ribeiro e a Congada do Divino Espírito Santo. ",
+    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/18/festival-de-acao-e-cultura-negra-em-suzano-tem-shows-de-denise-dpaula-e-binho-ribeiro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aXJUjjDhdgXigKMGT_m8f3_c1C8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/t/KPqxr8Sr29ddBBQNYpXw/design-sem-nome.png",
+    "data": "2026-11-18T12:19:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "imagem": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
+    "data": "2026-11-18T12:17:47.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Caminhão tomba na SP-294 em Piratininga após acidente durante ultrapassagem; motorista foge",
-    "resumo": "Um caminhão tombou sobre uma defensa metálica no km 366 da Rodovia Comandante João Ribeiro de Barros (SP-294), na noite de terça-feira (17) Portal CCM — ARTESP (ccm.artesp.sp.gov.br) Um caminhão tombou sobre uma defensa metálica no km 366 da Rodovia Comandante João Ribeiro de Barros (SP-294), na noite de terça-feira (17), em Piratininga (",
-    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/18/caminhao-tomba-na-sp-294-em-piratininga-apos-acidente-durante-ultrapassagem-motorista-foge.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RTOzY6MANUvVXo0SkLu5ZP1gNwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/i/Sw0vsUSZWjF7SMkFauWQ/novo-projeto-2026-11-18t073212.279.png",
-    "data": "2026-11-18T11:17:21.000Z"
+    "titulo": "VÍDEOS: Bom Dia Cidade Sul de Minas de quarta-feira, 18 de novembro de 2026",
+    "resumo": "Vídeos do jornal Bom Dia Cidade Sul de Minas de quarta-feira, 18 de novembro de 2026.",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/18/videos-bom-dia-cidade-sul-de-minas-de-quarta-feira-18-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VWZuACCNShGll4pwFyd8p9D9z8A=/s01.video.glbimg.com/deo/vi/22/23/15202322",
+    "data": "2026-11-18T12:15:25.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Mary Peltola flips Alaska&apos;s Senate seat. And, Nvidia won&apos;t reinstate Jensen Huang",
+    "resumo": "Former Democratic Rep. Mary Peltola has won one of the U.S.&apos; most watched Senate races. And, Nvidia&apos;s board says it doesn&apos;t plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "imagem": null,
+    "data": "2026-11-18T12:14:28.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+    "resumo": "<p>Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit</p><p>California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation that attended unofficially due to President Donald Trump’s withdrawal fr",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&quality=85&auto=format&fit=max&s=6aec30482d2c5d171594d537dbf1fcd2",
+    "data": "2026-11-18T12:13:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Com histórico de tiros contra manifestantes e fuga de presídio, advogado é preso pela 3ª vez em MS",
+    "resumo": "Advogado foi preso pela terceira vez Redes Sociais O advogado Bhenhur Rodrigo Bresciani, de 39 anos, que já atirou contra manifestantes durante um bloqueio de rodovia e fugiu de um presídio militar, voltou a ser preso na tarde de terça-feira (17), em Ponta Porã (MS), na fronteira com o Paraguai. Desta vez, ele era procurado pela Justiça p",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/com-historico-de-tiros-contra-manifestantes-e-fuga-de-presidio-advogado-e-preso-pela-3a-vez-em-ms.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tEfrm18PrYVVbDebTEgeoPdauXs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/O/JA2mFWSNe7erUAXBpLhQ/chuva-em-campo-grande-3-.png",
+    "data": "2026-11-18T12:08:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Henrique Vorcaro, pai do dono do Master, fez operações suspeitas com alvo da PF e fundo de gestora mineira",
+    "resumo": "Henrique Vorcaro, pai de Daniel Vorcaro Reprodução O empresário Henrique Vorcaro, pai do banqueiro Daniel Vorcaro, do Master, realizou operações financeiras suspeitas com um alvo da Polícia Federal e um fundo de investimentos de uma gestora de Belo Horizonte. São operações similares às de lavagem de dinheiro já reveladas pela PF, segundo ",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/18/henrique-vorcaro-pai-do-dono-do-master-fez-operacoes-suspeitas-com-alvo-da-pf-e-fundo-de-gestora-mineira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/I5uSHXbVpatQ97IWnWlnyNSGvnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/7EmVVERZSg4t2WokIIag/henrique-vorcaro.jpg",
+    "data": "2026-11-18T12:07:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mega data center em Campinas: conselho chama universidades e CNPEM para avaliar riscos à água e a pesquisas",
+    "resumo": "Data center previsto para 2027 em Campinas promete ter 40% da atual capacidade do Brasil O Conselho Municipal de Meio Ambiente de Campinas (Comdema) convidou três instituições de ensino e pesquisa para avaliar os possíveis impactos da construção de um mega data center na Fazenda Pau d'Alho, em Barão Geraldo. Os ofícios foram publicados no",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/18/mega-data-center-em-campinas-conselho-chama-universidades-e-cnpem-para-avaliar-riscos-a-agua-e-a-pesquisas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rZbB-RKsxyebv9kcqphsdK17SVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/E/i6YEcSQGCHAHUtmpIbfg/whatsapp-image-2026-08-20-at-19.35.56.jpeg",
+    "data": "2026-11-18T12:06:44.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prefeito que nomeou fihos, irmão e ex para secretarias é investigado pelo MP no RS: 'Enquanto eu for prefeito, vou ter familiares na gestão'",
+    "resumo": "Frederico Arcari Becker (PP) é prefeito de Bom Jesus (RS) Divulgação/Prefeitura de Bom Jesus O Ministério Público do Rio Grande do Sul (MPRS) investiga a prefeitura de Bom Jesus, na Serra Gaúcha, por anunciar os nomes de parentes do prefeito para comandar secretarias. Nesta segunda-feira (16), as redes sociais da prefeitura anunciaram mud",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/prefeito-secretarios-nomeacao-mp-apura-familiares-lico-bom-jesus.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5X-A-o-sdWL2P5qdBCnGC88xS3k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/aB5tL9SYiX3IKA77gArw/g1-46-.jpg",
+    "data": "2026-11-18T12:06:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "INMET emite alerta laranja de tempestade para 33 cidades do Leste de Minas",
+    "resumo": "Chuva e árvores. Freepik/Kireyonok_Yuliya O Instituto Nacional de Meteorologia (INMET) emitiu um alerta laranja de tempestade para 33 cidades do Leste de Minas Gerais. O aviso teve início na madrugada desta quarta-feira (18) e é válido até as 23h59. Segundo o órgão, há previsão de chuva entre 30 e 60 milímetros por hora ou de 50 a 100 mil",
+    "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/18/inmet-emite-alerta-laranja-de-tempestade-para-33-cidades-do-leste-de-minas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/OeecydfWdmpEMNHCCzQO0N30KhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/3/k7qM1TTjqdBdoea3jCcQ/arvores-chuva.jpg",
+    "data": "2026-11-18T12:04:34.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Palestinians find refuge in ancient caves after Israel demolishes homes",
+    "resumo": "Palestinians displaced in the occupied West Bank&#039;s Masafer Yatta area have been forced to live in underground caves.",
+    "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T12:04:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mãe atirou na cabeça de filho de 10 anos e fingiu disparo acidental, diz polícia",
+    "resumo": "Mãe de menino de 10 anos baleado na cabeça é indiciada pela polícia A mãe do menino de 10 anos que foi baleado na cabeça, na zona rural de Palmeiras de Goiás, no oeste do estado, foi indiciada pela Polícia Civil, por tentativa de homicídio qualificado. Na conclusão do inquérito, ao qual a TV Anhanguera teve acesso, o delegado Matheus Card",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/18/mae-atirou-na-cabeca-de-filho-e-fingiu-disparo-acidental-diz-policia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kjhGLllXvHhmEIxP8OzAChaEFEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/a/GHVAF9TcCy0Bo1d9yNRA/g1-foto-14-.jpg",
+    "data": "2026-11-18T12:03:42.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "NASA’s Voyager 1 probe is now one light-day away",
+    "resumo": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET, and is now 16.094 billion miles away from our [&#8230;]",
+    "link": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-18T12:03:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PF investiga depósito irregular e apreende resíduos industriais com risco de contaminação em MS",
+    "resumo": "PF faz buscas após encontrar resíduos que podem contaminar o meio ambiente em MS Polícia Federal A Polícia Federal investiga possíveis crimes ambientais relacionados ao armazenamento irregular de resíduos industriais em Mato Grosso do Sul. Nesta quarta-feira (18), a Operação Escória cumpriu três mandados de busca e apreensão em Campo Gran",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/pf-investiga-deposito-irregular-e-apreende-residuos-industriais-com-risco-de-contaminacao-em-ms.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QYeGjAauaF0DpiELOCOvFuzLWow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/P/JVComAT2CB3GhNYtBKtA/bgfnjghn.png",
+    "data": "2026-11-18T12:02:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vídeos mostram envelopes lacrados do Provão Paulista com capinhas, mas sem celulares dos alunos; MP analisa",
+    "resumo": "Alunos abrem envelopes porta-objetos lacrados que guardavam capinhas de celular. Montagem/g1/Reprodução/Redes sociais Vídeos que circulam nas redes sociais, principalmente no TikTok, mostram estudantes abrindo envelopes porta-objetos lacrados que deveriam guardar celulares durante a aplicação do Provão Paulista 2026. Nas imagens, os aluno",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/videos-mostram-envelopes-lacrados-do-provao-paulista-com-capinhas-mas-sem-celulares-dos-alunos-deputada-aciona-mp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LQ6MUXbVwn4trLd32NKH48xuriA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/H/UFmchZTquYcKQuMKs5kw/fotojet-2026-11-18t082919.260.jpg",
+    "data": "2026-11-18T12:02:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motociclista bate em traseira de caminhão e morre na BR-262, em MG",
+    "resumo": "Motociclista morreu após bater na traseira do caminhão, na BR-262 PRF/Divulgação Um motociclista, de 54 anos, morreu após bater na traseira de um caminhão, na BR-262, em Igaratinga, na tarde desta terça-feira (17). De acordo com a Polícia Rodoviária Federal (PRF), os dois veículos seguiam pela faixa da direita da rodovia, no sentido Pará ",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/motociclista-bate-em-traseira-de-caminhao-e-morre-na-br-262-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JT74ilcbjHPUgd-yopy-bDXVijw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/VgYV1LQq204XaWAGe0Zg/whatsapp-image-2026-11-17-at-22.02.52-1-.png",
+    "data": "2026-11-18T12:01:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dólar abre em alta e vai a R$ 5,80, de olho em ajuste fiscal e ata do Fed",
+    "resumo": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quarta-feira (18) em alta, com um avanço de 0,48% perto das 9h, cotado a R$ 5,8095. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. A ata da última reunião do Federal Reserve (Fed, o banco central americano) fica no radar nes",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/18/dolar-ibovespa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qJ7O_5T6hSs6HEsS6HwA-Vl1Otk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/s/iveHFATICeDrK8diFnLw/pexels-john-guccione-wwwadvergroupcom-3564390.jpg",
+    "data": "2026-11-18T12:01:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
+    "resumo": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:58:10.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+    "resumo": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:57:09.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Um ano depois, fraude do Banco Master deixou prejuízo de R$ 76 bilhões",
+    "resumo": "Primeira prisão de Daniel Vorcaro e liquidação do Master em novembro de 2025 expuseram vasto esquema de fraudes e tentáculos do banqueiro nos Três Poderes. Um ano depois, perdas somam dezenas de bilhões de reais.",
+    "link": "https://www.dw.com/pt-br/um-ano-depois-fraude-do-banco-master-deixou-prejuízo-de-r-76-bilhões/a-79980139?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-18T11:55:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
+    "resumo": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia&#039;s investigation into the scandal.",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:51:26.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
+    "resumo": "<p>After the release of Grand Theft Auto VI this week, Rockstar employees like me can make history again. We need union recognition to safeguard our jobs</p><p>When I first got the call offering me a job at Rockstar, I was thrilled. I thought back to being a child and sneaking into my brother’s room to grab the PlayStation Portable so I c",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/gta-6-grand-theft-auto-vi-rockstar-employees-union-recognition",
+    "imagem": "https://i.guim.co.uk/img/media/6f6a96abc7c44dbaf4071cc6e2ab2db0d18bd33b/298_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9c85215f470360fd997fcd98b64bedf1",
+    "data": "2026-11-18T11:50:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Who would gain from carving up Pakistan’s provinces?",
+    "resumo": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:47:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Parque do Albardão faz oito meses com impactos econômicos em debate",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-nacional-do-albardao-impactos-socioeconomicos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Logo",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/parque-nacional-do-albardao-impactos-socioeconomicos",
+    "imagem": null,
+    "data": "2026-11-18T11:40:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+    "resumo": "US President Donald Trump was greeted by Chinese President Xi Jinping as he arrived in China.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:37:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "India lodges complaint against Palestinian footballer after under-17 match",
+    "resumo": "Palestinian player Taha Soueidan &#039;deeply surprised&#039; by criticism following accusations that he made a racist gesture.",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:32:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+    "resumo": "Research into Tim Hortons’s app finds that it began transmitting information to Forter as soon as it opened.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T11:30:34.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -37,93 +280,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quem são as influenciadoras presas em operação contra bets clandestinas na Paraíba?",
-    "resumo": "Day Monique e Ruivão foram presas em operação contra bets clandestinas Reprodução/TV Cabo Branco As influenciadoras digitais Day Monique e Ruivão estão entre as cinco pessoas presas preventivamente nesta quarta-feira (18), durante uma operação contra um esquema de divulgação de plataformas clandestinas de apostas na Paraíba. Segundo a Pol",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/18/quem-sao-as-influenciadoras-presas-em-operacao-contra-bets-clandestinas-na-paraiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VpW0bU5lxwuejRFp1dzCepoMVKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/j/JfT4WvQL6yRBU5sL8TnA/influenciadoras.jpg",
-    "data": "2026-11-18T11:16:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF faz operação contra grupo de apostas ilegais e bloqueia mais de R$ 2,3 bilhões",
-    "resumo": "Operação Cash Out mira grupo criminoso responsável por jogos e apostas ilegais Uma organização criminosa responsável por exploração ilegal de jogos e apostas é alvo da Operação Cash Out da Polícia Federal. Nesta quarta-feira (18), são cumpridos 59 mandados de busca e apreensão expedidos pela Justiça Federal de Pernambuco (veja vídeo acima",
-    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/18/pf-faz-operacao-contra-grupo-de-apostas-ilegais-e-bloqueia-mais-de-r-23-bilhoes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bo4VRUXxfBtyMYStcsRwck9DsDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/6/z3VqIGRr6QLOmfIdPgBg/artes-g1-70-.jpg",
-    "data": "2026-11-18T11:16:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Diretor da PF confirma que irá ao Senado prestar esclarecimentos sobre troca de delegados",
-    "resumo": "O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, confirmou nesta quarta-feira (18) que atenderá aos convites das comissões do Senado para prestar esclarecimentos sobre as recentes trocas de delegados da corporação. Na semana passada, a Comissão de Constituição e Justiça (CCJ) e a Comissão de Segurança Pública (CSP) aprovaram req",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/18/diretor-da-pf-confirma-que-ira-ao-senado-prestar-esclarecimentos-sobre-troca-de-delegados.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Chuvas e trovoadas permanecem intensas na maior parte do país",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-e-trovoadas-permanecem-intensas-na-maior-parte-do-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-e-trovoadas-permanecem-intensas-na-maior-parte-do-pais",
     "imagem": null,
-    "data": "2026-11-18T11:13:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "México suspende leilão de obra de Frida Kahlo nos Estados Unidos",
-    "resumo": "Obra 'Congreso de los pueblos por la paz', de Frida Kahlo, tem leilão suspenso nos EUA Divulgação/Sotheby’s A casa Christie's suspendeu na terça-feira (17) o leilão de um quadro de Frida Kahlo diante das dúvidas do governo do México sobre a forma como a obra saiu do país. A Christie's havia programado o leilão de \"Congreso de los pueblos ",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/18/mexico-suspende-leilao-de-obra-de-frida-kahlo-nos-estados-unidos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mOPPdTm3yaqVB0Kn826kXFqVS4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/N/amkAnCTBynCsTgXBjF9A/frida.jpg",
-    "data": "2026-11-18T11:13:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Universitário que estudou em escolas públicas do TO conquista vaga para intercâmbio na China",
-    "resumo": "Tocantinense conheceu a Muralha da China Arquivo Pessoal/Pedro Miguel O universitário Pedro Miguel Rocha Santos, de 21 anos, cresceu estudando em escolas públicas no interior do Tocantins e conquistou uma vaga para um intercâmbio em Pequim, na China. Ele conta que a experiência tem sido marcada por desafios, choque cultural e aprendizado.",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/18/universitario-que-estudou-em-escolas-publicas-do-to-conquista-vaga-para-intercambio-na-china.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4CDbd4GstosqpdtqbB4u5iXJnEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/g/O82xS3R1qBYJwqC68Eqg/foto-e-montagem-vertical-3-.png",
-    "data": "2026-11-18T11:13:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Grupo especializado em furtos de caminhonetes é alvo de buscas em Cuiabá",
-    "resumo": "As ordens judiciais foram executadas nos bairros Jardim Vitória, Bela Vista e Silvanópolis Reprodução Um grupo suspeito de furtar caminhonetes em Cuiabá foi alvo de uma ação policial nesta quarta-feira (18). Batizada de Operação Sol Nascente, a ação busca desarticular uma associação criminosa especializada em levar veículos dos dois model",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/grupo-especializado-em-furtos-de-caminhonetes-e-alvo-de-buscas-em-cuiaba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/87fJsnQo-vDu-Gk35Mu5GM5M9Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/d/ZVuEEcQfqOeRV7CuR0Pg/enem-31-.jpg",
-    "data": "2026-11-18T11:11:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Acidente entre veículos interdita pista de descida da Serra das Araras, em Piraí",
-    "resumo": "Um acidente entre veículos interditou totalmente a pista de descida da Serra das Araras na manhã desta quarta-feira (18), na Via Dutra, em Piraí (RJ). Segundo as primeiras informações da Polícia Rodoviária Federal, a princípio, não há registro de feridos. O trecho foi totalmente interditado para o atendimento da ocorrência. De acordo com ",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/18/acidente-interdita-pista-da-serra-das-araras-em-pirai.ghtml",
-    "imagem": null,
-    "data": "2026-11-18T11:11:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Turbulência em voos: por que episódios como o da JetBlue podem ficar mais comuns",
-    "resumo": "Cinco pessoas precisaram de atendimento médico após um voo da JetBlue enfrentar forte turbulência a caminho da Flórida. Getty Images/BBC Cinco pessoas precisaram de atendimento médico depois que um voo da JetBlue enfrentou forte turbulência no trajeto entre Porto Rico e Fort Lauderdale, na Flórida, nos Estados Unidos, na terça-feira (17/0",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/18/turbulencia-em-voos-por-que-episodios-como-o-da-jetblue-podem-ficar-mais-comuns.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/A8fHn3mTM8VJFiB_6EqoILGyIf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/I/v3HSHlQdGxsr57HjgLJg/60594ff0-e32f-11f1-9c56-6ffaf0e1e706.jpg-redimensionado-para-1200x675.jpeg",
-    "data": "2026-11-18T11:09:08.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
-    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-    "imagem": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3e09a7925f8f2e3ed3b0064291e7e676",
-    "data": "2026-11-18T11:08:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pá de turbina eólica cai e bloqueia estrada na zona rural do RN",
-    "resumo": "Pá de turbina eólica cai e bloqueia estrada na zona rural do RN Uma pá de uma turbina eólica caiu e bloqueou uma estrada de barro na zona rural de Serra do Mel, no Oeste do Rio Grande do Norte. O acidente aconteceu na terça-feira (17), no trecho entre as vilas Maranhão e Piauí. A estrutura ficou atravessada sobre a estrada após se despren",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/18/pa-de-turbina-eolica-cai-e-bloqueia-estrada-na-zona-rural-do-rn.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/74IXTLnOOGJa8f6t6sVjzpVs9YI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/7/BvyaZpRWuGWXIbWBICnQ/captura-de-tela-2026-11-18-as-07.55.54.png",
-    "data": "2026-11-18T11:08:08.000Z"
+    "data": "2026-11-18T11:15:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -133,24 +295,6 @@
     "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-18T11:06:16.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Football Canada launches Road to LA28 with first camps for Olympic-bound men's, women's flag teams",
-    "resumo": "Any lingering thoughts of qualifying for the 2028 Olympic debut of flag football will be in the rearview mirror this weekend by members of Canada’s national women’s team in Chula Vista, Calif., where 24 players will open a training camp to begin the road to Los Angeles.",
-    "link": "https://www.cbc.ca/sports/olympics/summer/flag-football-canada-olympic-training-camps-men-women-california-9.7425392?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/21fe1d6e-1505-4ed0-b0c1-781216c5148b,1794944102597/full/max/0/default.jpg?im=Crop%2Crect%3D%2820%2C0%2C1139%2C640%29%3B",
-    "data": "2026-11-18T11:05:00.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: clock running down on climate talks as deep divisions remain",
-    "resumo": "<p>Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating</p><p>Rich countries have been accused of offering “crumbs” to a fund for the developing world to adapt to climate change at Cop31.</p><p>At a pledging session on Tuesday night in Antalya, just $50m was pledged to ",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&quality=85&auto=format&fit=max&s=6aec30482d2c5d171594d537dbf1fcd2",
-    "data": "2026-11-18T11:02:56.000Z"
   },
   {
     "categoria": "Opinião",
@@ -177,6 +321,15 @@
     "resumo": "An inspired synthesis of violent satire and contemplative storytelling, <em>Grand Theft Auto VI </em>is more mature and ambitious than any prior game in the record-breaking franchise.",
     "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F0d%2F728b89154973a4e942ced4d58d36%2Fjason-and-lucia-03.jpg",
+    "data": "2026-11-18T11:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Grand Theft Auto VI is a spectacular, cynical and sometimes shallow joyride through the American psyche",
+    "resumo": "Beyond an impossibly lavish presentation, the latest Grand Theft Auto game is mostly a familiar formula with some smart additions — and for the vast majority of players, it's exactly what they've been waiting for.",
+    "link": "https://www.cbc.ca/news/entertainment/grand-theft-auto-vi-review-9.7425005?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4830aff1-dc78-43f4-9453-788bdd06e664,1794937463996/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
     "data": "2026-11-18T11:00:00.000Z"
   },
   {
@@ -301,7 +454,7 @@
     "fonte": "The New York Times",
     "titulo": "Fans Flock to This Famous Sign. Neighbors Say, Get Off My Road.",
     "resumo": "The residents of the Hollywood Hills have sued Los Angeles, saying the city has not done enough to address the dangerous conditions created by tourists vying for a glimpse of the iconic Hollywood sign.",
-    "link": "https://www.nytimes.com/2026/11/18/us/fans-flock-to-this-famous-sign-neighbors-say-get-off-my-road.html",
+    "link": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html",
     "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-hollywood-sign-zqkl/18nat-hollywood-sign-zqkl-mediumSquareAt3X.jpg",
     "data": "2026-11-18T10:03:36.000Z"
   },
@@ -378,15 +531,6 @@
     "data": "2026-11-18T10:00:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "She retired early to care for family. New work rules for food aid disrupted that",
-    "resumo": "The Trump administration&apos;s sweeping changes to SNAP food aid mean older adults up to age 65 must work or volunteer to get the benefit.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2842x1895+0+0/resize/2842x1895!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc6%2F6c%2Fd80a64334ce9808afa62fa4e7de6%2F261105-snap-turner-26-1.jpg",
-    "data": "2026-11-18T10:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
@@ -414,15 +558,6 @@
     "data": "2026-11-18T09:38:50.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Piecemeal wars: A new kind of world war is already under way",
-    "resumo": "Separate regional conflicts are increasingly linked by the interests of rival powers.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:31:18.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Valerie Solanas’s obscenely funny Scum Manifesto is an unignorable burst of female outrage | Emily Woof",
@@ -439,24 +574,6 @@
     "link": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
     "imagem": "https://i.guim.co.uk/img/media/06bf441bd0b1ae5e44706521aa2d8dfb287f3adb/126_0_3779_3024/master/3779.jpg?width=140&quality=85&auto=format&fit=max&s=93eb27396e961a3d060c9f56600717d0",
     "data": "2026-11-18T09:30:36.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
-    "resumo": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:30:01.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Body cam footage could overload the justice system, warns senior Crown prosecutor",
-    "resumo": "Body cameras can be a valuable source of evidence for the justice system, but it gives legal professionals a lot of extra footage to review. The head of the province’s Crown Attorney Association says there’s not enough resources for prosecutors to process body camera footage.",
-    "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/body-cam-justice-system-9.7425438?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e902eec6-9c25-49a1-8242-b1d7ffab8e52,1794947543810/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-18T09:30:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -486,60 +603,6 @@
     "data": "2026-11-18T09:25:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Photos: Thousands march in Haiti in support of Salvadoran troops",
-    "resumo": "Haitians take to the streets to praise El Salvador’s Nayib Bukele and his soldiers for fighting gangs in their country.",
-    "link": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:23:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
-    "resumo": "Cricket Australia says it will establish a forum, likely led by a former judge, but there will be no new sanctions.",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:18:37.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "India-UK ties outride Modi’s ‘decolonisation’ rhetoric",
-    "resumo": "Prince William&#039;s visit highlights growing partnership between New Delhi and London, despite their colonial history.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:13:12.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
-    "resumo": "Thai authorities race to provide safe water to villagers after arsenic from Myanmar mines contaminates Mekong River.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:10:21.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Paris Hilton and AOC speak against AI-generated deepfakes",
-    "resumo": "US Congresswoman AOC and TV personality Paris Hilton spoke against AI-generated deepfakes that target women and girls.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T09:03:05.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
-    "resumo": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or state-linked actors.",
-    "link": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/267aefec-f041-4d1c-aa64-4a1093da8410,1794878826452/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C607%2C8640%2C4860%29%3B",
-    "data": "2026-11-18T09:00:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Fatal police shootings in Nunavik shattered trust. Can these new intervention teams help?",
@@ -558,13 +621,13 @@
     "data": "2026-11-18T09:00:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Venezuelan boxer Linares arrested in US and faces deportation, ICE confirms",
-    "resumo": "The 41-year-old was detained on Sunday by US immigration authorities at El Paso International Airport in Texas.",
-    "link": "https://www.aljazeera.com/sports/2026/11/18/venezuelan-boxer-linares-detained-in-us-and-faces-deportation-ice-confirms?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T08:57:14.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
+    "resumo": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or state-linked actors.",
+    "link": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/267aefec-f041-4d1c-aa64-4a1093da8410,1794878826452/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C607%2C8640%2C4860%29%3B",
+    "data": "2026-11-18T09:00:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -698,7 +761,7 @@
     "titulo": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
     "resumo": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
     "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/650b/live/aea40010-e348-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-18T04:00:54.000Z"
   },
   {
@@ -727,15 +790,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-18T03:07:22.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "We keep asking what’s wrong with men. It's the wrong question entirely | Zac Siedler",
-    "resumo": "<p>Masculinity isn’t set in stone or written in our DNA. It’s made between us, at the dinner table, at the pub, in the office</p><p>Over the past decade I’ve been invited into a lot of rooms: boardrooms, school halls, clinics, conference centres. I’ve even been cornered at a Sunday barbecue, where I’d wrongly assumed I was off the clock. ",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/men-masculinity-mental-health-movember",
-    "imagem": "https://i.guim.co.uk/img/media/e8aaa7b24743ebd4f82fe0ec20e442a14a40a2aa/22_0_3965_3172/master/3965.jpg?width=140&quality=85&auto=format&fit=max&s=f20a8af52076c1834c381c90d425ee66",
-    "data": "2026-11-18T03:00:29.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -828,15 +882,6 @@
     "data": "2026-11-17T23:41:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
-    "resumo": "“We still gotta live our lives,” said the homeland security secretary, who is required to use government planes for personal travel. His department said he paid.",
-    "link": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-MULLINS-FLIGHT-qhtv/17DC-MULLINS-FLIGHT-qhtv-mediumSquareAt3X.jpg",
-    "data": "2026-11-17T23:38:02.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "STF inaugura símbolo da Justiça na tradição iorubá",
@@ -927,24 +972,6 @@
     "data": "2026-11-17T22:25:41.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Senado adia votação de destaques do projeto de ajuste fiscal",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal",
-    "imagem": null,
-    "data": "2026-11-17T22:23:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Caso Miguel: Mirtes cobra justiça no dia que filho faria 12 anos",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/caso-miguel-mirtes-cobra-justica-no-dia-que-filho-faria-12-anos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/caso-miguel-mirtes-cobra-justica-no-dia-que-filho-faria-12-anos",
-    "imagem": null,
-    "data": "2026-11-17T22:11:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
@@ -961,15 +988,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
     "imagem": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=dc6fc0dfac1be7b487bda0d86f9b5664",
     "data": "2026-11-17T21:49:29.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-    "resumo": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-17T21:46:20.000Z"
   },
   {
     "categoria": "Economia",
@@ -1238,7 +1256,7 @@
     "titulo": "Where are the most jobs for 18-24 year-olds?",
     "resumo": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
     "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7b/live/5b9d4c80-e345-11f1-99a1-253766e7ad8b.png",
     "data": "2026-11-17T12:35:53.000Z"
   },
   {
@@ -1305,15 +1323,6 @@
     "data": "2026-11-17T11:49:01.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Ponte da Crimeia desaba parcialmente após ataque ucraniano",
-    "resumo": "Símbolo da anexação da península por Moscou, estrutura estratégica que conecta a Rússia à Crimeia ocupada, sofreu danos extensos em ataque que Zelenski descreveu como \"uma operação sem precedentes\".",
-    "link": "https://www.dw.com/pt-br/ponte-da-crimeia-desaba-parcialmente-após-ataque-ucraniano/a-79968282?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-17T11:44:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "US government confirms investigation into tech firm Megaspeed",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/17/david-horowitz-stephen-miller",
     "imagem": "https://i.guim.co.uk/img/media/681cdb1dfbd0746d99637a9dbabdc11af8de1100/451_0_4489_3592/master/4489.jpg?width=140&quality=85&auto=format&fit=max&s=89a92cb5762122e098d5a8b3d5e42e92",
     "data": "2026-11-17T11:00:37.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
-    "resumo": "<p>Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary </p><p>Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls thr",
-    "link": "https://www.theguardian.com/film/2026/nov/17/music-critic-robert-christgau-documentary",
-    "imagem": "https://i.guim.co.uk/img/media/cde7c03e1f5a0dae3f87c3a6ed481d1fa73e6a58/502_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=704f0fb8a5d750d26325b7460dc9735f",
-    "data": "2026-11-17T11:00:36.000Z"
   }
 ]
