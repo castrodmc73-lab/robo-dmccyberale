@@ -1,21 +1,201 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Administration Presses Ahead in Legal Battle Over U.S. Attorneys",
+    "resumo": "A judge has ruled that Bill Essayli was acting “unlawfully” as U.S. attorney in Los Angeles. He is one of three prosecutors appointed by the Trump administration through a unique process.",
+    "link": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-prosecutor-fqlp/18nat-prosecutor-fqlp-mediumSquareAt3X.jpg",
+    "data": "2026-11-18T08:21:49.000Z"
+  },
+  {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Higher fuel prices push UK inflation to 3.6%",
+    "titulo": "Higher petrol and diesel prices push UK inflation to 3.6%",
     "resumo": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
     "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
-    "data": "2026-11-18T07:15:33.000Z"
+    "data": "2026-11-18T08:19:09.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Ships risk Hormuz Strait due to limited US protection",
+    "resumo": "Elisabeth Braw with the Atlantic Council says US navy cannot protection to every vessel passing the Hormuz Strait.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T08:12:20.000Z"
   },
   {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: clock running down on climate talks as deep divisions remain",
-    "resumo": "<p>Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating</p><p>Delegates arrived to the Cop31 conference centre under grey skies and showered by a fine drizzle this morning. The weather could have been straight from a school creative writing piece, for these are the fina",
+    "resumo": "<p>Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating</p><p>Debate continues on the global electrification pledge – a key priority set by the COP31 presidency of Turkey to transition to 35% electric by 2035 – with entrenched divisions around whether it needs to be tie",
     "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&quality=85&auto=format&fit=max&s=6aec30482d2c5d171594d537dbf1fcd2",
-    "data": "2026-11-18T07:14:38.000Z"
+    "data": "2026-11-18T08:11:21.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
+    "resumo": "The president says Beijing seeks to provide a &#039;stable, predictable and beneficial environment for global enterprises&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T08:05:18.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Idoso de 89 anos perde quase R$ 17 mil em golpe após criminoso trocar cartão em caixa eletrônico",
+    "resumo": "Idoso é vítima de golpe em caixa eletrônico Um idoso de 89 anos perdeu quase R$ 17 mil após cair em um golpe enquanto tentava sacar dinheiro em um caixa eletrônico na Vila Nova Curuçá, na Zona Leste de São Paulo. O criminoso se ofereceu para ajudá-lo, viu a senha do cartão e fez a troca sem que a vítima percebesse. Ulysses Silvestre Cança",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/idoso-de-89-anos-perde-quase-r-17-mil-em-golpe-apos-criminoso-trocar-cartao-em-caixa-eletronico.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FZq5SrH_j52IsbJasi3fhDDM8V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/L/GpivUZTRKYt3uq6GyhAg/videoframe-415313.png",
+    "data": "2026-11-18T08:01:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Juiz faz audiência dentro de barco durante viagem em rio no Acre: 'Garantia do acesso à Justiça'",
+    "resumo": "Juiz faz audiência dentro de barco durante viagem em rio no interior do Acre Uma viagem de barco pelo Rio Moa, em Mâncio Lima, interior do Acre, também se transformou em local de trabalho para o juiz de Direito Ricardo Fachin Cavalli. É que durante o retorno de uma ação itinerante do Tribunal de Justiça do Acre (TJ-AC), o magistrado reali",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/18/juiz-faz-audiencia-dentro-de-barco-durante-viagem-em-rio-no-acre-garantia-do-acesso-a-justica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LyIlIbpi2KGi2IJ0S-xfS0DYEn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/3/T4DywORmyBTeTbpyKwlg/midia-de-distribuicao-g1-2026-11-17t154407.861.png",
+    "data": "2026-11-18T08:01:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Milton Santos, guerras e terras raras: veja 10 temas atuais que podem cair na Unesp 2027",
+    "resumo": "De Milton Santos à guerra na Ucrânia: 10 temas para revisar antes da Unesp Na semana que antecede a 1ª fase do vestibular da Universidade Estadual Paulista (Unesp), marcada para este domingo (22), revisar temas de atualidades pode ser uma estratégia importante para os candidatos. O g1 conversou com a professora de Geografia e Atualidades ",
+    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/18/milton-santos-guerras-e-terras-raras-veja-10-temas-atuais-que-podem-cair-na-unesp-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Frlv1CNmpwSxXqwkgjXGtBL8cpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/a/t1JFujR521NFHGFcyo2A/divulgacao-alvo-minerals-e-stringerreuters.jpg",
+    "data": "2026-11-18T08:00:44.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Childhood neglect, unmet needs, mental health struggles: this is the making of a Neet | Mark Mon-Williams",
+    "resumo": "<p>As a researcher for the Milburn review, I’ve seen how we’ve failed a generation – then castigated them. Britain must break this vicious cycle</p><ul><li><p>Mark Mon-Williams is chair in cognitive psychology at the University of Leeds and professor of psychology at Bradford Institute of Health Research<br></p></li></ul><p><a href=\"https",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/neet-childhood-neglect-needs-mental-health-milburn-review-britain",
+    "imagem": "https://i.guim.co.uk/img/media/2efdb0795a39e5b009174c096765d8617ad7a64f/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0424012c86cdddf83cc9ca8350b9d5e1",
+    "data": "2026-11-18T08:00:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Principal rio de Roraima vira 'tapete de areia' em meio à seca intensificada pelo El Niño",
+    "resumo": "Principal rio de Roraima vira 'tapete de areia' em meio à seca O nível do Rio Branco, principal rio de Roraima, baixou 35 centímetros em um mês, em meio a seca que atinge o estado, intensificada pelo El Niño. A redução deixou extensas áreas de areia e terra exposta, e formou um “tapete de areia” em trechos do rio em Boa Vista. Na capital,",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/principal-rio-de-roraima-vira-tapete-de-areia-em-meio-a-seca-intensificada-pelo-el-nino.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XkeOGs-XEcbl5VFtFmZmBfg1Kls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/a/LVnZlaRtyIatojLpXOBQ/seca-roraima.jpeg",
+    "data": "2026-11-18T08:00:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: Sertaneja canta hit de Zé Neto e Cristiano para 'Seu Polícia' e viraliza nas redes sociais",
+    "resumo": "Sertaneja canta hit de Zé Neto e Cristiano para PM e viraliza nas redes sociais Um policial militar de Uberlândia, no Triângulo Mineiro, foi surpreendido por uma serenata improvisada da cantora Maria Laís, conhecida nas redes sociais como “A Mala”. Ao lado de uma viatura, ela cantou para o agente o sucesso “Seu Polícia”, da dupla Zé Neto ",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/18/video-sertaneja-canta-hit-de-ze-neto-e-cristiano-para-seu-policia-e-viraliza-nas-redes-sociais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/v-s7ZU8yQUZ4sUa3O0YUQivmQMU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/N/sBkkAjTUmS3sXGnIJP5Q/design-sem-nome.png",
+    "data": "2026-11-18T08:00:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Após pedir cerveja e picadinho, homem ainda tentou dar golpe do Pix em outro bar pedindo porção de peixe frito em MG",
+    "resumo": "Mensagens trocadas com os suspeitos e os estabelecimentos Reprodução/JP Agora Depois de pedir um picadinho de carne e cervejas e enviar comprovantes falsos de Pix, um homem de 20 anos tentou aplicar o mesmo golpe em outro bar de João Pinheiro, no Noroeste de Minas Gerais. Na segunda tentativa, ele pediu uma porção de peixe, avaliada em R$",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/18/apos-pedir-cerveja-e-picadinho-homem-ainda-tentou-dar-golpe-do-pix-em-outro-bar-pedindo-porcao-de-peixe-frito-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uIQ8qHdfSxO-LHDXBfnnQd9olvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/oBuBOhS6Wca16fblxe2A/design-sem-nome.png",
+    "data": "2026-11-18T08:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pacientes com suspeita de Mpox são isolados durante investigação em cidade de MG",
+    "resumo": "Mpox Reprodução Dois casos suspeitos de Mpox são investigados em Divinópolis. Os pacientes são um jovem, de 19 anos, e uma mulher, de 58 anos. Ambos estão em isolamento e aguardam os resultados dos exames laboratoriais para confirmação ou descarte da doença. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsApp O jovem",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/pacientes-com-suspeita-de-mpox-sao-isolados-durante-investigacao-em-cidade-de-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AgI22cph3-Me63nLF8YON_xWgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/RXiyVFTAO9bD3o0MDpaQ/midia-de-distribuicao-g1-42-.jpg",
+    "data": "2026-11-18T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fábrica de fuzis: Grupo transferiu estrutura de MG e SP para a Maré, no Rio, para dificultar ação policial, diz PF",
+    "resumo": "Polícia apreende máquina de produzir fuzis na Maré O grupo criminoso responsável pela fábrica de fuzis localizada no Complexo da Maré, na Zona Norte do Rio, é o mesmo grupo que atuava antes em Minas Gerais e São Paulo. Segundo a Polícia Federal, os criminosos transferiram sua estrutura de produção para dentro da comunidade carioca para di",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/18/fabrica-de-fuzis-grupo-transferiu-estrutura-de-mg-e-sp-para-a-mare-no-rio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kkwQ6GW1SV2ODdkl4PnyaTCZdoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/u/JyTu6DQMaEkWVDfN4nhg/whatsapp-image-2026-11-17-at-11.18.32.jpeg",
+    "data": "2026-11-18T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Colégio Mackenzie expulsa aluno bolsista com TDAH, e Justiça de SP manda reverter decisão",
+    "resumo": "Mackenzie São Paulo Reprodução O Tribunal de Justiça de São Paulo (TJ-SP) anulou a expulsão de um aluno bolsista do Instituto Presbiteriano Mackenzie diagnosticado com Transtorno do Déficit de Atenção com Hiperatividade (TDAH) porque a escola não demonstrou ter dado ao estudante a oportunidade de se defender e apresentar sua versão antes ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/colegio-mackenzie-expulsa-aluno-bolsista-com-tdah-e-justica-de-sp-manda-reverter-decisao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Ex-fRJxCDH96t3fvJ1Ks-dESlp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/l/4ca6RMS7GFCDEDxkbrgA/screenshot-2026-11-17-at-20-33-51-csm-mackenzie-campus-25bc1581c2.jpg-imagem-jpeg-1920-x-700-pixels-.png",
+    "data": "2026-11-18T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jovem com doença rara que perdeu 40% da pele no Acre pensou estar com conjuntivite",
+    "resumo": "Jovem de 21 anos perde 40% da pele após desenvolver doença rara no Acre O que parecia ser uma conjuntivite era, na verdade, o primeiro sinal de uma doença rara e grave que fez o jovem Jonas da Silva Tamaia, de 21 anos, perder parte da pele. Diagnosticado com necrólise epidérmica tóxica (NET), ele está internado na Unidade de Terapia Inten",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/18/jovem-com-doenca-rara-que-perdeu-40percent-da-pele-no-acre-pensou-estar-com-conjuntivite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/baQRNFiOZfHmk_TytBqI2dH8Cks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/X/nnUmvfSIiYQjWbBd3TSw/midia-de-distribuicao-g1-34-.png",
+    "data": "2026-11-18T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "SP gasta 3 vezes mais com prisões e internação de jovens do que com polícias na aplicação da Lei de Drogas, aponta estudo",
+    "resumo": "O estado São Paulo compromete 11,1% das despesas de suas instituições do Sistema de Justiça Criminal com a aplicação da Lei de Drogas. Nalu Cardoso/g1 RR O estado de São Paulo gastou cerca de R$ 1,97 bilhão com os sistemas penitenciário e socioeducativo na aplicação da Lei de Drogas em 2024, valor 3,4 vezes maior do que os R$ 576,1 milhõe",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/18/sp-gasta-3-vezes-mais-com-prisoes-e-internacao-de-jovens-do-que-com-policias-na-aplicacao-da-lei-de-drogas-aponta-estudo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iyKbtzIgW3awZLczLjFMfvdtfEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/K/Tgp1yTTHalTonXEiXW6g/pentenciaria.jpeg",
+    "data": "2026-11-18T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "DaLua completa oito meses como prefeito interino de Macapá e encara momento como 'desafio'",
+    "resumo": "Presidente da Câmara de Vereadores e prefeito interino de Macapá Pedro DaLua (União Brasil) Mariana Ferreira/g1 A Prefeitura de Macapá passou por uma mudança no comando político nos últimos meses. Antes liderado por Dr. Furlan (PSD), o Executivo municipal passou a ser administrado pelo então presidente da Câmara de Vereadores, Pedro DaLua",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/18/dalua-completa-oito-meses-como-prefeito-interino-de-macapa-e-encara-momento-como-desafio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bcyIO9dfA9qTM-9la8M-kNYqiVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/T/vJckt1RbWYefvgUxjAqA/aleixo-g1-85-.jpg",
+    "data": "2026-11-18T08:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "imagem": "https://i.guim.co.uk/img/media/0011d23e2098b25ad493ea535b2c96ddaa8ef28f/579_0_4411_3529/master/4411.jpg?width=140&quality=85&auto=format&fit=max&s=180a577985f10c7f06326a8c211ecf87",
+    "data": "2026-11-18T07:57:32.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh",
+    "resumo": "Thousands of Bangladeshi fans turned up to watch India complete a three-peat of SAFF titles in Dhaka.",
+    "link": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T07:54:15.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+    "resumo": "Putin says Western powers are &#039;former hegemons&#039;, with Europe in the midst of a &#039;humiliating decline&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T07:50:47.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "resumo": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+    "data": "2026-11-18T07:48:18.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -24,124 +204,25 @@
     "resumo": "Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
     "link": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
     "imagem": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T07:10:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bebê de um mês é salva por policial militar após família procurar ajuda em quartel em MG; VÍDEO",
-    "resumo": "Bebê de um mês é salva por policial militar após mãe procurar ajuda em quartel em MG Uma bebê de apenas um mês de vida foi socorrida por um policial militar após a família procurar ajuda no quartel da Polícia Militar (PM) em Sapucaí-Mirim, no Sul de Minas. Em um vídeo divulgado pela corporação, é possível ver a chegada da criança ao local",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/18/bebe-de-um-mes-e-salva-por-policial-militar-apos-familia-procurar-ajuda-em-quartel-em-mg-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HcQ7G8vOpIyWEbIrVsqirFRm3-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/F/Bq3xJBScKZnczI4bPFcQ/whatsapp-image-2026-11-17-at-17.05.05.jpeg",
-    "data": "2026-11-18T07:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quem são os três oficiais que devem assumir a cúpula da PM de MG",
-    "resumo": "Governador eleito anuncia nova cúpula da segurança em MG Três oficiais da Polícia Militar de Minas Gerais devem assumir os principais cargos da cúpula da corporação em 2027. Os nomes foram apresentados nesta terça-feira (17) pelo governador eleito de Minas Gerais, Cleitinho Azevedo (Republicanos). Em um vídeo gravado na Cabana do Pai Tomá",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/quem-sao-os-tres-oficiais-que-devem-assumir-a-cupula-da-pm-de-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VdxRtO5PHLsAPIFH0zuj2wWo3y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/E/9TXRCgSfAhnGsiaYnBdg/cupula-pmmg.jpg",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Peixe-leão, espécie invasora flagrada no ES, pode comer 20 peixes em meia hora; saiba o que fazer se encontrar",
-    "resumo": "Peixe-leão, espécie invasora com veneno, é registrado pela primeira vez no litoral do ES O peixe-leão flagrado na Ilha Escalvada, em Guarapari, no litoral do Espírito Santo, pode devorar até 20 peixes em meia hora e produzir até 30 mil ovos. Considerada uma espécie invasora, a presença do animal preocupa os órgãos ambientais pelos riscos ",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/18/peixe-leao-especie-invasora-flagrada-no-es-pode-comer-20-peixes-em-meia-hora-saiba-o-que-fazer-se-encontrar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6Em_f1c01cEVbbUMf-7DZz4v7rM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/I/pknVa2QgqplZ8c1UStzA/thumb-fotos.jpg",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mãe de paciente que morreu durante tratamento de canal em MG cobra explicação sobre causa da morte",
-    "resumo": "Consultório odontológico - foto ilustrativa Freepik A mãe de Valéria Siqueira da Silva, que morreu durante um tratamento de canal em um consultório odontológico de Barbacena, no Campo das Vertentes, ainda aguarda respostas sobre a causa da morte. Segundo Maria Auxiliadora, o atestado de óbito entregue à família registra a causa como \"inde",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/18/mae-de-paciente-que-morreu-durante-tratamento-de-canal-em-mg-cobra-explicacao-sobre-causa-da-morte.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/anc43sW1qi6ShjQ3n4PflNxWmoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/SquqRlSs2MFpXVBio6HA/escritorio-odontologico.png",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Superdotação e vestibular: por que facilidade para aprender não garante aprovação",
-    "resumo": "Por que superdotação não garante aprovação no vestibular Apesar dos ótimos resultados em provas apenas ao prestar a atenção nas aulas, Hilton Dias de Oliveira, de 18 anos, tem dificuldade para sentar e estudar, o que aumenta o desafio na preparação para vestibular. \"É diferente, você precisa sentar e estudar e isso eu não costumo fazer\", ",
-    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/18/superdotacao-e-vestibular-por-que-facilidade-para-aprender-nao-garante-aprovacao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JRzI8baVPWWDyBvC1K8UeS-9qFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Q/ArB5YKSy2YpsdKR8R0BA/design-sem-nome.png",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "‘Quero minha cachorra de volta’, diz tutora de husky que ONG entregou a outra família em Cravinhos, SP",
-    "resumo": "Justiça determina que husky doada por ONG após fugir retorne à família Reprodução/Arquivo Pessoal A tutora Carla Martins Ribeiro Tena, de Cravinhos (SP), diz que ouviu de uma funcionária da ONG que recolheu sua husky Pandora que só teria a cadela de volta “na frente do juiz”. Segundo ela, a Associação Ambientalista Toda Vida informou que ",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/18/quero-minha-cachorra-de-volta-diz-tutora-de-husky-que-ong-entregou-a-outra-familia-em-cravinhos-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nbcU8QkHn_elumFcO5tttK1mGoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/u/NzyDotQ0Ogb8nBgRXoEA/design-sem-nome-10-.png",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Petrolina e Araripina têm vagas de emprego nesta quarta-feira; veja",
-    "resumo": "Vagas de emprego no Sertão de Pernambuco A Agência de Trabalho de Pernambuco divulgou as vagas de emprego disponibilizadas para o município de Petrolina e Araripina nesta quarta-feira (18). As oportunidades são atualizadas diariamente pelo g1 Petrolina. Os interessados nas oportunidades podem entrar em contato com a Sedepe através da inte",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/18/petrolina-e-araripina-tem-vagas-de-emprego-nesta-quarta-feira-veja.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sHdJIKSjEH41JmWvRXcR_K8rhuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/AuICD5Smiju7zH4vkGQA/gil-leonardi-imprensamg-img-3025.jpg",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Membro de facção que matou DJ por confundi-la com rival é preso na Grande Fortaleza",
-    "resumo": "Membro de facção que matou DJ por confundi-la com rival é preso na Grande Fortaleza. John Igor da Silva Albuquerque foi preso em Paraipaba, na Região Metropolitana de Fortaleza. Ele é condenado pela morte da DJ Ana Karolina de Souza Santos, assassinada no bairro Bonsucesso, em Fortaleza. A prisão de John Igor ocorreu no último dia 29 de o",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/18/membro-de-faccao-que-matou-dj-por-confundi-la-com-rival-e-preso-na-grande-fortaleza.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BP1pkZxQFA4byIgs7g9kzSPLqQw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/H/i3IEGCS1S36L752GGYXg/dj-morta-fortaleza.jpg",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Queijo falso ou verdadeiro? Inteligência artificial desenvolvida em MG quer ajudar a descobrir",
-    "resumo": "As telas do aplicativo mostram o resultado da análise: de um lado um queijo verdadeiro e do outro, um queijo falsificado reprodução/Aplicativo de Inspeção É queijo da Canastra mesmo ou só parece? Pesquisadores do Instituto Federal de Minas Gerais (IFMG), campus Bambuí, no Centro-Oeste do estado, estão desenvolvendo um sistema que usa inte",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/18/queijo-falso-ou-verdadeiro-inteligencia-artificial-desenvolvida-em-mg-quer-ajudar-a-descobrir.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Kr1Cl5YbNY7uHHAFAdznFzuNmMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/D/HhZ6SuRaWzBclLHQUhAA/queijo3.jpeg",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Alaíde Costa canta Fátima Guedes, Zé Renato, Joyce Moreno e Johnny Alf no álbum 'Meu vício na dor de amar demais'",
-    "resumo": "Capa do álbum 'Meu vício na dor de amar demais', de Alaíde Costa Fábio Audi / Divulgação ♫ NOTÍCIA ♬ Idealizada por Marcus Preto, a capa do álbum que Alaíde Costa lançará em 27 de novembro, “Meu vício na dor de amar demais”, expõe a cantora em bela e expressiva foto de Fábio Audi. Terceiro título da trilogia idealizada por Emicida e Preto",
-    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/18/alaide-costa-canta-fatima-guedes-ze-renato-joyce-moreno-e-johnny-alf-no-album-meu-vicio-na-dor-de-amar-demais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/x1yWBN7XmDIDu4qIVMcfMxyD9o8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Z/CMgspAQRaGARLW6SntMA/album-meuvicionadordeamardemais.png",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jão, Zé Ramalho, Festival da Jabuticaba, Orquestra de Ouro Preto, teatro: veja agenda da semana",
-    "resumo": "Jão, Zé Ramalho, festival, teatro, orquestra: confira as atrações culturais da semana em BH. Divulgação O fim de semana em Belo Horizonte e na Região Metropolitana está com atrações para todos os gostos. O g1 preparou uma agenda cultural com opções para aproveitar. Confira: Jão – “Memórias Póstumas” Jão em sessão de fotos do disco 'Memóri",
-    "link": "https://g1.globo.com/guia/guia-bh/noticia/2026/11/18/jao-ze-ramalho-festival-da-jabuticaba-orquestra-de-ouro-preto-teatro-veja-agenda-da-semana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CE-rn84XhOytfh3ZFlYksspMnho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/I1lTCsRBav3ePXztI3GQ/blank-5-grids-collage-2-.png",
-    "data": "2026-11-18T07:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: 'Lixo voador' é flagrado por câmera de segurança e quase atinge carro em Uberlândia",
-    "resumo": "'Lixo voador' é flagrado por câmera de segurança e quase atinge carro em Uberlândia Uma câmera de segurança de um prédio do bairro Santa Mônica, em Uberlândia, no Triângulo Mineiro, registrou o momento em que lixo foi jogado do alto do condomínio e passou muito perto de um carro que trafegava pela rua Professor João Luís. O caso aconteceu",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/18/video-lixo-voador-e-flagrado-por-camera-de-seguranca-e-quase-atinge-carro-em-uberlandia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7dG4i53kdMoPat1Y5RmXCbRda9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/K/Rt8HZTR3yZfajaqyuYYA/lixo-voador.png",
-    "data": "2026-11-18T07:00:00.000Z"
+    "data": "2026-11-18T07:43:35.000Z"
   },
   {
     "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-    "resumo": "<p>Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit\">Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit</a></p></li><li><p><a href=\"https://ww",
-    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-    "imagem": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5",
-    "data": "2026-11-18T06:56:14.000Z"
+    "fonte": "Al Jazeera",
+    "titulo": "Hungry, unpaid and afraid: Africa’s journalists pushed to the brink",
+    "resumo": "The exploitation of journalists is undermining independent reporting and the public’s right to know.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T07:09:22.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "resumo": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg",
+    "data": "2026-11-18T07:00:25.000Z"
   },
   {
     "categoria": "Internacional",
@@ -194,7 +275,7 @@
     "titulo": "Security flaw found in Java, world's third-largest programming language",
     "resumo": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
     "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-18T05:33:13.000Z"
   },
   {
@@ -205,15 +286,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-18T05:24:02.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Administration Presses Ahead in Legal Battle Over U.S. Attorneys",
-    "resumo": "A judge has ruled that Bill Essayli was acting “unlawfully” as U.S. attorney in Los Angeles. He is one of three prosecutors appointed by the Trump administration through a unique process.",
-    "link": "https://www.nytimes.com/2026/11/18/us/trump-administration-presses-ahead-in-legal-battle-over-us-attorneys.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18nat-prosecutor-fqlp/18nat-prosecutor-fqlp-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T05:19:50.000Z"
   },
   {
     "categoria": "Internacional",
@@ -279,6 +351,15 @@
     "data": "2026-11-18T04:58:02.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "resumo": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a56b/live/b9e12140-e2f5-11f1-910a-c953499d69d5.jpg",
+    "data": "2026-11-18T04:57:06.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
@@ -286,15 +367,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
     "imagem": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=8869a08f117f3b859f3c91649b07cac0",
     "data": "2026-11-18T04:25:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Australia issues sanctions targeting Israeli settlers",
-    "resumo": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T04:12:03.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -313,15 +385,6 @@
     "link": "https://www.cbc.ca/player/play/9.7426107?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/d7a0e4c8-131f-4e48-a6c9-d8db700ad84e,1794981274401/full/max/0/default.jpg?im=Crop%2Crect%3D%286%2C0%2C1907%2C1072%29%3B",
     "data": "2026-11-18T04:03:12.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Rubio rules out cyberattacks or links between tech outages",
-    "resumo": "US Secretary of State Marco Rubio said there is no evidence linking technical outages to each other or to cyberattacks.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T04:01:16.000Z"
   },
   {
     "categoria": "Economia",
@@ -349,15 +412,6 @@
     "link": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
     "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17pol-measles-reax-tzcj/17pol-measles-reax-tzcj-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-18T03:33:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-    "resumo": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T03:28:41.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -396,24 +450,6 @@
     "data": "2026-11-18T03:00:29.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
-    "resumo": "Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.",
-    "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T03:00:22.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "There is no public interest in watching Isaac Heeney or Pat Cummins argue with their partners. We should look away | Megan Maurice",
-    "resumo": "<p>Not every aspect of the human experience needs to be recorded, distributed and discussed – even if those in question are public figures</p><p>This week the Sydney Swans player Isaac Heeney and his partner were followed and filmed arguing in a local park in the wake of investigations into <a href=\"https://www.theguardian.com/sport/2026/",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/no-public-interest-isaac-heeney-pat-cummins-partners-privacy-sydney-swans-ntwnfb",
-    "imagem": "https://i.guim.co.uk/img/media/0ba8eb8d30347b259630d715dd9aa40ac1ba98ce/367_0_3249_2601/master/3249.jpg?width=140&quality=85&auto=format&fit=max&s=f2a6a633d3f941dc8902ef6ed309aa3c",
-    "data": "2026-11-18T02:53:01.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "A.I. Mistook a Bag of Chips for a Gun, Teenagers’ Lawsuit Says",
@@ -421,15 +457,6 @@
     "link": "https://www.nytimes.com/2026/11/17/us/baltimore-school-chips-gun-alert.html",
     "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/17xp-chips/17xp-chips-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-18T02:37:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
-    "resumo": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T02:36:09.000Z"
   },
   {
     "categoria": "Clima",
@@ -576,8 +603,8 @@
     "data": "2026-11-17T23:11:02.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Internacional",
+    "fonte": "BBC News",
     "titulo": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
     "resumo": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
     "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
@@ -601,15 +628,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
     "data": "2026-11-17T22:46:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-    "resumo": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-17T22:44:15.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -891,15 +909,6 @@
     "data": "2026-11-17T20:30:20.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-    "resumo": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-17T20:25:46.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Speed camera fault may have allowed drivers to escape fines",
@@ -1042,15 +1051,6 @@
     "link": "https://www.dw.com/pt-br/instalações-no-laos-e-camboja-reforçam-influência-militar-chinesa/a-79971105?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-17T15:51:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "How the attack on Crimean Bridge unfolded",
-    "resumo": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-17T15:38:10.000Z"
   },
   {
     "categoria": "Opinião",
