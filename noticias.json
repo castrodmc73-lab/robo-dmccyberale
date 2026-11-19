@@ -1,30 +1,210 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+    "resumo": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-19T23:40:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Relator do ajuste fiscal na Câmara mantém texto do Senado; projeto deve ser votado na segunda-feira",
+    "resumo": "Projeto de ajuste fiscal segue para Câmara dos Deputados O deputado Mauro Benevides (União Brasil-CE) apresentou nesta quinta-feira (19) seu parecer para o projeto de ajuste fiscal do governo Lula (PT). Benevides manteve o mesmo texto aprovado pelo Senado. Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis n",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RVoT4Zq20buzERW89XU9RfNr7Lk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/q/VYBfx7QyeiDzDUd6kiZw/kayo-magalhaes.jpg",
+    "data": "2026-11-19T23:37:50.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "resumo": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-19T23:33:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia prende segundo suspeito de participar da morte de três mulheres em residência em Jacaraú, na PB",
+    "resumo": "Viatura da Polícia Civil, na Paraíba Polícia Civil/Divulgação Um segundo suspeito de participar da morte de três mulheres em Jacaraú, no Litoral Norte da Paraíba, foi preso A informação foi confirmada pela Polícia Civil nesta quinta-feira (19). Um terceiro suspeito de ter participado do crime segue foragido. ✅ Clique aqui para seguir o ca",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/19/policia-prende-segundo-suspeito-de-participar-da-morte-de-tres-mulheres-em-residencia-em-jacarau-na-pb.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wwPujtZKWweI1-W1PSBBwOYpeD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/X/ERMSuPQs6NrK17gzBG5Q/img-8621.jpg",
+    "data": "2026-11-19T23:33:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Militares do RJ pulam de avião a 4 mil metros de altura durante treinamento em MS",
+    "resumo": "Militares do RJ pulam de avião a 4 mil metros de altura durante treinamento em MS Militares do Exército Brasileiro saltaram de paraquedas de até 4 mil metros de altura nesta quinta-feira (19), em Mato Grosso do Sul. A ação fez parte do Exercício Conjunto Perseu 2026, que reúne integrantes das Forças Armadas para simular operações de comba",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/19/militares-do-rj-pulam-de-aviao-a-4-mil-metros-de-altura-durante-treinamento-em-ms.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Q_r2OM2Z24kTgcvMs0c2xOHr7oA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/O/a65VyORcOTRjqCDLBbBA/design-sem-nome-97-.jpg",
+    "data": "2026-11-19T23:32:08.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped",
+    "resumo": "The man who helped elect President Trump in 2024 and led DOGE is trying to rewrite history.",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/elon-musk-maga-trump.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-onpolitics-newsletter-03-wbkq/19pol-onpolitics-newsletter-03-wbkq-mediumSquareAt3X.jpg",
+    "data": "2026-11-19T23:31:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Guiana afirma que EUA apoiam decisão da Corte Internacional em disputa com a Venezuela por Essequibo",
+    "resumo": "Essequibo é alvo de disputa entre Venezuela e Guiana JN O presidente da Guiana, Irfaan Ali, afirmou nesta quinta-feira (19) que os Estados Unidos apoiam que a disputa pelo Essequibo entre Guiana e Venezuela seja resolvida por meio de uma decisão da Corte Internacional de Justiça (CIJ), apesar de relatos que apontavam para uma possível neg",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/guiana-eua-decisao-corte-internacional-disputa-venezuela-essequibo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lm_RcM7jNh-RCAeW4YdkvRqlu4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/S/M/Yo5EjBQLOEEAt2oz0EJg/globo-canal-4-20231130-2000-frame-77062.jpeg",
+    "data": "2026-11-19T23:30:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carcereiro é preso suspeito de facilitar fuga de quatro detentos de delegacia no extremo sul da Bahia",
+    "resumo": "Carcereiro é preso suspeito de facilitar fuga de quatro detentos de delegacia no extremo sul da Bahia Polícia Civil Um carcereiro de 42 anos foi preso nesta quinta-feira (19), suspeito de facilitar a fuga de quatro detentos da Delegacia Territorial de Santa Cruz Cabrália, no extremo sul da Bahia. A prisão aconteceu dias após os custodiado",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/19/carcereiro-e-preso-suspeito-de-facilitar-fuga-de-detentos-de-delegacia-na-bahia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/jq30kazHDbc5z7uDM2ioJQ8c7-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/U/v2T8DtQLyHxj46cG2sLQ/montagem-g1-bahia-4fotos-1200x800.jpg",
+    "data": "2026-11-19T23:28:58.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "9-month-old dies of hypothermia in Gaza as territory heads into winter season",
+    "resumo": "Kinan Arqiq was nine months old when he died of hypothermia in Gaza, as heavy rains caused flooding in makeshift tent cities.",
+    "link": "https://www.cbc.ca/news/world/baby-death-hypothermia-gaza-9.7428594?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/99a2a118-587c-4e60-bd2a-ed5ab37a3e73,1795115093684/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C10%2C1261%2C709%29%3B",
+    "data": "2026-11-19T23:28:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Primeiro encontro entre líderes da China, EUA e Rússia termina com compromisso para reduzir riscos de uma guerra nuclear",
+    "resumo": "O primeiro encontro da história entre líderes da China, Estados Unidos e Rússia terminou com uma promessa de diálogo para reduzir riscos de uma guerra nuclear. Mas quem fez essa promessa foram Vladimir Putin, que invadiu a Ucrânia, Donald Trump, que atacou a Venezuela e o Irã, e Xi Jinping, que não descarta uma operação militar em Taiwan.",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/19/primeiro-encontro-entre-lideres-da-china-eua-e-russia-termina-com-compromisso-para-reduzir-riscos-de-uma-guerra-nuclear.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tg-TgLPpU-Vn_6WCsA-eg4Wirn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/x/LTVaCNRGOEwWNkZSGKIg/globo-canal-4-20261119-2000-frame-11567.jpeg",
+    "data": "2026-11-19T23:28:40.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
     "resumo": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.",
     "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
     "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X.jpg",
-    "data": "2026-11-19T22:56:24.000Z"
+    "data": "2026-11-19T23:24:57.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "E se GTA VI fosse em Manaus? Engenheiro usa IA para criar versão amazonense do jogo; ASSISTA",
-    "resumo": "Engenheiro usa IA para criar versão amazonense do jogo GTA VI E se o universo de GTA VI fosse ambientado em Manaus? Foi a partir dessa ideia que o engenheiro de inteligência artificial José Carlos Amorim criou vídeos que transportam o cenário do jogo, lançado mundialmente nesta quinta-feira (19), para pontos conhecidos da capital amazonen",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/19/e-se-gta-vi-fosse-em-manaus-engenheiro-usa-ia-para-criar-versao-amazonense-do-jogo-assista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4jfEnhVWP15lbe7IoYk23TdBO5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/w/OESQuRSpW9ADMbYaBPDQ/gta-6-manaus-thumb.jpg",
-    "data": "2026-11-19T22:54:54.000Z"
+    "titulo": "Unesp 2027: veja como foi o plantão tira-dúvidas do g1 para a 1ª fase",
+    "resumo": "Unesp 2027: veja como foi o plantão tira-dúvidas do g1 para a 1ª fase Professores revisaram conteúdos de biologia, português, história e física, comentaram questões de provas anteriores e deram dicas para os candidatos na reta final de preparação.",
+    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/unesp-2027-acompanhe-ao-vivo-o-plantao-tira-duvidas-do-g1-para-a-1-fase.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5iCjvLZeySydeAlkrgX0yQY-Pfc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/7/S8Y2QQTWAdazLdfFQcbw/whatsapp-image-2026-11-19-at-14.45.22.jpeg",
+    "data": "2026-11-19T23:23:39.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "PM do TO reduz aulas práticas de novos soldados e prevê parte do treinamento pela internet; entenda",
-    "resumo": "Formação de policiais militares no Tocantins tem redução de carga horária e aulas práticas A redução da carga horária de treinamento prático de abordagem e uso da força para os novos soldados da Polícia Militar do Tocantins chamou a atenção do Ministério Público do Estado do Tocantins (MPTO), que passou a investigar o caso. O órgão questi",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/19/pm-do-to-diminui-aulas-praticas-de-novos-soldados-e-preve-formacao-pela-internet-apos-a-formatura-entenda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ajyDtenz1Cky4N9hhbuy_X21I7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/i/7cEuB7TTyiQbtqPJKogQ/pm-tocantins.jpeg",
-    "data": "2026-11-19T22:49:06.000Z"
+    "titulo": "Com árvore de 18 metros e locomotiva que solta fumaça, Caruaru inaugura Natal Iluminado 2026",
+    "resumo": "Caruaru acende luzes e inaugura a decoração do Natal 2026 A decoração do Caruaru, Natal Iluminado 2026 foi inaugurada nesta quinta-feira (19), com o acendimento das luzes da Estação Ferroviária. Ao todo, são cerca de 4 mil itens decorativos por diferentes pontos da cidade e também da zona rural de Caruaru, no Agreste de Pernambuco. A prog",
+    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/19/com-arvore-de-18-metros-e-locomotiva-que-solta-fumaca-caruaru-inaugura-natal-iluminado-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mtQXdkwZBXXO5EPubyLQwV7kGYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/f/AuIsxFTXSIC7OpxV1WCA/arte-41-.png",
+    "data": "2026-11-19T23:23:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Trump posthumously pardons US baseball legend Pete Rose",
+    "resumo": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
+    "data": "2026-11-19T23:18:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Campinas muda datas de obras e prevê concluir reservatórios contra enchentes até o fim de 2027",
+    "resumo": "Obra de reservatório para evitar enchentes em Campinas atrasa e fica para o fim de 2027 A Prefeitura de Campinas (SP) mudou os prazos dos dois piscinões em construção na cidade e passou a prever que ambos estejam em operação até o fim de 2027. A mudança adia a conclusão do reservatório do Proença e antecipa a entrega do reservatório ao la",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/19/campinas-muda-datas-de-obras-e-preve-concluir-reservatorios-contra-enchentes-ate-o-fim-de-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0Gk7lBkKjExUXBBSanYE-bQNuO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/dxhlkdQBOYAyrDNLrl7A/whatsapp-image-2026-11-19-at-12.56.44.jpeg",
+    "data": "2026-11-19T23:16:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: EPTV 2 Sul de Minas de quinta-feira, 19 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/19/videos-eptv-2-sul-de-minas-de-quinta-feira-19-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RCzKI0xIE5wQyj9YFHs26WLB4t0=/s01.video.glbimg.com/deo/vi/06/56/15265606",
+    "data": "2026-11-19T23:16:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem de 24 anos morre após ser baleado em São Vicente",
+    "resumo": "Homem morre após ser baleado em São Vicente (SP) Reprodução e g1 Um homem de 24 anos morreu após ser baleado na manhã desta quinta-feira (19), em São Vicente, no litoral de São Paulo. A Polícia Militar encontrou a vítima caída na Rua Graciliano Ramos, no bairro Jóquei Clube, com sangramento na cabeça. Segundo a Secretaria da Segurança Púb",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/19/homem-de-24-anos-morre-apos-ser-baleado-em-sao-vicente.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kxBKmM-H347Vz4sfLToMQQVFdQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Y/W34K15TpGxAtA7HOAl8A/morte-sv.jpg",
+    "data": "2026-11-19T23:15:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motociclista perde o controle da direção, bate em árvore e morre em Nova Serrana",
+    "resumo": "Um motociclista, de 44 anos, morreu após bater em uma árvore na AMG-0370, conhecida como Rodovia dos Calçados, em Nova Serrana, na noite de quarta-feira (18). Segundo a Polícia Militar (PM), ele teria perdido o controle da direção da moto. Ainda segundo a PM, uma equipe do Serviço de Atendimento Móvel de Urgência (Samu) foi chamada e cons",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/19/motociclista-perde-o-controle-da-direcao-bate-em-arvore-e-morre-em-nova-serrana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p-VMjoQLqYq9eQYdCmYhpcbQhGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/d/4K2JZYRmKSFnXI6TfSSw/aaa.png",
+    "data": "2026-11-19T23:12:44.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Six killed in suspected gas explosion at Georgia apartment building",
+    "resumo": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T23:09:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Manifestantes reúnem-se na Lapa para cobrar justiça por André Aires",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/manifestantes-reunem-se-na-lapa-para-cobrar-justica-por-andre-aires\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/manifestantes-reunem-se-na-lapa-para-cobrar-justica-por-andre-aires",
+    "imagem": null,
+    "data": "2026-11-19T23:05:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "California probing whether China improperly acquired Nvidia technology",
+    "resumo": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+    "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+    "data": "2026-11-19T23:04:30.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
+    "resumo": "Jen O’Malley Dillon, who led the former president’s last two White House bids, is inviting top Democratic operatives to a gathering funded in part by the megadonor Alex Soros.",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
+    "data": "2026-11-19T22:59:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Mosque torched in Israel sparks political backlash against Netanyahu",
+    "resumo": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T22:58:48.000Z"
   },
   {
     "categoria": "Internacional",
@@ -37,21 +217,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: JL2 de quinta-feira, 19 de novembro de 2026",
-    "resumo": "Assista aos vídeos do telejornal com notícias do Pará.",
-    "link": "https://g1.globo.com/pa/para/edicao/2026/11/19/videos-jl2-de-quinta-feira-19-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/SMvM0nV1ZvEW5Xd-ykh0rMYT694=/s01.video.glbimg.com/deo/vi/42/54/15265442",
-    "data": "2026-11-19T22:48:09.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: AB2 desta quinta-feira, 19 de novembro de 2026",
-    "resumo": "Assista aos vídeos do telejornal com as notícias do interior de Pernambuco.",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab2-desta-quinta-feira-19-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NbdzT1OShZb00JMDJvPFE4-SfY4=/s01.video.glbimg.com/deo/vi/32/54/15265432",
-    "data": "2026-11-19T22:46:00.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
+    "imagem": null,
+    "data": "2026-11-19T22:47:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -61,78 +232,6 @@
     "link": "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html",
     "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-rollins-gzvc/19dc-rollins-gzvc-mediumSquareAt3X.jpg",
     "data": "2026-11-19T22:45:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: AB1 desta quinta-feira, 19 de novembro de 2026",
-    "resumo": "Assista aos vídeos do telejornal com as notícias do interior de Pernambuco.",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab1-desta-quinta-feira-19-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KsQRgUanHC8juamuCe7_XaFece4=/s01.video.glbimg.com/deo/vi/40/48/15264840",
-    "data": "2026-11-19T22:44:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de quinta-feira, 19 de novembro de 2026",
-    "resumo": "Reveja todas as matérias dessa edição.",
-    "link": "https://g1.globo.com/go/goias/edicao/2026/11/19/videos-jornal-anhanguera-2-edicao-de-quinta-feira-19-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Pu5mYZAztePMop67Ze_lfSE1tCY=/s01.video.glbimg.com/deo/vi/10/54/15265410",
-    "data": "2026-11-19T22:43:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Considerado o maior tatu do mundo, tatu-canastra surpreende pai e filha em fazenda",
-    "resumo": "Tatu-canastra, o maior tatu do mundo, surpreende pai e filha em fazenda de Goiás Um encontro inesperado surpreendeu um pai e sua filha que trabalhavam com o gado em uma fazenda de Nova Crixás, no norte de Goiás. No meio do caminho, eles encontraram um tatu-canastra, considerado o maior tatu do mundo, e registraram o momento em vídeo (assi",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/19/video-tatu-canastra-surpreende-pai-e-filha-em-fazenda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Y9idDMLLjEFL68yxZkhVLGlJRxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/5/2sSlhiTKmEMOBbiH1AGg/padrao-foto-g1-goias-michely-loures-9-.jpg",
-    "data": "2026-11-19T22:41:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-    "imagem": null,
-    "data": "2026-11-19T22:39:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-    "imagem": null,
-    "data": "2026-11-19T22:38:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-    "imagem": null,
-    "data": "2026-11-19T22:38:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "resumo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-    "imagem": null,
-    "data": "2026-11-19T22:38:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 19 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-19-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Af4kRT1mhtHqr5bh_W7WdWMDuWw=/s01.video.glbimg.com/deo/vi/92/53/15265392",
-    "data": "2026-11-19T22:38:19.000Z"
   },
   {
     "categoria": "Internacional",
@@ -156,7 +255,7 @@
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Former top Mountie, guilty of rec centre teen assault, gets conditional discharge",
-    "resumo": "A former high-ranking B.C. RCMP officer has been granted a conditional discharge in an assault case stemming from an incident at the Abbotsford Recreation Centre last summer.",
+    "resumo": "A former high-ranking B.C. RCMP officer has been granted a conditional discharge in an assault case stemming from an incident at the Abbotsford Recreation Centre in the summer of 2025.",
     "link": "https://www.cbc.ca/news/canada/british-columbia/david-teboul-rcmp-officer-assault-case-9.7428491?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/1.7369867,1765927535404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C415%2C5000%2C2812%29%3B",
     "data": "2026-11-19T22:28:00.000Z"
@@ -180,13 +279,13 @@
     "data": "2026-11-19T22:09:18.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-    "resumo": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-    "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-19T22:09:04.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "This Sask. woman took some birds to a poultry show. Now avian flu is taking her whole flock",
+    "resumo": "More than 18 million birds in Canada, including more than 1.2 million in Saskatchewan, have been lost due to the highly pathogenic disease since 2021.",
+    "link": "https://www.cbc.ca/news/canada/saskatchewan/sask-birds-poultry-show-avian-flu-9.7428882?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/ba88235a-94d3-409f-99ff-287e0185130b,1795125334675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C81%2C526%2C295%29%3B",
+    "data": "2026-11-19T22:07:29.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -227,15 +326,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
-    "resumo": "Jen O’Malley Dillon, who led the former president’s last two White House bids, is inviting top Democratic operatives to a gathering funded in part by the megadonor Alex Soros.",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19pol-dems-2028-cjpz/19pol-dems-2028-cjpz-mediumSquareAt3X.jpg",
-    "data": "2026-11-19T21:46:17.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Fire at Railroad Tie Plant in Alabama Closes Schools and Prompts Evacuations",
     "resumo": "The authorities in Attalla ordered residents within a mile radius to leave because of the fire at the Omaha Track, a railroad tie recycling facility.",
     "link": "https://www.nytimes.com/2026/11/19/us/alabama-fire-railroad-tie-recycling-plant.html",
@@ -252,24 +342,6 @@
     "data": "2026-11-19T21:39:39.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Almost half of women in B.C. report intimate partner violence: StatsCan",
-    "resumo": "The study showed 47 per cent of B.C. women reported experiencing intimate partner violence. That figure, calculated from 2025 data, has held steady since the last report, which examined numbers gathered in 2018.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/intimate-partner-violence-bc-statistics-canada-9.7428764?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/7640806c-e21d-40b5-8353-1f2743b67f13,1795123499535/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5162%2C2903%29%3B",
-    "data": "2026-11-19T21:39:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "resumo": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-19T21:38:42.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
@@ -277,15 +349,6 @@
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
     "imagem": null,
     "data": "2026-11-19T21:34:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Armed forces in Haiti push to oust gang members from corridor on edge of capital",
-    "resumo": "Armed forces in Haiti launched an aggressive operation on Thursday to remove powerful gangs long entrenched in a key corridor that connects the country's capital to its western and southern regions.",
-    "link": "https://www.cbc.ca/news/world/haiti-gang-corridor-offensive-9.7428700?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/82d01afb-c7d7-479b-8da5-7a77b6819d5e,1795119871372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C794%2C8640%2C4860%29%3B",
-    "data": "2026-11-19T21:27:09.000Z"
   },
   {
     "categoria": "Internacional",
@@ -423,15 +486,6 @@
     "data": "2026-11-19T20:33:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
-    "resumo": "The lawsuit cited a book about Trump by two NYT reporters and what it said were &#039;false, malicious, defamatory&#039; articles.",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T20:32:46.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Festival Nicho apresenta cinema negro com exibições gratuitas em SP",
@@ -439,15 +493,6 @@
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-nicho-apresenta-cinema-negro-com-exibicoes-gratuitas-em-sp",
     "imagem": null,
     "data": "2026-11-19T20:32:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-    "resumo": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T20:30:54.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -621,24 +666,6 @@
     "data": "2026-11-19T19:12:30.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Temporada de réveillon do Rio começa antes do Natal e vai até dia 3",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/temporada-de-reveillon-do-rio-comeca-antes-do-natal-e-vai-ate-dia-3\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/temporada-de-reveillon-do-rio-comeca-antes-do-natal-e-vai-ate-dia-3",
-    "imagem": null,
-    "data": "2026-11-19T18:54:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Mapas do caminho ainda podem voltar à decisão final da COP31",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/mapas-do-caminho-ainda-podem-voltar-decisao-final-da-cop31\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/mapas-do-caminho-ainda-podem-voltar-decisao-final-da-cop31",
-    "imagem": null,
-    "data": "2026-11-19T18:49:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "It’s unfashionable to say it, but class still matters – and young people know that | Polly Toynbee",
@@ -702,15 +729,6 @@
     "data": "2026-11-19T17:58:21.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "'We could have been dead,' says tenant who escaped Cape Breton building collapse",
-    "resumo": "Viola Baker says she was in bed Wednesday morning when she heard a big bang, and all of a sudden the walls started caving in. She rushed to help rescue her daughter and 15-year-old grandson.",
-    "link": "https://www.cbc.ca/news/canada/nova-scotia/tenant-escaped-glace-bay-building-collapse-9.7428215?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d3319302-d512-4f40-93bd-c31336ee1c1a,1795105184182/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-19T17:52:17.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Borussia Dortmund cede à pressão da torcida e rompe com a Rheinmetall",
@@ -727,15 +745,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-19T17:38:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Susan Smith denied parole again 32 years after drowning her two sons",
-    "resumo": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
-    "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg",
-    "data": "2026-11-19T17:23:34.000Z"
   },
   {
     "categoria": "Clima",
@@ -891,15 +900,6 @@
     "data": "2026-11-19T15:52:26.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Los Angeles Prosecutor to Oversee Inquiry Into Search of Trump’s Mar-a-Lago Residence",
-    "resumo": "The appointment of Bill Essayli to run a key aspect of the so-called grand conspiracy case was the latest shake-up in a central part of President Trump’s retribution campaign.",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/trump-mar-a-lago-search-bill-essayli.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/19/us/dc-conspiracy-essayli/dc-conspiracy-essayli-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-19T15:49:36.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Grand Theft Auto would be a huge TV series – here’s why it will never happen",
@@ -1033,15 +1033,6 @@
     "link": "https://www.theguardian.com/culture/2026/nov/19/sinead-oconnors-best-songs-ranked",
     "imagem": "https://i.guim.co.uk/img/media/8da31a79716b84f5e1f088dba682dcd3fbd743e2/178_0_2084_1667/master/2084.jpg?width=140&quality=85&auto=format&fit=max&s=28de964c9d23c41aa627452fda9225cb",
     "data": "2026-11-19T13:00:48.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-    "resumo": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-    "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg",
-    "data": "2026-11-19T12:56:30.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1240,6 +1231,15 @@
     "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3825x2550+0+0/resize/3825x2550!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Fa9%2F06089dc548abaaae295e93dc98ed%2Fap26296421881981.jpg",
     "data": "2026-11-19T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "It's costing you less to fill up your gas tank. What's behind falling pump prices?",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/business/gas-prices-falling-canada-9.7426928?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/e94b71fc-1a4d-4825-8a8d-8495d351d9c9,1795031713435/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C382%2C6179%2C3475%29%3B",
+    "data": "2026-11-19T09:01:50.000Z"
   },
   {
     "categoria": "Clima",
