@@ -1,5 +1,158 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+    "resumo": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+    "data": "2026-11-19T04:42:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Crimean Bridge attacked again, Russian official says",
+    "resumo": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+    "data": "2026-11-19T04:37:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quinta-feira (19) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gU3EuOpjA3_Upm0SyT8xjkZuedI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/s/6z4MJKTXC7ek1JCw39ig/previsao-tempo-bras-lia-20261119-011544.jpeg",
+    "data": "2026-11-19T04:15:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quinta-feira (19) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/m0y7nQNWwG-ufKHWD2k7-uLL5UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/kl2QNhSbq8536l5USb1Q/previsao-tempo-goi-nia-20261119-011528.jpeg",
+    "data": "2026-11-19T04:15:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quinta-feira (19) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoad",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aR7gp448B4PTGulT0kp-T71bil4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/3wascBQYixofm0C0EQ7g/previsao-tempo-aparecida-de-goi-nia-20261119-011512.jpeg",
+    "data": "2026-11-19T04:15:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quinta-feira (19) para Cuiabá (MT) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 35ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e t",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/y3EaqSvifjGsEqWP4hhYg9lXZEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/AjoCRnR26Oqn6rq0ikvw/previsao-tempo-cuiab-20261119-011456.jpeg",
+    "data": "2026-11-19T04:15:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quinta-feira (19) para Campo Grande (MS) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da t",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-campo-grande-ms-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DWcoR7xHVsr4p01GUv_CG7ExE9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/h/0VtSlKSWWFvh6YlqP5mA/previsao-tempo-campo-grande-20261119-011440.jpeg",
+    "data": "2026-11-19T04:14:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quinta-feira (19) para Porto Alegre (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período d",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AieTMsNs-Hlf9QoQ32y37yQXbr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/6/TIz45AQ9ixhl3FOCRPgw/previsao-tempo-porto-alegre-20261119-011423.jpeg",
+    "data": "2026-11-19T04:14:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quinta-feira (19) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kb4PeE3oJduY9RXiV16vGp3XfuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/w/viaYCfSYKksaO7HQzpeg/previsao-tempo-caxias-do-sul-20261119-011407.jpeg",
+    "data": "2026-11-19T04:14:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quinta-feira (19) para Joinville (SC) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancada",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/L6ELRgY097osVRYgXfgVpoA5aNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/Us6oeoQlOHanON4PtQfw/previsao-tempo-joinville-20261119-011350.jpeg",
+    "data": "2026-11-19T04:14:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quinta-feira (19) para Florianópolis (SC) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 28ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol,",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Q9yMLu9F8N8oi7FKcYB7cBH-fZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/G/ShSYcuTJK3rPcAHtXAKg/previsao-tempo-florian-polis-20261119-011334.jpeg",
+    "data": "2026-11-19T04:13:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quinta-feira (19) para Maringá (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol e chuva. À n",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-maringa-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2pQa82QAho9a8X6rnxClKW6-R38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/9/92ihdYT7Kj0HGd2jdUVA/previsao-tempo-maring-20261119-011316.jpeg",
+    "data": "2026-11-19T04:13:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quinta-feira (19) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Rr0SuKWmYP2ErQoaQkF86QfX3B8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/0FvARnSim4pDslGd5tOA/previsao-tempo-londrina-20261119-011300.jpeg",
+    "data": "2026-11-19T04:13:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quinta-feira (19) para Curitiba (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tzyU-0JzzdCkWSGCXlakmsWbncA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/y/UVjCyCRbeDzFyUIISxQw/previsao-tempo-curitiba-20261119-011244.jpeg",
+    "data": "2026-11-19T04:12:54.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "One in four women globally unable to refuse sex within marriage, says UN",
+    "resumo": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world has no power of consent if their husband or partner demands sex, according to a UN report.</p><p>In west and central Africa, almost half of women (45%) are not able to say no in their ",
+    "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+    "imagem": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=e6d08589972906e0a23904745fa60bc8",
+    "data": "2026-11-19T04:00:16.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
+    "resumo": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T03:58:10.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
+    "resumo": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.",
+    "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-GTAFlu-wqvt/18xp-GTAFlu-wqvt-mediumSquareAt3X.jpg",
+    "data": "2026-11-19T03:54:30.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court",
@@ -11,20 +164,11 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+    "titulo": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
     "resumo": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
     "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-19T03:30:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O encontro inédito de Trump, Putin e Xi Jinping, e o que o Brasil ganha com isso - O Assunto #1849",
-    "resumo": "Na madrugada desta quinta-feira (19), os líderes de Estados Unidos, China e Rússia se encontram pela primeira vez, em Shenzhen, cidade que é um dos símbolos do crescimento chinês. O encontro trilateral envolve várias discussões sobre a paz global: a busca por resoluções para as guerras da Ucrânia e do Irã e por acordos que reduzam o arsen",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/19/o-encontro-inedito-de-trump-putin-e-xi-jinping-e-o-que-o-brasil-ganha-com-isso-o-assunto-1849.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jT6sjZ4BSDdQXxgZChN10LNawoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/ANMWTTT9A4VnbBnn0uhA/2026-11-18t115401z-1-lwd941118112026rp1-rtrwnev-c-9411-apec-summit-family-photo-ezgif.com-resize.gif",
-    "data": "2026-11-19T03:30:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -54,42 +198,6 @@
     "data": "2026-11-19T03:14:09.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sala da Academia Macaense de Letras é inaugurada no Centro de Cultura",
-    "resumo": "Solenidade de inauguração contou com homenagens, contação de histórias e performances poéticas Divulgação A Academia Macaense de Letras (AML) ganhou, na noite de terça-feira (10), uma nova sala na Galeria Hindemburgo Olive, localizada no Centro Macaé de Cultura. A solenidade de inauguração reuniu acadêmicos e convidados, contando com home",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/19/sala-da-academia-macaense-de-letras-e-inaugurada-no-centro-de-cultura.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rDNUSdMtiSGCSNtiowcvsHCLmA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/B/M73tlQTeGWnb2s1YMVGg/foto-1-academia-macaense-de-letras-1-.jpeg",
-    "data": "2026-11-19T03:05:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
-    "resumo": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.",
-    "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-GTAFlu-wqvt/18xp-GTAFlu-wqvt-mediumSquareAt3X.jpg",
-    "data": "2026-11-19T03:03:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Hospital Unimed Nova Friburgo realiza primeira cirurgia robótica da Região Serrana",
-    "resumo": "A cirurgia robótica já é realidade em Nova Friburgo. No último dia 20 de outubro, o Hospital Unimed Nova Friburgo realizou seu primeiro procedimento com o robô Versius: uma prostatectomia radical para tratamento do câncer de próstata. A operação inaugura uma nova frente de atendimento na unidade, que se torna o primeiro hospital da Região",
-    "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj-unimed-serrana-rj-50-anos-presenca-que-transforma/noticia/2026/11/19/hospital-unimed-nova-friburgo-realiza-primeira-cirurgia-robotica-da-regiao-serrana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2GIA7NefX7EGt6l1wSh2ZSOnRoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/J/5eiIyMRkaffgbHxqm9cA/cirurgia-robotica-foto-de-capa.jpg.jpeg",
-    "data": "2026-11-19T03:03:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Casa de Cultura apresenta exposição de pinturas",
-    "resumo": "Pintura referente ao Poço de Pedras Divulgação Começou na Casa de Cultura Bento Costa Júnior, uma exposição de pintura da artista Marilena Espíndola, com o tema “Rio das Ostras sob um olhar afetivo”. A série de quadros é especial para a artista por ser fruto de registros afetivos sobre a cidade, feitos ao longo dos anos, em diferentes mom",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/19/casa-de-cultura-apresenta-exposicao-de-pinturas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4NILwEicfdL8fda2f2su12ldaUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/0/ZMSjqwQL6Vx8VB7puBUQ/320x180-foto-destaque-horizontal.png",
-    "data": "2026-11-19T03:03:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "China’s Xi greets Putin and Trump at APEC before historic summit",
@@ -97,78 +205,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-19T03:01:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "480 milhões de cópias, 212 GB e 816 atores: a história do 'GTA' em números",
-    "resumo": "O que explica o hype do GTA VI \"Grand Theft Auto VI\", novo capítulo da franquia de jogos de ação da Rockstar, tem seu lançamento oficial na quinta-feira (19), uma nova etapa para a série, criada em 1997. Confira os principais números da saga: 480 milhões O número de cópias vendidas pela franquia desde seu lançamento. Lançado em 2013, apen",
-    "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/19/480-milhoes-de-copias-212-gb-e-816-atores-a-historia-do-gta-em-numeros.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/SVCooh-3xiSJgqtgjA5bhVGx13g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/2/lCg38NSyOVjiEYujP0sQ/fotos-g1-1920-x-1080-px-3-.png",
-    "data": "2026-11-19T03:01:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sepultura eterniza turnê de despedida em álbum ao vivo previsto para 2027",
-    "resumo": "Sepultura sai de cena, mas ainda lança um álbum ao vivo em 2027 com 40 músicas captadas na turnê 'Celebrating life through death' Rick Rocha / Reprodução Instagram Sepultura ♫ NOTÍCIA ♬ A banda Sepultura saiu de cena no último dia 7 de novembro após fazer no Suhai Music Hall, em São Paulo (SP), o último show da turnê de despedida “Celebra",
-    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/19/sepultura-eterniza-turne-de-despedida-em-album-ao-vivo-previsto-para-2027.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tbvckzp4WPAuXl3-1N1JuBLYc80=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/D/ERs7xeTHOvn7pgwYZMkw/sepulturarickrocha.jpg",
-    "data": "2026-11-19T03:01:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dólar a R$ 2,20, morte de Chorão e novo Papa: como era mundo no ano de lançamento do último 'GTA'",
-    "resumo": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo Com a chegada de \"GTA 6\" ao Brasil a partir da 0h desta quinta-feira (19), a franquia da Rockstar Games encerra um hiato de 13 anos. Quando \"Grand Theft Auto V\" (\"GTA V\") estreou nas lojas, em setembro de 2013, o cenário cultural, econômico e político no Brasil e no mundo ",
-    "link": "https://g1.globo.com/pop-arte/noticia/2026/11/19/dolar-a-r-220-morte-de-chorao-e-novo-papa-como-era-mundo-no-ano-de-lancamento-do-ultimo-gta.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rBN3xMpoYWkAGlXyzna98JLL4bU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/G/L6HEdRRAiCd2BfwicKVw/chorao-1-.jpg",
-    "data": "2026-11-19T03:01:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Trump, Putin e Xi fazem encontro histórico nesta quinta; saiba o que cada um quer",
-    "resumo": "Trump, Xi e Putin se encontram na China antes da reunião trilateral Donald Trump, Vladimir Putin e Xi Jinping terão uma reunião trilateral histórica na cidade de Shenzhen, na China, na madrugada desta quinta-feira (19), no horário de Brasília (início da tarde no horário local). A cúpula inédita pode impactar o futuro da geopolítica mundia",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/19/trump-putin-e-xi-fazem-encontro-historico-nesta-quinta-saiba-o-que-cada-um-quer.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XdZngvlncQCFLYOtausM0y_w-3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/kRxXsCT8GRbKG3C9vAoA/2026-11-18t113906z-1386858333-rc2bqoaa6ep9-rtrmadp-3-apec-summit.jpg",
-    "data": "2026-11-19T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vítima de suposto estupro coletivo desconhecia suspeitos e tem flashes do crime, diz PM; polícia investiga",
-    "resumo": "Homens são detidos por suspeita de drogar e estuprar mulher em motel de Valinhos Uma mulher vítima de um suposto estupro coletivo nesta quarta-feira (18), em um motel de Valinhos (SP), contou à Polícia Militar (PM) que desconhecia os suspeitos e que tem \"flashes\" do crime. A informação foi trazida pelo cabo Nascimento, da PM, um dos respo",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/19/vitima-suposto-estupro-coletivo-desconhecia-suspeitos-tem-flashes-crime-policia-investiga.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/fqlsQe72Vde2Wm5TI_gE0DRhzGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/z/o3YY6aTkm8GCza8XBkYw/vlcsnap-2026-11-18-19h32m53s435.png",
-    "data": "2026-11-19T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ex-jogadora da Seleção presa em Fortaleza atuava em facção com mais de 10 familiares, diz delegado",
-    "resumo": "Quem é a ex-jogadora da Seleção Brasileira presa em operação contra o CV em Fortaleza Mais de 10 integrantes da família de Gabi Morais, ex-jogadora da Seleção Brasileira de Futebol presa em Fortaleza, estão entre os investigados por participação em uma organização criminosa que atua na região do Lagamar, em Fortaleza, há pelo menos 20 ano",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/19/ex-jogadora-da-selecao-presa-em-fortaleza-atuava-em-faccao-com-mais-de-10-familiares-diz-delegado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EAgQu1VF0Q9wbXPC2ugg3BR1pR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/I/1c5yn3SIA6Zr6JC4KYlw/caso-94-.jpg",
-    "data": "2026-11-19T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Consciência Negra será o último feriadão antes do Natal; veja as regras para quem trabalha",
-    "resumo": "Desde 2024, o Dia da Consciência Negra é feriado nacional. Frederico Dávila/TV Globo Na próxima sexta-feira (20), é celebrado o Dia Nacional de Zumbi e da Consciência Negra, data que marca a morte do líder quilombola Zumbi dos Palmares. Desde 2024, a data é feriado nacional. 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 A mudança",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/consciencia-negra-feriado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/85YBGIdLRF9jfgKSkN91vBe5Hyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/c/9e6AxrRYmjWXAOwejb1A/especial-consciencia-negra-frame-6986.jpeg",
-    "data": "2026-11-19T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Anthropic, dona do Claude, estreia na bolsa avaliada em US$ 1,5 trilhão; conheça a empresa",
-    "resumo": "Ilustração mostra o logotipo da Anthropic e um teclado. Dado Ruvic/ Reuters A Anthropic, startup de inteligência artificial responsável pelo Claude, deve estrear nesta quinta-feira (19) na Nasdaq, bolsa americana que reúne algumas das maiores empresas de tecnologia do mundo. Com a oferta pública inicial de ações (IPO, na sigla em inglês),",
-    "link": "https://g1.globo.com/inovacao/noticia/2026/11/19/anthropic-dona-do-claude-estreia-na-bolsa-conheca-a-empresa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UcVhOySkJPocqCnkuDXnSNBr_s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/J/2e8p4bTzWPvsIs1cnb9w/2026-10-21t103315z-1-lynxmpem9k0wp-rtroptp-4-anthropic-ipo-investors.jpg",
-    "data": "2026-11-19T03:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -288,15 +324,6 @@
     "data": "2026-11-19T01:13:45.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Crimean Bridge attacked again, Russian official says",
-    "resumo": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
-    "data": "2026-11-19T01:05:03.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Andrei entrega a Fachin relatórios sobre ministros no caso Master",
@@ -367,15 +394,6 @@
     "link": "https://www.cbc.ca/news/canada/manitoba/tesla-kinew-government-court-order-9.7427003?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/1.7489131,1742525155000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C258%2C5000%2C2812%29%3B",
     "data": "2026-11-19T00:22:31.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Anthropic raises $81.3bn in biggest IPO of all time",
-    "resumo": "AI giant&#039;s prices shares at $83 in blockbuster market debut.",
-    "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T00:20:03.000Z"
   },
   {
     "categoria": "Canadá",
@@ -945,15 +963,6 @@
     "data": "2026-11-18T17:00:40.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-    "resumo": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-    "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
-    "data": "2026-11-18T17:00:04.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "UK government ‘breaking the law’ by not stopping decline of wild birds",
@@ -1143,6 +1152,15 @@
     "data": "2026-11-18T13:00:04.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Xi, Putin and Trump expected to meet for about an hour, Kremlin says",
+    "resumo": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
+    "link": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
+    "data": "2026-11-18T12:21:51.000Z"
+  },
+  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "New discovery reveals what may be holding back room-temperature superconductors",
@@ -1330,23 +1348,5 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
     "imagem": "https://i.guim.co.uk/img/media/5850e2c91738ca3380c5e63343b69ea1c8b5c6f2/0_575_1080_864/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=9b4770383ba2e69b1251c207f9c258a2",
     "data": "2026-11-18T02:33:21.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-    "resumo": "<p>South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams</p><p>The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam <a href=\"https://viewer.gu",
-    "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-    "imagem": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=508a09f51a91f0a82c9b0fcf2109c3eb",
-    "data": "2026-11-18T02:03:27.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-    "resumo": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-18T01:18:18.000Z"
   }
 ]
