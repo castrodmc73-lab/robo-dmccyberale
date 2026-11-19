@@ -1,5 +1,149 @@
 [
   {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Gilts v kilts: What is happening with Scottish government bonds?",
+    "resumo": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-19T06:15:57.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Could Trump, Putin and Xi end the nuclear age?",
+    "resumo": "Their meeting could revive the dream of nuclear disarmament that Reagan and Gorbachev nearly realised 40 years ago.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T06:15:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
+    "resumo": "Critics hail GTA 6 as a &#039;masterpiece&#039;, &#039;spectacular&#039;, and an &#039;astonishing American epic&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T06:08:47.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
+    "resumo": "The three leaders have divergent geopolitical goals and visions for the world order.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T06:07:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+    "resumo": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+    "link": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T06:06:23.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Car use in London forecast to rise by 10% in next decade",
+    "resumo": "<p>Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality</p><p>Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city’s mayoralty, putting into doubt Sadiq Khan’s promises on air quality an",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+    "imagem": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=140&quality=85&auto=format&fit=max&s=2ef03e80f735de8cc845927010138bb3",
+    "data": "2026-11-19T06:00:20.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Ram through datacentres no one wants and hope the AI bubble never bursts: that’s the UK’s growth plan | George Monbiot",
+    "resumo": "<p>The government doesn’t know what they are going to be used for, but that’s beside the point. Their real purpose is to sustain the share price of big tech</p><p>It should have the status of an economic law: the sectors a government does most to promote in the name of growth are the sectors most likely to tank the economy. In the UK and ",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
+    "imagem": "https://i.guim.co.uk/img/media/7619fd79f40710c000b8d324d812ec60c73e5910/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e05f011145aa9865de9da4fe263b138f",
+    "data": "2026-11-19T06:00:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Uberaba e Uberlândia têm 10 vias entre as 100 com mais acidentes de trânsito em MG; veja quais",
+    "resumo": "Avenida Leopoldino de Oliveira em Uberaba está entre as 100 vias que registraram mais acidentes de trânsito em Minas Gerais Corpo de Bombeiros/Divulgação Uberaba e Uberlândia têm 10 vias entre as 100 com mais acidentes de trânsito registrados em Minas Gerais em 2026. Os dados são do Observatório de Segurança Pública do Estado. A avenida L",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/19/uberaba-e-uberlandia-tem-10-vias-entre-as-100-com-mais-acidentes-de-transito-em-mg-veja-quais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qkv--2iRGLC-JWIIhjKBFl8o4cE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/L/BHetXfQpijCtpcA2i5uQ/whatsapp-image-2024-09-25-at-19.15.41.jpeg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Festival Recife do Teatro Nacional chega à 25ª edição com 17 estreias nacionais e 15 montagens pernambucanas",
+    "resumo": "Espetáculo '(Um) Ensaio sobre a Cegueira', do Grupo Galpão Maringas Maciel/Divulgação O Festival Recife do Teatro Nacional chega à 25ª edição nesta quinta (19), com uma programação gratuita que contempla 32 montagens, sendo 17 espetáculos nacionais, todos inéditos na cidade, além de 15 espetáculos pernambucanos. O evento, que vai promover",
+    "link": "https://g1.globo.com/pe/pernambuco/o-que-fazer-no-recife/noticia/2026/11/19/festival-recife-do-teatro-nacional-chega-a-25a-edicao-com-17-estreias-nacionais-e-15-montagens-pernambucanas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MYpi_dqTcIjyj8GKRCu6ortj2NM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/5/tDWLTBT3SMMqcFlIeSvQ/maringas-maciel-1006-copiar-55180594702-o.jpg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "13º salário: calculadora mostra quanto você vai receber, com descontos e novas regras do IR",
+    "resumo": "Décimo terceiro: gastar, pagar dívidas ou guardar dinheiro? O pagamento do 13º salário está se aproximando e, neste ano, milhões de trabalhadores podem receber um valor maior do que nos anos anteriores. Isso porque as novas regras do Imposto de Renda passaram a isentar quem ganha até R$ 5 mil por mês e reduziram o imposto para parte dos c",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/19/13o-salario-calculadora-mostra-quanto-voce-vai-receber-com-descontos-e-novas-regras-do-ir.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6lpXSIepaZyRElzuyuDhIX4bP1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/L/2fMRliRjKASfLJpGuGYw/salario-2.jpg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Leonardo, Zezé Di Camargo & Luciano e Belo são atrações do fim de semana no Vale do Paraíba e região; veja agenda cultural",
+    "resumo": "Quem procura diversão e cultura nas cidades do Vale do Paraíba e região tem uma série de opções para este feriado. Entre esta quinta-feira e domingo (19 e 22), a programação conta com shows, espetáculos teatrais e festivais gastronômicos, incluindo atrações gratuitas. Entre os destaques musicais estão os shows de Leonardo, Panda, Zezé Di ",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/agenda-cultural/noticia/2026/11/19/leonardo-zeze-di-camargo-and-luciano-e-belo-sao-atracoes-do-fim-de-semana-no-vale-do-paraiba-e-regiao-veja-agenda-cultural.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NLw0WY0y4KlxBzpzy-IKctdzfrE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/L/xlS5ErTYeAjgIstKIAjw/foto-g1v2-5-.jpg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "‘Faz seis anos que trabalhamos assim’, diz áudio de quadrilha que aliciava caminhoneiros para desvio de cargas no PR, SC e RS",
+    "resumo": "Quadrilha que convencia caminhoneiros a desviar cargas para furtá-las é alvo de operação Áudios e vídeos obtidos pela Polícia Civil do Paraná durante as investigações mostram como uma quadrilha suspeita de furtar cargas de caminhões negociava a participação de motoristas e adulterava as mercadorias para esconder os desvios. Em uma das gra",
+    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/19/faz-seis-anos-que-trabalhamos-assim-diz-audio-de-quadrilha-que-aliciava-caminhoneiros-para-desvio-de-cargas-no-pr-sc-e-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C0kw3c72pdZ28BOMxR0bjAFBL1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/b/8sY438QVylMwruDSdWgw/g1-3-.png",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "De projeto social à Broadway: 4 artistas de SP são escolhidos para intercâmbio em Nova York após formação gratuita",
+    "resumo": "Selecionados pelo projeto Trilhas de Cultura, do Instituto Arlequim, Aron Luiz, Karina Araújo, Maurício Reducino e Nata da Sociedade vão passar uma semana em Nova York em uma vivência voltada ao teatro musical Divulgação Quatro artistas com trajetórias diferentes foram escolhidos para representar o Brasil em uma vivência cultural em Nova ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/19/de-projeto-social-a-broadway-4-artistas-de-sp-sao-escolhidos-para-intercambio-em-nova-york-apos-formacao-gratuita.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Ff5MGcUJxNnegKn6Hxma0Fz5UhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/e/IhFX1VRsmR3FJ6vncsEg/fotojet-135-.jpg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bombinhas: como chegar, o que fazer e como funciona a taxa ambiental para entrar na menor cidade de SC",
+    "resumo": "Bombinhas: conheça a cidade de SC que cobra taxa ambiental de turista Com apenas 36 quilômetros quadrados e 39 praias, Bombinhas é a menor cidade de Santa Catarina e um destino de verão muito procurado por turistas brasileiros e estrangeiros. Desde 2015, o município cobra uma taxa de preservação para entrada de visitantes na alta temporad",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/19/bombinhas-como-chegar-o-que-fazer-taxa-ambiental.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cE6R7yefDgUWJt0kWSiPkO1ZgSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/g/BcdjNsRpABXBahycIqvw/sepultura-cristian-cruz.jpg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Forno com airfryer na Black Friday: veja dicas para escolher o modelo ideal",
+    "resumo": "Pão de queijo assando em um forno com airfryer Henrique Martin/g1 Os fornos elétricos com função airfryer são uma evolução das tradicionais \"fritadeiras sem óleo\". Eles unem a praticidade da fritadeira com a versatilidade do forno, permitindo preparar uma quantidade maior de alimentos ao mesmo tempo. Por dentro, um forno com airfryer não ",
+    "link": "https://g1.globo.com/guia/guia-de-compras/casa/cozinha/forno-com-airfryer-na-black-friday-veja-dicas-para-escolher-o-modelo-ideal.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/F631F4DHzrfQXttspZg-CCDtM-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/G/3rQ0NqQjKtBm88q209Mw/img-4487.jpg",
+    "data": "2026-11-19T06:00:00.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "One Nation’s migration policy isn’t just cruel and unworkable – it’s a thin populist cover for billionaire interests | Sanmati Verma",
+    "resumo": "<p>If we look beyond the talking points, it’s clear that the party selling itself to the battlers is in fact committed to selling out working people – wherever they are from</p><p>Earlier this week, One Nation’s migration policy <a href=\"https://www.smh.com.au/cbd/one-nation-vanishing-act-pauline-hanson-s-immigration-policy-disappears-202",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/one-nation-migration-policy-cruel-unworkable-thin-populist-cover-for-billionaire-interests-ntwnfb",
+    "imagem": "https://i.guim.co.uk/img/media/b1c71dd794757003474de18cadd7c9d80c69a523/226_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=cedbf6f153539c6050a5b2142ea96370",
+    "data": "2026-11-19T05:37:11.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
@@ -81,51 +225,6 @@
     "data": "2026-11-19T05:00:01.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "RS registrou quase 1,5 mil casos de esporotricose em 2026; doença transmitida por gatos tem alta em Guaíba",
-    "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano Uma doença transmitida de gatos para humanos que preocupa as autoridades de Guaíba, diante da alta de casos no município, já foi registrada em quase 1,5 mil pessoas de 88 cidades do Rio Grande do Sul em 2026, segundo dados da Secretaria Estadual da Saúde (SE",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/casos-esporotricose-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_b3RmfS3kh1FzTFJf6T7kFH-dmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/lg7sAcSVueyIxOJhGmHA/whatsapp-image-2026-04-28-at-10.51.33.jpeg",
-    "data": "2026-11-19T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motorista de app diz que quebrou vidros de Burger King no interior de SP após levar ‘banho’ de cerveja de passageira",
-    "resumo": "Motorista de app arremessa mesa contra vidros de lanchonete de Franca, SP Reprodução/ Redes sociais O motorista de aplicativo Ranieri Giuliano confirmou ao g1 nesta quarta-feira (18) ter quebrado vidros do Burger King em Franca (SP) depois de levar um \"banho\" de cerveja de uma passageira que se escondeu dentro da loja após um desentendime",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/19/motorista-de-app-diz-que-quebrou-vidros-de-burger-king-no-interior-de-sp-apos-levar-banho-de-cerveja-de-passageira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pY9wWvTKY93WmsDDRGKqWBuINmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/7dknuETBGSwcSfCVpQyw/design-sem-nome-23-.jpg",
-    "data": "2026-11-19T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fones com cancelamento de ruído: g1 testa dois modelos com bom custo-benefício",
-    "resumo": "JBL Tune 780NC e Aiwa HP-06: g1 testa dois fones de ouvido com cancelamento de ruído Henrique Martin/g1 Dois fones de ouvido sem fio, dois perfis de uso diferentes e preços parecidos. Assim dá para resumir o Aiwa HP-06 e o JBL Tune 780NC, modelos \"over-ear\" (que cobrem todo o ouvido) com cancelamento ativo de ruído (ANC) e controle por ap",
-    "link": "https://g1.globo.com/guia/guia-de-compras/casa/home-office/fones-com-cancelamento-de-ruido-g1-testa-dois-modelos-com-bom-custo-beneficio.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rYfXbteMhyCgb8A8vinWJGLdpBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/5/4KRJjKQPKGsdx2VaIfVA/img-7399.jpg",
-    "data": "2026-11-19T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Black Friday: por que comprar com desconto dá prazer, mesmo quando gastamos mais?",
-    "resumo": "Black Friday: por que descontos dão prazer, mesmo gastando mais? Comprar um produto por um preço menor do que o esperado pode aumentar a satisfação do consumidor. O fenômeno é explicado pela “utilidade da transação”, conceito apresentado em 1985 pelo economista Richard Thaler, vencedor do Nobel de Economia em 2017. Essa sensação de vantag",
-    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/19/black-friday-por-que-comprar-com-desconto-da-prazer-mesmo-quando-gastamos-mais.ghtml",
-    "imagem": null,
-    "data": "2026-11-19T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Uberlândia tem 4 casos de Mpox em 2026 e é a única cidade do Triângulo com registros; veja como se prevenir",
-    "resumo": "Mpox Reprodução Quatro casos de Mpox foram confirmados em Uberlândia em 2026. A informação foi confirmada pela Secretaria de Estado de Saúde de Minas Gerais (SES-MG) na terça-feira (17). A cidade é a quarta em número de casos, atrás de Belo Horizonte, Contagem e Juiz de Fora. Ainda segundo a Secretaria, o maior número de casos confirmados",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/19/uberlandia-tem-4-casos-de-mpox-em-2026-e-e-a-unica-cidade-do-triangulo-com-registros-veja-como-se-prevenir.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AgI22cph3-Me63nLF8YON_xWgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/RXiyVFTAO9bD3o0MDpaQ/midia-de-distribuicao-g1-42-.jpg",
-    "data": "2026-11-19T05:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
@@ -187,33 +286,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
     "data": "2026-11-19T04:37:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quinta-feira (19) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
-    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gU3EuOpjA3_Upm0SyT8xjkZuedI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/s/6z4MJKTXC7ek1JCw39ig/previsao-tempo-bras-lia-20261119-011544.jpeg",
-    "data": "2026-11-19T04:15:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quinta-feira (19) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/m0y7nQNWwG-ufKHWD2k7-uLL5UA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/C/kl2QNhSbq8536l5USb1Q/previsao-tempo-goi-nia-20261119-011528.jpeg",
-    "data": "2026-11-19T04:15:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quinta-feira (19) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 28ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoad",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aR7gp448B4PTGulT0kp-T71bil4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/3wascBQYixofm0C0EQ7g/previsao-tempo-aparecida-de-goi-nia-20261119-011512.jpeg",
-    "data": "2026-11-19T04:15:22.000Z"
   },
   {
     "categoria": "Internacional",
@@ -279,24 +351,6 @@
     "data": "2026-11-19T03:14:27.000Z"
   },
   {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Cameron Bancroft’s excruciating depiction of being the sandpaper scapegoat means that Cricket Australia’s ordeal is far from over | Gideon Haigh",
-    "resumo": "<p>It’s the silence of self-protection and the clamour for a patsy that are the most humiliating details of Bancroft’s screed, and point not just to a poor culture but a malign one, writes Gideon Haigh</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/nov/19/cameron-bancroft-breaks-his-silence-on-sandpapergate-w",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/cameron-bancrofts-excruciating-depiction-of-being-the-sandpaper-scapegoat-means-that-cricket-australias-ordeal-is-far-from-over-ntwnfb",
-    "imagem": "https://i.guim.co.uk/img/media/a32f5362ba0f00edaa6d6be04bf0a05759532d97/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7192d192a717d55df7e9c46372c2c081",
-    "data": "2026-11-19T03:14:09.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "China’s Xi greets Putin and Trump at APEC before historic summit",
-    "resumo": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T03:01:27.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Elon Musk says record spending on US midterms was 'pretty foolish'",
@@ -315,24 +369,6 @@
     "data": "2026-11-19T02:58:29.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Google’s driverless car hits a roadblock",
-    "resumo": "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T02:57:56.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-    "resumo": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T02:57:19.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
@@ -349,24 +385,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
     "data": "2026-11-19T02:20:15.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "ICJ to rule on Rohingya genocide case against Myanmar",
-    "resumo": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T02:10:43.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "The National | Carney meets Trump face-to-face",
-    "resumo": "Nov. 18, 2026 | Mark Carney meets face-to-face with Donald Trump at the APEC summit in their first meeting since trade talks collapsed. Waymo pulls its robotaxis from U.S. highways after a string of dangerous mishaps. And gamers around the world gear up for GTA-6.",
-    "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
-    "data": "2026-11-19T02:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -455,7 +473,7 @@
     "titulo": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
     "resumo": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
     "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc2e/live/1e9dd410-e3e2-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-19T00:00:59.000Z"
   },
   {
@@ -538,15 +556,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
     "data": "2026-11-18T23:04:06.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Gilts v kilts: What is happening with Scottish government bonds?",
-    "resumo": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-18T23:01:09.000Z"
   },
   {
     "categoria": "Canadá",
@@ -691,15 +700,6 @@
     "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3250x2167+0+0/resize/3250x2167!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F93%2F7d%2Fb681c28744adacc2eeef2e6ddcde%2Fgettyimages-2292057425.jpg",
     "data": "2026-11-18T22:01:17.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston",
-    "resumo": "<p>A defence bill being rushed through parliament could expand the definition of ‘defence official’ and see AI datacentres deemed ‘defence security zones’ </p><p>In 2019, the New York Times described Australia as <a href=\"https://www.nytimes.com/2019/06/05/world/australia/journalist-raids.html\">“the world’s most secretive democracy”</a>. ",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/australia-has-a-reputation-for-being-the-most-secretive-democracy-in-the-world-new-laws-could-make-it-worse",
-    "imagem": "https://i.guim.co.uk/img/media/fe9aab60932fe1cb7d519c49bff2fa37dfb99711/752_0_4027_3222/master/4027.jpg?width=140&quality=85&auto=format&fit=max&s=532dd0928a6abe38acdb8c7401f27268",
-    "data": "2026-11-18T22:00:09.000Z"
   },
   {
     "categoria": "Brasil",
@@ -997,15 +997,6 @@
     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-18T17:00:40.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-    "resumo": "<p>Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says</p><p>The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply concerning” decline of Britain’s wild birds, the UK’s environment regulator has",
-    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-    "imagem": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=140&quality=85&auto=format&fit=max&s=0abe6318a3a8ec18bf059cb38498f37c",
-    "data": "2026-11-18T16:56:18.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1348,5 +1339,14 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
     "imagem": "https://i.guim.co.uk/img/media/5850e2c91738ca3380c5e63343b69ea1c8b5c6f2/0_575_1080_864/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=9b4770383ba2e69b1251c207f9c258a2",
     "data": "2026-11-18T02:33:21.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "resumo": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-18T01:18:18.000Z"
   }
 ]
