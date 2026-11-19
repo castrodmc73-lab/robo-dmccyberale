@@ -1,39 +1,246 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Acredite se quiser, a gente tá com uma tartaruga na proa': piloto relata situação inusitada no aeroporto de Porto Alegre; VÍDEO",
-    "resumo": "'Acredite se quiser': piloto encontra tartaruga na proa do avião em aeroporto no RS \"Acredite se quiser, a gente tá com uma tartaruga na proa da Aeronave\". O diálogo entre a torre de controle e o piloto de um avião que pousava em Porto Alegre revelou uma situação inusitada ocorrida nesta quarta-feira (18): a presença de uma tartaruga no A",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/tartaruga-aeroporto-porto-alegre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9Uv2_S---1a-SvGa3pcLKsKdaEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/L/SNfxZcSK6Zs1cYKhMbFA/g1-2026-11-18t195209.295.jpg",
-    "data": "2026-11-18T23:47:39.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+    "resumo": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+    "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
+    "data": "2026-11-19T00:49:19.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-18T23:47:35.000Z"
+    "titulo": "Lotofácil hoje: resultado do concurso 3833 e números sorteados",
+    "resumo": "Volantes da Lotofácil Marcelo Brandt/G1 Veja abaixo os números do sorteio do concurso 3833 da Lotofácil realizado nesta quarta-feira (18): 2 - 3 - 4 - 7 - 8 - 11 - 13 - 15 - 16 - 17 - 18 - 19 - 20 - 22 - 24 Veja quantas apostas foram premiadas no concurso 3833: 15 acertos: 1 aposta ganhadora, que vai receber R$ 4.164.686,22; 14 acertos: 3",
+    "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/18/lotofacil-hoje-resultado-do-concurso-3833-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fMioDoJ9P99Kc6TXFmNcmtkRVXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/w/uDFOvwTp2PZDkoZsLmfA/voltantes-lotofacil.png",
+    "data": "2026-11-19T00:41:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quina hoje: resultado do concurso 7171 e números sorteados",
+    "resumo": "Volantes da Quina g1 Veja abaixo os números do sorteio do concurso 7171 da Quina realizado nesta quarta-feira (18): 13 - 16 - 25 - 28 - 57 Veja quantas apostas foram premiadas no concurso 7171: Ninguém conseguiu os 5 acertos, e a premiação acumulou para R$ 1,1 milhão; 4 acertos: 56 apostas ganhadoras, cada uma vai receber R$ 3.850,86; 3 a",
+    "link": "https://g1.globo.com/loterias/quina/noticia/2026/11/18/quina-hoje-resultado-do-concurso-7171-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lI0e8YyJgkE2laiEculIkxnOwlE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/h/BTX8zVRhyWXB7YWWqMNQ/volantes-quina.png",
+    "data": "2026-11-19T00:40:56.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Grand Theft Auto VI release means Surrey, B.C., landscaping company employees get the day off",
+    "resumo": "A Surrey, B.C., landscaping company is giving its employees the day off on Thursday when the much-hyped Grand Theft Auto VI video game finally releases, in what has been billed as perhaps the biggest entertainment launch ever.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5b32afc5-7778-415a-bb14-2da59bdd8bc9,1795044911924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-19T00:40:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista avança sinal vermelho e atinge idoso de bicicleta e casal de motociclista em Boa Vista",
+    "resumo": "O acidente aconteceu no bairro Mecejana Arquivo pessoal Um motorista de uma caminhonete atropelou um idoso de bicicleta e um casal em uma motocicleta após avançar o sinal vermelho. O acidente aconteceu nesta quarta-feira (18) no cruzamento da avenida Venezuela com a avenida Mário Homem de Melo, no bairro Mecejana, na zona Oeste de Boa Vis",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/motorista-avanca-sinal-vermelho-e-atinge-idoso-de-bicicleta-e-casal-de-motociclista-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1pDjeWi1LMEqifb-5EJukyv2gWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/M/NR1V87QjSh5o8VJWJjSw/acidente-mecejana.jpg",
+    "data": "2026-11-19T00:36:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Trump diz que não discutiu a situação do ex-CEO da Nvidia com Xi Jinping",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou na noite desta quarta-feira (18), em entrevista à rede de TV americana Fox News, que conversou com o presidente chinês, Xi Jinping, sobre Inteligência Artificial, mas que não discutiu a situação do ex-CEO da Nvidia Jensen Huang. Na sequência, porém, Trump afirmou que talvez tenha menc",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-diz-que-nao-discutiu-situacao-do-ceo-da-nvidia-com-xi-jinping.ghtml",
+    "imagem": null,
+    "data": "2026-11-19T00:34:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Equipes passam por quarentena antes de atender indígenas isolados no MA, diz Ministério da Saúde",
+    "resumo": "Quem são os Awa-Guajá e por que não se deve ter contato com eles Equipes do Ministério da Saúde e da Fundação Nacional dos Povos Indígenas (Funai) cumprem quarentena antes de iniciar o atendimento aos indígenas Awá-Guajá que se aproximaram de uma comunidade Guajajara na Terra Indígena Arariboia, no Maranhão. Segundo o Ministério da Saúde,",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/18/equipes-passam-por-quarentena-antes-de-atender-indigenas-isolados-no-ma-diz-ministerio-da-saude.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dCdb2CijB4rL6YuqLbUCex1B4t8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/g/Ty8fzvS2yAjsGJaghc0g/design-sem-nome-65-.png",
+    "data": "2026-11-19T00:33:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "EUA anunciam acordo de nova parceria militar com a Venezuela",
+    "resumo": "Estados Unidos anunciam acordo de nova parceria militar com a Venezuela Onze meses depois da operação que capturou Nicolás Maduro, os Estados Unidos anunciaram nesta quarta-feira (18) um acordo de nova parceria militar com a Venezuela. A TV estatal venezuelana abriu a manhã desta quarta-feira (18) com imagens antes impensáveis. A chegada ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/eua-anunciam-acordo-de-nova-parceria-militar-com-a-venezuela.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6RNWpKZyhhmlLFaRW9I9_SM_iKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/U/sC32HvSIOrRgBJ5nsntg/globo-canal-4-20261118-2000-frame-87278.jpeg",
+    "data": "2026-11-19T00:30:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Registros de embriaguez ao volante sobem 6,25% no Sul do RJ",
+    "resumo": "Registros de embriaguez ao volante sobem 6,25% no Sul do RJ O número de registros de embriaguez ao volante no Sul do Rio de Janeiro subiu 6,25% no primeiro semestre de 2026, segundo o Instituto de Segurança Pública (ISP). Foram 102 registros entre janeiro e junho deste ano, contra 96 no mesmo período de 2025. Em vídeo, o tenente-coronel D",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/18/registros-de-embriaguez-ao-volante-sobem-625percent-no-sul-do-rj.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C1NWR7PPuyTT9lG1P_CF7XtxD8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/hEJmIATHGkEMPrdbgtBg/whatsapp-image-2026-11-17-at-18.30.26-1-.jpeg",
+    "data": "2026-11-19T00:30:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem se passa por policial, invade casa e executa morador com tiro na cabeça em Campo Grande",
+    "resumo": "Policiais e testemunhas em frente ao local do crime. Edmar Melo. Um homem, que não teve a identidade divulgada, foi assassinado com um tiro na cabeça na tarde desta quarta-feira (18), no Jardim Noroeste, em Campo Grande. O atirador chegou à residência do rapaz dizendo ser policial e o assassinou no banheiro. Ele fugiu de moto com a ajuda ",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/homem-se-passa-por-policial-invade-casa-e-executa-morador-com-tiro-na-cabeca-em-campo-grande.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ovHj1Z5bnhcQNxPl-u4DL4WYlJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/q/CgyJIzSr2uaE7Vb8hJmw/design-sem-nome-91-.jpg",
+    "data": "2026-11-19T00:30:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça decide afastar prefeito de Aparecida e secretário dos cargos por 90 dias em ação de improbidade",
+    "resumo": "Prefeitura de Aparecida, no interior de SP. Google Street View O prefeito de Aparecida (SP), José Luiz Rodrigues, conhecido como Zé Louquinho (PL), e o secretário municipal de Assuntos Jurídicos e Institucionais, Vitor Luís de Mattos Teodoro, foram afastados dos cargos por 90 dias por decisão da Justiça. A determinação foi tomada pela 1ª ",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/18/justica-decide-afastar-prefeito-de-aparecida-e-secretario-dos-cargos-por-90-dias-em-acao-de-improbidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-Q4s_hxog_9a3AmEcs2uFcAfrqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/q/9vFUKCS7KwhIXNBgIPuQ/foto-g1.jpg",
+    "data": "2026-11-19T00:26:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Husky Pandora é devolvida para tutora em Cravinhos, SP, após impasse com ONG",
+    "resumo": "Husky Pandora é devolvida a tutora após impasse com ONG no interior de São Paulo A husky siberiana Pandora foi devolvida à tutora Carla Martins Ribeiro Tena nesta quarta-feira (18), em Cravinhos (SP) depois de um impasse com uma ONG que durava desde setembro. A devolução ocorreu no início da tarde, após o advogado da entidade entrar em co",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/18/husky-pandora-e-devolvida-para-tutora-em-cravinhos-sp-apos-impasse-com-ong.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/WO4znJ1-gcsIoV-Kyak99UG4DcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/yDuGdURoifs3xboezeDA/design-sem-nome-24-.jpg",
+    "data": "2026-11-19T00:23:48.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Judge orders Kinew government to disclose who excluded Tesla from Manitoba EV rebate program and why",
+    "resumo": "A Manitoba judge has taken the \"exceptional and unusual\" step of ordering the NDP government to disclose who made the decision to exclude Tesla Motors Canada from the province's electric-vehicle rebate program — and explain why that decision was made.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/tesla-kinew-government-court-order-9.7427003?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.7489131,1742525155000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C258%2C5000%2C2812%29%3B",
+    "data": "2026-11-19T00:22:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "MP denuncia, por homicídio e tentativa de feminicídio, PM que abriu fogo contra amigos e matou jovem em van no DF",
+    "resumo": "Bruno Cardoso dos Passos e Alessandra da Silva Reprodução O Ministério Público do Distrito Federal denunciou à Justiça nesta quarta-feira (18) o policial Bruno Cardoso dos Passos, de 27 anos, que atirou contra um grupo de amigos dentro de uma van e matou uma mulher. O crime foi na madrugada do dia 8 de novembro. No dia seguinte, a Justiça",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/mp-denuncia-pm-que-atirou-em-amigos-e-matou-jovem-em-van-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fQSSPMAmLlTu0Mr8Z62KCaprdVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/PZnax8TsGdAej5VZCvOA/fotojet-9-.jpg",
+    "data": "2026-11-19T00:21:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Anthropic raises $81.3bn in biggest IPO of all-time",
+    "resumo": "AI giant prices shares at $83 in blockbuster market debut.",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T00:20:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Encontro em Shenzhen acende preocupação sobre risco do retorno de divisão do mundo em esferas de influência; entenda",
+    "resumo": "Cúpula na China lembra reunião histórica no fim da Segunda Guerra Mundial O encontro em Shenzhen acendeu uma preocupação sobre o risco do retorno de uma divisão do mundo em esferas de influência e lembra outro momento histórico em que grandes potências tomaram decisões sobre o futuro de outros países. Winston Churchill - e seu nono ou déc",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/encontro-em-shenzhen-acende-preocupacao-sobre-risco-do-retorno-de-divisao-do-mundo-em-esferas-de-influencia-entenda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2yJsbVTaaZVu53tCkDvwCKH2xlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/j/1XewlzRz6M8J6bzwoQvg/globo-canal-4-20261118-2000-frame-80126.jpeg",
+    "data": "2026-11-19T00:16:45.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+    "resumo": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T00:14:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+    "resumo": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+    "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T00:11:40.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Crimea bridge attacked again, Russian governor says",
+    "resumo": "Traffic was temporarily suspended over the Crimean Bridge after ‌an attack, Sergei Aksyonov, Crimea's Russian-installed governor, said on Telegram on Thursday, adding ​that assessment of the ​damage was underway.",
+    "link": "https://www.cbc.ca/news/world/crimea-bridge-attacked-9.7427374?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/79a8efd9-69ba-4297-85e7-01b8b6a25d1a,1795043823586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3431%2C1929%29%3B",
+    "data": "2026-11-19T00:10:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Ally Arranged for Russian Flag to Be Displayed on an Arch in Atlanta",
+    "resumo": "Rodney Mims Cook Jr., chairman of the U.S. Commission of Fine Arts, sought to pay tribute to Russia’s ambassador to United States, whose death was announced on Nov. 11.",
+    "link": "https://www.nytimes.com/2026/11/18/us/atlanta-arch-russia-flag-trump.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-russian-flag-lqcw/18xp-russian-flag-lqcw-mediumSquareAt3X.jpg",
+    "data": "2026-11-19T00:09:30.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+    "resumo": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T00:01:02.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "resumo": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-19T00:00:59.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Anthropic prices IPO at $83 US per share, valuing AI giant at $1.51 trillion US",
+    "resumo": "Anthropic has set a stock price of $83 US per share for its hotly anticipated initial public offering, with shares of the U.S. artificial intelligence giant set to debut on the Nasdaq exchange on Thursday.",
+    "link": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/4fed3498-d2a6-4964-8762-1d91ebb7f3b7,1795046620119/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C294%2C3000%2C1687%29%3B",
+    "data": "2026-11-18T23:58:12.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+    "resumo": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6271x4181+0+0/resize/6271x4181!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F90%2F5158932c4699aaae09ed54ef7814%2Fgettyimages-2304113199.jpg",
+    "data": "2026-11-18T23:54:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israel uses Gaza swimming video to minimise winter hardships",
+    "resumo": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-18T23:53:21.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Why has Waymo pulled all its driverless cars from US freeways?",
+    "resumo": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+    "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
+    "data": "2026-11-18T23:47:46.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+    "titulo": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
     "resumo": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
     "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
     "data": "2026-11-18T23:44:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Do jazz norueguês à força da música nordestina: Belém recebe workshops gratuitos com artistas internacionais e indicados ao Grammy Latino",
-    "resumo": "Thomas Strønen & Extended Ground Divulgação/Helge Brekke Como se constrói uma conversa musical entre diferentes instrumentos de percussão? E o que transforma uma canção em uma interpretação capaz de contar histórias no palco? Essas são algumas das questões que vão conduzir os encontros do AMAJAZZON LABS 2026, que está com inscrições gratu",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/18/do-jazz-noruegues-a-forca-da-musica-nordestina-belem-recebe-workshops-gratuitos-com-artistas-internacionais-e-indicados-ao-grammy-latino.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ESdZjMwKWMxA37BO2cbGcZs-cQE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/A/ffccKFTjOuTloqFLz1Xg/fotos-da-agenda-8-.png",
-    "data": "2026-11-18T23:44:09.000Z"
   },
   {
     "categoria": "Economia",
@@ -43,33 +250,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
     "data": "2026-11-18T23:42:07.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motta diz que vai convocar sessão para votar ajuste fiscal na segunda-feira",
-    "resumo": "Hugo Motta, presidente da Câmara dos Deputados Ton Molina/Fotoarena/Estadão Conteúdo O presidente da Câmara, Hugo Motta (Republicanos-PB), disse convocará uma sessão extraordinária na segunda-feira (23) para votar o projeto com as medidas de ajuste fiscal. O Senado concluiu a votação da proposta nesta quarta-feira (18). O senador Eduardo ",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/18/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/fYCviR4lrsMZyaYGaULNOlJbvPo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/l/dSAaeCRbqGU963IkJuGQ/fta20251209251.jpg",
-    "data": "2026-11-18T23:41:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ruas cheias de buracos e lama dificultam acesso de moradores a casas, trabalho e escolas em Campo Grande",
-    "resumo": "Buracos e lama dificultam acesso de moradores a casas, trabalho e escolas em MS Buracos, lama e enxurradas têm dificultado a rotina dos moradores do Bairro Cristo Redentor, em Campo Grande. O problema, que se agrava nos dias de chuva, impede o acesso a casas, atrasa trabalhadores e prejudica o transporte de crianças até as escolas. Ao g1,",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/ruas-cheias-de-buracos-e-lama-dificultam-acesso-de-moradores-a-casas-trabalho-e-escolas-em-ms.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0aKm5ef0w5HMvWmDbfv1izJxELQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/c/AZw32pSzClnYLZgg32zw/para-o-g1-2026-11-18t185432.795.jpg",
-    "data": "2026-11-18T23:41:09.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "FOTOS: encontro entre onças-pintadas termina em confronto por território no Pantanal de MT",
-    "resumo": "Onças-pintadas são flagradas juntas e protagonizam confronto às margens do Rio Piquiri, no Pantanal de MT Gustavo Gaspari Duas onças-pintadas machos foram flagradas em um encontro que terminou em confronto às margens do Rio Piquiri, no Pantanal mato-grossense. O registro foi feito pelo biólogo e guia de turismo Gustavo Gaspari durante um ",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/fotos-encontro-entre-oncas-pintadas-termina-em-confronto-por-territorio-no-pantanal-de-mt.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/B7QBx3H9MVwGKNBQS1UM_LIEf0c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/H/Iie25CTkCJnE5VOMKzrQ/design-sem-nome-6-.png",
-    "data": "2026-11-18T23:39:54.000Z"
   },
   {
     "categoria": "Internacional",
@@ -99,67 +279,13 @@
     "data": "2026-11-18T23:35:12.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: AB2 desta quarta-feira, 18 de novembro de 2026",
-    "resumo": "Assista aos vídeos do telejornal com as notícias do interior de Pernambuco.",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab2-desta-quarta-feira-18-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/De8juKyppz13CTxRIZ-c8_IXR7I=/s01.video.glbimg.com/deo/vi/63/48/15234863",
-    "data": "2026-11-18T23:34:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Três homens são presos suspeitos de aplicar golpes com falsos financiamentos imobiliários na BA",
-    "resumo": "Três pessoas são presas suspeitas de aplicar o golpe do consórcio Três pessoas foram presas em flagrante, nesta quarta-feira (18), suspeitas de aplicar golpes ao oferecer consórcios como se fossem financiamentos imobiliários, em Salvador. As prisões aconteceram durante uma operação policial em um estabelecimento comercial no bairro de Bro",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/18/operacao-chave-falsa-e-deflagrada-em-salvador.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-Cj53NIZLGz4ZrK2PsdgT33UXyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/V/pMR9ZFQvW6IBIrBVAcKg/whatsapp-image-2026-11-18-at-13.53.03-2-.jpeg",
-    "data": "2026-11-18T23:32:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é condenado a 37 anos por matar passageiro que defendeu casal durante ataque homofóbico em ônibus de Curitiba",
-    "resumo": "Homem é morto dentro de ônibus em Curitiba após defender casal vítima de homofobia Vagner do Prado foi condenado, nesta quarta-feira (18), a 37 anos de prisão pela participação na morte de Oziel Branques dos Santos, em Curitiba. A vítinha tinha 40 anos quando foi morta a facadas dentro do ônibus biarticulado Santa Cândida/Capão Raso, no d",
-    "link": "https://g1.globo.com/pr/parana/noticia/2026/11/18/homem-e-condenado-por-matar-passageiro-que-defendeu-casal-ataque-homofobico-em-onibus-curitiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UaZsSd33CrD0no1ekMPQQ9kzQVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/k/B/L84rpsQmeE3uUebxdJaQ/axugaxiugbxj.png",
-    "data": "2026-11-18T23:29:54.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Russian man accused of spying on US tech defence company that assists Ukraine",
-    "resumo": "The suspect followed employees and and was found with fake US ID documents and two Russian passports, US prosecutors say.",
+    "resumo": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
     "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-18T23:28:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é indiciado após usar cartão de vítima de assalto que terminou com morte de motoboy no litoral de SP",
-    "resumo": "Polícia Civil cumpre mandados ligados à investigação da morte de motoboy Um homem, de 60 anos, foi indiciado por furto qualificado após utilizar o cartão bancário de um motociclista que foi vítima de roubo em São Vicente, no litoral de São Paulo. A Polícia Civil chegou ao suspeito durante as investigações sobre a morte do motoboy Gabriel ",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/18/homem-e-indiciado-apos-usar-cartao-de-vitima-de-assalto-que-terminou-com-morte-de-motoboy-no-litoral-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nM59JoGqDqw5iMpeIjPuPlbn5YI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/N/GH6na0QZaDBJXZNpXnKQ/morte-motoboy.jpg",
-    "data": "2026-11-18T23:25:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Enquanto Putin se reúne com Trump e Xi, Ucrânia ataca ponte da Crimeia pela terceira vez na semana",
-    "resumo": "Imagem divulgada em 17 de novembro de 2026 no canal oficial do presidente da Ucrânia, Volodymyr Zelensky, no Telegram, mostra danos à Ponte da Crimeia, também conhecida como Ponte de Kerch, que liga a península à Rússia. Zelensky afirmou nesta terça-feira que Kiev realizou um ataque \"sem precedentes\" contra a estrutura. Segundo o presiden",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/18/enquanto-putin-se-reune-com-trump-e-xi-ucrania-ataca-ponte-da-crimeia-pela-terceira-vez-na-semana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TVMjYzEd7sK-Y8x7gheyxj5hXM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/C/tTd4xHSL6PvgzRiW7PZQ/afp-20261117-d7pr463-v1-highres-ukrainerussiaconflictwar.jpg",
-    "data": "2026-11-18T23:24:57.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Carro fica destruído após acidente na BR-153 e ocupantes são resgatados das ferragens",
-    "resumo": "Acidente foi registrado na BR-153 Divulgação/Corpo de Bombeiros Duas pessoas ficaram feridas após a picape em que estavam ficar completamente destruída em um acidente de trânsito com um caminhão nesta quarta-feira (18), na BR-153, na região norte do Tocantins. Segundo o Corpo de Bombeiros, o acidente foi registrado no trevo de Bandeirante",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/18/carro-fica-destruido-apos-acidente-na-br-153-e-ocupantes-sao-resgatados-das-ferragens-dizem-bombeiros.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/FctgA1KtkXihmQ-5gOdHCqXiR1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/6/uUVbiVTBu2K8wgZcGG9w/foto-e-montagem-vertical-2026-11-18t202031.098.jpg",
-    "data": "2026-11-18T23:24:17.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -317,9 +443,9 @@
   {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
-    "titulo": "Agência Brasil e Rádio Nacional conquistam prêmio de direitos humanos",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/agencia-brasil-e-radio-nacional-recebem-premio-de-direitos-humanos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54p",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/agencia-brasil-e-radio-nacional-recebem-premio-de-direitos-humanos",
+    "titulo": "Agência Brasil e Rádio Nacional ganham prêmio de direitos humanos",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/agencia-brasil-e-radio-nacional-ganham-premio-de-direitos-humanos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/agencia-brasil-e-radio-nacional-ganham-premio-de-direitos-humanos",
     "imagem": null,
     "data": "2026-11-18T22:12:00.000Z"
   },
@@ -378,15 +504,6 @@
     "data": "2026-11-18T21:42:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A Massachusetts Town Revolts Against Amazon’s Delivery Drones",
-    "resumo": "Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace.",
-    "link": "https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/17/multimedia/00nat-amazon-drones-promo-lzjq/00nat-amazon-drones-promo-lzjq-mediumSquareAt3X.jpg",
-    "data": "2026-11-18T21:41:37.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Muçulmanos devem superar cristãos em número até 2035 e se tornar maior grupo religioso do mundo",
@@ -403,6 +520,15 @@
     "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-18T21:28:08.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Gitxsan hereditary chiefs call for halt to rail cargo as diesel leaks from train derailment along river in B.C.",
+    "resumo": "A second landslide and train derailment into the Skeena River in eight months has reignited calls by the Gitxsan Huwilp Government to immediately stop train hauling in the vicinity of its traditional territory.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/train-derailment-skeena-river-9.7426854?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/e770d44b-1f61-4641-848e-a4451a26ef2d,1794970804258/full/max/0/default.jpg?im=Crop%2Crect%3D%28473%2C337%2C1447%2C813%29%3B",
+    "data": "2026-11-18T21:26:06.000Z"
   },
   {
     "categoria": "Internacional",
@@ -441,15 +567,6 @@
     "data": "2026-11-18T21:08:04.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-    "resumo": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T21:01:05.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Defesa Civil de SP envia 17 alertas de chuvas fortes para o estado",
@@ -479,56 +596,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Would a Quebecor-Telus merger mean higher cellphone bills for Canadians?",
-    "resumo": "Quebecor says its proposal to acquire one of the four main Canadian telecoms will lead to lower costs for consumers, but policy analysts and competition advocates aren't quite buying it.",
-    "link": "https://www.cbc.ca/news/business/quebecor-telus-proposal-could-mean-higher-bills-experts-9.7425945?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b34ecbe6-3e36-46ca-a0b1-09b1795bd3dd,1794943910772/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B",
-    "data": "2026-11-18T20:40:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
     "titulo": "Cadets being told to stand down as Canada adds billions to defence",
     "resumo": "The Canadian military has suspended most weekend cadet training and competitions in parts of the country until March, citing budget restraint. Leaked emails reveal mounting financial pressures despite billions in new defence spending.",
     "link": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/e157cf3f-3822-455b-946f-9edbff7ea661,1795034956113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C633%2C6260%2C3521%29%3B",
     "data": "2026-11-18T20:38:54.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-    "resumo": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T20:38:06.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Pew Research: Islam on track to become world’s largest religion by 2035",
-    "resumo": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
-    "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T20:37:40.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Women's rugby players fight to save team after Bishop's University cuts varsity program",
-    "resumo": "Bishop’s University in Sherbrooke, Que., has decided to cut its women’s varsity rugby team. The news comes as Canada’s women’s rugby team ranks third in the world, and university varsity teams are a pipeline to fuel the national team roster.",
-    "link": "https://www.cbc.ca/news/canada/montreal/bishops-university-womens-varsity-rugby-gaitors-9.7426853?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/5513df13-f525-4255-8b90-23bd2c9f3739,1795029680123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C35%2C1179%2C663%29%3B",
-    "data": "2026-11-18T20:26:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-    "resumo": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T20:24:50.000Z"
   },
   {
     "categoria": "Internacional",
@@ -538,24 +610,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
     "imagem": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a",
     "data": "2026-11-18T20:24:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Muslims projected to overtake Christians as world’s largest religious group",
-    "resumo": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-18T20:21:34.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Competition Bureau examining marketing practices by Gap, Old Navy",
-    "resumo": "The Competition Bureau is moving ahead with an investigation into whether clothing giants Gap and Old Navy are violating marketing regulations by making potentially false or misleading claims in their advertising.",
-    "link": "https://www.cbc.ca/news/business/competition-bureau-gap-old-navy-advertising-9.7426966?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.7452028,1738855093000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
-    "data": "2026-11-18T20:21:02.000Z"
   },
   {
     "categoria": "Brasil",
@@ -873,15 +927,6 @@
     "data": "2026-11-18T16:16:31.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-    "resumo": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
-    "data": "2026-11-18T16:10:44.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
@@ -952,15 +997,6 @@
     "link": "https://www.dw.com/pt-br/como-a-antiga-alemanha-oriental-ajudou-o-vietnã-a-virar-uma-potência-do-café/a-79982188?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-18T14:48:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Cadet leader says he's paralyzed from waist down after attack in Hamilton restaurant",
-    "resumo": "A cadet leader who underwent spinal surgery after a violent attack says he is currently paralyzed from the waist down and will require months of physical rehabilitation.",
-    "link": "https://www.cbc.ca/news/canada/hamilton/hamilton-kunkel-remembrance-day-9.7426315?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/ec1a8fa3-05c3-4fba-910d-2cc5ccc9fe39,1795028792230/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C720%2C405%29%3B",
-    "data": "2026-11-18T14:39:10.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1143,15 +1179,6 @@
     "data": "2026-11-18T11:00:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-    "resumo": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi&apos;s visit to Washington in September.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F0f%2F6973b0ff49ddaa8b47e07f223c0e%2Fap26322454124065.jpg",
-    "data": "2026-11-18T10:32:03.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Josephine review – Channing Tatum and Gemma Chan ballast knotty drama about a child witness to a rape",
@@ -1204,15 +1231,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377e/live/9eb7bde0-e31b-11f1-81d5-99b8785f3e51.jpg",
     "data": "2026-11-18T09:27:51.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Theft of trade, tech secrets 'a global issue' extending beyond recent headlines: security CEO",
-    "resumo": "Recent episodes have shone a light on the ongoing threat to companies — and by extension, the wider economy — from efforts to surreptitiously steal information and secrets. These include efforts involving state or state-linked actors.",
-    "link": "https://www.cbc.ca/news/world/economic-espionage-us-tech-sector-9.7424156?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/267aefec-f041-4d1c-aa64-4a1093da8410,1794878826452/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C607%2C8640%2C4860%29%3B",
-    "data": "2026-11-18T09:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1330,23 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-18T01:18:18.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
-    "resumo": "Scientists discovered that although people with and without autism show surprisingly similar average brain activity, individuals with autism exhibit much greater differences from one another, especially in regions involved in social understanding. The findings suggest that traditional research methods may be overlooking crucial difference",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
-    "imagem": null,
-    "data": "2026-11-18T01:10:14.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Europe plans to catch the next computer chip wave",
-    "resumo": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
-    "data": "2026-11-18T00:00:24.000Z"
   }
 ]
