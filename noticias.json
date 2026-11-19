@@ -1,12 +1,264 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pedágio eletrônico: confira as opções disponíveis de pagamento na Motiva Paraná",
+    "resumo": "A Motiva Paraná tem formas diversificadas de pagamento do pedágio eletrônico, em operação desde junho deste ano no km 2 da PR-445, em Tamarana, e no km 292 da BR-376, em Mauá da Serra. As opções são para clientes com ou sem tag. Desconto Básico de Tarifa (DBT) O DBT, ou Desconto Básico de Tarifa, é um benefício imediato que pode ser aprov",
+    "link": "https://g1.globo.com/pr/parana/especial-publicitario/motiva-parana-pedagio-eletronico/noticia/2026/11/19/pedagio-eletronico-confira-as-opcoes-disponiveis-de-pagamento-na-motiva-parana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZJREEStfGuKNlFfCxcutnFTR6ww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/6/vldyjnRSmYcqQhpRHq8A/capa-motiva-parana-informe-02.png",
+    "data": "2026-11-19T18:22:39.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Gemini on Mac can now use your computer",
+    "resumo": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8",
+    "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-19T18:21:13.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Leaked images reveal Motorola’s wide foldable",
+    "resumo": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in two finishes with its ",
+    "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moto1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-19T18:19:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "MP denuncia ex-secretária de Regente Feijó por suspeita de fraude em licitação de R$ 42 mil",
+    "resumo": "Justiça proíbe ex-secretária de Regente Feijó de entrar na prefeitura A Justiça de Regente Feijó (SP) recebeu uma denúncia do Ministério Público (MPSP) contra a ex-secretária de governo do município, Solange Aparecida Malacrida Brocca, investigada por suspeita de fraudar um processo licitatório em 2025. A decisão foi assinada pelo juiz Ig",
+    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/19/mp-denuncia-ex-secretaria-de-regente-feijo-por-suspeita-de-fraude-em-licitacao-de-r-42-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IS9EUdWBEm-vKDECiUCAUGpbUNQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/s/UPhA2XSA6mOGtQVfsBuA/g1-2025-12-19t132733.228.png",
+    "data": "2026-11-19T18:18:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões desta quinta-feira, 19 de novembro de 2026",
+    "resumo": "Veja todos os vídeos.",
+    "link": "https://g1.globo.com/go/goias/edicao/2026/11/19/videos-jornal-anhanguera-1-edicao-regioes-desta-quinta-feira-19-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AlpB6TlZgUJaxyaqSYGTOIWWeus=/s01.video.glbimg.com/deo/vi/49/42/15264249",
+    "data": "2026-11-19T18:16:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+    "resumo": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T18:16:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Visa, Mastercard e JPMorgan dizem que fornecedores foram alvo de ataque cibernético",
+    "resumo": "Visa e Mastercard dizem que ataque cibernético não afetou clientes. REUTERS / Dado Ruvic O JPMorgan Chase, maior banco dos Estados Unidos, informou nesta quinta-feira (19) que empresas que prestam serviços à instituição foram alvo de um ataque cibernético. Visa e Mastercard também informaram que empresas que fornecem serviços foram atacad",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/19/instituicoes-financeiras-ataque-cibernetico.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gbaGTTlkDBpRdwOoBWMh71eYUew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/76KAYWT3SB2VBfcCAhCA/2026-11-16t191120z-1557206292-rc26fja9sj2a-rtrmadp-3-visa-mastercard-settlement.jpg",
+    "data": "2026-11-19T18:15:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dona de joalheria em Itabaiana pagará R$ 30 mil após acordo com o MPT",
+    "resumo": "Ministério Púbico do Trabalho de Sergipe Ascom MPT-SE/Arquivo Uma empresária, proprietária de uma loja de joias no município de Itabaiana, terá de pagar indenização no valor de R$ 30 mil e se retratar no perfil institucional da empresa após firmar um acordo com o Ministério Público do Trabalho em Sergipe (MPT-SE). Em outubro, o MPT instau",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/19/dona-de-joalheria-em-itabaiana-pagara-r-30-mil-apos-acordo-com-o-mpt.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/I7fnos8mpSwpktPIlyQOjt5kw5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/B/A/PBkEPkSfeGn1ScyGJXOw/mpt-sergipe.jpg",
+    "data": "2026-11-19T18:15:33.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Oh, Elon Musk is ‘moderate’ now, is he?",
+    "resumo": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump's movement. \"I think I'm ideologically quite",
+    "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2176995336.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-19T18:15:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Flipelô 2027 homenageia o escritor e folclorista Edison Carneiro",
+    "resumo": "Edison Carneiro Divulgação O escritor e folclorista Edison Carneiro (1912-1972) será o homenageado da edição de 2027 da Festa Literária Internacional do Pelourinho (Flipelô), que acontecerá de 11 a 15 de agosto, no Centro Histórico de Salvador. Esta será a 11ª edição do evento, considerado a maior festa literária da Bahia. Nascido em Salv",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/19/flipelo-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NbEJ4rroYcsB_gq6kzNh9PVkASU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/B/IDh8KITKKtMZ7uQIohJA/whatsapp-image-2026-11-19-at-14.55.06.jpeg",
+    "data": "2026-11-19T18:14:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump-Xi-Putin summit: Five things you need to know",
+    "resumo": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T18:13:52.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Apple’s iPhone camera leader has reportedly left the company",
+    "resumo": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet named a new VP to step in for McCormack, who oversaw its Camera and Photos apps, [&#8230;]",
+    "link": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0542.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-19T18:13:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Gazeta Meio Dia",
+    "resumo": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
+    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png",
+    "data": "2026-11-19T18:12:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pedágio eletrônico pode ser pago em bases da Motiva Paraná; confira os locais",
+    "resumo": "Distribuídas pelos 569 quilômetros de rodovias administradas pela Motiva Paraná, as 13 bases do Serviço de Atendimento ao Cliente (SAU) contam com totens de autoatendimento que funcionam 24 horas para pagamento do pedágio eletrônico, seja por PIX ou cartão. Essas estruturas são convenientes e permitem que os clientes consultem passagens e",
+    "link": "https://g1.globo.com/pr/parana/especial-publicitario/motiva-parana-pedagio-eletronico/noticia/2026/11/19/pedagio-eletronico-pode-ser-pago-em-bases-da-motiva-parana-confira-os-locais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rTe3FxVtyPwXf0FE8vnYEX99Du0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/ptA8j4QImooWBuUhQcHw/capa-motiva-parana.jpg",
+    "data": "2026-11-19T18:12:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Atraso de repasses da prefeitura afeta 58 instituições em Poços de Caldas",
+    "resumo": "Câmara de Poços de Caldas devolve verba e pede que seja usada para pagamento de dívidas Os repasses da Prefeitura de Poços de Caldas (MG) para as instituições do terceiro setor que prestam serviços essenciais estão atrasados. A situação atinge 58 associações e entidades conveniadas com o município que estão há cerca de dois meses e meio s",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/19/atraso-em-repasses-da-prefeitura-afeta-58-instituicoes-em-pocos-de-caldas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xjMI4p0yG3CycdSywxJJ97UW8lQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/q/HUZYuQTeCd8FvCsc7wzA/centro-administrativo-de-pocos-de-caldas.jpeg",
+    "data": "2026-11-19T18:11:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Empresário é procurado suspeito de desviar 52 mil munições de loja e clube de tiro para facções criminosas no ES",
+    "resumo": "Polícia manda prender empresário por desvios de armas no ES A Polícia Civil do Espírito Santo concluiu o inquérito que investigou um esquema de desvio de armas de fogo e munições para facções criminosas com atuação no Espírito Santo e no Rio de Janeiro. Segundo as investigações, mais de 52 mil munições foram desviadas de uma loja de armas",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/19/empresario-e-procurado-suspeito-de-desviar-52-mil-municoes-de-clube-de-tiro-para-faccoes-criminosas-no-es.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1v_3Apvl3cEUcmcCDcy3vYjvtMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/NuBB3sQIOBOfbFksghzg/thumb-videos-g1-71-.jpg",
+    "data": "2026-11-19T18:11:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Governo de RO tem 90 dias para apresentar plano de reestruturação de delegacia da mulher na capital",
+    "resumo": "Delegacia Especializada em Atendimento à Mulher (Deam), Porto Velho, Rondônia Jheniffer Núbia/g1 RO A Justiça de Rondônia determinou que o governo estadual apresente, em até 90 dias, um plano de reestruturação para a Delegacia Especializada no Atendimento à Mulher (Deam) de Porto Velho. A decisão atende a uma ação civil pública movida pel",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/19/governo-de-ro-tem-90-dias-para-apresentar-plano-de-reestruturacao-de-delegacia-da-mulher-na-capital.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/j8zM097t8Wsbj88ieBlPCJKe1vA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/U/7/uuQUbUTNCfaxUyyhuX3A/deam.jpg",
+    "data": "2026-11-19T18:11:36.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+    "resumo": "<p>Rolling coverage of Anthropic’s IPO, and the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic to begin public trading at $1.5tn valuation after largest ever IPO</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/video/2026/n",
+    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=351333af3d876ca589b3c253ac43f20d",
+    "data": "2026-11-19T18:11:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça autoriza Senado a retomar gasto de R$ 6 milhões com iPhones e celulares para parlamentares",
+    "resumo": "Sadi diz que compra de celulares no Senado 'é escárnio com o dinheiro público' A Justiça Federal autorizou nesta quinta-feira (19) a retomada da licitação do Senado que prevê gasto de até R$ 6 milhões com linhas telefônicas e celulares, incluindo iPhones, para senadores e servidores da Casa. A decisão é da presidente do Tribunal Regional ",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/justica-autoriza-senado-a-retomar-licitacao-de-r-6-milhoes-para-comprar-iphones-para-parlamentares.ghtml",
+    "imagem": null,
+    "data": "2026-11-19T18:09:32.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 risks becoming ‘ghost’ summit after all mentions of ‘fossil fuels’ removed from draft text",
+    "resumo": "<p>Draft agreement also fails to show how developing countries will receive financial help to deal with climate crisis</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-\">Cop31 live – latest updates</a></p></li></ul><p>Every mention of “fossil fuels” has been expunged fr",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+    "imagem": "https://i.guim.co.uk/img/media/0dcf2f4e26be89799494e7fe6683b3cdce430515/1005_0_6600_5280/master/6600.jpg?width=140&quality=85&auto=format&fit=max&s=dd752f6da9465c083514133dcda63540",
+    "data": "2026-11-19T17:58:21.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
+    "resumo": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to [&#8230;]",
+    "link": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-19T17:58:01.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+    "resumo": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T17:50:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Transporte gratuito no fim de semana complementa escala 5x2, diz Lula",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/transporte-gratuito-no-fim-de-semana-complementa-escala-5x2-diz-lula\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/transporte-gratuito-no-fim-de-semana-complementa-escala-5x2-diz-lula",
+    "imagem": null,
+    "data": "2026-11-19T17:43:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Borussia Dortmund cede à pressão da torcida e rompe com a Rheinmetall",
+    "resumo": "Após protestos da segunda maior torcida alemã, clube rescinde contrato de patrocínio com a maior fabricante de armas da Alemanha. Time não é o primeiro da Bundesliga a sofrer conflito entre interesses comerciais e fãs.",
+    "link": "https://www.dw.com/pt-br/borussia-dortmund-cede-à-pressão-da-torcida-e-rompe-com-a-rheinmetall/a-79995824?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-19T17:41:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Busto de Dandara é inaugurado em Padre Miguel no Rio de Janeiro",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/busto-de-dandara-e-inaugurado-em-padre-miguel-no-rio-de-janeiro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/busto-de-dandara-e-inaugurado-em-padre-miguel-no-rio-de-janeiro",
+    "imagem": null,
+    "data": "2026-11-19T17:40:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+    "resumo": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-19T17:38:22.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "The Bay Area Wonders: What Will Anthropic Workers Do With Their Wealth?",
     "resumo": "San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering.",
     "link": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
     "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-anthropic-goldrush-pqcw/19nat-anthropic-goldrush-pqcw-mediumSquareAt3X.jpg",
-    "data": "2026-11-19T17:26:20.000Z"
+    "data": "2026-11-19T17:37:40.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Anthropic stock soars by double-digits in Nasdaq debut",
+    "resumo": "Shares of Anthropic rose on their first day of trading, as investors weighted AI enthusiasm against a massive valuation and uncertain path to profitability.",
+    "link": "https://www.cbc.ca/news/business/anthropic-first-day-trading-9.7428367?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c40bb9fb-692d-4d72-8fc2-bc88a8873d67,1795104980308/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+    "data": "2026-11-19T17:37:14.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Alberta bill would ban some bike lanes, let transportation minister remove others",
+    "resumo": "Alberta’s government is proposing to ban future bike lanes that remove or restrict motor-vehicle traffic and give itself the power to remove some existing bike lanes.",
+    "link": "https://www.cbc.ca/news/canada/edmonton/alberta-bill-43-bike-lanes-9.7428365?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/461cf8b7-e08c-475f-a26f-7d4534ba96b2,1795109136935/full/max/0/default.jpg?im=Crop%2Crect%3D%2834%2C6%2C517%2C290%29%3B",
+    "data": "2026-11-19T17:27:11.000Z"
   },
   {
     "categoria": "Internacional",
@@ -19,75 +271,21 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de quinta-feira, 19 de novembro de 2026",
-    "resumo": "Fique por dentro das principais notícias do telejornal.",
-    "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-quinta-feira-19-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/FNax-sbtvbj7wfrsGx-TNJYoyvs=/s01.video.glbimg.com/deo/vi/33/42/15264233",
-    "data": "2026-11-19T17:22:23.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Uso de drones em guerra interna da Colômbia cresce 132% sob Espriella",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/uso-de-drones-em-guerra-interna-da-colombia-cresce-132-sob-espriella\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/uso-de-drones-em-guerra-interna-da-colombia-cresce-132-sob-espriella",
+    "imagem": null,
+    "data": "2026-11-19T17:21:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sócia da concessionária do Pacaembu pede recuperação extrajudicial para renegociar R$ 530 milhões em dívidas",
-    "resumo": "Vista da Arena Mercado Livre Pacaembu em São Paulo MARLON COSTA/AGIF/AGÊNCIA DE FOTOGRAFIA/ESTADÃO CONTEÚDO A Progen S.A., acionista da Allegra Pacaembu, concessionária responsável pela administração do Mercado Livre Arena Pacaembu, em São Paulo, entrou com um pedido de recuperação extrajudicial para renegociar aproximadamente R$ 530 milh",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/19/socia-da-concessionaria-do-pacaembu-pede-recuperacao-extrajudicial-para-renegociar-r-530-milhoes-em-dividas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WnnPPoM3JFoTx6iVd27gLwMVHD0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/M/Pi1n09Q8eAPDG86C0J3Q/agf20250824078.jpg",
-    "data": "2026-11-19T17:22:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça de SP torna empresário réu por suspeita de asfixiar e matar namorada e enteado de 6 anos; prisão preventiva é decretada",
-    "resumo": "Eric Conrado (ao centro) é acusado de matar Anna Gabriela e o filho dela, Raphael Faria, em Cotia, Grande São Paulo. Reprodução/Arquivo pessoal A Justiça tornou réu o empresário Eric Conrado Alves de Almeida, de 41 anos, por suspeita de matar a namorada, a advogada Anna Gabriela Faria Lima, de 29 anos, e o filho dela, Raphael Faria Lima F",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/19/justica-de-sp-torna-empresario-reu-por-suspeita-de-asfixiar-e-matar-namorada-e-enteado-de-6-anos-prisao-preventiva-e-decretada.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bvvjH7xjy-zmihxpANrccV8g73Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/JPnbR0Q5yi7aLL8ZuA4g/fotojet-2026-11-05t085449.036.jpg",
-    "data": "2026-11-19T17:21:43.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Posse de novo arcebispo de Cuiabá terá programação com missas e encontros; veja agenda",
-    "resumo": "Dom Wellington de Queiroz Vieira é nomeado novo arcebispo de Cuiabá Reprodução A programação para a posse do novo arcebispo de Cuiabá, Dom Wellington de Queiroz Vieira, ou apenas Dom Queiroz, terá atividades abertas ao público neste sábado (21) e domingo (22), na Catedral Basílica do Senhor Bom Jesus de Cuiabá. Entre elas estão uma recepç",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/19/posse-de-novo-arcebispo-de-cuiaba-tera-programacao-com-missas-e-encontros-veja-agenda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mi4Kn9FGWEHIafY66PySArEWShA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/I/lnD5BeTMmdssA3JZrWGA/foto-g1-74-.jpg",
-    "data": "2026-11-19T17:20:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Operação contra crimes na fronteira apreende porções de ouro em Oiapoque",
-    "resumo": "Operação Onça Corridoor em Oiapoque PRF/Divulgação A Polícia Rodoviária Federal (PRF) apreendeu 300 gramas de ouro sem nota fiscal e prendeu um foragido por roubo nesta quinta-feira (19), em Oiapoque, no norte do Amapá. Os flagrantes ocorreram durante a Operação Onça Corridor, que combate crimes na região de fronteira e deve continuar nos",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/19/operacao-contra-crimes-na-fronteira-apreende-porcoes-de-ouro-em-oiapoque.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9YnLR9qi6D-PJH5ZpQ-KsKBEQJc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/d/Iy7ZvGR1AlRnQcBaCulw/aleixo-g1-89-.jpg",
-    "data": "2026-11-19T17:17:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "IPO da Anthropic coloca empresa entre as mais valiosas do mundo; veja ranking",
-    "resumo": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão A Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, entrou para a lista das empresas mais valiosas do mundo em sua estreia na Nasdaq, bolsa americana que reúne algumas das maiores companhias de tecnologia, nesta quinta-feira (19). Após uma das ofertas públicas ini",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-valor-de-mercado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/O2Mu9N0qYTqO89y4O2p9lAw5V5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/v/JS0qVyQSWevDYq3ARmkg/2026-11-19t120048z-1-lynxnpemai1a5-rtroptp-4-anthropic-ipo.jpg",
-    "data": "2026-11-19T17:16:05.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incêndio florestal avança sobre pastagens e ameaça plantações de cacau em Medicilândia, no PA",
-    "resumo": "Queimadas assustam moradores e ameaçam plantações de cacau em Medicilândia, no PA Um incêndio florestal assustou moradores da zona rural de Medicilândia, no sudoeste do Pará. As chamas de grandes proporções atingiram uma vasta área de pastagens localizada entre as vicinais dos quilômetros 95 e 100 Norte. O avanço do fogo gerou pânico na c",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/19/incendio-florestal-avanca-sobre-pastagens-e-ameaca-plantacoes-de-cacau-em-medicilandia-no-pa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PjsnWUESOD2jXYLLjkc8S3a45Kw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/d/aTIWAJTQWartwpE3Bnvw/incendio-medicilandia.png",
-    "data": "2026-11-19T17:15:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Black Friday do Ítalo tem ofertas diárias e descontos exclusivos.",
-    "resumo": "Quem quer aproveitar a Black Friday do Ítalo Supermercados tem um motivo a mais para ficar de olho no aplicativo da rede. Pelo Ítalo Clube, os consumidores cadastrados têm acesso a descontos exclusivos e podem acompanhar oportunidades especiais para economizar nas compras. E, na última semana de novembro, a campanha ganha ainda mais força",
-    "link": "https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/11/19/black-friday-do-italo-tem-ofertas-diarias-e-descontos-exclusivos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RSxL7oFYXwFSk0wxf9h1ADgGYBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/qx6wkoTKCAyI8NxmWmXw/foto-destaque-34-italo.jpg",
-    "data": "2026-11-19T17:15:38.000Z"
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
+    "resumo": "<p>Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed</p><p>Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in south-east Iowa worried that a cloud of lead dust could cause environmental c",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+    "imagem": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
+    "data": "2026-11-19T17:18:08.000Z"
   },
   {
     "categoria": "Internacional",
@@ -108,15 +306,6 @@
     "data": "2026-11-19T17:15:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Médico piauiense desce de ambulância e corre entre carros para salvar paciente no PE",
-    "resumo": "Médico piauiense desce de ambulância e corre entre carros no PE para salvar paciente O vídeo de um médico piauiense correndo entre carros em uma avenida congestionada para pedir espaço para a passagem de uma ambulância em atendimento vem viralizando nas redes sociais desde a quarta-feira (18). O caso aconteceu no mesmo dia, na cidade de R",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/19/medico-piauiense-corre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nVFiskO4NVHoF_IBOGI-uiHsy9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/A/1mAXKORYWbyAj0SpNuBg/edicao-imagens-g1-3-.jpg.jpeg",
-    "data": "2026-11-19T17:13:34.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
@@ -133,33 +322,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
     "imagem": "https://i.guim.co.uk/img/media/9a7a08432aefc55cf68fcacd78775e012efb2000/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=e7dbd1a9b4c3dc24afe5bacd823fc0dc",
     "data": "2026-11-19T17:12:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Manifestantes jogam cinzas em comissário europeu em protesto contra agrotóxicos; VÍDEO",
-    "resumo": "Dois manifestantes jogaram um pó cinza contra o comissário europeu da Saúde, Olivér Várhelyi, durante a Cúpula Europeia do Câncer, em Bruxelas, nesta quinta-feira (19). O protesto foi contra a proposta da Comissão Europeia que acaba flexibiliza as regras sobre agrotóxicos. Várhelyi se preparava para falar sobre as ações da União Europeia ",
-    "link": "https://g1.globo.com/saude/noticia/2026/11/19/manifestantes-jogam-cinzas-em-comissario-europeu-em-protesto-contra-agrotoxicos-video.ghtml",
-    "imagem": null,
-    "data": "2026-11-19T17:11:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cruzeiro Buenavista: fiscais encontram remédios vencidos, jornadas de até 19h e racionamento de água",
-    "resumo": "Cruzeiro Buenavista tem remédios vencidos, jornadas de até 19h e sinais de racionamento de água Divulgação A Auditoria-Fiscal do Trabalho e a Agência Nacional de Vigilância Sanitária (Anvisa) fizeram a vistoria no navio de cruzeiro Buenavista, da empresa espanhola Corazul, no Porto de Santos, após denúncias sobre as condições a bordo. A f",
-    "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/19/cruzeiro-buenavista-fiscais-encontram-remedios-vencidos-jornadas-de-ate-19h-e-racionamento-de-agua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RQF7q2rEGsETBO57-lU9MQwlMNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/1/60inByRRSTbCarLgABMw/281026naviobuenavista02.jpg",
-    "data": "2026-11-19T17:10:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Moradores de Nossa Senhora do Socorro enfrentam problemas na regularidade da coleta de lixo",
-    "resumo": "Lixo no Bairro Fernando Collor, em Nossa Senhora do Socorro TV Sergipe/Reprodução Moradores de Nossa Senhora do Socorro enfrentam problemas na regularidade da coleta de lixo em algumas regiões do município. Segundo a prefeitura, a empresa responsável pelo recebimento dos resíduos tem enfrentado falhas técnicas recorrentes na operação de s",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/19/moradores-de-nossa-senhora-do-socorro-enfrentam-problemas-na-regularidade-da-coleta-de-lixo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NAANLPEmXP7wdp24mHg4Jew9QqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/4/tG0yVZSKeGwvwbSSexWA/lixo-em-nossa-senhora-do-socorro.png",
-    "data": "2026-11-19T17:10:10.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -187,6 +349,15 @@
     "link": "https://www.cbc.ca/news/politics/sean-fraser-maid-advance-requests-9.7428208?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
     "data": "2026-11-19T17:08:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Voluntário da Floresta da Tijuca retoma trabalho de antepassado",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/voluntario-da-floresta-da-tijuca-retoma-trabalho-de-antepassado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/voluntario-da-floresta-da-tijuca-retoma-trabalho-de-antepassado",
+    "imagem": null,
+    "data": "2026-11-19T17:07:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -232,15 +403,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-19T16:59:38.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
-    "resumo": "<p>Rolling coverage of Anthropic’s IPO, and the latest economic and financial news</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo\">Anthropic to begin public trading at $1.5tn valuation after largest ever IPO</a></p></li><li><p><a href=\"https://www.theguardian.com/us-news/video/2026/n",
-    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/d813681eacdf9a462a84be4e3ef0e890940a2ccf/1281_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=351333af3d876ca589b3c253ac43f20d",
-    "data": "2026-11-19T16:58:51.000Z"
   },
   {
     "categoria": "Cultura",
@@ -353,10 +515,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Man believed to be top Bishnoi Gang lieutenant wanted in 2023 Winnipeg killing",
-    "resumo": "A man with connections to the international Bishnoi Gang is now wanted in the 2023 killing of a Winnipeg man, police say.",
+    "titulo": "Man believed to be top Bishnoi gang lieutenant wanted in 2023 Winnipeg killing",
+    "resumo": "Satinderjeet Singh, who is commonly known by the name Goldy Brar and is believed to be a former top lieutenant in the international Bishnoi crime gang, is now wanted in the 2023 killing of a Winnipeg man, police say.",
     "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-satinderjeet-singh-wanted-murder-sukhdool-singh-gill-9.7428186?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f35fb883-e520-4dd7-9cff-9e8c064ef29a,1783602948868/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "imagem": "https://i.cbc.ca/ais/5af46843-bb83-45b1-93e3-0b5af568a863,1795110071478/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C12%2C385%2C216%29%3B",
     "data": "2026-11-19T16:14:11.000Z"
   },
   {
@@ -367,15 +529,6 @@
     "link": "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
     "imagem": "https://i.guim.co.uk/img/media/f32ff3ac7030d28f29dad03044a12e72f16d7131/422_0_4223_3378/master/4223.jpg?width=140&quality=85&auto=format&fit=max&s=272cce7970fc370864affd0783328051",
     "data": "2026-11-19T16:09:06.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The Verge’s 2026 fitness and wellness gift guide",
-    "resumo": "We could all use a hand when it comes to being more mindful about our health and fitness. The holidays provide plenty of reasons to focus on wellness in body and mind, and a good gift can be just the thing to spur a new hobby or support healthy habits. With that in mind, we're [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_FITNESS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T16:00:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -459,15 +612,6 @@
     "data": "2026-11-19T15:24:51.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-    "resumo": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-19T15:23:34.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Grand Theft Auto would be a huge TV series – here’s why it will never happen",
@@ -475,15 +619,6 @@
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/19/grand-theft-auto-would-be-a-huge-tv-series-heres-why-it-will-never-happen",
     "imagem": "https://i.guim.co.uk/img/media/41c5bd8e3fb94824f68cf43cb2fbe690c231aea2/696_452_3609_2889/master/3609.jpg?width=140&quality=85&auto=format&fit=max&s=17ae532b7d4a3ee5d52f2a9762d12253",
     "data": "2026-11-19T15:20:16.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "ChatGPT can transcribe as you speak now with Live Dictation",
-    "resumo": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T15:16:45.000Z"
   },
   {
     "categoria": "Internacional",
@@ -502,15 +637,6 @@
     "link": "https://www.theguardian.com/books/2026/nov/19/abandoning-a-cat-by-haruki-murakami-review-an-intimate-meditation-on-family-and-memory",
     "imagem": "https://i.guim.co.uk/img/media/58fd67862519cba7519196db71d577c1f20269f6/775_132_3492_2794/master/3492.jpg?width=140&quality=85&auto=format&fit=max&s=00524250c6e20fc6aacb95d8ef758f75",
     "data": "2026-11-19T15:00:50.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-    "resumo": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
-    "link": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T15:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -576,15 +702,6 @@
     "data": "2026-11-19T14:34:22.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The Analogue 3D can now update itself over Wi-Fi",
-    "resumo": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had",
-    "link": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T14:32:33.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "What the ICJ genocide ruling means for the Rohingya people",
@@ -592,15 +709,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-19T14:31:47.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-    "resumo": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T14:25:37.000Z"
   },
   {
     "categoria": "Internacional",
@@ -675,42 +783,6 @@
     "data": "2026-11-19T14:00:51.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-    "resumo": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
-    "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T13:54:10.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-    "resumo": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel&#039;s military.",
-    "link": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T13:49:49.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal",
-    "resumo": "The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.",
-    "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T13:47:50.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Manifestação em Porto Alegre pede união contra o racismo",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/manifestacao-em-porto-alegre-pede-uniao-contra-o-racismo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/manifestacao-em-porto-alegre-pede-uniao-contra-o-racismo",
-    "imagem": null,
-    "data": "2026-11-19T13:46:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
@@ -736,24 +808,6 @@
     "link": "https://www.nytimes.com/2026/11/19/us/politics/three-maga-women-who-defined-an-era-in-congress-are-exiting.html",
     "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-cong-meangirls-01-hjkl/18dc-cong-meangirls-01-hjkl-mediumSquareAt3X.jpg",
     "data": "2026-11-19T13:27:13.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Fossil fuel limits cut from latest draft of UN climate deal",
-    "resumo": "Climate negotiators stripped out any reference to ending the use of fossil fuels in a slimmed-down draft deal text published on Thursday, as ‌the COP31 meeting in Antalya, Turkey, approaches its Friday deadline.",
-    "link": "https://www.cbc.ca/news/science/cop31-draft-climate-deal-9.7427790?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/94bebe8b-90cb-4276-89d3-afd4592f244e,1795093569500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C8192%2C4608%29%3B",
-    "data": "2026-11-19T13:16:27.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Termina em um dia prazo para pedir reaplicação do Enem 2026",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-em-um-dia-prazo-para-pedir-reaplicacao-do-enem-2026\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><s",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/termina-em-um-dia-prazo-para-pedir-reaplicacao-do-enem-2026",
-    "imagem": null,
-    "data": "2026-11-19T13:13:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -799,15 +853,6 @@
     "link": "https://www.theguardian.com/culture/2026/nov/19/sinead-oconnors-best-songs-ranked",
     "imagem": "https://i.guim.co.uk/img/media/8da31a79716b84f5e1f088dba682dcd3fbd743e2/178_0_2084_1667/master/2084.jpg?width=140&quality=85&auto=format&fit=max&s=28de964c9d23c41aa627452fda9225cb",
     "data": "2026-11-19T13:00:48.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Trump, Xi e Putin encerram reunião histórica na China",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trump-xi-e-putin-encerram-reuniao-historica-na-china\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Os p",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trump-xi-e-putin-encerram-reuniao-historica-na-china",
-    "imagem": null,
-    "data": "2026-11-19T12:59:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -871,15 +916,6 @@
     "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
     "imagem": null,
     "data": "2026-11-19T12:26:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Festival de música e dança no Rio de Janeiro valoriza cultura negra",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-de-musica-e-danca-afro-brasileira-valoriza-cultura-negra\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/festival-de-musica-e-danca-afro-brasileira-valoriza-cultura-negra",
-    "imagem": null,
-    "data": "2026-11-19T12:14:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1037,19 +1073,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Muslims will outnumber Christians worldwide by 2035, report says",
-    "resumo": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3825x2550+0+0/resize/3825x2550!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Fa9%2F06089dc548abaaae295e93dc98ed%2Fap26296421881981.jpg",
+    "titulo": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+    "resumo": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6725x4486+0+0/resize/6725x4486!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F62%2F69bf609f410296d428db07c311d6%2Fgettyimages-2305300345.jpg",
     "data": "2026-11-19T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
-    "resumo": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5350x3281+0+0/resize/5350x3281!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2Fe5%2F04b876a1430aacf18c1d712b68ac%2Fap24212475256977.jpg",
+    "titulo": "Muslims will outnumber Christians worldwide by 2035, report says",
+    "resumo": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3825x2550+0+0/resize/3825x2550!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Fa9%2F06089dc548abaaae295e93dc98ed%2Fap26296421881981.jpg",
     "data": "2026-11-19T10:00:00.000Z"
   },
   {
@@ -1107,15 +1143,6 @@
     "data": "2026-11-19T09:00:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Locker room at Montreal’s Olympic sports complex 'falling apart' just months after reno",
-    "resumo": "Less than a year after a multimillion-dollar revitalization of the aging locker room at Montreal’s Complexe Sportif Claude-Robillard, athletes say they've had to navigate cold or broken showers, water fountains with undrinkable hot water and crumbling tiling.",
-    "link": "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/01379b36-6625-4a87-9668-3c45bee09fe9,1795035806150/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C250%2C2048%2C1152%29%3B",
-    "data": "2026-11-19T09:00:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
@@ -1141,15 +1168,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-19T06:15:57.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Car use in London forecast to rise by 10% in next decade",
-    "resumo": "<p>Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality</p><p>Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city’s mayoralty, putting into doubt Sadiq Khan’s promises on air quality an",
-    "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
-    "imagem": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=140&quality=85&auto=format&fit=max&s=2ef03e80f735de8cc845927010138bb3",
-    "data": "2026-11-19T06:00:20.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1280,10 +1298,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Grand Theft Auto VI fever is hitting workplaces as employees take time off to game",
+    "titulo": "Grand Theft Auto VI is a love story. No to hiring sex workers, yes to buying your girlfriend flowers",
     "resumo": "",
-    "link": "https://www.cbc.ca/news/entertainment/grand-theft-auto-time-off-work-9.7426919?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a49e0b21-e637-4a9f-9c62-bb03de95196d,1795030803541/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
+    "link": "https://www.cbc.ca/news/entertainment/grand-theft-auto-6-sex-workers-relationship-9.7428220?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/864d336e-02e7-4333-9bca-492d207f7418,1795107928114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
     "data": "2026-11-18T22:04:23.000Z"
   },
   {
@@ -1294,15 +1312,6 @@
     "link": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-18T22:03:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Muçulmanos devem superar cristãos em número até 2035 e se tornar maior grupo religioso do mundo",
-    "resumo": "Comunidade muçulmana deve ultrapassar a cristã nas próximas décadas, impulsionada principalmente por taxas de fecundidade superiores às de outros grandes grupos religiosos.",
-    "link": "https://www.dw.com/pt-br/muçulmanos-devem-superar-cristãos-em-número-até-2035-e-se-tornar-maior-grupo-religioso-do-mundo/a-79986215?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-18T21:30:00.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1339,14 +1348,5 @@
     "link": "https://www.dw.com/pt-br/como-a-economia-verde-pode-ajudar-a-reverter-as-mudanças-climáticas/a-79983684?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-18T19:56:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "O impacto do ataque à Ponte da Crimeia na guerra na Ucrânia",
-    "resumo": "Operação militar causou graves danos à estrutura que liga a península à Rússia. Além de dificultar logística do exército de Moscou, ofensiva prejudica imagem do líder do Kremlin.",
-    "link": "https://www.dw.com/pt-br/o-impacto-do-ataque-à-ponte-da-crimeia-na-guerra-na-ucrânia/a-79985782?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-18T19:18:00.000Z"
   }
 ]
