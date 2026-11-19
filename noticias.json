@@ -1,6 +1,177 @@
 [
   {
     "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+    "resumo": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T05:13:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Feriado de Consciência Negra: veja os horários de pico e a previsão de trânsito nas rodovias do Vale e região",
+    "resumo": "Rodovia Presidente Dutra, no Vale do Paraíba Guilherme Machado/TV Vanguarda O feriado de Consciência Negra, celebrado a partir desta sexta-feira (20), deve movimentar as principais rodovias que cortam o Vale do Paraíba e a região bragantina. Para ajudar os motoristas que planejam viajar, o g1 levantou as expectativas de trânsito e os melh",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/19/feriado-de-consciencia-negra-veja-os-horarios-de-pico-e-a-previsao-de-transito-nas-rodovias-do-vale-e-regiao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2sXE8vObexl4MCDRlemg0UhLMgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/GcbMAFSfeibunpjHSyXA/46632f3c-0296-4ef1-8875-9ee06b0ac10e.jpg",
+    "data": "2026-11-19T05:02:00.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
+    "resumo": "<p>Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back</p><p>A bar-tailed godwit called Phil has completed a 6,800-mile journey from Norfolk to Siberia and back again, in the first mapping of the endurance feats of this long-distance migrant.</p><p>A wading bird not much larg",
+    "link": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
+    "imagem": "https://i.guim.co.uk/img/media/b1707cbf521ed45d381bd675e1b6584aca1dcf76/706_0_4561_3651/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=c448ea84e4b1e8863b08890c4c38cf5d",
+    "data": "2026-11-19T05:01:17.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Win a trip to go behind the news with NPR",
+    "resumo": "Enter for a chance to go behind the scenes at HQ, meet our journalists face-to-face and experience public media like never before.",
+    "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x630+0+0/resize/1200x630!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5f%2F95%2Fad23f44b410abd2f3fcc181ec2ee%2Fnprnews-2026-experience-ad-1200x630-01.jpg",
+    "data": "2026-11-19T05:01:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "resumo": "<p>Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas </p><p>The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog.</p><p>The Interna",
+    "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+    "imagem": "https://i.guim.co.uk/img/media/2ea7dda4257fc43543719a2d375cd85a1ce8cdb4/0_0_7157_5728/master/7157.jpg?width=140&quality=85&auto=format&fit=max&s=bacf77eb19490db5a05856675b08baa4",
+    "data": "2026-11-19T05:00:18.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Andy Burnham is in danger of over-selling his big Brussels summit. What happens if he under-delivers? | Joël Reland",
+    "resumo": "<p>In laying a trap for himself, the PM could derail his longer-term ambition of revisiting Brexit</p><p></p><p>This week’s <a href=\"https://www.gov.uk/government/news/prime-minister-to-attend-uk-eu-summit-in-brussels-on-20-november\">UK-EU summit</a> may, one day, be seen as the start of the UK’s long march<strong> </strong>back towards t",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/andy-burnham-risks-over-selling-his-big-brussels-summit-what-happens-if-he-under-delivers",
+    "imagem": "https://i.guim.co.uk/img/media/8c0792480f8e66c2c1ec6e4c21c70c6820aff06c/437_0_4370_3496/master/4370.jpg?width=140&quality=85&auto=format&fit=max&s=6a445bbe18ad1c1ffefda92c295112c3",
+    "data": "2026-11-19T05:00:18.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Machado de Xangô, crucifixos e Cristo de madeira: veja símbolos religiosos já instalados nas sedes dos Três Poderes, em Brasília",
+    "resumo": "Machado de Xangô, crucifixos e Cristo na cruz: veja símbolos religiosos já instalados nas sedes dos Três Poderes, em Brasília Montagem/g1 Símbolos de diferentes tradições religiosas estão presentes nas sedes dos Três Poderes, em Brasília. Crucifixos, uma escultura de Cristo em madeira – e, agora, um Oxê de Xangô – podem ser encontrados no",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/machado-de-xango-crucifixos-e-cristo-de-madeira-veja-simbolos-religiosos-ja-instalados-nas-sedes-dos-tres-poderes-em-brasilia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-8iwTEfeWbxs8sQZbhZneO_BwvQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/E/E9dt4qRdWBTYAC5rL1Ig/imagem-g1-2026-11-18t201843.578.png",
+    "data": "2026-11-19T05:00:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "‘Scroll infinito’ e autoplay deveriam ser regulados, defende comissão da Lancet",
+    "resumo": "O termo “uso problemático” inclui situações em que o uso interfere no sono, na atividade física ou nas relações pessoais, além de comportamentos compulsivos relacionados, por exemplo, a jogos, compras ou pornografia online. Kaboompics.com/Pexels Governos deveriam considerar regras para recursos de plataformas digitais que favorecem o uso ",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/19/scroll-infinito-e-autoplay-deveriam-ser-regulados-defende-comissao-da-lancet.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/k3Z4Hx1hYJ42rL0fDBUgoNJTV-w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/9/bCjFWfRyCTdjNmjtYdOA/pexels-karolina-grabowska-6029118.jpg",
+    "data": "2026-11-19T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "DF não repassa verba para pagar equipes do Zoológico desde junho; animais podem ficar sem cuidados",
+    "resumo": "Documentos revelam atraso de repasses à empresa de funcionários do Zoológico de Brasília A empresa terceirizada responsável pelos funcionários que alimentam e cuidam dos animais do Zoológico de Brasília afirma estar há meses sem receber repasses do governo do Distrito Federal. Documentos obtidos pela TV Globo também mostram que a fundação",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/19/df-nao-repassa-verba-para-pagar-equipes-do-zoologico-desde-junho-animais-podem-ficar-sem-cuidados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zi4axtbqL-9gGylizrTOKfgWIDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/v/K6LhXPR9O9RvqhmIW87A/a1120-df1-ge-limpo-18112026-frame-148814.jpeg",
+    "data": "2026-11-19T05:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "RS registrou quase 1,5 mil casos de esporotricose em 2026; doença transmitida por gatos tem alta em Guaíba",
+    "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano Uma doença transmitida de gatos para humanos que preocupa as autoridades de Guaíba, diante da alta de casos no município, já foi registrada em quase 1,5 mil pessoas de 88 cidades do Rio Grande do Sul em 2026, segundo dados da Secretaria Estadual da Saúde (SE",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/19/casos-esporotricose-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_b3RmfS3kh1FzTFJf6T7kFH-dmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/3/lg7sAcSVueyIxOJhGmHA/whatsapp-image-2026-04-28-at-10.51.33.jpeg",
+    "data": "2026-11-19T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista de app diz que quebrou vidros de Burger King no interior de SP após levar ‘banho’ de cerveja de passageira",
+    "resumo": "Motorista de app arremessa mesa contra vidros de lanchonete de Franca, SP Reprodução/ Redes sociais O motorista de aplicativo Ranieri Giuliano confirmou ao g1 nesta quarta-feira (18) ter quebrado vidros do Burger King em Franca (SP) depois de levar um \"banho\" de cerveja de uma passageira que se escondeu dentro da loja após um desentendime",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/19/motorista-de-app-diz-que-quebrou-vidros-de-burger-king-no-interior-de-sp-apos-levar-banho-de-cerveja-de-passageira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/pY9wWvTKY93WmsDDRGKqWBuINmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/V/7dknuETBGSwcSfCVpQyw/design-sem-nome-23-.jpg",
+    "data": "2026-11-19T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fones com cancelamento de ruído: g1 testa dois modelos com bom custo-benefício",
+    "resumo": "JBL Tune 780NC e Aiwa HP-06: g1 testa dois fones de ouvido com cancelamento de ruído Henrique Martin/g1 Dois fones de ouvido sem fio, dois perfis de uso diferentes e preços parecidos. Assim dá para resumir o Aiwa HP-06 e o JBL Tune 780NC, modelos \"over-ear\" (que cobrem todo o ouvido) com cancelamento ativo de ruído (ANC) e controle por ap",
+    "link": "https://g1.globo.com/guia/guia-de-compras/casa/home-office/fones-com-cancelamento-de-ruido-g1-testa-dois-modelos-com-bom-custo-beneficio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rYfXbteMhyCgb8A8vinWJGLdpBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/5/4KRJjKQPKGsdx2VaIfVA/img-7399.jpg",
+    "data": "2026-11-19T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Black Friday: por que comprar com desconto dá prazer, mesmo quando gastamos mais?",
+    "resumo": "Black Friday: por que descontos dão prazer, mesmo gastando mais? Comprar um produto por um preço menor do que o esperado pode aumentar a satisfação do consumidor. O fenômeno é explicado pela “utilidade da transação”, conceito apresentado em 1985 pelo economista Richard Thaler, vencedor do Nobel de Economia em 2017. Essa sensação de vantag",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/19/black-friday-por-que-comprar-com-desconto-da-prazer-mesmo-quando-gastamos-mais.ghtml",
+    "imagem": null,
+    "data": "2026-11-19T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Uberlândia tem 4 casos de Mpox em 2026 e é a única cidade do Triângulo com registros; veja como se prevenir",
+    "resumo": "Mpox Reprodução Quatro casos de Mpox foram confirmados em Uberlândia em 2026. A informação foi confirmada pela Secretaria de Estado de Saúde de Minas Gerais (SES-MG) na terça-feira (17). A cidade é a quarta em número de casos, atrás de Belo Horizonte, Contagem e Juiz de Fora. Ainda segundo a Secretaria, o maior número de casos confirmados",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/19/uberlandia-tem-4-casos-de-mpox-em-2026-e-e-a-unica-cidade-do-triangulo-com-registros-veja-como-se-prevenir.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AgI22cph3-Me63nLF8YON_xWgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/RXiyVFTAO9bD3o0MDpaQ/midia-de-distribuicao-g1-42-.jpg",
+    "data": "2026-11-19T05:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+    "resumo": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T04:58:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump wants to talk nuclear with Putin and Xi",
+    "resumo": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T04:50:28.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+    "resumo": "Emergency appeal follows a California judge&#039;s ruling that ending their temporary protected status was unlawful.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T04:46:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
+    "resumo": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas.",
+    "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T04:46:18.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Is this ancient Swahili town at risk from Kenya’s energy boom",
+    "resumo": "East Africa is betting billions on oil infrastructure to strengthen energy security and reduce dependence on imports.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-19T04:44:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
     "resumo": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
@@ -45,91 +216,10 @@
     "data": "2026-11-19T04:15:22.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quinta-feira (19) para Cuiabá (MT) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 35ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva e t",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/y3EaqSvifjGsEqWP4hhYg9lXZEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/AjoCRnR26Oqn6rq0ikvw/previsao-tempo-cuiab-20261119-011456.jpeg",
-    "data": "2026-11-19T04:15:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quinta-feira (19) para Campo Grande (MS) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da t",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-campo-grande-ms-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DWcoR7xHVsr4p01GUv_CG7ExE9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/h/0VtSlKSWWFvh6YlqP5mA/previsao-tempo-campo-grande-20261119-011440.jpeg",
-    "data": "2026-11-19T04:14:50.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quinta-feira (19) para Porto Alegre (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período d",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AieTMsNs-Hlf9QoQ32y37yQXbr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/6/TIz45AQ9ixhl3FOCRPgw/previsao-tempo-porto-alegre-20261119-011423.jpeg",
-    "data": "2026-11-19T04:14:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quinta-feira (19) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/kb4PeE3oJduY9RXiV16vGp3XfuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/w/viaYCfSYKksaO7HQzpeg/previsao-tempo-caxias-do-sul-20261119-011407.jpeg",
-    "data": "2026-11-19T04:14:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quinta-feira (19) para Joinville (SC) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancada",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/L6ELRgY097osVRYgXfgVpoA5aNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/c/Us6oeoQlOHanON4PtQfw/previsao-tempo-joinville-20261119-011350.jpeg",
-    "data": "2026-11-19T04:14:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quinta-feira (19) para Florianópolis (SC) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 28ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol,",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Q9yMLu9F8N8oi7FKcYB7cBH-fZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/G/ShSYcuTJK3rPcAHtXAKg/previsao-tempo-florian-polis-20261119-011334.jpeg",
-    "data": "2026-11-19T04:13:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quinta-feira (19) para Maringá (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 31ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol e chuva. À n",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-maringa-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2pQa82QAho9a8X6rnxClKW6-R38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/9/92ihdYT7Kj0HGd2jdUVA/previsao-tempo-maring-20261119-011316.jpeg",
-    "data": "2026-11-19T04:13:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quinta-feira (19) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Rr0SuKWmYP2ErQoaQkF86QfX3B8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/0FvARnSim4pDslGd5tOA/previsao-tempo-londrina-20261119-011300.jpeg",
-    "data": "2026-11-19T04:13:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quinta-feira (19) para Curitiba (PR) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas ",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/19/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tzyU-0JzzdCkWSGCXlakmsWbncA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/y/UVjCyCRbeDzFyUIISxQw/previsao-tempo-curitiba-20261119-011244.jpeg",
-    "data": "2026-11-19T04:12:54.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "One in four women globally unable to refuse sex within marriage, says UN",
-    "resumo": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world has no power of consent if their husband or partner demands sex, according to a UN report.</p><p>In west and central Africa, almost half of women (45%) are not able to say no in their ",
+    "resumo": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.</p><p>In west and central Africa, almost half of women (45%) are not able to say no in their",
     "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
     "imagem": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=e6d08589972906e0a23904745fa60bc8",
     "data": "2026-11-19T04:00:16.000Z"
@@ -279,15 +369,6 @@
     "data": "2026-11-19T02:00:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hegseth unveils new US-Venezuela military deal",
-    "resumo": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T01:48:46.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
@@ -297,15 +378,6 @@
     "data": "2026-11-19T01:39:45.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-    "resumo": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T01:17:08.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Widespread Tech Outages Put Focus on Trump’s National Security Cuts",
@@ -313,15 +385,6 @@
     "link": "https://www.nytimes.com/2026/11/18/us/politics/tech-outages-trump-national-security.html",
     "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18dc-outage-response-mqzt/18dc-outage-response-mqzt-mediumSquareAt3X.jpg",
     "data": "2026-11-19T01:16:32.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Settler rams into Palestinians at multiple locations in central Israel",
-    "resumo": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T01:13:45.000Z"
   },
   {
     "categoria": "Brasil",
@@ -351,15 +414,6 @@
     "data": "2026-11-19T00:46:58.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "German FA backs France’s Diallo for FIFA presidency",
-    "resumo": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T00:44:50.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Grand Theft Auto VI release means Surrey, B.C., landscaping company employees get the day off",
@@ -367,24 +421,6 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/surrey-landscaping-company-grand-theft-auto-6-9.7427305?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/5b32afc5-7778-415a-bb14-2da59bdd8bc9,1795044911924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-19T00:40:55.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-    "resumo": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T00:40:01.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-    "resumo": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T00:37:03.000Z"
   },
   {
     "categoria": "Canadá",
@@ -999,15 +1035,6 @@
     "data": "2026-11-18T16:34:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-    "resumo": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
-    "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F57%2F1cdfc9bb4447a18aa5df06a032bf%2Fgettyimages-2305571337.jpg",
-    "data": "2026-11-18T15:56:30.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Jimmy Kimmel on mass outages: ‘The US is running like a McDonald’s soft-serve machine’",
@@ -1024,15 +1051,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1d/live/5d5ab520-e35f-11f1-a94c-dd322c59ae3f.jpg",
     "data": "2026-11-18T15:39:57.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 as it happened: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-    "resumo": "<p>Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit</p><p>California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation that attended unofficially due to President Donald Trump’s withdrawal fr",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=140&quality=85&auto=format&fit=max&s=6aec30482d2c5d171594d537dbf1fcd2",
-    "data": "2026-11-18T15:34:06.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1078,24 +1096,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/18/offshore-wind-farms-artificial-reef-experiment-fishing-industry",
     "imagem": "https://i.guim.co.uk/img/media/357c057ffd037975abe9fde2c30429a651d61667/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a30e8f3fe5f441093f0f3cdfd6d9b71e",
     "data": "2026-11-18T14:00:04.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "In rare good news, wages have risen strongly. But Australian workers are still falling behind | Greg Jericho",
-    "resumo": "<p>Despite the highest wage growth in years, we wait for signs of workers getting ahead of inflation – or of the supposed benefits of the AI boom</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://ww",
-    "link": "https://www.theguardian.com/business/grogonomics/2026/nov/19/real-wage-growth-australian-economy-workers-still-falling-behind",
-    "imagem": "https://i.guim.co.uk/img/media/cf4ce384e9c39f9a9e0ba72b49a3916086f9f5f8/455_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=aedac9af0610e1c5b86efc3161f4b01d",
-    "data": "2026-11-18T14:00:04.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-    "resumo": "<p>Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.th",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-    "imagem": "https://i.guim.co.uk/img/media/227dcc4be932d831c026650a4f387a0123b9c5be/581_0_2919_2335/master/2919.jpg?width=140&quality=85&auto=format&fit=max&s=9745027689042fb357d933ed89a17036",
-    "data": "2026-11-18T14:00:02.000Z"
   },
   {
     "categoria": "Cultura",
