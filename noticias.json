@@ -1,84 +1,165 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta sexta-feira (20) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva ",
-    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1iyvH6Bj0OS7dudzavmDtcDooMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/N/YkI6AUQOuK9S1gNLQ8QA/previsao-tempo-bras-lia-20261120-011529.jpeg",
-    "data": "2026-11-20T04:15:40.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
+    "resumo": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T05:01:40.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta sexta-feira (20) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, so",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/wzH5iZ-kXgR2t6D9ESl53OhpLko=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/w/e36ZgaQ0iYwMuKuItkgA/previsao-tempo-goi-nia-20261120-011513.jpeg",
-    "data": "2026-11-20T04:15:23.000Z"
+    "titulo": "Empresário que bateu recorde ao percorrer mais de 70 km em 19 horas conta que sofreu deslocamento no joelho durante a prova: 'Tenso'",
+    "resumo": "Empresário bate recorde ao percorrer a pé quase 73 km da Estrada do Ferro em 19 horas O empresário Thales Medici da Vinci, de 37 anos, que bateu o recorde de maior distância em caminhada em 24 horas no Brasil, contou que sofreu um deslocamento no joelho durante a prova. O desafio e o resultado foram homologados pelo RankBrasil, que atesto",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/20/empresario-que-bateu-recorde-ao-percorrer-mais-de-70-km-em-19-horas-conta-que-sofreu-deslocamento-no-joelho-durante-a-prova-tenso.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/L-zhhKUgJX9AMLJlWC1KI85cB74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/4UcAUSQB6TLWDFB3ZRjQ/padrao-foto-texto-g1-2026-11-18t132356.202.jpg",
+    "data": "2026-11-20T05:01:10.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Race to be next UN secretary general exposes divisions among world powers",
+    "resumo": "<p>Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner</p><p>The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big pow",
+    "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+    "imagem": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=140&quality=85&auto=format&fit=max&s=810844650f584edda94e8970574c9af8",
+    "data": "2026-11-20T05:00:24.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "From Germany, with love: a letter to the UK | Klaus Brinkbäumer",
+    "resumo": "<p>As Andy Burnham pushes to reopen Brexit, Berlin won’t say it, but the truth is, we just want you back</p><p><em>Dear </em><em>British friends,</em></p><p>Germans are not the love-letter writing kind of people. When we write a letter, a complaint is usually not far off. But we cannot complain about you. About other things, yes: transatl",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/20/from-germany-with-love-a-letter-to-the-uk",
+    "imagem": "https://i.guim.co.uk/img/media/acf9d98dec4c22462c0258419bc2b28e3a45da43/676_0_3648_2920/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=ea234c86ae94e931b73f3fb6c6ccf9d8",
+    "data": "2026-11-20T05:00:22.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta sexta-feira (20) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoada",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UYTonrbwD5jZr4IvELBDEFrpIYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/Bjp4kXQiABS3HC13ZGIg/previsao-tempo-aparecida-de-goi-nia-20261120-011456.jpeg",
-    "data": "2026-11-20T04:15:07.000Z"
+    "titulo": "Iza se solta no reggae em 'ZAZA', melhor álbum da carreira",
+    "resumo": "Iza faz festa reggae em 'Zaza', melhor disco da carreira Título: \"ZAZA\" Artista: IZA Nota: 8/10 Há tempos, Iza fala em um terceiro álbum de estúdio, voltado para o reggae. Em 2025, a cantora carioca já vinha lançando singles como \"Caos e Sal\" e \"Tão Bonito\" e preparou o terreno no show do The Town. Mas esse assunto ficou esquecido e, um a",
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/20/iza-se-solta-no-reggae-em-zaza-melhor-album-da-carreira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dbfUeWtSp9gUluPS2BD1hEsBcyE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Y/EJHTW7Tu6Q8sMnqfrdQA/izazaza.jpg",
+    "data": "2026-11-20T05:00:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
+    "resumo": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T05:00:16.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta sexta-feira (20) para Cuiabá (MT) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 35ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de ch",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LUv23Aebi9UM_p_6sA_CqxFprYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/a/T1AI8VQLCRfnFyAx2oIA/previsao-tempo-cuiab-20261120-011439.jpeg",
-    "data": "2026-11-20T04:14:50.000Z"
+    "titulo": "Após ser bloqueado no WhatsApp, homem invade condomínio para perseguir a ex em MG",
+    "resumo": "Mulher acionou a PM por medo de sua segurança PMMG / Divulgação Um homem de 39 anos foi preso na noite de quarta-feira (18) suspeito de perseguir a ex-companheira, de 34, em Patos de Minas, no Alto Paranaíba. Mesmo após ser bloqueado no WhatsApp, ele continuou tentando contato com a mulher e invadiu o condomínio onde ela mora. Segundo a P",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/20/apos-ser-bloqueado-no-whatsapp-homem-invade-condominio-para-perseguir-a-ex-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/e5IEAjtVAZvx7YJRSmvSSvXEE4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/0/M5p6KAQNWU9xz994WPSQ/viatura-pmmg.jpg",
+    "data": "2026-11-20T05:00:02.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta sexta-feira (20) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 34ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pa",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UH-fHfzD77gXlC39Fu0_nQo8MQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/Q/N3zW9GT3GTpAftNWTrmg/previsao-tempo-campo-grande-20261120-011422.jpeg",
-    "data": "2026-11-20T04:14:34.000Z"
+    "titulo": "Como blocos afro criados décadas atrás mantêm diálogo com jovens no fortalecimento da identidade negra na Bahia",
+    "resumo": "Muzenza se apresenta para estudantes em escola de Salvador As décadas mudaram, mas o trabalho de mobilização social e fortalecimento da identidade negra ainda se mantém vivo e em expansão entre os blocos afro com atuação na Bahia. Entidades como Ilê Aiyê, Malê Debalê e Muzenza, todas de Salvador, lidam diariamente com os desafios de perpe",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/20/como-blocos-afro-criados-decadas-atras-mantem-dialogo-com-jovens-no-fortalecimento-da-identidade-negra-na-bahia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5m6nJW93fIHtRI7cfc8Tbq-CAag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/Z/SApfFfQDuUAc69AAFTlQ/whatsapp-image-2025-02-10-at-09.32.40.jpeg",
+    "data": "2026-11-20T05:00:01.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta sexta-feira (20) para Porto Alegre (RS) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da ta",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_FvM5rCG6pGCQVagQX9T9rRe04g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/1/7iOkueQAWO3Wr3nGvdxg/previsao-tempo-porto-alegre-20261120-011406.jpeg",
-    "data": "2026-11-20T04:14:16.000Z"
+    "titulo": "MPF pede indenização de R$ 2,5 milhões por demolição de terreiro de candomblé em Carapicuíba, na Grande SP",
+    "resumo": "Prefeitura de Carapicuíba descumpriu determinação do Iphan e asfalta área com achados arqueológicos da cultura afro-brasileira. Prefeitura de Carapicuíba O Ministério Público Federal (MPF) entrou com uma ação civil pública na Justiça Federal pedindo que a Prefeitura de Carapicuíba, o governo de São Paulo e a Companhia Ambiental do Estado ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/mpf-pede-indenizacao-de-r-25-milhoes-por-demolicao-de-terreiro-de-candomble-em-carapicuiba-na-grande-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/EOWOb8vq1vBrgq54gpCruaj54UM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Q/R6Gz7kQimMdEa5BceWyA/montagem-horizontal-1200px-23-.jpg",
+    "data": "2026-11-20T05:00:01.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta sexta-feira (20) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período ",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/naO-cSKWqn6e8fLh-NYCjb5DbOs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/7/Pxh4LURwmzqHWrbxek0w/previsao-tempo-caxias-do-sul-20261120-011349.jpeg",
-    "data": "2026-11-20T04:13:59.000Z"
+    "titulo": "'Jogos Vorazes: Amanhecer na Colheita' traz de volta a emoção dos melhores filmes da franquia; g1 já viu",
+    "resumo": "\"Jogos Vorazes: Amanhecer na Colheita\", que estreia nos cinemas nesta quinta-feira (19), mostra que, mesmo após seis filmes, a franquia ainda tem fôlego para justificar sua existência, ao contrário de outras adaptações de universos distópicos que perderam força ao longo dos anos. Assim como \"Jogos Vorazes: A Cantiga dos Pássaros e das Ser",
+    "link": "https://g1.globo.com/pop-arte/g1-ja-viu/noticia/2026/11/20/jogos-vorazes-amanhecer-na-colheita-traz-de-volta-a-emocao-dos-melhores-filmes-da-franquia-g1-ja-viu.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wNpPQW2rt0gLBYLUXzplupIEcAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/G/6MfuyHSlGE2IJuQggFCQ/jogos-vorazes-amanhecer-colheita-foto1.jpg",
+    "data": "2026-11-20T05:00:01.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens a nublado com chuva de manhã; tarde com temporal e noite chuvosa",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta sexta-feira (20) para Joinville (SC) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde com temporal e noite chuvosa. As máximas são de 26ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ta",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QlVvWz_MeGNty8d5Km88QeQ1zlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/x/ALmoBRTtuYAcvk7mz2fw/previsao-tempo-joinville-20261120-011332.jpeg",
-    "data": "2026-11-20T04:13:42.000Z"
+    "titulo": "Veja o que abre e fecha em Piracicaba durante feriado do Dia Nacional de Zumbi e da Consciência Negra",
+    "resumo": "Passarela pênsil que dá acesso ao Engenho Central em Piracicaba Yasmin Moscoski/g1 O horário de funcionamento das repartições públicas, comércio, saúde e demais serviços será alterado em Piracicaba (SP), nesta sexta-feira (20), por conta do feriado do Dia Nacional de Zumbi e da Consciência Negra. No entanto, os serviços de emergência func",
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/20/veja-o-que-abre-e-fecha-em-piracicaba-durante-feriado-do-dia-nacional-de-zumbi-e-da-consciencia-negra.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XTQo_r9kvPxBH58kx1NOSoLzGY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/ztt4xeQp6PmOgksADZfw/img-1247.jpg",
+    "data": "2026-11-20T05:00:00.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta sexta-feira (20) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/k6LjCKhxfL3EKpfLCSkE4iHa4X8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/tVYti6TOAXRWHlW5SGcQ/previsao-tempo-florian-polis-20261120-011315.jpeg",
-    "data": "2026-11-20T04:13:26.000Z"
+    "titulo": "Casal fatura R$ 48 mil por mês com doces tradicionais de mais de 200 anos",
+    "resumo": "O casal que transformou doces tradicionais em um negócio de sucesso Em Pelotas, no sul do Rio Grande do Sul, os doces não são apenas uma tradição centenária. Eles também movimentam empresas, geram renda e ajudam a fortalecer uma cadeia produtiva que se tornou uma das marcas da cidade. Foi apostando nesse patrimônio cultural que o casal Si",
+    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/20/casal-fatura-r-48-mil-por-mes-com-doces-tradicionais-de-mais-de-200-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/omOQmkttEEPo4IKW2KPL3hhjO8U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/hQLTGPTXCqT1nuK0AQfg/captura-de-tela-2026-11-19-192555.png",
+    "data": "2026-11-20T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dia da Consciência Negra: veja o que abre e o que fecha no DF neste feriado",
+    "resumo": "Torres do Prédio do Congresso Nacional, na Esplanada dos Ministérios, no dia 13 de julho de 2026 Rafa Neddermeyer/Agência Brasil O feriado do Dia da Consciência Negra, na sexta-feira (20), vai alterar as atividades de alguns serviços públicos do DF. O g1 DF reuniu, em uma lista, todas as informações sobre o funcionamento de serviços como ",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/20/dia-da-consciencia-negra-veja-o-que-abre-e-o-que-fecha-no-df-neste-feriado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/PK5B-WxvTH-PUJmu76P53alpo9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/TuqKZXT3Ai4HRk4fJicA/raf1125.webp",
+    "data": "2026-11-20T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dias nublados e pancadas de chuva: confira previsão para o feriado no DF",
+    "resumo": "Brasília com o tempo nublado, em imagem de arquivo TV Globo/Reprodução As celebrações do Dia da Consciência Negra, nesta sexta-feira (20), contarão com um céu nublado no Distrito Federal. Segundo o Instituto Nacional de Meteorologia (Inmet), as nuvens devem acompanhar os brasilienses por todo o fim de semana prolongado. A previsão é de mu",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/20/dias-nublados-e-pancadas-de-chuva-confira-previsao-para-o-feriado-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eJrv7FjCzztsTHUEL-NEjvsAGQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/T/6ATTAUSxixCvk8ai64cQ/a0520-bddf-bdbr-limpo-20102025-frame-340290.jpeg",
+    "data": "2026-11-20T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dia da Consciência Negra: como ativista de SP tentou criar feriado no Congresso 40 anos antes de aprovação da lei",
+    "resumo": "Abdias Nascimento: ativista foi precursor das cotas e do feriado da Consciência Negra Décadas antes de o Dia da Consciência Negra se consolidar como feriado nacional, um ativista do interior de São Paulo, considerado o primeiro político autodeclarado negro no Brasil, defendeu da tribuna do Congresso Nacional a data oficial em homenagem a ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/20/dia-da-consciencia-negra-como-ativista-de-sp-tentou-criar-feriado-no-congresso-40-anos-antes-de-aprovacao-da-lei.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JjgzoCLWsp7bpono9ctYSn0Nqtk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/p/zV24xvQSCTjsAojkAgzA/abdias-camara-dos-dep-1-.jpg",
+    "data": "2026-11-20T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
+    "resumo": "Dívida e inadimplência: entenda a diferença e como escapar da bola de neve Ter dívidas faz parte da vida financeira da maioria das pessoas. O problema começa quando elas deixam de ser pagas e viram inadimplência — sinal de que a dívida cresceu além da capacidade de pagamento, seja por juros altos, prazos curtos, imprevistos ou queda de re",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VLvAgBeCOZ-ttIkuCRzu96mjCKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/L/Adu3WvTeCNgo33gWSFzg/canva-2026-03-19t100858.009.png",
+    "data": "2026-11-20T05:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+    "resumo": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T04:44:53.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "UK and EU to agree youth mobility scheme, BBC understands",
+    "resumo": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "data": "2026-11-20T04:35:51.000Z"
   },
   {
     "categoria": "Internacional",
@@ -88,33 +169,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7477/live/03075bf0-e495-11f1-aa9a-13606df278ac.jpg",
     "data": "2026-11-20T04:13:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta sexta-feira (20) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 32ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, so",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vEeIedentU5jHbY2Q9KMXJC4_QU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/1/GuGWz4QVABeVOEBaGyxg/previsao-tempo-maring-20261120-011259.jpeg",
-    "data": "2026-11-20T04:13:09.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta sexta-feira (20) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, ",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/G-RUMpC0MsR4oFBCjcT0bqMnzu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/x/jNV3XHTdKkqweNLqg0Bg/previsao-tempo-londrina-20261120-011242.jpeg",
-    "data": "2026-11-20T04:12:53.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Curitiba (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta sexta-feira (20) para Curitiba (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 27ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuva ",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/20/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/abJY31POqqiZZk3lyBLDNaw_aQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/a/COaknkTxyfIniy0cd8SA/previsao-tempo-curitiba-20261120-011222.jpeg",
-    "data": "2026-11-20T04:12:34.000Z"
   },
   {
     "categoria": "Internacional",
@@ -252,15 +306,6 @@
     "data": "2026-11-20T02:45:09.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "UK and EU to agree youth mobility scheme, BBC understands",
-    "resumo": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-    "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-    "data": "2026-11-20T02:40:49.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "US army postpones plan to detonate bomb-making chemical amid outcry",
@@ -387,24 +432,6 @@
     "data": "2026-11-20T00:31:09.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Haiti police say 34 gang members killed in capital raid",
-    "resumo": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T00:31:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "El Salvador’s Bukele expected to formalise bid for third presidential term",
-    "resumo": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T00:22:02.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Experimental compound burns fat without sacrificing muscle",
@@ -439,15 +466,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg",
     "data": "2026-11-20T00:12:28.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-    "resumo": "Search for survivors continues near Yenne as migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T00:10:04.000Z"
   },
   {
     "categoria": "Economia",
@@ -624,7 +642,7 @@
     "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-    "resumo": "<p>AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97</p><p><a href=\"https://www.theguardian.com/technology/anthropic\">Anthropic</a> closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close ",
+    "resumo": "<p>AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai\">Anthropic’s historic stock market debut: key takeaways, ",
     "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
     "imagem": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1d230408bbae396686d8049961356159",
     "data": "2026-11-19T22:09:18.000Z"
@@ -817,15 +835,6 @@
     "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-19T19:12:30.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "It’s unfashionable to say it, but class still matters – and young people know that | Polly Toynbee",
-    "resumo": "<p>From inheritance to nepotism in the workplace, social inequality is now a daily experience for many young people</p><p>This should come as no great surprise: young people are more keenly aware of the significance of social class than those who came before them. The yawning gap in life chances at birth is something they know better than",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/class-young-people-nepotism-workplace-social-inequality",
-    "imagem": "https://i.guim.co.uk/img/media/aa64d365246fd0ca982a31a9867d309e058ef47b/0_91_2656_2125/master/2656.jpg?width=140&quality=85&auto=format&fit=max&s=dc58f126c7ccd1661791e603c2903912",
-    "data": "2026-11-19T18:36:23.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million",
     "imagem": "https://i.guim.co.uk/img/media/bc800d6ab8d38dc4057ab46b719c55ba2921c6ee/334_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=bda74c48387da0b289c1e95f4fc7643b",
     "data": "2026-11-19T02:35:05.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Is free will an illusion? New brain research reveals a surprising twist",
-    "resumo": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-    "imagem": null,
-    "data": "2026-11-19T01:21:35.000Z"
   }
 ]
