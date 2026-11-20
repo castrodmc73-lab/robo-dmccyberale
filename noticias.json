@@ -1,12 +1,165 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Three Kyiv bridges hit during major Russian missile attack",
+    "resumo": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+    "data": "2026-11-20T08:40:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rússia ataca Kiev após Putin prometer retaliação; 3 morrem, há apagões e pontes são atingidas",
+    "resumo": "Fumaça sobe na cidade durante um ataque de míssil russo, em meio ao ataque da Rússia à Ucrânia , em Kiev, Ucrânia. Gleb Garanich/Reuters Rússia lançou mísseis e drones contra diversas áreas de Kiev durante a madrugada, matando três pessoas, ferindo outras nove e danificando pontes e a infraestrutura de transportes, informaram autoridades ",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/russia-ataca-kiev-apos-putin-prometer-retaliacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/t0QYzzs_wP0r2UTuG-oteOfJZQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/9/1pb57pR8WcFh0NbTsOGg/2026-11-20t074147z-1929200386-rc2groa1jv56-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
+    "data": "2026-11-20T08:39:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mianmar chama de ‘injusta’ decisão da Corte da ONU sobre genocídio de rohingyas",
+    "resumo": "Muçulmanos rohingya, que cruzaram a fronteira de Myanmar para Bangladesh, estendem os braços para receber alimentos distribuídos por agências de ajuda humanitária perto do campo de refugiados de Balukhali, Bangladesh. Dar Yasin/Associated Press O governo de Mianmar classificou nesta sexta-feira (20) como “injusta” a decisão da Corte Inter",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mianmar-chama-de-injusta-decisao-da-corte-da-onu-sobre-genocidio-de-rohingyas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/pwTBO43K-6YixVNJmvmzB43efng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/YEuyMyTaiGHsyDWqUdAQ/ap26324207545838.jpg",
+    "data": "2026-11-20T08:29:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "El Salvador’s Bukele seeks third term after constitution change",
+    "resumo": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T08:21:34.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: crunch time as deeply divided climate talks enter final day",
+    "resumo": "<p>Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end</p><p>“I need to go to sleep every night wondering what that means, you know?” says Albon Ishoda, leaning against a wall in a corridor at the UN climate summit in Turkey. “For us, it’s about existence.”</p><p>Ishoda is a ",
+    "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/bf2aefa654c56a510f3bb1bf2586a24294e1d22c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=f585474d7857df9ba4a5efc98f5cfcdb",
+    "data": "2026-11-20T08:15:05.000Z"
+  },
+  {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Tinned goods and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "titulo": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
     "resumo": "People stocking up on long-life food drove retail sales higher October, according to official data.",
     "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
-    "data": "2026-11-20T07:44:29.000Z"
+    "data": "2026-11-20T08:09:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Tataraneto de escravizado que participou do replantio do Parque Nacional da Tijuca dá continuidade ao legado: 'Meu sangue nessa floresta'",
+    "resumo": "André Luiz Constantino Justino Luciana Sposito/Divulgação André Luiz Constantino Justino, de 46 anos, carrega como herança de família um legado que deu origem a uma das maiores florestas urbanas do mundo, hoje conhecida como Parque Nacional da Tijuca. Segundo a tradição oral de sua família, André é tataraneto de Constantino, um dos 11 tra",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/20/tataraneto-de-escravizado-que-participou-do-replantio-do-parque-nacional-da-tijuca-da-continuidade-ao-legado-meu-sangue-nessa-floresta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bAts577XSuXNS8YLPT143oiRygs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/k/GBajTUSlCyHENSNvKvpQ/11.jul.26-pnt-aniversario-credito-luciana-sposito-voluntariado-18-.jpg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Emicida faz show gratuito no Dia da Consciência Negra em Porto Alegre durante 'Encontro Black'",
+    "resumo": "Terceiro lote disponibiliza mil ingressos gratuitos para show de Emicida Walter Firmo/Cecropia O rapper Emicida sobe ao palco de Porto Alegre nesta quinta-feira (20), data em que é celebrado o Dia da Consciência Negra no Brasil. A apresentação gratuita acontece no Museu da Cultura Hip Hop, na Zona Norte da capital, e os ingressos para o e",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/emicida-show-gratuito-dia-da-consciencia-negra-porto-alegre-encontro-black.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Xsin2UMkLxDLaUTMys06M0BmiIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/Z/wRT2gvRPSybE5tlbO6IQ/fotos-g1-1920-x-1080-px-2026-06-25t172332.445.png",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dona Onete revisita a própria história em documentário e fala sobre ancestralidade e cultura negra no Pará",
+    "resumo": "Dona Onete Tereza Maciel / Divulgação “Eu ainda estou pedindo um pouquinho de vida para Jesus, porque ainda tenho muita coisa para falar.” A frase de Dona Onete, de 87 anos, revela o desejo de continuar contando histórias, defendendo tradições culturais e fazendo da música um espaço de liberdade. Neste Dia da Consciência Negra, celebrado ",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/dona-onete-revisita-a-propria-historia-em-documentario-e-fala-sobre-ancestralidade-e-cultura-negra-no-para.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/A_WgsJOTnFe9AF_88b489XfpujI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/e/B75LSqR4eqB0BLC4v1pg/credito-tereza-maciel-2-.jpg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Veja o que abre e o que fecha em Manaus no feriado da Consciência Negra",
+    "resumo": "Comércio e órgãos públicos tem horário de funcionamento afetado pelo feriado. Rebeca Beatriz O feriado nacional do Dia da Consciência Negra, celebrado nesta sexta-feira (20), afetará o funcionamento de serviços públicos e estabelecimentos comerciais em Manaus. Órgãos do governo e parte dos espaços culturais não funcionarão, enquanto servi",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/20/veja-o-que-abre-e-o-que-fecha-em-manaus-no-feriado-da-consciencia-negra.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ysOPDkBGFgklPXXNyzMMVLUh_0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/2/y/My3x1kSmODkTEl0miFAg/whatsapp-image-2020-06-15-at-10.06.02.jpeg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Criminosos exigiam até R$ 80 mil de comerciantes durante extorsões na região norte do Ceará",
+    "resumo": "Operação prende membros de facção que extorquiam comerciantes no Ceará Três homens e duas mulheres foram presos, nesta quinta-feira (19), suspeitos de tentar extorquir comerciantes em municípios na Região Norte do Ceará. O g1 apurou que os suspeitos, apontados como membros de uma facção criminosa, exigiam até R$ 80 mil das vítimas. A segu",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/20/criminosos-exigiam-ate-r-80-mil-de-comerciantes-durante-extorsoes-na-regiao-norte-do-ceara.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MeGakov76OdEyODMGJ6VwbUaAYI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/g/6T98fhS9AKysYASG1mXw/operacao-conjunta-do-mpce-e-policias-civis-e-militar-resulta-na-prisao-de-suspeitos-de-extorquir-com.jpg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Advogado preso por suspeita de torturar atriz em SP é citado em casos de violência contra outras duas mulheres, diz polícia",
+    "resumo": "Vander Gaeta em dois momentos: como advogado e detido por suspeita de agressão a namorada. Reprodução/Arquivo pessoal/ Lorena Vale/ TV Globo O advogado e lutador de jiu-jítsu Vander Gaeta, de 47 anos, aparece em registros policiais de violência doméstica envolvendo ao menos três mulheres em 11 anos em São Paulo. No último deles, nesta sem",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/advogado-preso-por-suspeita-de-torturar-atriz-em-sp-e-citado-em-casos-de-violencia-contra-outras-duas-mulheres-diz-policia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YvsQPCs0W3-1KzAvUlq2gLcZ6Mw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/x/Lgc6USRbCGeGYoe8xPmg/fotojet-2026-11-19t145238.107.jpg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quem são os indígenas Awá-Guajá e por que o contato com eles é importante e, ao mesmo tempo, arriscado",
+    "resumo": "Pesquisadora explica história dos Awá-Guajá e ameaças enfrentadas por indígenas isolados Um grupo de cerca de 15 indígenas isolados do povo Awá-Guajá se aproximou de uma comunidade Guajajara na Terra Indígena Arariboia, no Maranhão, na segunda-feira (16). O encontro foi registrado em vídeo e mobilizou equipes da Fundação Nacional dos Povo",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/20/quem-sao-os-indigenas-awa-guaja-e-por-que-o-contato-com-eles-e-importante-e-ao-mesmo-tempo-arriscado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GlJuBjvH7NmkfPEHtlvgh9iTxRY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/6/wl5sYDT3qkt431CJyUIA/fotojet-5-.jpg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bebê de 4 meses morre após cirurgia em hospital de MS, e família denuncia suposta negligência médica",
+    "resumo": "Arthur morreu aos meses, após passar por duas cirurgias em hospital particular de Campo Grande; família denuncia negligência Arquivo pessoal Durante quase três meses, Elizandra Mazato Menezes, de 37 anos, e o marido, Ronaldo Rodrigues Martin, de 43, fizeram de tudo para que o filho Arthur tivesse as melhores condições possíveis para passa",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/20/bebe-de-4-meses-morre-apos-cirurgia-em-hospital-de-ms-e-familia-denuncia-suposta-negligencia-medica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vbO40Mbk8mPyL9jAr47srPmyHnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/5/HuVVLuQqSoRN2I3W5mgw/bhfghygjh.png",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Foi um trovão forte, muito assustador': moradora descreve estrondo ouvido durante tremor no interior de MG",
+    "resumo": "Tremor de terra é registrado em Martinho Campos O tremor de terra em Martinho Campos, no Centro-Oeste de Minas, ocorrido na quinta-feira (19) deixou moradores assustados. Segundo a Brazil Earthquakes (Terremotos no Brasil), a magnitude do evento na cidade foi de 3,3. ✅ Clique aqui para seguir o canal do g1 Centro-Oeste de Minas no WhatsAp",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/20/foi-um-trovao-forte-muito-assustador-moradora-descreve-estrondo-ouvido-durante-tremor-no-interior-de-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/U59qSdqFh1EcooUhAoQlraLXC0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/0/cywX8vQjir8XgDcNFEjQ/martinho-campos.jpeg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Hamburgueria recebe pedido de mais de R$ 20 mil e cancela por receio de golpe no Acre",
+    "resumo": "Hamburgueria recebe pedido de mais de R$ 20 mil e cancela por receio de golpe no Acre 🍔Uma hamburgueria de Rio Branco recebeu um pedido com total de mais de R$ 20 mil através de um aplicativo de delivery, em uma encomenda de 520 hambúrgueres com destino ao bairro Ayrton Senna, na Baixada da Sobral. Apesar do alto valor, o estabelecimento",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/20/hamburgueria-recebe-pedido-de-mais-de-r-20-mil-e-cancela-por-receio-de-golpe-no-acre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lH9RY8HAYQ8yiv0uVJBG3ww6riw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/jav3sXQtGJPgq2KnRbaA/midia-de-distribuicao-g1-2026-11-19t190433.490.jpg",
+    "data": "2026-11-20T08:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US robbery suspects charged over alleged $22M train heist spree",
+    "resumo": "US robbery suspects charged over alleged $22M train heist spree",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T07:56:30.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+    "resumo": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T07:56:03.000Z"
   },
   {
     "categoria": "Internacional",
@@ -25,15 +178,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
     "data": "2026-11-20T07:32:19.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: crunch time as deeply divided climate talks enter final day",
-    "resumo": "<p>Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end</p><p>Good morning. I’m Matthew Pearce, bringing you the <a href=\"https://www.theguardian.com/environment/cop31\">Cop31</a> liveblog from London. Today is (<a href=\"https://www.theguardian.com/world/live/2026/nov/20/cop31-",
-    "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/bf2aefa654c56a510f3bb1bf2586a24294e1d22c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=f585474d7857df9ba4a5efc98f5cfcdb",
-    "data": "2026-11-20T07:27:56.000Z"
   },
   {
     "categoria": "Internacional",
@@ -72,15 +216,6 @@
     "data": "2026-11-20T07:04:27.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Trump derrotado: como a 'onda azul' chegou a redutos republicanos e mudou o mapa político dos EUA",
-    "resumo": "Trump alega fraude nas eleições dos EUA após derrota republicana no Congresso A vitória da democrata Mary Peltola no Alasca, anunciada na terça-feira (17), duas semanas depois das eleições de meio de mandato nos Estados Unidos, fechou uma disputa histórica para o Senado. Ao derrotar o republicano Dan Sullivan, a ex-deputada garantiu ao pa",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-derrotado-como-a-onda-azul-chegou-a-redutos-republicanos-e-mudou-o-mapa-politico-dos-eua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
-    "data": "2026-11-20T07:01:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "While the headlines rave about Milburn’s Neets review, the young people I know are angry and frustrated | Felicity Halstead",
@@ -90,103 +225,13 @@
     "data": "2026-11-20T07:00:25.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quem foi José Maurício Nunes Garcia, padre negro que encantou a realeza e marcou a história da música erudita brasileira",
-    "resumo": "Instituições do Rio mantêm vivo legado de padre José Maurício Nunes Garcia O padre José Maurício Nunes Garcia, sacerdote negro e um dos mais importantes nomes da música brasileira entre o fim do século XVIII e o início do século XIX, mantém seu legado vivo por meio de iniciativas de preservação de suas partituras e da execução de suas obr",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/20/quem-foi-jose-mauricio-nunes-garcia-padre-negro-que-encantou-a-realeza-e-marcou-a-historia-da-musica-erudita-brasileira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hgBXnEPezzqHAotqn22nyuXi_MQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/b/1BuQrWQQAA4AdiqslUWQ/g1-jose-mauricio3.jpg",
-    "data": "2026-11-20T07:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dia da Consciência Negra: veja o que abre e fecha em BH nesta sexta-feira",
-    "resumo": "Vista aérea da Região Centro-Sul de Belo Horizonte Raquel Freitas/TV Globo O Dia da Consciência Negra é celebrado nesta sexta-feira, 20 de novembro. Desde 2024, a data é feriado nacional. Em Belo Horizonte, serviços essenciais de urgência, coleta de lixo comum e espaços de lazer vão funcionar. Já repartições públicas e postos de saúde est",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/20/dia-da-consciencia-negra-veja-o-que-abre-e-fecha-em-bh-nesta-sexta-feira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/maZrjKB9uzbcZ86eVAaxrtS4IfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/q/ZBHBNhTVaxB7WP8thYBA/whatsapp-image-2024-09-09-at-07.57.04.jpeg",
-    "data": "2026-11-20T07:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Casal do Paraná é diagnosticado com tipos diferentes de câncer no mesmo dia ao fazer exames para viagem de cruzeiro",
-    "resumo": "Casal adia projeto de mil noites no mar após diagnóstico simultâneo de câncer A médica Luciana Paiva e o publicitário Claudio Gomes viajam fazendo cruzeiros há mais de 25 anos. Apaixonado por viagens, o casal de Ponta Grossa, cidade dos Campos Gerais do Paraná, possui canais na internet sobre o tema e desenvolveu um projeto de passar mil ",
-    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/20/casal-do-parana-e-diagnosticado-com-tipos-diferentes-de-cancer-no-mesmo-dia-ao-fazer-exames-para-viagem-de-cruzeiro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/y183A1EehUORoIhzf9G_CcoTZDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/x/PvhFQwTryp3j0oZIBJKQ/g1-3-.png",
-    "data": "2026-11-20T07:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem furta fone de ouvido de R$ 3 mil de juíza durante prestação de serviço e acaba preso em Uberlândia",
-    "resumo": "Fone de ouvido furtado da casa de juíza estimado em quase R$ 3 mil Polícia Civil Um homem, que não teve a idade divulgada, foi preso após furtar um fone de ouvido avaliado em quase R$ 3 mil durante prestação de serviço na casa de uma juíza em Uberlândia, no Triângulo Mineiro. O caso foi registrado na noite de quarta-feira (18). A vítima c",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/20/homem-furta-fone-de-ouvido-de-r-3-mil-de-juiza-durante-prestacao-de-servico-e-acaba-preso-em-uberlandia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UD80FZjbh6XgXlQTNwG9790SajQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/d/uSzSQ5T5uyu0X7qVAlCw/fone-furtado.jpg",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher que jogou água quente e agrediu vizinha com panela deve ficar a pelo menos 300 metros de distância da vítima",
-    "resumo": "Mulher joga água em vizinha e dá 'paneladas' após desentendimento em MG A mulher de 50 anos que jogou água em uma vizinha e a agrediu com golpes de panela em Campina Verde, no Triângulo Mineiro, deverá manter pelo menos 300 metros de distância da vítima e está proibida de consumir bebidas alcoólicas. As medidas cautelares foram determinad",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/20/mulher-que-jogou-agua-quente-e-agrediu-vizinha-com-panela-deve-ficar-a-pelo-menos-300-metros-de-distancia-da-vitima.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dSMgJZgqFrTaG0TNxO8YX5aqvy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/aHpzO7QXa5m5BvUIuWuA/jl-midia-9-.png",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Em momento algum ele dizia estar arrependido de ter ido', diz mãe de brasileiro que morreu na guerra da Ucrânia",
-    "resumo": "Guerra entre Rússia e Ucrânia tem 36 brasileiros mortos e 117 desaparecidos em combate Natural de Cascavel, Aldieris Tuan Ayala é um dos 36 brasileiros que morreram na guerra entre a Ucrânia e a Rússia. Ele tinha 23 anos, usava o codinome \"Doido\" e era parte do 23º Regimento Independente, que atua na região de Kharkiv, localizada no norde",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/20/em-momento-algum-ele-dizia-estar-arrependido-de-ter-ido-diz-mae-de-brasileiro-que-morreu-na-guerra-da-ucrania.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OeTIHwQp8r-j2KCQEvFEFQYe9TQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Y/qENV9cR3ivRkAj157vNg/snapshot-20261112203622.jpg",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ex-BBB Matteus Amaral vai assumir vaga de deputado na Câmara pelo RS",
-    "resumo": "Matteus Amaral Reprodução/Instagram O governador eleito do Rio Grande do Sul, Luciano Zucco (PL), anunciou nesta quinta-feira (19) mais cinco novos secretários que irão compor o primeiro escalão da gestão do estado a partir de 2027. Entre eles, está a deputada federal Any Ortiz (PP), que conduzirá a pasta de Desenvolvimento Econômico e In",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/11/20/ex-bbb-vaga-deputado-camara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ob7tYxYvsIkt7o85wCgsvJZy8qU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/9/BPKesrS82iIp1ZJ51aDQ/fotos-g1-1920-x-1080-px-2026-08-12t232456.596.png",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Produção mundial de vinho deve ficar perto do menor nível em 65 anos, com seca e calor na Europa",
-    "resumo": "Como harmonizar os diferentes tipos de vinho com comida A produção mundial de vinho deve cair em 2026 e se aproximar do menor nível dos últimos 65 anos, segundo estimativa divulgada na quarta-feira (18) pela Organização Internacional da Vinha e do Vinho (OIV). O principal motivo, mais uma vez, é o clima: secas e ondas de calor prejudicara",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/producao-mundial-de-vinho-deve-ficar-perto-do-menor-nivel-em-65-anos-com-seca-e-calor-na-europa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xehRaOhn0sHarpWnVMzKX0ufDNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/y/JPEUBIQ0OX5npBLZhAbw/interna-1-cor-vinho-1400px.jpg",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Black Pantera, Mateus Fazeno Rock e MC Taya se juntam em single inédito para lembrar que o rock nasceu preto",
-    "resumo": "Spieker (embaixo, à esquerda), MC Taya, Salva (de camisa vermelha), Mateus Fazeno Rock (à direita) e o trio Black Pantera (ao alto) são creditados como autores da música 'Rock de preto' Divulgação / Montagem Leandro Arraes ♫ NOTÍCIA ♬ Quem deu à luz o rock na década de 1950 foram artistas negros norte-americanos como o cantor, compositor ",
-    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/20/black-pantera-mateus-fazeno-rock-e-mc-taya-se-juntam-em-single-inedito-para-lembrar-que-o-rock-nasceu-preto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CKlTWPMovTAkmFNZhzQLexjLcAw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/lsGKD6QQCba8FFfmMz0g/montagem-rock-de-preto-1-copiar.jpg.jpeg",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "É #FAKE que Pix MEI de até R$ 5 mil terá de baixar para R$ 363 para 'caber' no orçamento reservado pelo governo",
-    "resumo": "Não é verdde que assistência a MEIs será reduzida de R$ 5 mil para R$ 363 g1 Circulam nas redes sociais publicações sugerindo que o Pix MEI, proposta de incentivo financeiro de até R$ 5 mil a microempreendedores individuais anunciada por Lula (PT) durante a campanha à reeleição, terá de baixar para R$ 363 caber no \"orçamento\" reservado pe",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/20/e-fake-que-pix-mei-de-ate-r-5-mil-tera-de-baixar-para-r-363-para-caber-no-orcamento-reservado-pelo-governo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2uCUNz2KMjCDMpbBRARFq68snXY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/M/a3e47DTrilDYs5ZhNJ6Q/abre-materia-fof-74-.png",
-    "data": "2026-11-20T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Shows de Josyara e Jonas Esticado, Festival Recife do Teatro Nacional, Miçanga, mostra sobre Niemeyer e mais: veja agenda cultural",
-    "resumo": "Show de Josyara, Festival Recife do Teatro Nacional e exposição fotográfica do projeto PEBA estão na agenda cultural do Grande Recife Montagem/g1 Na semana que tem o feriado da Consciência Negra, o Grande Recife conta com diversas opções de lazer e atividades culturais. O cantor Jonas Esticado se apresenta no Sambinha Chacon e o guitarris",
-    "link": "https://g1.globo.com/pe/pernambuco/o-que-fazer-no-recife/noticia/2026/11/20/shows-de-josyara-e-jonas-esticado-festival-recife-do-teatro-nacional-micanga-mostra-sobre-niemeyer-e-mais-veja-agenda-cultural.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Httwi4vc_LrIVW-m8BC034klldc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/d/sUVo9QSkANYQWygOC1Iw/agenda-cultural.jpg",
-    "data": "2026-11-20T07:00:00.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Nigeria moves to end jail terms for attempted suicide",
+    "resumo": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+    "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5d/live/2a0c8580-e4a0-11f1-a01e-f1ba573bc781.jpg",
+    "data": "2026-11-20T06:32:17.000Z"
   },
   {
     "categoria": "Internacional",
@@ -253,15 +298,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
-    "resumo": "More than 85 percent of Gaza Civil Defence vehicles are out of service as crews struggle to reach trapped people.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T05:01:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "The Guardian",
     "titulo": "Race to be next UN secretary general exposes divisions among world powers",
     "resumo": "<p>Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner</p><p>The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big pow",
@@ -277,24 +313,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/20/from-germany-with-love-a-letter-to-the-uk",
     "imagem": "https://i.guim.co.uk/img/media/acf9d98dec4c22462c0258419bc2b28e3a45da43/1286_0_3646_2920/master/3646.jpg?width=140&quality=85&auto=format&fit=max&s=b737f0f3014598545a1ad8b4330c89f0",
     "data": "2026-11-20T05:00:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Contaminated petrol leaves Yemeni drivers struggling to make ends meet",
-    "resumo": "Drivers in Houthi-controlled areas face rising fuel prices and costly repairs as contaminated petrol damages their cars.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/contaminated-petrol-leaves-yemeni-drivers-struggling-to-make-ends-meet?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T05:00:16.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
-    "resumo": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T04:44:53.000Z"
   },
   {
     "categoria": "Internacional",
@@ -374,7 +392,7 @@
     "titulo": "GTA 6 breaks records as estimated sales top $2.3bn",
     "resumo": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
     "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929e/live/80e88200-e4b9-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-20T02:54:40.000Z"
   },
   {
@@ -529,15 +547,6 @@
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-fachin-encaminha-pgr-citacoes-quatro-ministros-do-stf",
     "imagem": null,
     "data": "2026-11-19T23:56:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Trump posthumously pardons US baseball legend Pete Rose",
-    "resumo": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-    "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
-    "data": "2026-11-19T23:51:50.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1033,15 +1042,6 @@
     "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
     "imagem": null,
     "data": "2026-11-19T15:55:05.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-    "resumo": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-    "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg",
-    "data": "2026-11-19T15:52:26.000Z"
   },
   {
     "categoria": "Cultura",
