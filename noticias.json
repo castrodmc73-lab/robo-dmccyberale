@@ -1,12 +1,264 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+    "resumo": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
+    "data": "2026-11-20T12:34:54.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "resumo": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarante",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-20T12:30:47.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
     "resumo": "<p>Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end</p><p>Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.</p><p>Civil society organisations have a special status at UN climate treaty summi",
     "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=140&quality=85&auto=format&fit=max&s=66719ec4342409e6ee6942c37a1d3b46",
-    "data": "2026-11-20T11:28:24.000Z"
+    "data": "2026-11-20T12:29:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Empresa é condenada por racismo após chefe condicionar promoção a corte de cabelo afro em MG",
+    "resumo": "Empresa é condenada por racismo após chefe condicionar promoção a corte de cabelo afro em MG Freepik Um trabalhador de uma empresa de manutenção industrial em Ipatinga, no Vale do Aço, será indenizado em R$ 15 mil por danos morais após ter a possibilidade de promoção profissional condicionada ao corte do cabelo afro. A decisão foi mantida",
+    "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/20/empresa-e-condenada-por-racismo-apos-chefe-condicionar-promocao-a-corte-de-cabelo-afro-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TrfMi_VI4cczb12hkYorfiJQDK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/k/YblZ2fSgqeC4TqWdpjeA/31913.jpg",
+    "data": "2026-11-20T12:29:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Bom Dia DF de sexta-feira, 20 de novembro de 2026",
+    "resumo": "Veja as reportagens do telejornal com as notícias do DF.",
+    "link": "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-20-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/M4K3_s9HxCT-8_-JAFMmt_-NjcA=/s01.video.glbimg.com/deo/vi/66/63/15266366",
+    "data": "2026-11-20T12:28:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Operação Consciência Negra: PRF intensifica fiscalização nas rodovias federais em Petrolina",
+    "resumo": "PRF inicia Operação Dia da Consciência Negra em Petrolina e todo o estado de PE A Polícia Rodoviária Federal (PRF) iniciou a Operação Consciência Negra em Petrolina, no Sertão de Pernambuco. Até domingo (22), as fiscalizações de trânsito serão intensificadas nas rodovias federais que cortam o município, como as BRs 407 e 235 e 428, que re",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/20/operacao-consciencia-negra-prf-intensifica-fiscalizacao-nas-rodovias-federais-em-petrolina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hjhkYrU9cWhzTM7TGFwWGYhnmY8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/A/9/xSdiN8THOJGaMmLecAaQ/whatsapp-image-2021-09-08-at-12.19.24.jpeg",
+    "data": "2026-11-20T12:28:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Caso Master: Fachin mantém prisão do ex-banqueiro Daniel Vorcaro",
+    "resumo": "O presidente do Supremo Tribunal Federal, Edson Fachin, manteve nesta quinta-feira (19) a prisão do ex-banqueiro Daniel Vorcaro, do Master, alvo da Operação Compliance Zero. Ele está preso desde 4 de março. Atualmente, Vorcaro está no 19º Batalhão da Polícia Militar no DF, conhecido como Papudinha. Vorcaro já foi indiciado pela Polícia Fe",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/20/caso-master-fachin-mantem-prisao-do-ex-banqueiro-daniel-vorcaro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4mgP-BLmOEN-GZDIG2oQXznFBC4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/s/tKA3WvRZ23D9gA1d2RKA/vorcaro-depoe.png",
+    "data": "2026-11-20T12:25:23.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+    "resumo": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Ffa%2Fb1821d204e04bb7c7e70fa0c18bd%2Fap26322756273601.jpg",
+    "data": "2026-11-20T12:24:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+    "resumo": "The case sets a precedent for establishing a state&#039;s intent to commit genocide beyond explicitly written orders.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T12:20:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Searching for the next Messi at the Under-17 World Cup",
+    "resumo": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup-2?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T12:20:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Entregador é detido suspeito de avisar traficantes sobre operações policiais por grupo de mensagens",
+    "resumo": "Operação contra o tráfico prende quatro e detém entregador que usava grupo de mensagens para avisar sobre blitz e viaturas em Santa Adélia (SP) Polícia Militar/Divulgação Um entregador de farmácia foi detido na quinta-feira (19) suspeito de usar a própria motocicleta de trabalho para monitorar a movimentação de policiais e alertar trafica",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/20/operacao-santa-adelia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YDygwHAUe-_CtNOucXnor0DEyU4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/d/IlLWFhTw6JGiqxs9aBbA/g1-81-.jpg",
+    "data": "2026-11-20T12:19:31.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+    "resumo": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T12:19:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Natal da Fé 2026 terá desfiles, shows e atrações gratuitas em Pouso Alegre; veja programação",
+    "resumo": "Parada de Natal em Pouso Alegre Prefeitura de Pouso Alegre O Natal da Fé 2026 começa nesta sexta-feira (20) e segue até 19 de dezembro, em Pouso Alegre (MG). A programação conta com atrações gratuitas, como desfiles natalinos, shows, apresentações culturais e celebrações religiosas em diferentes pontos da cidade. 📲 Siga a página do g1 Su",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/20/natal-da-fe-2026-tera-desfiles-shows-e-atracoes-gratuitas-em-pouso-alegre-veja-programacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SwlwQvTfHM-mLU4ALdnmWkraN0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/i/BV40prRwe8U4ABh8GHMQ/whatsapp-image-2025-11-28-at-02.56.49.jpeg",
+    "data": "2026-11-20T12:19:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente é baleada na cabeça uma semana após obter medida protetiva; quatro crianças presenciaram crime",
+    "resumo": "Suspeito de balear adolescente é preso em Pelotas Gabriel de Bem/Agência RBS Uma adolescente de 17 anos foi baleada na cabeça dentro do apartamento onde mora, em Pelotas, na Região Sul do Rio Grande do Sul, por volta das 19h desta quarta-feira (19). O suspeito é o ex-companheiro da vítima, de 22 anos, que fugiu e está sendo procurado. Seg",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/adolescente-e-baleada-apos-obter-medida-protetiva-pelotas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MovZHjjeCTINx_ytiucV_HhR6Ms=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/p/LfIoriTgGg2lNOym0iFg/g1-2026-11-20t085348.196.jpg",
+    "data": "2026-11-20T12:17:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ex-secretário de Segurança de Casimiro de Abreu é preso e denunciado por duplo homicídio em Rio das Ostras",
+    "resumo": "Ataque ocorreu em frente a uma padaria em Rio das Ostras Reprodução InterTv RJ O Ministério Público do Estado do Rio de Janeiro (MPRJ) denunciou Paulo Fernando de Carvalho Gomes, conhecido como Carvalhão, por dois homicídios qualificados cometidos em Rio das Ostras. O acusado, que é ex-vereador, ex-policial militar e ocupava o cargo de se",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/20/ex-secretario-de-seguranca-de-casimiro-de-abreu-e-preso-e-denunciado-por-duplo-homicidio-em-rio-das-ostras.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0wKhEUcRavyzDX6dD2cz5Eudc-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/A/5QG1BzQdAwASDKp2gIGA/tiro.jpg",
+    "data": "2026-11-20T12:17:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casal de pescadores faz sucesso na internet com pescarias no rio Uruguai",
+    "resumo": "Um casal de pescadores do interior de São Paulo faz sucesso nas redes sociais com vídeos de pescarias no rio Uruguai, no Rio Grande do Sul. Juninho, de 50 anos, divide a paixão pela pesca esportiva com a esposa, Rosa, e acumula milhares de seguidores na internet. Neste sábado (21), a equipe do Terra da Gente acompanha as aventuras da dupl",
+    "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/20/casal-de-pescadores-faz-sucesso-na-internet-com-pescarias-no-rio-uruguai.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4KY1wBYu0YB9WM-KHVn_hMinczI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/M/GKBO6eRQyAQR0rAUeooA/foto-8-pesca-influencer.png",
+    "data": "2026-11-20T12:16:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Best of Blues and Rock reúne Eddie Vedder e Roger Daltrey em SP neste fim de semana; veja horários, ingressos e como chegar",
+    "resumo": "Eddie Vedder, do Pearl Jam Celso Tavares/G1 O festival Best of Blues and Rock 2026 começa nesta sexta-feira (20) e segue até domingo (22), na plateia externa do Auditório Ibirapuera, no Parque Ibirapuera, na Zona Sul de São Paulo. A programação reúne nomes nacionais e internacionais do rock e do blues, com destaque para Eddie Vedder, voca",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/best-of-blues-and-rock-reune-eddie-vedder-e-roger-daltrey-em-sp-neste-fim-de-semana-veja-horarios-ingressos-e-como-chegar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/62KbKBU7lnnZ7Fzlw7nUtVcQO5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/T/X/JOHRAxTuSEfxxB21FHhQ/eddie-vedder4.jpg",
+    "data": "2026-11-20T12:15:56.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudantes processam empresa de tecnologia por erro em sistema de IA que confundiu pacote de salgadinho com arma",
+    "resumo": "Captura de tela de um vídeo do departamento de polícia do condado de Baltimore mostrando a ação contra os estudantes. Departamento de Polícia do Condado de Baltimore/Divulgação Quatro estudantes e ex-alunos de uma escola de ensino médio de Maryland, nos Estados Unidos, acionaram a Justiça após serem abordados e detidos por policiais armad",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/estudantes-entram-com-processo-contra-empresa-de-tecnologia-por-erro-em-sistema-de-ia-que-confundiu-pacote-de-salgadinho-com-arma.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XkxLnXuf2ANJ6zlbCQ3z2ucABRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/y/Lf5TuJQMAOqaKAelPIUA/imagem-redimensionada-1500px.jpg",
+    "data": "2026-11-20T12:15:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é encontrado morto dentro de bar em Volta Redonda",
+    "resumo": "IML de Volta Redonda Foto: Annia Brum Um homem de, aproximadamente 40 anos, foi encontrado morto dentro de um bar na noite de quinta-feira (19) em Volta Redonda (RJ). O caso aconteceu na Rua Corrêa, no bairro Nova Primavera. Segundo o Corpo de Bombeiros, os militares foram acionados para o recolhimento de cadáver às 21h. Uma equipe de per",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/20/homem-e-encontrado-morto-dentro-de-bar-em-volta-redonda.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FgR52TU7jA3yXVUCys03NcUTS0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/2/J/1rxZriQfm7EOIIzNSiyg/whatsapp-image-2021-12-30-at-11.14.30.jpeg",
+    "data": "2026-11-20T12:14:37.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
+    "resumo": "In a wide-ranging interview, the governor of Florida talked about the potential timing of a presidential run. “I haven’t made any decisions,” he said.",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-desantis-01-qtlc/20pol-desantis-01-qtlc-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T12:09:53.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "resumo": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d1/live/638e94f0-e4dd-11f1-9cc5-e9713e77fd78.jpg",
+    "data": "2026-11-20T12:09:29.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+    "resumo": "Rather than feeling empowered by the digital tools they have come to rely on, many Americans are now questioning how powerless they may have actually become.",
+    "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T12:06:12.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "resumo": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "imagem": null,
+    "data": "2026-11-20T12:04:57.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Just how vulnerable are we to cyberattacks?",
+    "resumo": "In a week of outages, we&apos;re thinking about the rising threat of AI-powered cyberattacks. But sometimes, it&apos;s not the most sophisticated attack that&apos;s concerning, but the easy targets buried in old software.",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+    "imagem": null,
+    "data": "2026-11-20T12:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Why the robots are ditching Uber",
+    "resumo": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, accordi",
+    "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-20T12:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
+    "resumo": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
+    "link": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T11:59:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘We didn’t come here to beg’: Africa’s message at COP31",
+    "resumo": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T11:55:16.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/d9112600-4d27-405d-ad7c-79e851cfcc87,1795041744935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-20T11:39:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Brasileirão: Rádio Nacional transmite duelo entre Palmeiras e Flamengo",
+    "resumo": "<p><strong>A Rádio Nacional transmite neste sábado (21) a partida que poderá definir o grande campeão do Campeonato Brasileiro Masculino Série A 2026. A emissora pública inicia a jornada esportiva do confronto entre Palmeiras e Flamengo a partir das 16h. A bola rola na Arena Nubank Parque, em São Paulo, às 16h30.</strong><img src=\"https:/",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasileirao-radio-nacional-transmite-duelo-entre-palmeiras-e-flamengo-0",
+    "imagem": null,
+    "data": "2026-11-20T11:32:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -18,15 +270,6 @@
     "data": "2026-11-20T11:26:28.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Estátua de Zumbi completa 40 anos com lavagem e homenagens",
-    "resumo": "Estátua de Zumbi completa 40 anos com lavagens e homenagens A Estátua de Zumbi dos Palmares completa 40 anos nesta sexta-feira (20), feriado da Consciência Negra no Rio, com lavagem do monumento e homenagens no Centro do Rio. No local, grupos de capoeira já se apresentavam a partir das 6h. A lavagem do monumento acontece por volta das 10h",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/20/estatua-zumbi-aniversario-lavagem-homenagens.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LmunbP2T3cHis4Fu0N944UyOw6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/aBQ1J2RtCY4gfQaCr9tQ/bdrj-limpo-20261120-0545-frame-118519.jpeg",
-    "data": "2026-11-20T11:25:41.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Mercedes e Volks em crise: há salvação para indústria de carros alemã?",
@@ -36,85 +279,13 @@
     "data": "2026-11-20T11:24:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Policial aposentado é levado à delegacia após acidente entre carro e moto em Aracaju",
-    "resumo": "Acidente entre motocicleta e carro em Aracaju. Redes sociais Um policial aposentado foi levado à Central de Flagrantes na noite desta quinta-feira (19) após o carro que ele dirigia bater em uma motocicleta na Avenida Desembargador Maynard, em Aracaju. A condutora da moto ficou ferida. De acordo com a Polícia Militar, o motorista apresenta",
-    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/20/policial-aposentado-e-levado-a-delegacia-apos-acidente-entre-carro-e-moto-em-aracaju.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XQPiTilSv_Ur26RlmfujYd1Qpgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/IMhM54TK6OWOMOzUfifA/acidente.jpg",
-    "data": "2026-11-20T11:23:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Lotofácil: Aposta de Goiás acerta 15 números e leva quase R$167 mil",
-    "resumo": "G1 | Loterias - Lotofácil 3834 Uma aposta de Goiás acertou sozinha os 15 números da Lotofácil e levou quase R$ 167 mil. O jogo foi feito pela internet por um apostador de Doverlândia, no oeste do estado. Os números sorteados foram: 02-03-04-06-07-09-11-13-15-17-20-21-22-24-25. ✅ Clique e siga o canal do g1 GO no WhatsApp Além da aposta go",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/20/lotofacil-aposta-de-goias-acerta-15-numeros-e-leva-quase-r167-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nClNqNMnWq0OTGlu7aS866zspok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/T/F7BVTTTPSDdh4u4ubeEw/aleixo-g1-45-.jpg",
-    "data": "2026-11-20T11:22:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS e FOTOS mostram devastação em Tupanciretã; tempestade deixou um morto, destruiu casas e cobriu ruas de granizo",
-    "resumo": "Tempestade deixa rastro de destruição em cidado do RS Uma tempestade com vento e granizo deixou um rastro de destruição em Tupanciretã, cidade com 20 mil habitantes na Região Noroeste do Rio Grande do Sul, na madrugada desta sexta-feira (20). Segundo o prefeito Gustavo Herter Terra, uma pessoa morreu e milhares de casas foram atingidas. A",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/videos-e-fotos-mostram-devastacao-em-tupancireta-tempestade-destruiu-casas-granizo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WEXA_1p4gYed94DTCEvneUWyvZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/L/qlMdW4SRKpTbgw2uViYg/g1-58-.jpg",
-    "data": "2026-11-20T11:21:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça decreta prisão preventiva de advogado preso por suspeita de torturar namorada atriz em SP",
-    "resumo": "Atriz Camila Jeronymo acusa advogado e lutador de jiu-jítsu Vander Gaeta de agredi-la em SP. Os dois estavam namorando. Reprodução/Arquivo pessoal A Justiça decretou na quinta-feira (19) a prisão preventiva do advogado e lutador de jiu-jítsu Vander Gaeta, de 47 anos, preso em flagrante no mesmo dia sob suspeita de torturar a namorada, a a",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/justica-decreta-prisao-preventiva-de-advogado-preso-por-suspeita-de-torturar-namorada-atriz-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IUnn_OmE_tZtWe0nsapYwnF6gyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/kdACYATX2KE7f8eqQrmw/fotojet-2026-11-19t075605.900.jpg",
-    "data": "2026-11-20T11:20:32.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "EU and UK seal reset deal",
-    "resumo": "This is a breaking news story.",
+    "resumo": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
     "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T11:20:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Seleção da UFNT oferece vagas em Medicina, Direito e outros 20 cursos; veja lista",
-    "resumo": "Universidade Federal do Norte do Tocantins (UFNT) Reprodução/Prefeitura de Araguaína A Universidade Federal do Norte do Tocantins (UFNT) abriu processo seletivo com 419 vagas em 22 cursos de graduação presenciais para ingresso no primeiro semestre de 2027. Entre as opções estão Medicina, Direito, Medicina Veterinária, Engenharia de Softwa",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/20/selecao-da-ufnt-oferece-vagas-em-medicina-direito-e-outros-20-cursos-veja-lista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IAqkYpRXMZkFeB-x3csVIDexC1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/2/1TGmQ5TFmwxAft1a9dzQ/foto-e-montagem-vertical-13-.jpg",
-    "data": "2026-11-20T11:18:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mega-Sena concurso 3088: 18 apostas do Piauí acertam a quadra; veja cidades e valores",
-    "resumo": "Mega-Sena, concurso 3088: confira os números sorteados Dezoito apostas feitas no Piauí acertaram a quadra do concurso 3.088 da Mega-Sena, sorteado na noite de quinta-feira (18), em São Paulo. Cada bilhete premiado vai receber R$ 593,15. As apostas vencedoras foram registradas em sete municípios piauienses. As dezenas sorteadas no concurso",
-    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/20/mega-sena-concurso-3088-piaui.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PiWlLi5ewKcoHIeUBaB5eWHX9Yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png",
-    "data": "2026-11-20T11:17:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Incêndio atinge borracharia em Santa Bárbara d'Oeste e polícia investiga causas do fogo; veja imagens",
-    "resumo": "Chamas em borracharia de Santa Bárbara começaram na noite de quinta-feira (19), retornaram ao amanhecer desta sexta (20) e destruíram pelo menos 70 pneus Victor Taker/CNX/ Reprodução EPTV Um incêndio atingiu uma borracharia na Rua Profeta Josué no bairro Jardim Laudassi, em Santa Bárbara d'Oeste (SP) na madrugada desta sexta-feira (20). A",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/20/incendio-atinge-borracharia-em-santa-barbara-doeste-e-policia-investiga-causas-do-fogo-veja-imagens.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VA7NoqD1d4bog3DfRQt7Z1J7Jag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/B/2GyPxhRnu5wrbajB6ENQ/fogo-borrachariasbo.jpg",
-    "data": "2026-11-20T11:16:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "BRs-251 e 116: obras com Pare e Siga têm restrições de horário durante feriado; veja calendário",
-    "resumo": "BR-251, em MG Ecovias das Gerais A Ecovias das Gerais suspendeu parcialmente as obras nas BRs-251 e 116 durante o feriado prolongado da Consciência Negra, celebrado nesta sexta-feira (20). As restrições seguem até domingo (22) e têm como objetivo reduzir os impactos no trânsito nos períodos de maior movimento. A medida foi definida em con",
-    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/20/brs-251-e-116-obras-com-pare-e-siga-tem-restricoes-de-horario-durante-feriado-veja-calendario.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/iHxeyrgXgkThb8VNLF2cjOMReAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/3/v3jbM6QMu7EeRGlo3yBQ/whatsapp-image-2026-09-01-at-09.16.52-1-.jpeg",
-    "data": "2026-11-20T11:15:12.000Z"
   },
   {
     "categoria": "Opinião",
@@ -127,30 +298,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Three Kyiv bridges hit during major Russian missile attack",
-    "resumo": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-    "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
-    "data": "2026-11-20T11:12:57.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
     "resumo": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T11:10:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motociclista morre em batida frontal no contorno da Rodovia dos Tamoios, em Caraguatatuba",
-    "resumo": "Motociclista morre em batida frontal no contorno da Rodovia dos Tamoios Divulgação/Artesp Um motociclista morreu na noite da última quinta-feira (19) após uma batida frontal contra um carro que fazia uma ultrapassagem pela contramão no contorno da Rodovia dos Tamoios, no km 6, em Caraguatatuba. De acordo com a concessionária que administr",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/20/motociclista-morre-em-batida-frontal-no-contorno-da-rodovia-dos-tamoios-em-caraguatatuba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PWz3aca5dRxUJVXPpS4gyOqBZuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/c/TJdAMrTLOBXL5vdq3neQ/whatsapp-image-2026-11-20-at-06.57.53.jpeg",
-    "data": "2026-11-20T11:03:42.000Z"
   },
   {
     "categoria": "Internacional",
@@ -160,24 +313,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T11:01:51.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caso Master: Mendonça pede à presidência do STF que torne público relatório da PF com menções a ele",
-    "resumo": "O ministro André Mendonça , do Supremo Tribunal Federal (STF), pediu nesta sexta-feira (20) ao presidente da Corte, Edson Fachin, que \"dê ampla publicidade\" ao relatório da Polícia Federal com menções a Mendonça no caso Master. Este relatório, assim como outros que tratam de ministros do STF, está em sigilo máximo por determinação de Fach",
-    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/20/caso-master-mendonca-pede-a-presidencia-do-stf-que-torne-publico-relatorio-da-pf-com-mencoes-a-ele.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ldgzRjZcSJRT4qHvZV9lPdJVX-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/G/SlZ1oxRQS5e696yBBlfQ/55590654107-4186887e84-k.jpg",
-    "data": "2026-11-20T11:01:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Idoso perde R$ 150 mil no golpe do bilhete premiado em Marília",
-    "resumo": "Idoso de 85 anos perde R$ 150 mil no golpe do bilhete premiado em Marília Pixabay/Pexels Um idoso de 85 anos perdeu R$ 150 mil após cair no golpe do bilhete premiado em Marília (SP). O crime foi descoberto somente nesta terça-feira (17), depois que a gerente da agência bancária desconfiou das movimentações financeiras e alertou o filho da",
-    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/20/idoso-perde-r-150-mil-no-golpe-do-bilhete-premiado-em-marilia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/E8LK4BTZ5h-xCehLkbwUKv2jYQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/j/ekL8YAQbAda81pleSByg/pexels-pixabay-259103.jpg",
-    "data": "2026-11-20T11:01:11.000Z"
   },
   {
     "categoria": "Internacional",
@@ -308,15 +443,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
-    "resumo": "In a wide-ranging interview, the governor of Florida talked about the potential timing of a presidential run. “I haven’t made any decisions,” he said.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-desantis-01-qtlc/20pol-desantis-01-qtlc-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T10:03:57.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "These Underdogs Were Just Elected. No One Is More Surprised Than They Are.",
     "resumo": "An Arkansas dairy farmer’s Democratic victory in a race for county assessor was one of many unlikely down-ballot wins that showed the depth of the blue wave.",
     "link": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
@@ -353,15 +479,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "How exactly did Trump get so rich on crypto? We explain",
-    "resumo": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3224+0+0/resize/4000x3224!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F8f%2F9e5455a243c8b992264a02774d3d%2Fgettyimages-1188743848.jpg",
-    "data": "2026-11-20T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "New York City unveils a bold plan to move its jails off Rikers Island",
     "resumo": "New York City officials are moving forward with plans to close Rikers, the city&apos;s main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
     "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
@@ -375,6 +492,15 @@
     "resumo": "Plus: Are you up to date on your James Bond news? If so, you&apos;ll get at least one question right.",
     "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2F67%2F739e92b8400ab6cec0b96f5e74be%2Fchris-ncuti-mary.jpg",
+    "data": "2026-11-20T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "How exactly did Trump get so rich on crypto? We explain",
+    "resumo": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3224+0+0/resize/4000x3224!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F8f%2F9e5455a243c8b992264a02774d3d%2Fgettyimages-1188743848.jpg",
     "data": "2026-11-20T10:00:00.000Z"
   },
   {
@@ -407,8 +533,8 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
-    "resumo": "Russia launched missiles and drones across Kyiv overnight that killed three people, injured nine others and damaged bridges and transport infrastructure, local authorities said Friday.",
+    "titulo": "Russia fires hundreds of missiles, drones at Ukraine — and allegedly into Poland",
+    "resumo": "Russian firepower hit three bridges in Kyiv overnight, killing six people in the capital and two elsewhere according to Ukrainian ‌officials, while also allegedly entering Polish airspace, prompting a rebuke from Warsaw.",
     "link": "https://www.cbc.ca/news/world/russian-attacks-on-kyiv-9.7429460?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/c03853e2-7c32-4406-8c5f-102cf35a4bb4,1795167098286/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C4176%2C2349%29%3B",
     "data": "2026-11-20T09:53:27.000Z"
@@ -441,6 +567,15 @@
     "data": "2026-11-20T09:42:00.000Z"
   },
   {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Young people record their older relatives for The Great Listen",
+    "resumo": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6045879",
+    "data": "2026-11-20T09:41:31.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "White House removes cyber-security chief after series of tech outages",
@@ -459,15 +594,6 @@
     "data": "2026-11-20T09:18:30.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-    "resumo": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
-    "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T09:16:30.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "The U.K. and EU hold a rare summit to strengthen ties",
@@ -475,15 +601,6 @@
     "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5303x3535+0+0/resize/5303x3535!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2Fca%2F5e1352384fd6bdc90c42b50069e8%2Fap26316633592372.jpg",
     "data": "2026-11-20T09:14:41.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Pakistan minister visits India for first time since 2025 war",
-    "resumo": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
-    "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T09:11:57.000Z"
   },
   {
     "categoria": "Internacional",
@@ -502,15 +619,6 @@
     "link": "https://www.cbc.ca/news/canada/online-shopping-tactics-9.7425262?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/16521e4b-4c3d-467c-8e51-1806b8c6b42c,1794946231279/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-20T09:01:05.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
-    "resumo": "A young Canadian woman travelled to Turkey after graduating from medical school. In her last days there, she fell ill and died within hours. Authorities there blame food poisoning, but a joint investigation by Enquête and the fifth estate revealed 12 similar deaths and a different poison at work.",
-    "link": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d9112600-4d27-405d-ad7c-79e851cfcc87,1795041744935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-20T09:00:00.000Z"
   },
   {
     "categoria": "Canadá",
@@ -540,15 +648,6 @@
     "data": "2026-11-20T09:00:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Health-care report highlights chronic conditions, inequities in northern Ontario First Nations",
-    "resumo": "A new report by an alliance of 11 First Nations health and social service agencies highlights health-care inequities facing northern Ontario communities, including high rates of rheumatoid arthritis, chronic pancreatitis and substance use disorder.",
-    "link": "https://www.cbc.ca/news/canada/thunder-bay/mamow-ahyamowen-report-9.7428902?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/bca4e1f6-cbec-44ac-a969-285579dea98d,1795125299378/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3742%2C2104%29%3B",
-    "data": "2026-11-20T09:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Quem foi Zumbi dos Palmares: o maior líder quilombola brasileiro",
@@ -556,33 +655,6 @@
     "link": "https://www.dw.com/pt-br/quem-foi-zumbi-dos-palmares-o-maior-líder-quilombola-brasileiro/a-70820888?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-20T08:57:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Russia’s day-long attack on Kyiv damages embassies",
-    "resumo": "Russia’s day-long attack on Kyiv damages embassies",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T08:56:08.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "El Salvador’s Bukele seeks third term after constitution change",
-    "resumo": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T08:21:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US robbery suspects charged over alleged $22M train heist spree",
-    "resumo": "US robbery suspects charged over alleged $22M train heist spree",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T07:56:30.000Z"
   },
   {
     "categoria": "Economia",
@@ -637,6 +709,15 @@
     "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
     "imagem": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=140&quality=85&auto=format&fit=max&s=810844650f584edda94e8970574c9af8",
     "data": "2026-11-20T05:00:24.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Daughters prank Costco-loving dad on his birthday",
+    "resumo": "Danielle Blizzard tells The National about the moment she and her sister pranked their Costco-loving dad on his birthday by stacking the aisles with all his friends.",
+    "link": "https://www.cbc.ca/player/play/9.7429434?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/46acc0e2-fd99-45fa-b209-3fca0c96215a,1795143119469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-20T04:03:33.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -705,28 +786,10 @@
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "US army postpones plan to detonate bomb-making chemical amid outcry",
-    "resumo": "<p>The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials</p><p>The US army has <a href=\"https://x.com/SecArmy/status/2123574872559493304\">delayed its plan</a> to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks.</p><p>",
+    "resumo": "<p>Controlled detonation could lead to plume containing lead particles, worrying residents and state officials</p><p>The US army has <a href=\"https://x.com/SecArmy/status/2123574872559493304\">delayed its plan</a> to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks.</p><p>The ",
     "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
     "imagem": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
     "data": "2026-11-20T02:30:10.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
-    "resumo": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
-    "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T01:52:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US army warns detonation of unstable explosives will create toxic plume",
-    "resumo": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
-    "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/c0069740-e475-11f1-9a84-5bed4823e5ff.jpg",
-    "data": "2026-11-20T01:27:27.000Z"
   },
   {
     "categoria": "Brasil",
@@ -736,6 +799,15 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-acumula-e-premio-vai-para-r-45-milhoes",
     "imagem": null,
     "data": "2026-11-20T01:20:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "At Issue | What would an interim U.S. trade deal mean for Canadians?",
+    "resumo": "At Issue this week: Mark Carney returns from the APEC summit with Asia trade deals, but is new talk of an interim U.S. trade deal realistic? Pierre Poilievre faces a huge shakeup as staffers quit. And, the Prime Minister's cagey take on Quebecor’s proposed Telus takeover.",
+    "link": "https://www.cbc.ca/player/play/9.7429264?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5c7043bd-b8f3-436a-88fc-2a3842cf1b54,1795136641541/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-20T01:05:33.000Z"
   },
   {
     "categoria": "Internacional",
@@ -785,8 +857,8 @@
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Fish and eggs al desko? The dos and don'ts of the lunch break",
-    "resumo": "What is acceptable to eat at your desk, without annoying your colleagues?",
+    "titulo": "Eating at your desk? The dos and don'ts of lunch at work",
+    "resumo": "Eating at your desk? The dos and don'ts of lunch at work",
     "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-20T00:08:37.000Z"
@@ -844,15 +916,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmn-amplia-controle-sobre-recolhimentos-de-tributos-dos-bancos",
     "imagem": null,
     "data": "2026-11-19T23:33:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Banco Central amplia acesso de cooperativas ao mercado aberto",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/banco-central-amplia-acesso-de-cooperativas-ao-mercado-aberto\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/banco-central-amplia-acesso-de-cooperativas-ao-mercado-aberto",
-    "imagem": null,
-    "data": "2026-11-19T23:22:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -972,15 +1035,6 @@
     "data": "2026-11-19T19:58:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Judges have put Trump&apos;s arch and golf course on hold, but only for a matter of days",
-    "resumo": "A federal judge has twice delayed construction of Trump&apos;s arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/5400x3038!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
-    "data": "2026-11-19T19:46:27.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "FCC greenlights rule allowing prisons to jam cellphone signals",
@@ -1015,42 +1069,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
     "imagem": "https://i.guim.co.uk/img/media/e0d95a8cd905be85ddf4efa2770e418df5ac0b2b/441_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=2b21cb64b1109e9b5d54847103a8d6f1",
     "data": "2026-11-19T19:27:51.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Reaching interim U.S. trade agreement would kickstart new CUSMA talks, minister says",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/4b08aef7-98f8-40eb-94e5-092073caf40d,1795127985276/full/max/0/default.jpg?im=Crop%2Crect%3D%281494%2C920%2C5908%2C3323%29%3B",
-    "data": "2026-11-19T19:24:03.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Some creators are skeptical of Instagram’s new affiliate program",
-    "resumo": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
-    "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T19:12:30.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-    "resumo": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos ",
-    "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T18:33:08.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "The &apos;Magic Six&apos;: How to strengthen your marriage in midlife",
-    "resumo": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5220x3480+0+0/resize/5220x3480!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2c%2F4b%2Fa844485a46b69b744909fc7468e9%2Fgettyimages-2217834289.jpg",
-    "data": "2026-11-19T18:28:23.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1096,15 +1114,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-19T17:38:22.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "&apos;Bigger than Barack Obama&apos;s election&apos;: Scholars reflect on Mississippi Senate race",
-    "resumo": "Scott Colom is now this Southern state&apos;s first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.<br>",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047338",
-    "data": "2026-11-19T17:03:11.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1159,15 +1168,6 @@
     "link": "https://www.dw.com/pt-br/quase-uma-em-cada-quatro-crianças-no-mundo-vivem-em-áreas-de-conflito/a-79991426?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-19T15:58:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "The midterms were the largest win for either party in 50 years",
-    "resumo": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-    "imagem": null,
-    "data": "2026-11-19T15:55:05.000Z"
   },
   {
     "categoria": "Cultura",
