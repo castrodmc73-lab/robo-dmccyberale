@@ -1,39 +1,30 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+    "resumo": "Other tech companies have also taken a hit as share markets broadly slump.",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+    "data": "2026-11-20T17:36:29.000Z"
+  },
+  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
-    "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "resumo": "Anthropic mathematician Levent Alp&#246;ge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics, a",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-20T16:34:13.000Z"
+    "titulo": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+    "resumo": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-20T17:33:59.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "AO VIVO: Assista ao JAC1 com Murilo Lima",
-    "resumo": "AO VIVO: Assista ao JAC1 com Murilo Lima g1 AC transmite os telejornais ao vivo.",
-    "link": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-jac1-com-murilo-lima.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DZdSpVgucpKlsDxpGsfadWlCcrM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/o/fe43lcSSimCBsd6owcDw/whatsapp-image-2026-01-22-at-11.09.18.jpeg",
-    "data": "2026-11-20T16:33:09.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dia da Consciência Negra: conheça trajetórias de identidade, pluralidade e orgulho no DF",
-    "resumo": "Dia da Consciência Negra: conheça trajetórias de identidade, pluralidade e orgulho no DF TV Globo No Distrito Federal, onde pessoas negras representam cerca de 59% da população, a negritude se manifesta de muitas formas. Para marcar o Dia da Consciência Negra, celebrado nesta sexta-feira (20), o DF1 reuniu cinco moradores da capital de di",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/20/dia-da-consciencia-negra-conheca-trajetorias-de-identidade-pluralidade-e-orgulho-no-df.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/J5Iv6dAXiJeeGMuFRrfdXALLp1Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/E/RxLIwyTJWEKSzkr9gurA/a1120-df1-ge-limpo-20112026-frame-142325.jpeg",
-    "data": "2026-11-20T16:32:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Veja o que fazer em SP: Festival Consciência Negra, ExpoCannabis, Orgulho Nerd e Monobloco",
-    "resumo": "O feriado do Dia da Consciência Negra movimenta São Paulo nesta semana, com uma programação especial de shows gratuitos, cortejos, bailes black, exposições e atividades culturais espalhadas pelas cinco regiões da cidade. Entre os destaques estão Seu Jorge, Rachel Reis, Jota.Pê, Tasha e Tracie, Os Garotin e Rincon Sapiência, além de aprese",
-    "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/20/veja-o-que-fazer-em-sp-festival-consciencia-negra-expocannabis-orgulho-nerd-e-monobloco.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VYqLpLiyANVR8Eo-RxRwKD-Bxlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/K/6GkBrRT0uzVercBUq0Mw/fotojet-2026-11-17t112254.547.jpg",
-    "data": "2026-11-20T16:32:06.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Texas Prisoner Moaned as Drugs Flowed During Execution, Witnesses Say",
+    "resumo": "Prison personnel placed needles in the neck and foot of Reinaldo Dennes, who was convicted of killing a diamond broker 30 years ago. The lethal injection process took more than an hour.",
+    "link": "https://www.nytimes.com/2026/11/20/us/texas-execution-lethal-injection-reinaldo-dennes.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-texas-execution-01-jgwv/20nat-texas-execution-01-jgwv-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T17:31:55.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -42,34 +33,160 @@
     "resumo": "",
     "link": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
     "imagem": null,
-    "data": "2026-11-20T16:30:33.000Z"
+    "data": "2026-11-20T17:31:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher separada da filha recém-nascida é resgatada após 40 anos de trabalho sem salário em SP",
+    "resumo": "Trabalhadora doméstica foi resgatada após 40 anos de serviço sem salário em SP Uma trabalhadora doméstica de 62 anos foi resgatada após mais de 40 anos vivendo sob condições análogas à escravidão em uma casa de família na Zona Norte de São Paulo. A mulher prestava serviços para os mesmos patrões desde a juventude, sem nunca receber salári",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/mulher-separada-da-filha-recem-nascida-e-resgatada-apos-40-anos-de-trabalho-sem-salario-em-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/g7DSKTo7XdNZM9hFZiK-SvmSUoI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/x/y3PzALTBeFiJJu6RlDOw/fotojet-78-.jpg",
+    "data": "2026-11-20T17:30:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Manaus inicia programação natalina neste domingo com Parada Natalina e chegada do Papai Noel na Ponta Negra",
+    "resumo": "Programação de Natal em Manaus começa neste domingo (22) com shows e chegada do Papai Noel Foto: Divulgação/Prefeitura de Manaus A programação de Natal de Manaus começa neste domingo (22), às 18h, no complexo turístico Ponta Negra, com chegada do Papai Noel, Parada Natalina, acendimento das luzes e apresentações musicais. A campanha “Um S",
+    "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/20/manaus-inicia-programacao-natalina-neste-domingo-com-parada-natalina-e-chegada-do-papai-noel-na-ponta-negra.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VeYyJPrzzvhxNurTZ73uASX0pbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/x/yziy5oShuX25c5SIRL5A/programacao-natal.jpg",
+    "data": "2026-11-20T17:30:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Símbolo do protagonismo negro no balé, Ingrid Silva estreia como coreógrafa no interior de SP",
+    "resumo": "Bailarina Ingrid Silva apresenta espetáculo gratuito nesta sexta-feira em Garça Símbolo do protagonismo negro e da luta por representatividade na dança clássica, a bailarina carioca Ingrid Silva faz sua estreia como coreógrafa nesta sexta-feira (20), Dia da Consciência Negra, em Garça (SP). A pré-estreia do espetáculo \"Trama de Nós\" ocorr",
+    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/20/simbolo-do-protagonismo-negro-no-bale-ingrid-silva-estreia-como-coreografa-no-interior-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/eKETMQh80AWPVwjP2DY4e964k04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/V/ohfgqASPAJH6BlyDOfXw/dsc-3908.jpg",
+    "data": "2026-11-20T17:26:26.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "L.A. Wants to Clean Up MacArthur Park. Will Fencing It Off Work?",
+    "resumo": "The park near downtown Los Angeles has long been a disquieting example of the city’s struggles to address drug sales, homelessness and people struggling with mental health issues.",
+    "link": "https://www.nytimes.com/2026/11/20/us/los-angeles-macarthur-park-fence.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-macarthur-fence-02-fclq/20nat-macarthur-fence-02-fclq-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T17:24:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Três mortes, 17 cidades afetadas e casas destruídas: supercélula causa estragos no RS; Defesa Civil apura microexplosão",
+    "resumo": "Novas imagens mostram destruição em cidade afetada por tempestade no RS As tempestades que atingiram o Rio Grande do Sul entre a quinta-feira (19) e a sexta-feira (20) provocaram estragos em pelo menos 17 cidades gaúchas. Três mortes ocorreram em Tupanciretã, na Região Central do estado, onde a chuva forte com granizo e ventos de 114 km/h",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/tempestade-mortes-danos-tupancireta-rs-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qY_7XtdeUr6KLEVr-cnff_LeCLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/p/FJb2tGRy6lBSUH2f3djw/g1-67-.jpg",
+    "data": "2026-11-20T17:22:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Liberal",
+    "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+    "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "imagem": null,
+    "data": "2026-11-20T17:21:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem que espancou ex em salão de beleza vai a júri popular; vídeo mostra suspeito carregando mulher desacordada",
+    "resumo": "Homem leva mulher desacordada para dentro de carro após agressão em salão de BH A Justiça de Minas Gerais determinou que Marco Aurélio Salvino Pinto, acusado de tentar matar a ex-companheira dentro de um salão de beleza no bairro Jardim Montanhês, em Belo Horizonte, seja levado a júri popular. A decisão é da última quarta-feira (18) e tam",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/20/homem-que-espancou-ex-em-salao-de-beleza-vai-a-juri-popular-video-mostra-suspeito-carregando-mulher-desacordada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SYpoHVNXSD39K60-RqMbXQzlKjs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/gKrPdKTDKweT7QQrpyVw/fotojet-65-1-.jpg",
+    "data": "2026-11-20T17:20:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "DOAÇÕES: Veja como ajudar famílias atingidas pela tempestade em Tupanciretã, no RS",
+    "resumo": "Tempestade destelha casas no RS: ‘Destruiu a cidade’, diz prefeito Uma mobilização reúne pontos de coleta de donativos e uma campanha para ajudar as famílias atingidas pela tempestade em Tupanciretã, na Região Central do Rio Grande do Sul. Água potável, alimentos, lonas e materiais de higiene estão entre os itens solicitados. Conforme a D",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/doacoes-veja-como-ajudar-familias-atingidas-pela-tempestade-em-tupancireta-no-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YI9fLJYl1oV6VdB51G3z-HtMZsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/1/Icy3H3T8CfD5vauCrmeQ/g1-59-.jpg",
+    "data": "2026-11-20T17:19:57.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Temporais causam quedas de tenda, telhados e árvores e deixam feridos em SC; VÍDEO",
+    "resumo": "Tenda cede e deixa feridos na entrada da Festa das Flores de Joinville, SC Temporais causaram estragos, alagamentos e deixaram feridos em Santa Catarina nesta sexta-feira (20). Em Jaraguá do Sul, no Norte do estado, uma árvore caiu sobre uma motociclista e o telhado de um posto de combustíveis cedeu. Em Joinville, na mesma região, cinco p",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/20/temporais-causam-quedas-tenda-telhados-e-arvores-deixam-feridos-sc-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ou2gAY_8FGJRmppfEz_Q576gKWM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/i/wcHpg0SRuL9Bpv9mNMLQ/posto-de-combustiveis-jaragua-do-sul-2.jpeg",
+    "data": "2026-11-20T17:16:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Suspeito de integrar o Comando Vermelho é preso em parada de ônibus na Régis Bittencourt, em SP",
+    "resumo": "Integrante do CV procurado por tráfico é preso durante viagem de ônibus em rodovia no interior de SP PM Um homem de 38 anos apontado pela Polícia Militar como integrante do Comando Vermelho foi preso durante a parada de um ônibus interestadual na Rodovia Régis Bittencourt (BR-116), em Pariquera-Açu, no interior de São Paulo. Ele era procu",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/20/suspeito-comando-vermelho-preso-onibus-regis-bittencourt.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XqXbVWR1Bhu45PE6UNsqH0YHlrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/y/V42VfyRgGB9O0r08aWtw/inserir-um-titulo-2026-11-20t121507.102.jpg",
+    "data": "2026-11-20T17:15:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PF incinera 1,25 tonelada de drogas apreendidas no Maranhão",
+    "resumo": "PF incinera 1,25 tonelada de drogas apreendidas no Maranhão Reprodução/ PF A Polícia Federal incinerou aproximadamente 1,25 tonelada de drogas nessa quinta-feira (19), em São Luís. Os entorpecentes foram apreendidos durante operações de combate ao tráfico realizadas nos últimos meses. 📲 Clique aqui e se inscreva no canal do g1 Maranhão n",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/20/pf-incinera-125-tonelada-de-drogas-apreendidas-no-maranhao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Q4FtkhmO8D9wuuC603sEMT77F4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/7/7U0Z63ShqnlcRvdVs0Fg/montagens-1920-x-1080-px-36-.png",
+    "data": "2026-11-20T17:12:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Influenciador Gabriel Félix morreu antes de jogar futebol em encontro com amigos, diz prima",
+    "resumo": "Gabriel Félix, noivo da influenciadora Xsbel, morre aos 29 anos O influenciador digital Gabriel Augusto Mateus Félix, de 29 anos, sofreu um mal súbito na noite de quinta-feira (19), enquanto estava em um encontro para jogar futebol com amigos, em Campinas (SP). Ele passou mal, caiu e recebeu atendimento de emergência, mas não resistiu. A ",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/20/influenciador-gabriel-felix-sofreu-mal-subito-durante-partida-de-futebol-com-amigos-diz-prima.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rmTgAJTTBX1y-G5qyY_FtJEnvkI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/S/NCmN09Q0KBFrzfYxrHTg/design-sem-nome-8-1-.png",
+    "data": "2026-11-20T17:11:24.000Z"
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Anthropic shares fall a day after blockbuster opening",
-    "resumo": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-    "data": "2026-11-20T16:27:47.000Z"
+    "fonte": "DW Brasil",
+    "titulo": "Casos de covid crescem no Brasil mesmo com vacina sobrando",
+    "resumo": "Aumento de casos em 19 estados ocorre em meio à baixa procura pela imunização; especialistas apontam redução da percepção de risco e disseminação de desinformação sobre a segurança e a eficácia das vacinas.",
+    "link": "https://www.dw.com/pt-br/casos-de-covid-crescem-no-brasil-mesmo-com-vacina-sobrando/a-80004772?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-20T17:10:00.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Acidente entre ônibus e motocicleta deixa um morto e um ferido na TO-181",
-    "resumo": "Acidente foi na TO-181 PM-TO/Divulgação Uma pessoa morreu e outra ficou ferida após um acidente envolvendo uma motocicleta e um ônibus na TO-181, próximo a Araguaçu, na região sul do Tocantins. Segundo a Secretaria de Segurança Pública (SSP), a vítima foi identificada como Antônio Oliveira Lima, de 79 anos. 📱 Clique aqui para seguir o ca",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/20/acidente-entre-onibus-e-motocicleta-deixa-um-morto-e-um-ferido-na-to-181.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CDpOTV7EmqfgnaUYeHKfwMsT8Y4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/6/z/1cTvB9RwGMtezokEMQfg/404593.jfif",
-    "data": "2026-11-20T16:25:45.000Z"
+    "titulo": "'Brilho intenso e luz esverdeada': astrofísico explica meteoro visto nos céus da Paraíba",
+    "resumo": "Meteoro ilumina os céus em cidades da Paraíba A passagem de um meteoro chamou a atenção de moradores de João Pessoa e outras cidades da Paraíba na noite da quinta-feira (19). O fenômeno, que foi gravado por moradores em diversas partes do território do estado também despertou curiosidade. Veja as imagens acima. ✅ Clique aqui para seguir o",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/20/brilho-intenso-e-luz-esverdeada-astrofisico-explica-meteoro-visto-nos-ceus-da-paraiba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/alDQmAQNuDfcx78m3SbMEeQ3YnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/a/40MWH6QH2uF3ubvR4S8g/meteoro.png",
+    "data": "2026-11-20T17:08:07.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bebê recém-nascido é sequestrado de maternidade pública e localizado pela polícia na estrada, no Pará",
-    "resumo": "Bebê desaparece na Santa Casa, em Belém Um bebê recém-nascido sequestrado de dentro da Santa Casa de Misericórdia do Pará, em Belém, foi localizado pela Polícia Civil. A criança e a suspeita do crime foram encontradas na rodovia Alça Viária, na região metropolitana de Belém. De acordo com a polícia, o bebê passa bem e a mulher foi presa e",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/20/bebe-recem-nascido-e-sequestrado-de-maternidade-publica-e-localizado-pela-policia-na-estrada-no-para.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/42IJY1xOXjthwmwY-4VoqHbna3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Q/GrKivsQsyAoXLntcBCSw/20485-c0cce127-a8db-df2c-1eaa-9a58887bcb60.jpg",
-    "data": "2026-11-20T16:25:17.000Z"
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Teenage Engineering’s first CD player puts the spinning disc on display",
+    "resumo": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series [&#8230;]",
+    "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-20T17:05:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Top US Democrat warns Trump admin against destroying records",
+    "resumo": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T17:05:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+    "resumo": "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T17:05:32.000Z"
   },
   {
     "categoria": "Clima",
@@ -78,7 +195,79 @@
     "resumo": "<p>Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end</p><p>Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.</p><p>Civil society organisations have a special status at UN climate treaty summits. They ha",
     "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=140&quality=85&auto=format&fit=max&s=66719ec4342409e6ee6942c37a1d3b46",
-    "data": "2026-11-20T16:22:33.000Z"
+    "data": "2026-11-20T17:04:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Total de pacientes canábicos passa de 1 milhão no Brasil",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/total-de-pacientes-canabicos-passa-de-1-milhao-no-brasil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>De 2025 ",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/total-de-pacientes-canabicos-passa-de-1-milhao-no-brasil",
+    "imagem": null,
+    "data": "2026-11-20T17:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+    "resumo": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/4657x3136!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
+    "data": "2026-11-20T17:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "resumo": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-20T16:54:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Cost of living protests sweep across Europe",
+    "resumo": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+    "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3b8/live/b5cf3660-e501-11f1-a8e4-b1e12a49db15.jpg",
+    "data": "2026-11-20T16:45:34.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "resumo": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
+    "data": "2026-11-20T16:41:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+    "resumo": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T16:40:35.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "resumo": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics a",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-20T16:34:13.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+    "resumo": "<p>Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p>Anthropic’s shares fell at the start of its second d",
+    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+    "imagem": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=140&quality=85&auto=format&fit=max&s=2b419687828b47c2c71fe56585a333c1",
+    "data": "2026-11-20T16:26:07.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -90,76 +279,13 @@
     "data": "2026-11-20T16:22:15.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gato desaparecido há 23 dias é encontrado morto em caixa d'água fechada de prédio na Bela Vista, em SP",
-    "resumo": "Milo tinha 6 meses Arquivo pessoal O gato Milo, de seis meses, foi encontrado morto dentro de uma caixa d'água de um prédio na Bela Vista, no Centro de São Paulo, na última terça-feira (17), após passar 23 dias desaparecido. O reservatório estava lacrado, e o caso foi registrado pela Polícia Civil como possível crime de maus-tratos a anim",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/gato-desaparecido-ha-23-dias-e-encontrado-morto-em-caixa-dagua-fechada-de-predio-na-bela-vista-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HKxi2lmBqkdCmT4yOScbPgE8Jkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/s/yTcH8BTiya88Xmstx9EQ/fotojet-2026-11-20t130559.749.jpg",
-    "data": "2026-11-20T16:19:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 20 de novembro de 2026",
-    "resumo": "Assista aos vídeos das principais notícias de Santa Catarina.",
-    "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/20/videos-jornal-do-almoco-florianopolis-de-sexta-feira-20-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yT04hWOtBjOFFomoEJ2do6oEAD0=/s01.video.glbimg.com/deo/vi/05/71/15267105",
-    "data": "2026-11-20T16:19:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Funcionário do Saae vítima de explosão em fábrica de Salto é sepultado em Porto Feliz",
-    "resumo": "Fernando Luiz de Souza Santos era funcionário do Serviço Autônomo de Água e Esgoto (Saae) de Salto Reprodução O trabalhador de 36 anos que morreu após ficar ferido na explosão da fábrica Pyrozzar, em Salto (SP), será sepultado em Porto Feliz (SP) nesta sexta-feira (20). Conforme apurado pela TV TEM, o velório será no Cemitério Campo Santo",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/sepultamento-vitima-de-explosao-em-fabrica-de-salto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VxErhIEY_Hh_giU867Uz7_b4nGI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/t61MA7RAimCiXAWOzaqg/vitima.jpg",
-    "data": "2026-11-20T16:18:05.000Z"
-  },
-  {
-    "categoria": "Internacional",
+    "categoria": "Cultura",
     "fonte": "The Guardian",
-    "titulo": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
-    "resumo": "<p>Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news\">Business live – latest updates</a></p></li></ul><p>Anthropic’s shares have slumped at",
-    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "imagem": "https://i.guim.co.uk/img/media/5a0726c71af19332d1a3095553ff3acc6e341a62/1043_0_5270_4216/master/5270.jpg?width=140&quality=85&auto=format&fit=max&s=2b419687828b47c2c71fe56585a333c1",
-    "data": "2026-11-20T16:18:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Todo o comércio foi destruído', relata prefeito de Tupanciretã",
-    "resumo": "Três mortes são confirmadas pela Defesa Civil depois de tempestade em cidade do RS O prefeito de Tupanciretã, Gustavo Herter Terra, cidade destruída por fortes ventos de até 114km/h na madrugada desta sexta-feira relatou que os estragos ainda estão contabilizados, mas a reconstrução será um desafio: \"Todo o comércio foi destruído, indústr",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/comercio-destruido-prefeito-tupancireta-tempestade.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YI9fLJYl1oV6VdB51G3z-HtMZsg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/1/Icy3H3T8CfD5vauCrmeQ/g1-59-.jpg",
-    "data": "2026-11-20T16:17:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Gazeta Meio Dia - edição regional",
-    "resumo": "Assista ao Gazeta Meio Dia - edição regional Fique bem informado com o seu jornal da hora do almoço.",
-    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png",
-    "data": "2026-11-20T16:15:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF apreende cerca de 800 frascos de tirzepatida e canetas emagrecedoras no MA",
-    "resumo": "PF apreende cerca de 800 frascos de tirzepatida e canetas emagrecedoras no MA Reprodução/ PF A Polícia Federal (PF) apreendeu cerca de 800 frascos de tirzepatida e 26 canetas possivelmente utilizadas para aplicação de medicamentos emagrecedores nessa quinta-feira (19), no setor de cargas de uma empresa aérea no Aeroporto Marechal Cunha Ma",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/20/pf-apreende-cerca-de-800-frascos-de-tirzepatida-e-canetas-emagrecedoras-no-ma.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RWFfD--dgVpSLffPC7hI7xW0-L8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/H/XajlAdTLyAXVt0Iifk5w/montagens-1920-x-1080-px-35-.png",
-    "data": "2026-11-20T16:15:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Gazeta Meio Dia",
-    "resumo": "Assista ao Gazeta Meio Dia Fique bem informado com o seu jornal da hora do almoço.",
-    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8CpQ4TsHbu6uACKLyR_f_YUppqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/P/8/1CAMCYT0S4Dlzd6UrYnQ/gazeta-meio-dia.png",
-    "data": "2026-11-20T16:15:20.000Z"
+    "titulo": "Seth Meyers on Elon Musk saying he’s not Maga: ‘Trump’s closest allies are scrambling to get away’",
+    "resumo": "<p>Late-night hosts discussed Musk distancing himself from Trump as the president palled around with Putin in China</p><p>Late-night hosts mocked Elon Musk’s claim that he is “not Maga” and <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-",
+    "link": "https://www.theguardian.com/culture/2026/nov/20/seth-meyers-elon-musk-maga-trump",
+    "imagem": "https://i.guim.co.uk/img/media/646f2daf1d001b9462955609205f03066d97487b/272_0_1342_1074/master/1342.jpg?width=140&quality=85&auto=format&fit=max&s=77f89f6bae9edd6e1aac2c974fb533a7",
+    "data": "2026-11-20T16:14:29.000Z"
   },
   {
     "categoria": "Internacional",
@@ -189,22 +315,22 @@
     "data": "2026-11-20T16:10:12.000Z"
   },
   {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Trabalhadores e estudantes protestam por salários e serviços na Itália",
+    "resumo": "<p><strong>Milhares de trabalhadores e estudantes saíram às ruas por toda a <a href=\"https://agenciabrasil.ebc.com.br/tags/italia\" target=\"_blank\">Itália </a>nesta sexta-feira (20), quando o maior sindicato do país, a Confederação Geral Italiana do Trabalho (CGIL), organizou greve geral, para exigir salários mais altos e maior investiment",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trabalhadores-e-estudantes-protestam-por-salarios-e-servicos-na-italia",
+    "imagem": null,
+    "data": "2026-11-20T16:06:00.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+    "titulo": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
     "resumo": "As Spain prepares to vote, Vox is campaigning on mass deportations and &#039;national priority&#039;.",
     "link": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T16:05:31.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Industry minister announces new funding for auto manufacturing in Oakville, Ont.",
-    "resumo": "Industry Minister Mélanie Joly, appearing alongside Ontario Premier Doug Ford, the leader of Ford in Canada and Unifor's national president, is expected to announce new funding to support auto manufacturing in Oakville, Ont.",
-    "link": "https://www.cbc.ca/player/play/9.7429654?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/877c5432-569f-4247-8c3c-9891a0020fde,1795192521297/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-20T16:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -297,15 +423,6 @@
     "data": "2026-11-20T15:42:04.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Texas Execution Took an Hour as Prisoner Moaned in Pain, Witnesses Say",
-    "resumo": "Prison personnel placed needles in the neck and foot of Reinaldo Dennes, who was convicted of killing a diamond broker 30 years ago.",
-    "link": "https://www.nytimes.com/2026/11/20/us/texas-execution-lethal-injection-reinaldo-dennes.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-texas-execution-01-jgwv/20nat-texas-execution-01-jgwv-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T15:41:34.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "US army postpones plan to detonate bomb-making chemical amid outcry",
@@ -333,13 +450,13 @@
     "data": "2026-11-20T15:35:15.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Anthropic shares slide as AI sell-off hits global markets - as it happened",
-    "resumo": "<p>Rolling coverage of the latest economic and financial news</p><p>California has served an investigative subpoena on <strong>Nvidia</strong> after a scandal that <a href=\"https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns\">prompted the departure</a> of co-founder and longtime chief executive <strong>Jense",
-    "link": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
-    "imagem": "https://i.guim.co.uk/img/media/c93a0b576d6221af2c2b9afbf95a6ac624c4982c/806_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=62dc0d638763cb7d797064c3fceb7530",
-    "data": "2026-11-20T15:25:09.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "White nationalist demonstrators need to 'get out of our city,' Hamilton mayor says at 1st news conference",
+    "resumo": "After a demonstration that witnesses said included pro-Nazi chants, Hamilton community leaders are calling for a city-wide response to white supremacy and anti-immigrant hate. New Mayor Keanin Loomis's first news conference addressed the issue.",
+    "link": "https://www.cbc.ca/news/canada/hamilton/leaders-respond-to-pro-nazi-demonstration-9.7428715?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/f072fb5d-73b8-4b4e-9bc0-e2581cb25e89,1795125620389/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4240%2C2385%29%3B",
+    "data": "2026-11-20T15:21:52.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -347,7 +464,7 @@
     "titulo": "2 Earthquakes Strike Los Angeles Area and Central California",
     "resumo": "A 5.0-magnitude quake struck around Pinnacles, Calif., southeast of San Francisco. A few hours later, a 4.2-magnitude quake hit just outside of Los Angeles.",
     "link": "https://www.nytimes.com/2026/11/20/us/earthquakes-california-los-angeles-pinnacles.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/world/20wea-quake-tracker-northern-california-nyt3wei0-v2-index/20wea-quake-tracker-northern-california-nyt3wei0-v2-index-mediumSquareAt3X-v39.jpeg",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/world/20wea-quake-tracker-northern-california-nyt3wei0-v2-index/20wea-quake-tracker-northern-california-nyt3wei0-v2-index-mediumSquareAt3X-v44.jpeg",
     "data": "2026-11-20T15:20:39.000Z"
   },
   {
@@ -358,15 +475,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T15:18:26.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "What we know about the latest Russian missile strikes on Ukraine",
-    "resumo": "What we know about the latest Russian missile strikes on Ukraine.",
-    "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-20T15:14:01.000Z"
   },
   {
     "categoria": "Clima",
@@ -468,24 +576,6 @@
     "data": "2026-11-20T14:42:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hot potato: Can Japan resist Trump pressure to import food staple?",
-    "resumo": "Japan imports 60 percent of its food, but it fiercely draws the line at potatoes.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T14:38:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Outages in US cause worry, despite official attempts to downplay concerns",
-    "resumo": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T14:34:04.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
@@ -515,20 +605,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Tech stocks pull U.S. markets lower, Anthropic shares fall",
+    "titulo": "Nasdaq wipes out 2026 gains as Anthropic and AI stocks push lower",
     "resumo": "",
     "link": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.421607,1795181368260/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B",
+    "imagem": "https://i.cbc.ca/ais/c2297703-8600-4eb4-a058-f71bf329cfe6,1795194305622/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C40%2C3228%2C1815%29%3B",
     "data": "2026-11-20T14:04:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Xi’s greatest power is what he chooses not to do",
-    "resumo": "As Trump and Putin struggle to end their wars, China is gaining influence through restraint.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/20/xis-greatest-power-is-what-he-chooses-not-to-do?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T14:03:08.000Z"
   },
   {
     "categoria": "Opinião",
@@ -540,7 +621,7 @@
     "data": "2026-11-20T14:00:32.000Z"
   },
   {
-    "categoria": "Clima",
+    "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
     "resumo": "<p>Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream</p><p>On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts. Its crew had spent the past 12 days at sea, recording",
@@ -565,15 +646,6 @@
     "link": "https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-accidental-winners-top-pjwf/20nat-accidental-winners-top-pjwf-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-20T13:56:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "resumo": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-20T13:52:04.000Z"
   },
   {
     "categoria": "Brasil",
@@ -765,15 +837,6 @@
     "data": "2026-11-20T12:00:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Why the robots are ditching Uber",
-    "resumo": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, accordi",
-    "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-20T12:00:00.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "‘If they play dirty, we’ll be total and utter filth!’ Gasp-inducing sex-and-scandal drama War is here to stay",
@@ -830,7 +893,7 @@
   {
     "categoria": "Internacional",
     "fonte": "The Guardian",
-    "titulo": "‘Weak and dizzy’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+    "titulo": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
     "resumo": "<p>Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike</p><p>The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the",
     "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
     "imagem": "https://i.guim.co.uk/img/media/f0631e7f0d066c593ed1ce2fa13d17cce80723ae/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=fce73bbbbcc10fc7182723aafee933f3",
@@ -965,15 +1028,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "How exactly did Trump get so rich on crypto? We explain",
-    "resumo": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3224+0+0/resize/4000x3224!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F8f%2F9e5455a243c8b992264a02774d3d%2Fgettyimages-1188743848.jpg",
-    "data": "2026-11-20T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "New York City unveils a bold plan to move its jails off Rikers Island",
     "resumo": "New York City officials are moving forward with plans to close Rikers, the city&apos;s main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
     "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
@@ -983,10 +1037,10 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-    "resumo": "Plus: Are you up to date on your James Bond news? If so, you&apos;ll get at least one question right.",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffe%2F67%2F739e92b8400ab6cec0b96f5e74be%2Fchris-ncuti-mary.jpg",
+    "titulo": "How exactly did Trump get so rich on crypto? We explain",
+    "resumo": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3224+0+0/resize/4000x3224!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F8f%2F9e5455a243c8b992264a02774d3d%2Fgettyimages-1188743848.jpg",
     "data": "2026-11-20T10:00:00.000Z"
   },
   {
@@ -1015,15 +1069,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
     "data": "2026-11-20T09:44:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Zumbi é farol para luta em defesa da democracia, diz pesquisador",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/zumbi-e-farol-para-luta-em-defesa-da-democracia-diz-pesquisador\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/zumbi-e-farol-para-luta-em-defesa-da-democracia-diz-pesquisador",
-    "imagem": null,
-    "data": "2026-11-20T09:42:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1089,15 +1134,6 @@
     "data": "2026-11-20T08:01:25.000Z"
   },
   {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
-    "resumo": "<p>The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation</p><p>Andrey Zvyagintsev tells the tale of a knight who is riding through a dark forest and sees a stone sign at a fork in the road. The sign says that if he turns left he",
-    "link": "https://www.theguardian.com/film/2026/nov/20/andrey-zvyagintsev-covid-putin-russia-life-in-exile",
-    "imagem": "https://i.guim.co.uk/img/media/146c3d30723566dfb145291ced44ed074a396e30/468_0_9657_7726/master/9657.jpg?width=140&quality=85&auto=format&fit=max&s=5c9141ee1a8f92fc6a92709906217422",
-    "data": "2026-11-20T08:00:26.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Should AI be judging our credit worthiness?",
@@ -1152,15 +1188,6 @@
     "data": "2026-11-20T05:00:24.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Top White House Cybersecurity Official Is Replaced",
-    "resumo": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
-    "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-cyber-director-ckwm/19dc-cyber-director-ckwm-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T03:31:42.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "A 3-million-year-old child just made human evolution far more complicated",
@@ -1186,15 +1213,6 @@
     "link": "https://www.nytimes.com/2026/11/19/us/california-train-robberies-indictment.html",
     "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19nat-train-robberies-hgfv/19nat-train-robberies-hgfv-mediumSquareAt3X.jpg",
     "data": "2026-11-20T03:08:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Mega-Sena acumula e prêmio vai para R$ 45 milhões",
-    "resumo": "<p>Nenhum apostador acertou as seis dezenas do Concurso 3.088 da Mega-Sena, realizado nesta quinta-feira (19). <strong>O prêmio acumulou e está estimado em R$ 45 milhões para o próximo sorteio.</strong><img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1709492&o=rss\" style=\"width:1px; height:1px; display:inline;\" /><img src=\"https://ag",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-acumula-e-premio-vai-para-r-45-milhoes",
-    "imagem": null,
-    "data": "2026-11-20T01:20:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1269,24 +1287,6 @@
     "data": "2026-11-19T22:36:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Apple is hiring engineers to build its own AI agent",
-    "resumo": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI [&#8230;]",
-    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-19T22:31:41.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-    "resumo": "<p>AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai\">Anthropic’s historic stock market debut: key takeaways, ",
-    "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-    "imagem": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1d230408bbae396686d8049961356159",
-    "data": "2026-11-19T22:09:18.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Combustíveis fósseis: o que são e por que importam",
@@ -1303,15 +1303,6 @@
     "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
     "imagem": "https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=06325cc903a0fdb4227b8ce910ceefae",
     "data": "2026-11-19T20:07:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Escolas secretas educam crianças ucranianas sob ocupação russa",
-    "resumo": "Estudantes buscam alternativa às aulas obrigatórias impostas pelo Kremlin, onde se exibe propaganda de guerra. Famílias enfrentam risco de separação ou até detenção.",
-    "link": "https://www.dw.com/pt-br/escolas-secretas-educam-crianças-ucranianas-sob-ocupação-russa/a-79981727?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-19T19:58:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -1348,5 +1339,14 @@
     "link": "https://www.theguardian.com/artanddesign/2026/nov/19/a-sea-for-borrowed-time-review-palestinian-artists-imma-dublin",
     "imagem": "https://i.guim.co.uk/img/media/af3e4564633ee32975ba534ac0b633834e91f2ce/230_176_2563_2050/master/2563.jpg?width=140&quality=85&auto=format&fit=max&s=97fc2b35aeca39cf8e4ae4967abe2c2d",
     "data": "2026-11-19T16:58:24.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Dutch watchdog tells people not to buy AI smart glasses",
+    "resumo": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
+    "data": "2026-11-19T16:33:17.000Z"
   }
 ]
