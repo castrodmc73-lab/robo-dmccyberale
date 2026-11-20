@@ -1,48 +1,210 @@
 [
   {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "resumo": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-20T22:53:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Tech stock sell-off drags markets down as Anthropic shares slide",
+    "resumo": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+    "data": "2026-11-20T22:42:47.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Entenda o papel de cada indiciado por uso de imagem da filha de Omar Aziz em material de campanha de Maria do Carmo",
-    "resumo": "Maria do Carmo é indiciada: polícia investiga vídeo com ataques a Omar Aziz A ex-candidata ao governo do Amazonas Professora Maria do Carmo (PL) e outras cinco pessoas foram indiciadas pela Polícia Civil por suspeita de envolvimento na divulgação de conteúdos que associavam o governador eleito Omar Aziz (PSD) à pedofilia. Além da candidat",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/20/entenda-o-papel-de-cada-indiciado-por-uso-de-imagem-da-filha-de-omar-aziz-em-material-de-campanha-de-maria-do-carmo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aRlSAl4-xoLs20PU4E_edltMvtg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/qZVKUjSNeRyoAUaA2sXw/maria-do-carmo.jpg",
-    "data": "2026-11-20T22:04:07.000Z"
+    "titulo": "Após cortejo, corpo de subcomandante da PM morto no Peru é sepultado no Acre",
+    "resumo": "Corpo de segundo-tenente da PM morto em cidade peruana é sepultado no Acre O corpo do 2º tenente e subcomandante da Polícia Militar (PM-AC) de Assis Brasil, no interior do estado, Gilfran Gonçalves Marques, de 47 anos, morto a tiros enquanto andava de bicicleta nessa quinta-feira (19), em Iñapari, no Peru, foi sepultado na tarde desta sex",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/20/apos-cortejo-corpo-de-subcomandante-da-pm-morto-no-peru-e-sepultado-no-acre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IRzVcmdyGX76BVqmFoDrHtXOS54=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Z/0WiBcITgKOGyIlPrfTNg/midia-de-distribuicao-g1.png",
+    "data": "2026-11-20T22:42:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: portal de condomínio desaba durante temporal com ventos fortes em SC",
+    "resumo": "VÍDEO mostra portal de condomínio desabando durante temporal em SC O portal de entrada de um condomínio desabou durante o temporal que atingiu Joinville, no Norte de Santa Catarina, na manhã desta sexta-feira (20). Imagens feitas por moradores mostram o momento em que a estrutura da entrada cai no chão (assista acima). A força da chuva ta",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/20/video-portal-de-condominio-desaba-durante-temporal-ventos-fortes-sc.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ER1odw7gJVbmhjHS9o9bpH-tmrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/G/o9agnaSHSdRP72EaFvzQ/camera-registra-momento-em-que-portal-de-condominio-desaba-durante-temporal-em-joinville.png",
+    "data": "2026-11-20T22:41:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Comandante de aeronave sente cheiro forte de fumaça e declara emergência oito minutos após decolagem de avião no Paraná",
+    "resumo": "Corpo de Bombeiros foi acionado para atender fumaça em avião Foto: Antonio Neves/neves_spotters Um avião comercial que saiu do Aeroporto Regional de Pato Branco Professor Juvenal Loureiro Cardoso, no Sudoeste do Paraná, com destino a Curitiba, capital do estado, declarou emergência e precisou retornar logo após a decolagem por suspeita de",
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/20/comandante-de-aeronave-sente-cheiro-forte-de-fumaca-e-declara-emergencia-oito-minutos-apos-decolagem-de-aviao-no-parana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DlcEdAlzb67cCzgOn4nzMxb2w4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/E/uWLmLSQvmWpQeLBjw75w/fumaca-cadeira-rodas-aviao-pato-branco-decola.png",
+    "data": "2026-11-20T22:41:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Subaé",
+    "resumo": "Assista aos telejornais da TV Subaé",
+    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+    "imagem": null,
+    "data": "2026-11-20T22:41:07.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-    "resumo": "Siga o EPTV 2 Ribeirão e Franca Acompanhe as notícias desta sexta-feira (20).",
+    "resumo": "Siga o EPTV 2 Ribeirão e Franca Transmissão encerrada.",
     "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
     "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-    "data": "2026-11-20T22:03:19.000Z"
+    "data": "2026-11-20T22:40:58.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Bebê de 7 dias é socorrida por bombeiros após se engasgar durante alimentação em Teodoro Sampaio",
-    "resumo": "Bombeira do posto de Teodoro Sampaio (SP) aplicou manobra de desengasgo para salvar bebê de 7 dias: família levou criança para reencontro com salvadora, nesta sexta (20) Corpo de Bombeiros/Reprodução Uma recém-nascida de apenas sete dias de vida foi socorrida por bombeiros após se engasgar durante a alimentação com mamadeira, na tarde da ",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/20/bebe-de-7-dias-e-socorrida-por-bombeiros-apos-se-engasgar-durante-alimentacao-em-teodoro-sampaio.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-F01zfRZDIPqULgup8sW5n7PRrY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/U/4s11mYQZyMAeFGVCAxEw/pp-bebe-engasgada.jpeg",
-    "data": "2026-11-20T22:03:12.000Z"
+    "titulo": "Assista ao Boa Noite Espírito Santo",
+    "resumo": "Assista ao Boa Noite Espírito Santo As principais notícias do dia no Espírito Santo.",
+    "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png",
+    "data": "2026-11-20T22:40:51.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Assista ao BATV",
-    "resumo": "Assista ao BATV",
+    "titulo": "VÍDEOS: GR2 de sexta-feira, 20 de novembro de 2026",
+    "resumo": "Confira os vídeos do telejornal com as notícias do Sertão de Pernambuco.",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-sexta-feira-20-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/l59W5Dsbc54ukG0nMnMFCKlwE8w=/s01.video.glbimg.com/deo/vi/88/84/15268488",
+    "data": "2026-11-20T22:40:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Bahia",
+    "resumo": "Assista aos telejornais da TV Bahia",
     "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
     "imagem": null,
-    "data": "2026-11-20T22:00:23.000Z"
+    "data": "2026-11-20T22:40:25.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "AO VIVO: Assista ao JAC2 com Quésia Melo",
-    "resumo": "AO VIVO: Assista ao JAC2 com Quésia Melo g1 AC transmite os telejornais ao vivo.",
-    "link": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-jac2-com-quesia-melo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/y-WcmJH7VQJQg1Yi6fYiPp2h7-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/c/ohjkXqRXihrVxZx9l3rA/jac-2-22092026-1o-bloco.jpg",
-    "data": "2026-11-20T21:58:24.000Z"
+    "titulo": "Assista ao JAP2 desta sexta (20)",
+    "resumo": "Assista ao JAP2 desta sexta (20) O g1 transmite ao vivo, diariamente, os telejornais Bom Dia Amapá (7h), JAP1 (11h45) e JAP2 (19h05).",
+    "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap2-desta-terca-17.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ALQUezTXzllkjkiEY4O-SBlXHl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/1/xFETf0Sh6f4uVHPAUIKQ/whatsapp-image-2026-05-09-at-19.07.01.jpeg",
+    "data": "2026-11-20T22:40:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem de 27 anos morre após perder controle de skate e bater em ônibus na Zona Oeste de SP",
+    "resumo": "Um homem de 27 anos morreu após colidir com um ônibus coletivo enquanto descia de skate pela Avenida do Rio Pequeno, no bairro Rio Pequeno, na Zona Oeste de São Paulo, na manhã desta sexta-feira (20). Segundo a Secretaria da Segurança Pública (SSP), policiais militares foram acionados para atender à ocorrência. No local, apuraram que a ví",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/homem-de-27-anos-morre-apos-perder-controle-de-skate-e-bater-em-onibus-na-zona-oeste-de-sp.ghtml",
+    "imagem": null,
+    "data": "2026-11-20T22:39:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "French police officers sentenced for beating of music producer Michel Zecler",
+    "resumo": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-20T22:37:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cidade de SP entra em estado de atenção para alagamentos nesta sexta",
+    "resumo": "Zona Sul de São Paulo Gustavo Honório/g1 Algumas regiões da cidade de São Paulo entraram em estado de atenção para alagamentos às 19h13 desta sexta-feira (20). Segundo o Centro de Gerenciamento de Emergências Climáticas (CGE), da Prefeitura, o alerta é para as regiões Leste, Norte e Centro. Segundo o órgão, áreas de chuva formadas pelo ca",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/chuva-sp-estado-de-atencao-alagamentos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mxxJ88fFw5Yqgannwmd6tUW5pYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/R/YWz9MiQlGQlfGTFDM8vA/whatsapp-image-2025-12-12-at-15.30.38.jpeg",
+    "data": "2026-11-20T22:35:39.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+    "resumo": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T22:35:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
+    "resumo": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações da Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, fecharam em queda de 8,5% nesta sexta-feira (20), ",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-q0C26O08SToJ7HKLzSNAZNhj_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/NVfUm5SZq6i7kTRN7u4w/2026-11-19t164121z-1052802186-rc22roau8aoi-rtrmadp-3-usa-ipo-anthropic.jpg",
+    "data": "2026-11-20T22:34:15.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Alberta separatist leaders pursue different paths back into UCP fold",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/canada/calgary/alberta-separatist-leaders-post-referendum-united-conservative-9.7429982?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/8ee63af2-84bd-4eb0-8520-e621ea96ae28,1795198326418/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C102%2C2000%2C1125%29%3B",
+    "data": "2026-11-20T22:20:38.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
+    "resumo": "The New Hampshire secretary of state said he would again hold the Democratic primary first in the nation, defying the party’s intent to prioritize other states in 2028.",
+    "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T22:19:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "RS: ex-vereador está entre as vítimas da tempestade em Tupanciretã",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta",
+    "imagem": null,
+    "data": "2026-11-20T22:17:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+    "resumo": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+    "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T22:15:07.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "B.C. restaurant group alleges $2.1M in missing staff tips, sues payment company executives",
+    "resumo": "A B.C.-based restaurant group that operates Moxie's, Chop Steakhouse and Shark Club is suing six current and former executives and directors of a digital payment company over more than $2.1 million in funds allegedly owed to the group.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/northland-restaurant-group-missing-tips-9.7430320?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/483328f7-e603-4db1-9755-ce34f76b55dd,1795210449264/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4615%2C2595%29%3B",
+    "data": "2026-11-20T22:13:05.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+    "resumo": "AI stocks have hefty market values and have a much bigger impact on the market&apos;s direction. They were responsible for Wall Street&apos;s big gains this year and are now behind the big slide for the market.",
+    "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7561x5041+0+0/resize/7561x5041!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F44%2Fb43d4bb943bb9b380c4b94631ed4%2Fap26321557592396.jpg",
+    "data": "2026-11-20T22:11:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Renda de 73% de negras vítimas de violência é de até 2 salários mínimo",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/renda-de-73-de-negras-vitimas-de-violencia-e-de-ate-2-salarios-minimo\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: ",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/renda-de-73-de-negras-vitimas-de-violencia-e-de-ate-2-salarios-minimo",
+    "imagem": null,
+    "data": "2026-11-20T21:59:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -54,15 +216,6 @@
     "data": "2026-11-20T21:57:07.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
-    "resumo": "Assista ao Jornal Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-jornal-vanguarda-ao-vivo-no-g1.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png",
-    "data": "2026-11-20T21:56:08.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Here’s the latest.",
@@ -70,15 +223,6 @@
     "link": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
     "imagem": null,
     "data": "2026-11-20T21:55:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pedágio eletrônico é instalado na Raposo Tavares em Itapetininga; veja quando começa a cobrança",
-    "resumo": "Free flow do Contorno Sul da Rodovia dos Tamoios Divulgação/Tamoios Um pórtico de pedágio eletrônico foi instalado no quilômetro 189+350 da Rodovia Raposo Tavares (SP-270), próximo ao Distrito do Tupy, em Itapetininga (SP). O equipamento ainda não está em funcionamento e não realiza a cobrança dos motoristas. De acordo com a concessionári",
-    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/20/pedagio-eletronico-e-instalado-na-raposo-tavares-em-itapetininga-veja-quando-comeca-a-cobranca.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BtmT-xYmmpYW-gh0896Y1NRFz98=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/3/E/nFqvPtRtWuA6re7G6OPQ/whatsapp-image-2024-11-18-at-14.24.55.jpeg",
-    "data": "2026-11-20T21:55:03.000Z"
   },
   {
     "categoria": "Canadá",
@@ -90,13 +234,13 @@
     "data": "2026-11-20T21:54:02.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de fazer 'gato' de energia para abastecer obra é preso em Porto Velho",
-    "resumo": "Furto de energia, imagem de arquivo Reprodução/Energisa O responsável por uma obra de salas comerciais na região central de Porto Velho foi preso em flagrante na manhã de quinta-feira (19), suspeito de furtar energia elétrica. Uma fiscalização identificou uma ligação clandestina, conhecida como “gato”, usada para abastecer os equipamentos",
-    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/20/suspeito-de-fazer-gato-de-energia-para-abastecer-obra-e-preso-em-porto-velho.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/T1_MqnL7v9J_lV387-gPiez_gjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/8YsCfhQIOANBnLXBsMOQ/whatsapp-image-2026-10-19-at-11.25.34.jpeg",
-    "data": "2026-11-20T21:47:57.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Calgary man who threatened to kill Prime Minister Mark Carney in TikTok, YouTube videos pleads guilty",
+    "resumo": "A Calgary man who threatened to kill Prime Minister Mark Carney and one of his children in videos posted to social media pleaded guilty to a number of offences on Friday.",
+    "link": "https://www.cbc.ca/news/canada/calgary/jamie-dacosta-threats-prime-minister-mark-carney-guilty-plea-9.7430401?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1643916b-a001-4302-8225-156738805905,1789497877184/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-20T21:53:48.000Z"
   },
   {
     "categoria": "Internacional",
@@ -109,39 +253,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fernão Dias é interditada nos dois sentidos após alagamento causado por fortes chuvas em MG",
-    "resumo": "Fernão Dias é interditada nos dois sentidos após alagamento causado por fortes chuvas A Rodovia Fernão Dias teve o trânsito interrompido nos dois sentidos na tarde desta quinta-feira (19), em Itapeva (MG), por causa de um alagamento provocado pelas fortes chuvas na região. Segundo a concessionária responsável pela via, o acúmulo de água f",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/20/fernao-dias-e-interditada-nos-dois-sentidos-apos-alagamento-causado-por-fortes-chuvas-em-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-KuSoTrbIMefRGBHH5fx7BCuNHE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/q/YvPqB6RDWUSU5UfDUOYQ/whatsapp-image-2026-11-20-at-17.21.18.jpeg",
-    "data": "2026-11-20T21:43:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "AO VIVO: Assista ao GR2",
-    "resumo": "AO VIVO: Assista ao GR2 Acompanhe o GR2 desta sexta-feira (20), com apresentação de João Barbosa.",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/75nYMfj43UHs89N4E4HyaPWBWVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/n9BXJQSDe6xbPnD8Lcbg/img-20260620-115332373-hdr.jpg",
-    "data": "2026-11-20T21:43:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao BATV da TV Subaé",
-    "resumo": "Assista ao BATV da TV Subaé",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+    "fonte": "Agência Brasil",
+    "titulo": "Filme Camisas Negras retrata luta do Vasco contra o racismo em 1923",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923",
     "imagem": null,
-    "data": "2026-11-20T21:41:07.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: tremor de terra é sentido por moradores de cidade mineira e flagrado por câmera na zona rural",
-    "resumo": "Câmera registra tremor de terra em cidade de MG Um tremor de terra foi sentido pelos moradores de Frutal, no Triângulo Mineiro, na tarde desta sexta-feira (20). Uma câmera de segurança de um galpão na zona rural do município registrou o momento do abalo sísmico, que durou menos de 20 segundos. Veja acima. ✅ Clique aqui para seguir o canal",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/20/video-tremor-de-terra-e-sentido-por-moradores-de-cidade-mineira-e-flagrado-por-camera-na-zona-rural.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XevcgFa2sNRwQJcgK0TIqSagc6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/g/83XOPASZeOIumAKK8DCA/jl-midia-4-.gif",
-    "data": "2026-11-20T21:40:53.000Z"
+    "data": "2026-11-20T21:41:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -432,24 +549,6 @@
     "data": "2026-11-20T20:03:11.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Ron DeSantis Ponders a Presidential Run in a Post-Trump World",
-    "resumo": "In a wide-ranging interview, the governor of Florida talked about the potential timing of a presidential run. “I haven’t made any decisions,” he said.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/ron-desantis-florida-2028.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-desantis-01-qtlc/20pol-desantis-01-qtlc-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T20:02:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-    "resumo": "Other tech companies have also taken a hit as share markets broadly slump.",
-    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-    "data": "2026-11-20T20:00:53.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
@@ -477,19 +576,10 @@
     "data": "2026-11-20T19:45:20.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-    "resumo": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T19:40:07.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Rockstar says GTA VI made $3.79 billion in its first day",
-    "resumo": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
+    "resumo": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
     "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-20T19:35:06.000Z"
@@ -542,10 +632,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Feds, Ontario meet with Stellantis execs in last-ditch effort to save Brampton plant",
-    "resumo": "The federal and Ontario governments are meeting with auto executives from Stellantis on Friday in a last-ditch effort to save thousands of high-paying auto manufacturing jobs at the company's recently closed Brampton plant.",
+    "titulo": "Ontario Premier Ford says automaker Stellantis owes feds $873M",
+    "resumo": "Ontario Premier Doug Ford says Stellantis owes the federal government \"roughly\" $873 million, as Ottawa and the province look for a way to reopen the automaker's Brampton plant.",
     "link": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/8a646e33-607e-43f8-b8e7-3ecfb542ec29,1795201429186/full/max/0/default.jpg?im=Crop%2Crect%3D%281888%2C190%2C6678%2C3756%29%3B",
+    "imagem": "https://i.cbc.ca/ais/a0c00cdd-da4e-4b80-8cd3-d6d9181fa2f3,1795212439543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C353%2C8640%2C4860%29%3B",
     "data": "2026-11-20T19:09:55.000Z"
   },
   {
@@ -621,15 +711,6 @@
     "data": "2026-11-20T18:25:09.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Despite early start, Canada's flu season may be 'far from peak' as holidays approach",
-    "resumo": "Influenza appeared relatively early this fall, with a strain that often impacts younger adults. Medical experts aren't yet sure if this wave of infections will peter out before the holidays or if Canada will see a second surge of flu later in the winter.",
-    "link": "https://www.cbc.ca/news/health/flu-season-november-h1n1-9.7427025?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1ee0891f-18c8-4353-9a86-c255d2e1250f,1795117365918/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B",
-    "data": "2026-11-20T18:22:37.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Diferença salarial na UE: Mulheres trabalharão \"de graça\" até o fim do ano",
@@ -657,15 +738,6 @@
     "data": "2026-11-20T18:15:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Alberta separatist leaders pursue different paths back into UCP fold",
-    "resumo": "The United Conservative Party wants to be united once again, but fallout from the referendum is making that difficult.",
-    "link": "https://www.cbc.ca/news/canada/calgary/alberta-separatist-leaders-post-referendum-united-conservative-9.7429982?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/8ee63af2-84bd-4eb0-8520-e621ea96ae28,1795198326418/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C102%2C2000%2C1125%29%3B",
-    "data": "2026-11-20T18:13:21.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
@@ -673,15 +745,6 @@
     "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=140&quality=85&auto=format&fit=max&s=66719ec4342409e6ee6942c37a1d3b46",
     "data": "2026-11-20T18:11:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Estragos no RS atingem mais cidades além de Tupanciretã",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/estragos-no-rs-atingem-mais-cidades-alem-de-tupancireta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/estragos-no-rs-atingem-mais-cidades-alem-de-tupancireta",
-    "imagem": null,
-    "data": "2026-11-20T18:10:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -729,15 +792,6 @@
     "data": "2026-11-20T17:49:48.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Em lados opostos: Stefani e Dabrowski duelarão na Billie Jean King Cup",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/em-lados-opostos-stefani-e-dabrowski-duelarao-na-billie-jean-king-cup\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/em-lados-opostos-stefani-e-dabrowski-duelarao-na-billie-jean-king-cup",
-    "imagem": null,
-    "data": "2026-11-20T17:44:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Here are the Apple deals actually worth picking up ahead of Black Friday",
@@ -745,15 +799,6 @@
     "link": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-20T17:33:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Presidente do Supremo mantém prisão de Vorcaro",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>O presid",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro",
-    "imagem": null,
-    "data": "2026-11-20T17:18:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -900,15 +945,6 @@
     "data": "2026-11-20T15:35:15.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "2 Earthquakes Strike Los Angeles Area and Central California",
-    "resumo": "A 5.0-magnitude quake struck around Pinnacles, Calif., southeast of San Francisco. A few hours later, a 4.2-magnitude quake hit just outside of Los Angeles.",
-    "link": "https://www.nytimes.com/2026/11/20/us/earthquakes-california-los-angeles-pinnacles.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/world/20wea-quake-tracker-northern-california-nyt3wei0-v2-index/20wea-quake-tracker-northern-california-nyt3wei0-v2-index-mediumSquareAt3X-v63.jpeg",
-    "data": "2026-11-20T15:20:39.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
@@ -1008,15 +1044,6 @@
     "data": "2026-11-20T13:12:32.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-    "resumo": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-20T13:08:30.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
@@ -1107,15 +1134,6 @@
     "data": "2026-11-20T12:00:19.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Just how vulnerable are we to cyberattacks?",
-    "resumo": "In a week of outages, we&apos;re thinking about the rising threat of AI-powered cyberattacks. But sometimes, it&apos;s not the most sophisticated attack that&apos;s concerning, but the easy targets buried in old software.",
-    "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-    "imagem": null,
-    "data": "2026-11-20T12:00:00.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "‘If they play dirty, we’ll be total and utter filth!’ Gasp-inducing sex-and-scandal drama War is here to stay",
@@ -1123,15 +1141,6 @@
     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/20/war-final-episode-dominic-west-sienna-miller-hbo-max-sky-atlantic-now",
     "imagem": "https://i.guim.co.uk/img/media/cf0e3d3feb020a37ce5d2de59cd02332468b8c68/2761_1670_2476_1980/master/2476.jpg?width=140&quality=85&auto=format&fit=max&s=8953e2c3f8e10cca945c956193d4a684",
     "data": "2026-11-20T11:55:40.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "A Montrealer died in Istanbul. Authorities blame food poisoning but what we found suggests something else",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/canada/canadian-death-istanbul-9.7427069?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/d9112600-4d27-405d-ad7c-79e851cfcc87,1795041744935/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-20T11:39:04.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1163,15 +1172,6 @@
   {
     "categoria": "Opinião",
     "fonte": "The Guardian",
-    "titulo": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-    "resumo": "<p>It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers</p><p>AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being ",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-    "imagem": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
-    "data": "2026-11-20T11:00:31.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
     "titulo": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
     "resumo": "<p>Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism</p><p>It’s been a bad week for our computerized infrastructure. We’ve seen outages at <a href=\"https://www.the-independent.com/tech/microsoft-outage-why-what-caused-global-outlook-down-b3085576.html\">Microsof",
     "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
@@ -1179,13 +1179,13 @@
     "data": "2026-11-20T11:00:31.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "South Korea catches 111 students with new measures against exam cheating",
-    "resumo": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
-    "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg",
-    "data": "2026-11-20T10:16:19.000Z"
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+    "resumo": "<p>It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers</p><p>AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being ",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+    "imagem": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
+    "data": "2026-11-20T11:00:31.000Z"
   },
   {
     "categoria": "Internacional",
