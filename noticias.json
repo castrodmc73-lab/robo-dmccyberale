@@ -1,5 +1,68 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+    "resumo": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T02:25:33.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "GTA 6 breaks records as sales top $2bn - industry estimate",
+    "resumo": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+    "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+    "data": "2026-11-20T02:13:05.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "'Crypto King' faked kidnapping, created video for sympathy, defence says",
+    "resumo": "A lawyer defending one of so-called \"Crypto King\" Aiden Pleterski’s alleged kidnappers says the kidnapping was a \"farce\" and that Pleterski created a video pretending to be kidnapped in order to gain sympathy from his investors, who were trying to recover funds from him.",
+    "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-kidnapping-trial-defence-9.7429201?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3d85390c-b6af-422d-811b-c5a474252314,1795132604702/full/max/0/default.jpg?im=Crop%2Crect%3D%2822%2C0%2C3839%2C2159%29%3B",
+    "data": "2026-11-20T02:10:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "FOTOS: confira os destaques da primeira noite da Micareta de Feira em imagens",
+    "resumo": "Micareta de Feira divulga horários das atrações; confira programação completa A primeira noite da Micareta de Feira de Santana foi marcada por desfiles de diversos artistas, coo Claudia Leitte, Timbalada, Robyssão e muito mais. 📲 Micareta de Feira divulga horários das atrações; confira programação completa Nos bastidores, a equipe de rep",
+    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/19/fotos-confira-os-destaques-da-micareta-de-feira-em-imagens.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/r4X54rw4oSyfKNSgqD826slGU5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/w/lZ5i0FRBAIBVyjy1IGtQ/claudialeitte-fotojuliogomestvsubae2.jpeg",
+    "data": "2026-11-20T02:07:33.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+    "resumo": "<p>If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariah</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https:",
+    "link": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+    "imagem": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=140&quality=85&auto=format&fit=max&s=ec31418de2ee6aa3a2433d6d06ad0d05",
+    "data": "2026-11-20T02:00:18.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+    "resumo": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
+    "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
+    "data": "2026-11-20T01:52:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: MG2 de quinta-feira, 19 de novembro de 2026",
+    "resumo": "Assista aos vídeos das principais notícias de Minas Gerais.",
+    "link": "https://g1.globo.com/mg/minas-gerais/mg2/playlist/videos-mg2-de-quinta-feira-19-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5aj_agGONSoeJOM6HHFzc4tIdNY=/s01.video.glbimg.com/deo/vi/04/53/15265304",
+    "data": "2026-11-20T01:40:48.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
@@ -27,13 +90,22 @@
     "data": "2026-11-20T01:32:24.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
-    "resumo": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
-    "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-tech-backlash-2to-zbpj/20nat-tech-backlash-2to-zbpj-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T01:27:28.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "resumo": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+    "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-20T01:29:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Mega-Sena acumula e prêmio vai para R$ 45 milhões",
+    "resumo": "<p>Nenhum apostador acertou as seis dezenas do Concurso 3.088 da Mega-Sena, realizado nesta quinta-feira (19). <strong>O prêmio acumulou e está estimado em R$ 45 milhões para o próximo sorteio.</strong><img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1709492&o=rss\" style=\"width:1px; height:1px; display:inline;\" /><img src=\"https://ag",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mega-sena-acumula-e-premio-vai-para-r-45-milhoes",
+    "imagem": null,
+    "data": "2026-11-20T01:20:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -144,15 +216,6 @@
     "data": "2026-11-20T00:54:50.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vereadora é denunciada pelo MP por xenofobia e lesão corporal contra suíço durante discussão no Eusébio",
-    "resumo": "Vereadora Wanda Morais, do Eusébio (CE), é denunciada pelo MPCE por xenofobia e lesão corporal contra suíço Reprodução A vereadora Wanda Morais (Democracia Cristã), do município de Eusébio, na Região Metropolitana de Fortaleza, foi denunciada nesta quinta-feira (19) pelo Ministério Público do Ceará (MPCE) pelos crimes de lesão corporal e ",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/19/vereadora-e-denunciada-por-xenofobia-e-lesao-corporal-contra-suico-durante-discussao-no-eusebio.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sq221N7-5Gss1b4Jz-NrpBP2Rmw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/c/YrM8wCSBuHMINbB5tEdQ/vereadora-wanda.jpg",
-    "data": "2026-11-20T00:54:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "CN derailments into Skeena River raise fresh concerns over shipping hazardous materials through northwest B.C.",
@@ -160,15 +223,6 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/cn-derailment-diesel-skeena-oil-by-rail-9.7429141?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/727658ea-d734-4c12-8ebb-b5ddaa4d0a9d,1795135156203/full/max/0/default.jpg?im=Crop%2Crect%3D%28274%2C219%2C1457%2C819%29%3B",
     "data": "2026-11-20T00:53:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Temporal causa alagamentos em diversas ruas de Volta Redonda",
-    "resumo": "Temporal causa alagamentos em diversas ruas de Volta Redonda Um temporal atingiu Volta Redonda (RJ) na noite desta quinta-feira (19) e causou alagamentos em diferentes pontos da cidade. Foram registrados casos nos bairros Vila Santa Cecília, Santo Agostinho e Centro. Imagens enviadas a produção da TV Rio Sul mostram ruas tomadas pela água",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/19/temporal-causa-alagamentos-em-diversas-ruas-de-volta-redonda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pESWK3jqEq_9oSmJ4-3ud0uryR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/5/ywl9uXSpAcbLuSQnnW6Q/whatsapp-image-2026-11-19-at-21.33.03-1-.jpeg",
-    "data": "2026-11-20T00:51:58.000Z"
   },
   {
     "categoria": "Internacional",
@@ -317,8 +371,8 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "U.S. sanctions Canadian branch of Italian criminal organization, including funeral homes in Toronto area",
-    "resumo": "The United States on Thursday announced sanctions targeting what authorities described as the Canadian arm of the 'Ndrangheta, an Italian Mafia group.",
+    "titulo": "U.S. sanctions Italian mafia's alleged Canadian branch, including Toronto-area funeral homes",
+    "resumo": "The United States on Thursday announced sanctions targeting what authorities described as the Canadian arm of the 'Ndrangheta, one of Italy's most powerful criminal organizations.",
     "link": "https://www.cbc.ca/news/canada/ndrangheta-canada-us-sanctions-luigi-vescio-sr-9.7429102?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/cadac400-2143-4852-8d62-cf7f91ee973e,1795132709954/full/max/0/default.jpg?im=Crop%2Crect%3D%2877%2C40%2C1265%2C711%29%3B",
     "data": "2026-11-19T23:44:26.000Z"
@@ -450,15 +504,6 @@
     "data": "2026-11-19T22:45:36.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Europa luta para não ficar à margem do futuro da Ucrânia",
-    "resumo": "Berlim reuniu aliados de Kiev em cúpula para cobrar espaço nas negociações de paz, enquanto Trump, Putin e Xi se encontravam paralelamente na China.",
-    "link": "https://www.dw.com/pt-br/europa-luta-para-não-ficar-à-margem-do-futuro-da-ucrânia/a-79997957?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-19T22:36:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Apple is hiring engineers to build its own AI agent",
@@ -513,15 +558,6 @@
     "data": "2026-11-19T21:58:27.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Tumbler Ridge shooter used ChatGPT to build 3D gun parts, U.S. magazine reports",
-    "resumo": "Mother Jones reports that ChatGPT helped killer Jesse Van Rootselaar make a 3D-printed gun magazine and foregrip, and gave advice on how to fix a spring, before the deadly mass shooting on Feb. 10.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/mother-jones-tumbler-ridge-chatgpt-3d-gun-parts-9.7428555?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/eb0c6165-4b5c-42a3-835e-ce99c1dcc39b,1795120645648/full/max/0/default.jpg?im=Crop%2Crect%3D%28328%2C473%2C2403%2C1351%29%3B",
-    "data": "2026-11-19T21:55:05.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Fire at Railroad Tie Plant in Alabama Closes Schools and Prompts Evacuations",
@@ -567,24 +603,6 @@
     "data": "2026-11-19T21:12:06.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
-    "resumo": "The appeals court&#039;s ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
-    "link": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T21:11:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ten killed in Pakistan as bus crashes into gas tanker",
-    "resumo": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-19T21:09:24.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Fiona the hippo dies after ingesting visitor's hat",
@@ -592,33 +610,6 @@
     "link": "https://www.cbc.ca/news/world/fiona-hippo-dies-9.7428804?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/d7f0ad06-b048-4128-91fb-09e203958b0e,1795121801909/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C264%2C5073%2C2853%29%3B",
     "data": "2026-11-19T21:01:08.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "More cadets, more money, less training: Military defends controversial suspension",
-    "resumo": "The second-in-command of Canada's military stood behind the decision to suspend most cadet training in various parts of the country, suggesting the program is swamped by an increase in participation and struggling not to blow its annual budget.",
-    "link": "https://www.cbc.ca/news/politics/cadets-defence-training-budget-9.7428707?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b184e0f3-ae51-4b6c-b627-1d5808b202c6,1795119970288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C326%2C6260%2C3521%29%3B",
-    "data": "2026-11-19T20:46:24.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Combustíveis fósseis: o que são e por que importam",
-    "resumo": "Dos motores da Revolução Industrial à crise climática: entenda como carvão, petróleo e gás natural moldaram o mundo moderno e por que cientistas defendem sua substituição para conter o aquecimento global.",
-    "link": "https://www.dw.com/pt-br/combustíveis-fósseis-o-que-são-e-por-que-importam/a-79994658?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-19T20:35:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Xi, Trump e Putin sinalizam disposição para diálogo entre potências",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/xi-trump-e-putin-sinalizam-disposicao-para-dialogo-entre-potencias\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/xi-trump-e-putin-sinalizam-disposicao-para-dialogo-entre-potencias",
-    "imagem": null,
-    "data": "2026-11-19T20:33:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -666,15 +657,6 @@
     "data": "2026-11-19T20:04:45.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Escolas secretas educam crianças ucranianas sob ocupação russa",
-    "resumo": "Estudantes buscam alternativa às aulas obrigatórias impostas pelo Kremlin, onde se exibe propaganda de guerra. Famílias enfrentam risco de separação ou até detenção.",
-    "link": "https://www.dw.com/pt-br/escolas-secretas-educam-crianças-ucranianas-sob-ocupação-russa/a-79981727?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-19T19:58:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
@@ -718,6 +700,15 @@
     "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-19T19:33:22.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
+    "resumo": "Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.",
+    "link": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B",
+    "data": "2026-11-19T19:33:17.000Z"
   },
   {
     "categoria": "Canadá",
@@ -831,7 +822,7 @@
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "US army plan to detonate bomb-making chemicals has Iowa residents bracing for lead dust cloud",
-    "resumo": "<p>Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed</p><p>Plans by the US army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in south-east Iowa worried that a cloud of lead dust could cause environmental c",
+    "resumo": "<p>Officials recommend that residents in path of expected toxic plume vacate area, and some schools will be closed</p><p>The US army has <a href=\"https://x.com/SecArmy/status/2123574872559493304\">delayed its plan</a> to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks.</p><p>",
     "link": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
     "imagem": "https://i.guim.co.uk/img/media/f9ff8b258e98b63a54fb8be6a5cbf04c66591154/0_0_4618_3697/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=badb0991f687de78267f9b4ae0eb9338",
     "data": "2026-11-19T17:18:08.000Z"
@@ -898,15 +889,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
     "data": "2026-11-19T16:33:17.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "The moral panic over Neets needs to stop. The problem is bad jobs, not young people | Aditya Chakrabortty",
-    "resumo": "<p>Milburn’s review doesn’t ask what kind of work young people will be going into: zero hours, minimum wage, mind-numbing. Do we have the guts to solve that?</p><p>One big number has been repeated over and over this week: 1 million. As ministers and journalists keep telling us, about 1 million 16- to 24-year-olds are not in education, emp",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/19/alan-milburn-jobs-neets-crisis-young-people-zero-hours",
-    "imagem": "https://i.guim.co.uk/img/media/c5868e0b9b7d4489aa9577231f20bfbb9c9771d3/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=cba7668180ca738af3530733df01787f",
-    "data": "2026-11-19T16:27:08.000Z"
   },
   {
     "categoria": "Clima",
@@ -1271,10 +1253,10 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
-    "resumo": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
-    "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6725x4486+0+0/resize/6725x4486!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe3%2F62%2F69bf609f410296d428db07c311d6%2Fgettyimages-2305300345.jpg",
+    "titulo": "Muslims will outnumber Christians worldwide by 2035, report says",
+    "resumo": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
+    "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3825x2550+0+0/resize/3825x2550!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F33%2Fa9%2F06089dc548abaaae295e93dc98ed%2Fap26296421881981.jpg",
     "data": "2026-11-19T10:00:00.000Z"
   },
   {
@@ -1285,15 +1267,6 @@
     "link": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
     "imagem": "https://i.guim.co.uk/img/media/9f57ba9d5e7f9ed5bfc10dd82f5dcdcde10b2020/497_0_3703_2962/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=d584aa31cc111b9e9a02f2521a765572",
     "data": "2026-11-19T07:16:45.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Gilts v kilts: What is happening with Scottish government bonds?",
-    "resumo": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
-    "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-19T06:15:57.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1348,5 +1321,32 @@
     "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a424/live/fe3f6bb0-e428-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-19T00:49:19.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+    "resumo": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
+    "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aec/live/3ca33b80-6077-11ef-aea1-e764981585c4.jpg",
+    "data": "2026-11-19T00:05:31.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "resumo": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b62/live/ccbeb3f0-e407-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-19T00:00:59.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "The seven Anthropic founders who are about to become multi-billionaires",
+    "resumo": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+    "data": "2026-11-18T23:42:07.000Z"
   }
 ]
