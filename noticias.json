@@ -1,12 +1,264 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
+    "resumo": "Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job.",
+    "link": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-mcbride-ckvt/21dc-mcbride-ckvt-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T10:02:28.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "A Chicago Park Is Infested With Rats. Is a Wealthy Couple to Blame?",
+    "resumo": "People keep spreading nuts in a Chicago park, attracting rodents and neighbors’ fury. Officials are not sure how to stop it.",
+    "link": "https://www.nytimes.com/2026/11/21/us/chicago-lincoln-park-rats.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21nat-rats-billionaire--02-pmvk/21nat-rats-billionaire--02-pmvk-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T10:01:59.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The California Grandparents Accused of Killing Jonathan McKinsey, Their Son-in-Law",
+    "resumo": "Jonathan McKinsey, 40, was gunned down in a suburban park after spending time with his three children. His wife’s parents have been charged with murder.",
+    "link": "https://www.nytimes.com/2026/11/21/us/jonathan-mckinsey-shooting-in-laws.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-dublin-shooting-01-tbgv/20nat-dublin-shooting-01-tbgv-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T10:01:06.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "5 ways to turn off your &apos;work brain&apos; after the day ends",
+    "resumo": "Don&apos;t let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4356x2904+0+0/resize/4356x2904!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3e%2F55%2F5987a64f424b84b128aba38ba342%2Fnpr-lr-stop-thinking-about-work-harlan-3.jpg",
+    "data": "2026-11-21T10:01:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
+    "resumo": "A blitz of new Trump administration policies are set to upend the lives of international students again, making it harder for them to live and work in the United States.",
+    "link": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/00dc-international-students-01-thmq/00dc-international-students-01-thmq-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T10:00:31.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "A Punk Rocker’s Painful Wait for Wheelchair Repairs",
+    "resumo": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating.",
+    "link": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
+    "imagem": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-wheelchair-repairs-mcft/00nat-wheelchair-repairs-mcft-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T10:00:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: Bebê de 2 meses se acalma ao ouvir João Gomes e ganha mesversário temático no Acre",
+    "resumo": "Bebê de 2 meses se acalma ao ouvir João Gomes e ganha mesversário temático no AC 🎶 E aqui dentro vai guardando o medo, mantendo em segredo o que deve mostrar... Se depender de Filippo Guerra, de apenas 2 meses, as tradicionais canções de ninar têm um concorrente de peso: o cantor nordestino João Gomes. É que em um vídeo gravado pela mãe,",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/21/video-bebe-de-2-meses-se-acalma-ao-ouvir-joao-gomes-e-ganha-mesversario-tematico-no-acre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/sYb_VcA6Wa0_H0a4g6nYjja7smY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/eGwOrESM6kqqBfDxfDXw/nao-apagar-montagem-federal-5-.png",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Conheça a Caverna 'Vão da Zuada' e saiba como chegar ao atrativo turístico no Tocantins",
+    "resumo": "Conheça a Caverna Vão da Zuada e saiba como chegar ao atrativo turístico no interior do To A cerca de 35 quilômetros do centro de Babaçulândia, na região norte do Tocantins, uma formação geológica monumental, com mais de mil metros de extensão esculpidos em rocha de arenito, abriga a Caverna Vão da Zoada. O local atrai exploradores que en",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/21/conheca-a-caverna-vao-da-zuada-e-saiba-como-chegar-ao-atrativo-turistico-no-tocantins.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QOZdZCePQYtgVgRTcqK1ee5ohxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/e/IdmJjuRGGnbkMNIedzEg/copia-de-modelo-foto-fundo-borrado-45-.png",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O que se sabe sobre a morte de subcomandante da PM do Acre assassinado no Peru",
+    "resumo": "Corpo de segundo-tenente da PM morto em cidade peruana é sepultado no Acre O segundo-tenente da Polícia Militar do Acre (PM-AC) Gilfran Gonçalves Marques, de 47 anos, foi assassinado a tiros na tarde de quinta-feira (19), enquanto andava de bicicleta em Iñapari, no Peru. O militar era subcomandante da corporação em Assis Brasil, no interi",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/21/o-que-se-sabe-sobre-a-morte-de-subcomandante-da-pm-do-acre-assassinado-no-peru.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FH2dX_mbHOVKOCKeAc2MI8ikubw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/h/ZYqX3cTj6CBoUvwwVJAQ/midia-de-distribuicao-g1.png",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Corpo de produtor rural é levado de carro de boi para cemitério em MG",
+    "resumo": "Corpo de produtor rural é levado de carro de boi para o cemitério em Itapecerica (MG) A paixão pelo carro de boi marcou a despedida do produtor rural José Benedito Lopes, conhecido como “Senhor Zezinho”, em Itapecerica, no Centro-Oeste de Minas Gerais. Ele morreu nesta semana e foi levado ao cemitério em um carro de boi. Segundo amigos, o",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/21/corpo-de-produtor-rural-e-levado-de-carro-de-boi-para-cemiterio-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/xrl24bzgD_Mn_YKRFCLW94il9PE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/G/Sq97ARSGaNKBbKj19zEw/zezinho-carro-de-boi.png",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ação oferece passeio de vela gratuito na Baía de Guanabara para cariocas e turistas até 20 de dezembro",
+    "resumo": "Adultos e crianças participam da Velejada dos Dez Mil, iniciativa da CBVela para ampliar o acesso ao esporte Divulgação/CBVela Cariocas e turistas vão poder explorar o Rio de Janeiro de uma outra perspectiva. Até o dia 20 de dezembro, a Confederação Brasileira de Vela (CBVela) oferece passeios de vela gratuitos pela Baía de Guanabara. A i",
+    "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/11/21/acao-oferece-passeio-de-vela-gratuito-na-baia-de-guanabara-para-cariocas-e-turistas-ate-20-de-dezembro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RHxXFcNQ0srbNMVLblIl78FWLlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/B/AkYw7fQgmmXPvLgVKpBw/imagem-cortada-10-.jpg",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Anthropic says it will put humanity first. Will its IPO change that?",
+    "resumo": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
+    "resumo": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here&apos;s what to know.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+    "resumo": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8055x5370+0+0/resize/8055x5370!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe0%2F5117a4fb400e8b75168010b72ece%2Fgettyimages-1244621687.jpg",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "resumo": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+    "data": "2026-11-21T09:52:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "China commits to low-carbon electrification and help for others to improve",
+    "resumo": "<p><strong>Exclusive:</strong> Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035</p><ul><li><p><a href=\"https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates\">Cop31 live – latest updates</a></p></li></ul><p>China is pushing for rapid electrificat",
+    "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+    "imagem": "https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=140&quality=85&auto=format&fit=max&s=71e768ed29a219f5ff58d9520b737a67",
+    "data": "2026-11-21T09:47:57.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Empresário que percorreu mais de 70 km em 19 horas a pé bateu recorde em teste durante treinamento",
+    "resumo": "Empresário bate recorde ao percorrer a pé quase 73 km da Estrada do Ferro em 19 horas O empresário Thales Medici da Vinci Cardoso, de 37 anos, que percorreu mais de 70 km em 19 horas a pé, de Aparecida de Goiânia até Leopoldo de Bulhões, bateu o recorde de maior distância caminhada em 24 horas no Brasil durante um teste realizado no trein",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/21/empresario-que-percorreu-mais-de-70-km-em-19-horas-a-pe-bateu-recorde-em-teste-durante-treino.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/L-zhhKUgJX9AMLJlWC1KI85cB74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/4UcAUSQB6TLWDFB3ZRjQ/padrao-foto-texto-g1-2026-11-18t132356.202.jpg",
+    "data": "2026-11-21T09:47:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Bom Dia Sábado",
+    "resumo": "Assista ao Bom Dia Sábado",
+    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "imagem": null,
+    "data": "2026-11-21T09:43:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pep Guardiola bate papo com Gilberto Gil e curte roda de samba em Salvador",
+    "resumo": "Pep Guardiola em roda de samba em Salvador Redes sociais De passagem em Salvador, o treinador e ex-jogador de futebol espanhol, Pep Guardiola, teve uma agenda cheia na sexta-feira (20). Entre um compromisso e outro, o ídolo do Barcelona bateu um papo com Gilberto Gil e ainda aproveitou uma roda de samba no centro da cidade. Guardiola part",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/21/pep-guardiola-em-salvador.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/teZV0iabgBllTzcTWp9f8FVNYHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/r/yxDgvTSCmAsNrRq1TkaA/foto-2-uruguai-6-.png",
+    "data": "2026-11-21T09:42:18.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "resumo": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+    "data": "2026-11-21T09:40:55.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
-    "titulo": "Cop31 live: NGOs urge world to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-    "resumo": "<p>Though the climate talks officially finished on Friday, no final deal was agreed and there are growing concerns an agreement may not be possible</p><p>I have been talking to a few people here who are close to the negotiations and the Australian presidency about what we might expect today, and the order we might expect it in.</p><p>And ",
+    "titulo": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+    "resumo": "<p>Though the climate talks officially finished on Friday, no final deal was agreed. NGOs are warning that this summit might fall disastrously short of what is needed</p><p>Civil society is a little thin on the ground in the halls of the Cop31 conference today after 17 campaigners were refused entry.</p><p>Everyone attending on a badge li",
     "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1d274057a4ebd6ff4aa1f040f7f5e016",
-    "data": "2026-11-21T09:04:19.000Z"
+    "data": "2026-11-21T09:39:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
+    "resumo": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T09:38:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "FBI reportedly investigating apparent hack of its criminal database",
+    "resumo": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-21T09:34:20.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+    "resumo": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T09:30:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Fire sprinkler sprays water at flame-covered sign in China",
+    "resumo": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T09:20:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vídeo mostra moto tombar antes de jovem ser atropelada por caminhão; mãe cobra respostas",
+    "resumo": "Motociclista de 25 anos morre em acidente com caminhão em São Vicente Uma motociclista de 25 anos morreu após se envolver em um acidente com um caminhão em São Vicente, no litoral de São Paulo. A mãe de Giovanna Corrêa Baptista Vieira cobra esclarecimentos após testemunhas contestarem a versão registrada no boletim de ocorrência (BO) da P",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/21/video-motociclista-atropelada-caminhao-mae-cobra-respostas-sao-vicente.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6fDsuY134Cqs0otTZLuW8Tq_f7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/v/dFp8srRAuFuPMTyBuegw/acidente-giovanna.jpg",
+    "data": "2026-11-21T09:15:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Neymar vira tapete com Coringa ao fundo e artesão viraliza com 'Neypete'; VÍDEO",
+    "resumo": "Santista produz tapete com rosto de Neymar e sonha entregar homenagem ao ídolo Um tapete com o rosto de Neymar e o Coringa ao fundo reuniu 2,9 milhões de visualizações no Instagram e pode ser o caminho para um encontro esperado desde 2011. O “Neypete” foi feito pelo artesão Igor Martinelli Cruz, de 26 anos, morador de Santos, no litoral d",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/21/neymar-vira-tapete-com-coringa-ao-fundo-e-artesao-viraliza-com-neypete-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AiklVigc5DYvfoHd15EYz5rAYmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/h2M9XUTTm258WqIG6XBg/neypete.jpg",
+    "data": "2026-11-21T09:15:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Coelhão: morto a tiros em padaria foi absolvido em caso de PM sequestrado, torturado e executado",
+    "resumo": "Carlos Leonardo de Morais Pinto, de 44 anos, foi morto a tiros em Santos g1 Santos e Redes sociais Carlos Leonardo de Moraes Pinto, conhecido como Coelhão, que foi morto a tiros em uma padaria de Santos, no litoral de São Paulo, já foi investigado pela execução do soldado da Polícia Militar (PM) Luís Fernando Amieiro, em 2011. O réu, poré",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/21/coelhao-morto-tiros-padaria-santos-absolvido-morte-pm.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bQElB1fiDRmmbGdB_4PSmkiz0xU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/B/xPkIlTRCyayCRpPt0sJA/carlos-5-.jpg",
+    "data": "2026-11-21T09:15:23.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "French police officers guilty of Michel Zecler assault: What happens now?",
+    "resumo": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T09:12:14.000Z"
   },
   {
     "categoria": "Internacional",
@@ -36,51 +288,6 @@
     "data": "2026-11-21T09:00:01.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ana Carolina, Onze:20 e Mamão: veja quais artistas inspiraram os petiscos do Festival Botecar 2026 em Juiz de Fora",
-    "resumo": "Festival Botecar reúne 25 bares com petiscos inspirados na música regional em Juiz de Fora Uma música pode ficar gravada na memória por conta da letra, da melodia, do ritmo... e também do sabor! A segunda edição do Festival Botecar em Juiz de Fora tem como tema \"Os sabores que tocam a gente\" e reúne 25 bares que se inspiraram na música pa",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/21/ana-carolina-onze20-e-mamao-veja-quais-artistas-inspiraram-os-petiscos-do-festival-botecar-2026-em-juiz-de-fora.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EkHMEEw8vRlhz8La_W6qOJqHkCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/P/AfdlnJRkWEnzLus6FYOg/an-bar-encostar-na-tua-festival-botecar-2026.png",
-    "data": "2026-11-21T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Conheça Pandro Nobã, artista da Zona Norte do Rio que pintou ilustração da capa de edição internacional de 'Um Defeito de Cor'",
-    "resumo": "Pandro e a capa de Um Defeito de Cor Reprodução Pandro Nobã, artista da Zona Norte do Rio, teve uma de suas pinturas escolhida para ilustrar a capa de 'Um Defeito de Cor', livro de Ana Maria Gonçalves, na edição de Portugal. Com trajetória iniciada no graffiti, o artista leva referências da cultura urbana, da ancestralidade negra e das re",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/21/conheca-pandro-noba-artista-da-zona-norte-do-rio-que-pintou-ilustracao-da-capa-de-edicao-internacional-de-um-defeito-de-cor.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/fKcfnHZ1f1gM1vli2041X97WAiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/v/WrNkxlTgSG1caGupHHWQ/blank-2-grids-collage-1-.png",
-    "data": "2026-11-21T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mesmo com abertura de vagas, 88% dos bares de Ribeirão Preto relatam dificuldade para contratar mão de obra",
-    "resumo": "Um levantamento da Associação Brasileira de Bares e Restaurantes (Abrasel) aponta que 88% dos bares e restaurantes de Ribeirão Preto (SP) enfrentam dificuldades para contratar mão de obra. Segundo a entidade que reúne 320 associados em Ribeirão Preto, esse problema ocorre justamente em um momento propício para a abertura de postos de trab",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/21/mesmo-com-abertura-de-vagas-88percent-dos-bares-de-ribeirao-preto-relatam-dificuldade-para-contratar-mao-de-obra.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/34pQgb2YwWdcyJxRIHOmSxRAghQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/eCVgf9QziuDoeZgnZsoQ/vlcsnap-2026-10-15-20h26m34s592.png",
-    "data": "2026-11-21T09:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cachoeiras, mirantes e rios: Divinópolis ganha trilha de 12 km para bicicletas",
-    "resumo": "Esporte: circuito Volta da Preguiça é reinaugurado em Divinópolis Divinópolis conta agora com um circuito para passeios e treinos de bicicleta. É o “Circuito Volta da Preguiça - Encontro dos Rios”. A trilha tem cerca de 12 km e passa por vários pontos turísticos naturais da cidade, como cachoeiras, mirantes e o encontro dos rios Pará e It",
-    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/21/cachoeiras-mirantes-e-rios-divinopolis-ganha-trilha-de-12-km-para-bicicletas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QB0xMrY6tm60WQnQGrAqTibDUU0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/A/VEQb3kQ9OB3XJb5Amw5A/whatsapp-image-2026-11-20-at-18.21.47.jpeg",
-    "data": "2026-11-21T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
-    "resumo": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after an internal document shows top officials talked about the need for a short-term fix.",
-    "link": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B",
-    "data": "2026-11-21T09:00:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "A Canadian study pinned a baby's death on codeine passed through breast milk. 20 years on, it's been retracted",
@@ -96,6 +303,15 @@
     "resumo": "Elon Musk has certainly seemed to embrace the Make America Great Again movement. Why does that matter? Because the Tesla and Space X CEO now appears to be distancing himself.",
     "link": "https://www.cbc.ca/news/world/elon-musk-maga-distance-9.7429741?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/300d1cdc-0ceb-49b5-a2e8-76c5bc74bd47,1795188920144/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "data": "2026-11-21T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+    "resumo": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after an internal document shows top officials talked about the need for a short-term fix.",
+    "link": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B",
     "data": "2026-11-21T09:00:00.000Z"
   },
   {
@@ -153,24 +369,6 @@
     "data": "2026-11-21T08:26:22.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Entenda como marqueteiro do PL articulou disparo de conteúdo que levou a indiciamento de Maria do Carmo e integrantes da campanha",
-    "resumo": "George Wilde, indiciado pela Polícia Civil Reprodução O marqueteiro George Wilde é apontado pela Polícia Civil como um dos responsáveis pelo comando de uma estrutura de marketing digital que produziu e divulgou um vídeo contra o governador eleito do Amazonas, Omar Aziz (PSD), durante a campanha eleitoral de 2026, usando a imagem da filha ",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/21/entenda-como-marqueteiro-do-pl-articulou-disparo-de-conteudo-que-levou-a-indiciamento-de-maria-do-carmo-e-integrantes-da-campanha.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/b9yywtTj22RVj_UFO4SXxZmYIv4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/tymzTWSZa0jRqmz7LkJA/george-wilde-indiciado-pela-policia-civil.jpg",
-    "data": "2026-11-21T08:19:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Morre Phumzile Mlambo-Ngcuka, 1ª mulher vice da África do Sul e ex-chefe da ONU Mulheres",
-    "resumo": "Phumzile Mlambo-Ngcuka, ex-diretora da ONU Mulheres, participa da conferência Global Citizen NOW em Nova York, em 28 de abril de 2023. Seth Wenig/AP Phumzile Mlambo-Ngcuka, primeira mulher a ocupar a vice-presidência da África do Sul e ex-subsecretária-geral das Nações Unidas, morreu aos 71 anos, anunciou o governo sul-africano nesta sext",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/21/morre-phumzile-mlambo-ngcuka-1a-mulher-vice-da-africa-do-sul-e-ex-chefe-da-onu-mulheres.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DOIOIPB2AUsDKV1C6QdhAlrYjBE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/6/dRCIfoS1W4TueeXROdqg/ap26325037916802.jpg",
-    "data": "2026-11-21T08:14:21.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
@@ -207,51 +405,6 @@
     "data": "2026-11-21T08:00:52.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ex-gari que perdeu olho e nariz após 73 cânceres de pele ganha próteses personalizadas",
-    "resumo": "Catarinense que enfrentou 73 tumores ganha próteses que ajudam a reconstruir o rosto A ex-gari Hilaria Mireski, de 62 anos, enfrentou 73 cânceres de pele que resultaram na perda do nariz e de um olho. Nesta semana, a moradora de Itaiópolis, no Norte de Santa Catarina, viveu um momento especial ao iniciar uma reabilitação facial. Ela tem a",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/21/catarinense-perdeu-olho-nariz-apos-73-canceres-pele-proteses-personalizadas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dk8mYKg-m3Wae1TdRWiyfjsnm7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/yHjWI2S3yygc6Kls7pfA/proteses-hilaria-.png",
-    "data": "2026-11-21T08:00:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dia da Televisão: primeira afiliada da Globo nasceu em Uberlândia e teve reportagens enviadas de carona para outras cidades",
-    "resumo": "Initial plugin text Imagine acompanhar uma notícia que foi gravada em outra cidade, mas que só conseguiu chegar à televisão depois de pegar uma carona. Antes da internet, dos celulares e das transmissões digitais, a equipe de uma emissora mineira precisava encontrar maneiras criativas de fazer a informação viajar. As reportagens eram grav",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/memoria-tvintegracao/noticia/2026/11/21/dia-da-televisao-primeira-afiliada-da-globo-nasceu-em-uberlandia-e-teve-reportagens-enviadas-de-carona-para-outras-cidades.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mAA-5JfDB1OAnNonQ-puHXr6gSs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/m/cDRxfySzaURAnjFA1zyQ/design-sem-nome-10-.png",
-    "data": "2026-11-21T08:00:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Unesp 2027: veja horários, o que levar e o que pode eliminar candidatos na 1ª fase no domingo",
-    "resumo": "Unesp 2027: g1 terá resolução comentada ao vivo e gabarito oficial neste domingo A primeira fase do Vestibular da Universidade Estadual Paulista (Unesp) 2027 será realizada neste domingo (22). Ao todo, 65.706 candidatos disputam 5.850 vagas em 137 cursos de graduação oferecidos em 24 cidades do estado de São Paulo. 📱 Siga o g1 São Carlos",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/21/unesp-2027-veja-horarios-o-que-levar-e-o-que-pode-eliminar-candidatos-na-1a-fase-no-domingo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-CQFbM6PdlqPFW2uuuMtOgsUJY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/Z/x/VBw7zDQHyBir7ep1vhXQ/revisao-conteudo.jpeg",
-    "data": "2026-11-21T08:00:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Estudante que recebeu carta com ofensas na faculdade relata crise de ansiedade e pensa em mudar de unidade: 'Abalada'",
-    "resumo": "Monik Mota Melo, estudante do 7º período da Universidade Estácio de Sá. Reprodução redes sociais A estudante de Direito Monik Mota Melo, de 7º período da Universidade Estácio de Sá, chegou a pensar em mudar de unidade depois de receber uma encomenda com sabonetes vencidos e uma carta com ofensas à sua aparência durante uma aula, no campus",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/21/estudante-carta-com-ofensas-relata-crise-de-ansiedade.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Bx61uZaUh76DIsfYzxI24wpV3co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/t/7P343nRUA5ddam77CsuA/imagem-cortada-2026-11-20t171108.818.jpg",
-    "data": "2026-11-21T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Calor de até 37°C e pancadas de chuva: veja a previsão para o fim de semana no Vale do Paraíba",
-    "resumo": "Sol em Taubaté Lucas Tavares O Vale do Paraíba deve ter um fim de semana com temperaturas típicas de verão, com máximas acima dos 30°C neste sábado (21) e domingo (22). A previsão também indica possibilidade de pancadas de chuva, principalmente no fim da tarde. A expectativa é de que as condições do tempo sejam semelhantes nos dois dias, ",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/21/calor-de-ate-37c-e-pancadas-de-chuva-veja-a-previsao-para-o-fim-de-semana-no-vale-do-paraiba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/66BxA1otM3iGTaJqJ0dE_KrGj6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/iJ3QABRDqHZ0Cqqo84sA/foto-g1.jpg",
-    "data": "2026-11-21T08:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Can mediation succeed in a war-torn world? | Episode 1",
@@ -259,15 +412,6 @@
     "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-21T07:38:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "resumo": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-    "data": "2026-11-21T07:31:05.000Z"
   },
   {
     "categoria": "Internacional",
@@ -288,15 +432,6 @@
     "data": "2026-11-21T07:12:03.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
-    "resumo": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T07:07:59.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "I hated life as a Neet. But now I’ve found a job, life is just as precarious | Emilija Morrison",
@@ -306,33 +441,6 @@
     "data": "2026-11-21T07:00:51.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Train collides with minibus in Indonesia",
-    "resumo": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T06:55:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sudan’s war will end, but will it be too late?",
-    "resumo": "Pressure from within Sudan may achieve what international diplomacy has not.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T06:32:04.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Netanyahu is playing with the fire that killed Rabin",
-    "resumo": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T06:21:03.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "Why is Shabana Mahmood tackling ‘two-tier policing’ if she doesn’t believe it exists? | Gaby Hinsliff",
@@ -340,15 +448,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/21/shabana-mahmood-two-tier-policing-britain-public-myth",
     "imagem": "https://i.guim.co.uk/img/media/d312b15dce26033bfb7d9aeedd7c64e13d66b718/390_0_5328_4264/master/5328.jpg?width=140&quality=85&auto=format&fit=max&s=72dff6819db0035ac5edfd859213605c",
     "data": "2026-11-21T06:00:49.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-    "resumo": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
-    "data": "2026-11-21T06:00:09.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -394,15 +493,6 @@
     "link": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-permitting-fzpt/20dc-trump-permitting-fzpt-mediumSquareAt3X.jpg",
     "data": "2026-11-21T03:41:06.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
-    "resumo": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense.",
-    "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20INMAN-01-pjqf/20INMAN-01-pjqf-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T02:40:42.000Z"
   },
   {
     "categoria": "Ciência",
@@ -459,24 +549,6 @@
     "data": "2026-11-21T02:06:07.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
-    "resumo": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T01:43:40.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
-    "resumo": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history.",
-    "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/00nat-hfo-arson-verdict-hlvb/00nat-hfo-arson-verdict-hlvb-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T01:08:11.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Portugal estreia com vitória de virada na Copa do Mundo de vela no RJ",
@@ -493,24 +565,6 @@
     "link": "https://www.nytimes.com/2026/11/20/us/fbi-investigation-fulton-county-2020-election.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-fulton-election-doj-SWAP-qjph/20pol-fulton-election-doj-SWAP-qjph-mediumSquareAt3X.jpg",
     "data": "2026-11-21T01:01:22.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Leaked Draft Report Finds ‘Catastrophic’ Training Failures at ICE",
-    "resumo": "The Trump administration graduated thousands of new ICE officers through a training regiment that one instructor called a “catastrophic failure,” according to a draft copy of a Department of Homeland Security inspector general’s report obtained by the Times. Our immigration reporter Hamed Aleaziz explains.",
-    "link": "https://www.nytimes.com/video/us/100000011291007/leaked-draft-report-finds-catastrophic-training-failures-at-ice.html",
-    "imagem": null,
-    "data": "2026-11-21T00:55:25.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
-    "resumo": "The New Hampshire secretary of state said he would again hold the Democratic primary first in the nation, defying the party’s intent to prioritize other states in 2028.",
-    "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T00:42:11.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -657,7 +711,7 @@
     "data": "2026-11-20T21:38:21.000Z"
   },
   {
-    "categoria": "Internacional",
+    "categoria": "Economia",
     "fonte": "The Guardian",
     "titulo": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
     "resumo": "<p>The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders\">Who are Anthropic’s seven co-founders, now worth $180bn?</a></p></li></ul><p>As Anthropic’s ",
@@ -801,15 +855,6 @@
     "data": "2026-11-20T19:32:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-    "resumo": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
-    "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
-    "data": "2026-11-20T19:27:49.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
@@ -862,15 +907,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
     "imagem": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=c96f1dbb295a5a260fd6f209bce3372a",
     "data": "2026-11-20T18:26:08.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "A second judge blocks Trump&apos;s arch, saying it&apos;s unlikely to succeed in court",
-    "resumo": "A federal judge in Virginia said she will issue a preliminary injunction against Trump&apos;s arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/6968x4645!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg",
-    "data": "2026-11-20T18:25:09.000Z"
   },
   {
     "categoria": "Internacional",
@@ -963,15 +999,6 @@
     "data": "2026-11-20T17:05:52.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-    "resumo": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/4657x3136!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
-    "data": "2026-11-20T17:00:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -1006,15 +1033,6 @@
     "link": "https://www.theguardian.com/culture/2026/nov/20/seth-meyers-elon-musk-maga-trump",
     "imagem": "https://i.guim.co.uk/img/media/646f2daf1d001b9462955609205f03066d97487b/272_0_1342_1074/master/1342.jpg?width=140&quality=85&auto=format&fit=max&s=77f89f6bae9edd6e1aac2c974fb533a7",
     "data": "2026-11-20T16:14:29.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "How Orchestra Noir turned classical music into a cultural movement",
-    "resumo": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x4480+0+0/resize/6720x4480!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F34%2Fdf%2F22aec2e24cc3b15da15248e56479%2F0d7a40131-1.jpg",
-    "data": "2026-11-20T16:12:18.000Z"
   },
   {
     "categoria": "Economia",
@@ -1078,15 +1096,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
     "imagem": "https://i.guim.co.uk/img/media/ea4c1580da70e3a7298c2a8cec2937d0daea7dca/440_0_4620_3697/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=bed2e1622f0afad0e1d23da92ef87fed",
     "data": "2026-11-20T15:00:33.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Trump touts meeting with Xi and Putin but offers little results",
-    "resumo": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/5742x3827!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
-    "data": "2026-11-20T15:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
     "imagem": "https://i.guim.co.uk/img/media/7298fc5c87ed7c445360fa35f598662e4d8a510d/624_0_2779_2223/master/2779.jpg?width=140&quality=85&auto=format&fit=max&s=810844650f584edda94e8970574c9af8",
     "data": "2026-11-20T05:00:24.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "A 3-million-year-old child just made human evolution far more complicated",
-    "resumo": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a su",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-    "imagem": null,
-    "data": "2026-11-20T03:17:52.000Z"
   }
 ]
