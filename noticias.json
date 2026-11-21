@@ -1,21 +1,219 @@
 [
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Defesa Civil de BH emite alertas de chuvas intensas com risco de enxurradas e alagamentos",
-    "resumo": "A Defesa Civil de Belo Horizonte emitiu um alerta de chuvas intensas com risco de enxurradas e alagamentos na noite desta sexta-feira (20). O órgão também alertou para a possibilidade de inundações na Rua Joaquim Murtinho.",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/20/defesa-civil-emite-alertas-de-chuvas-intensas-com-risco-de-enxurradas-em-bh.ghtml",
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
+    "resumo": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T01:43:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Can Africa’s new credit rating agency change how the continent is assessed?",
+    "resumo": "The new African agency aims to bring greater transparency to credit ratings.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-21T00:19:05.000Z"
+    "data": "2026-11-21T01:36:10.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Dez anos após votar pelo Brexit, Reino Unido ensaia volta à aproximação com União Europeia",
-    "resumo": "Confira a previsão do tempo para a região de São Carlos e Araraquara Dez anos depois de decidir sair da União Europeia, os britânicos sentem as perdas na economia, e começam buscar uma reintegração com o bloco europeu. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia É uma reaproximação ainda tímida, mas histórica. Rein",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/dez-anos-apos-votar-pelo-brexit-reino-unido-ensaia-volta-a-aproximacao-com-uniao-europeia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Slq3U-tlYvvDq_6FFQfz1PRwGa0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/ZRbm4ySE27XNoMxjUj8Q/globo-canal-5-20261120-2000-frame-99968.jpeg",
-    "data": "2026-11-21T00:12:35.000Z"
+    "titulo": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
+    "resumo": "Entidades médicas brasileiras lançam o primeiro protocolo padrão para prevenção de câncer de próstata O Novembro Azul é o mês de conscientização para a prevenção de câncer de próstata. A maioria dos homens só procura o médico quando começam os sintomas. Uma nova orientação médica quer ampliar o diagnóstico precoce e as chances de cura. 📱",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gN-3UKG8hnsWKv1CFHOdtusFOk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/W/1IvPEBSliBqsavYAsnLQ/globo-canal-5-20261120-2000-frame-131552.jpeg",
+    "data": "2026-11-21T01:26:36.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Takeaways From Trump’s Post-Trip News Conference",
+    "resumo": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/takeaways-from-trumps-post-asia-trip-news-conference.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T01:24:30.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
+    "resumo": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested.",
+    "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T01:20:47.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Secret audio captures 'Crypto King' planning his own kidnapping, defence lawyer says",
+    "resumo": "So-called \"Crypto King\" Aiden Pleterski sounded \"cool and collected\" in a secret audio recording taken by his alleged kidnappers, according to one of their defence lawyers, who suggested the recording was made as an \"insurance policy\" to show the kidnapping was a hoax.",
+    "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-kidnapping-trial-9.7430973?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3d85390c-b6af-422d-811b-c5a474252314,1795132604702/full/max/0/default.jpg?im=Crop%2Crect%3D%2822%2C0%2C3839%2C2159%29%3B",
+    "data": "2026-11-21T01:17:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
+    "resumo": "100 milhões de brasileiros começaram a receber o 13º salário Cem milhões de brasileiros já começaram a receber a primeira parcela do décimo-terceiro. A prioridade de muita gente é quitar dívidas em atraso. Mas, o dinheiro também vai aquecer o comércio, neste fim de ano. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia É",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rvpvSFfRv5rDW2kNBPKzFrC8YSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/D/bAqVaLS0mwHAFlsSQa1Q/globo-canal-5-20261120-2000-frame-126643.jpeg",
+    "data": "2026-11-21T01:16:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+    "resumo": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T01:12:48.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
+    "resumo": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history.",
+    "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/00nat-hfo-arson-verdict-hlvb/00nat-hfo-arson-verdict-hlvb-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T01:08:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+    "resumo": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e questões da economia brasileira. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A semana mais curta p",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RxLDgtYQbckWQtbWN2wyG2x9T9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/H6WHdTQAmuF9LSPWXtqA/globo-canal-5-20261120-2000-frame-121492.jpeg",
+    "data": "2026-11-21T01:01:51.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "F.B.I. Is Still Looking for Evidence That Georgia’s 2020 Election Was Rigged",
+    "resumo": "On Friday, investigators interviewed the former head of elections in Fulton County. Their questions suggested that they are still pursuing debunked claims of widespread fraud.",
+    "link": "https://www.nytimes.com/2026/11/20/us/fbi-investigation-fulton-county-2020-election.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-fulton-election-doj-SWAP-qjph/20pol-fulton-election-doj-SWAP-qjph-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T01:01:22.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
+    "resumo": "The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through Congress.",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-permitting-fzpt/20dc-trump-permitting-fzpt-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T00:57:33.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Leaked Draft Report Finds ‘Catastrophic’ Training Failures at ICE",
+    "resumo": "The Trump administration graduated thousands of new ICE officers through a training regiment that one instructor called a “catastrophic failure,” according to a draft copy of a Department of Homeland Security inspector general’s report obtained by the Times. Our immigration reporter Hamed Aleaziz explains.",
+    "link": "https://www.nytimes.com/video/us/100000011291007/leaked-draft-report-finds-catastrophic-training-failures-at-ice.html",
+    "imagem": null,
+    "data": "2026-11-21T00:55:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+    "resumo": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T00:55:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Países europeus reagem após ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas em Kiev",
+    "resumo": "França pede reunião do Conselho de Segurança da ONU Países europeus reagiram depois de ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas. A França pediu uma reunião do Conselho de Segurança da ONU. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Reunidos na China, eles falaram sobre paz e estabili",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/paises-europeus-reagem-apos-ataques-da-russia-a-ucrania-matarem-oito-pessoas-e-atingirem-embaixadas-em-kiev.ghtml",
+    "imagem": null,
+    "data": "2026-11-21T00:47:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Imagens mostram antes e depois de empresas atingidas por temporal em Tupanciretã, no RS",
+    "resumo": "Imagens mostram antes e depois de empresa atingida por temporal em Tupanciretã, no RS Uma supercélula com indícios microexplosão e ventos de 114 km/h atingiram o município de Tupanciretã, na Região Central do Rio Grande do Sul, na madrugada desta sexta-feira (20). Houve três mortes confirmadas e dezenas de feridos. A Defesa Civil aponta q",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/antes-e-depois-empresas-temporal-tupancireta-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-Z4U2ZAueFxeeI63zJFt_Vp4u_Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/s/ENomzFSMqK2gwZukBqvA/g1-2026-11-20t211622.918.jpg",
+    "data": "2026-11-21T00:47:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: JL2 de sexta-feira, 20 de novembro",
+    "resumo": "Assista aos vídeos do telejornal com notícias do Pará.",
+    "link": "https://g1.globo.com/pa/para/edicao/2026/11/20/videos-jl2-de-sexta-feira-20-de-novembro.ghtml",
+    "imagem": null,
+    "data": "2026-11-21T00:46:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: JL1 de sexta-feira, 20 de novembro",
+    "resumo": "Assista aos vídeos do telejornal com notícias do Pará.",
+    "link": "https://g1.globo.com/pa/para/edicao/2026/11/20/videos-jl1-de-sexta-feira-20-de-novembro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3M7O0elW41CaPpF2Tp3eCy6nUqQ=/s01.video.glbimg.com/deo/vi/03/73/15267303",
+    "data": "2026-11-21T00:45:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Tempestade atinge cidades do Vale do Paraíba e causa alagamentos em Lorena e Aparecida nesta sexta",
+    "resumo": "Chuva forte atinge cidades do Vale do Paraíba Choveu forte em cidades do Vale do Paraíba no fim da tarde e começo da noite desta sexta-feira (20). Em Lorena e Aparecida, houve alagamento em diversos pontos. Não havia balanço da Defesa Civil do estado de São Paulo sobre possíveis estragos até 21h. No meio da tarde, o órgão emitiu um alerta",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/20/tempestade-atinge-cidades-do-vale-do-paraiba-e-causa-alagamentos-em-lorena-e-aparecida-nesta-sexta-feira.ghtml",
+    "imagem": null,
+    "data": "2026-11-21T00:44:42.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
+    "resumo": "The New Hampshire secretary of state said he would again hold the Democratic primary first in the nation, defying the party’s intent to prioritize other states in 2028.",
+    "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T00:42:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Tremor de terra é sentido no Acre e assusta moradores de Rio Branco e Cruzeiro do Sul",
+    "resumo": "Piscinas e lustres de casas balançaram durante tremor de terra percebido no Acre Um tremor de terra sentido na noite desta sexta-feira (20) assustou moradores em pelo menos dois municípios do Acre. A movimentação foi percebida em Rio Branco e em Cruzeiro do Sul, mas não houve ocorrências graves. Imagens feitas por moradores mostram que pi",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/20/tremor-de-terra-e-sentido-e-assusta-moradores-no-acre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rx3wkui_rfhQ6tdBxE_Pnefa1Ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/B4obhBQlmB1pzmA2095Q/terremoto-peru.jpg",
+    "data": "2026-11-21T00:41:53.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Irmã de Gabi Morais é presa dois dias depois da ex-jogadora, em Fortaleza",
+    "resumo": "Francisca Emanuella Morais, irmã da ex-jogadora da Seleção Gabi Morais, também foi presa em Fortaleza Polícia Militar do Ceará Francisca Emanuella Morais da Rocha, irmã de Gabi Morais, ex-jogadora da Seleção Brasileira de Futebol presa por suspeita de envolvimento com o Comando Vermelho, também foi presa em Fortaleza. Emanuella, de 34 ano",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/20/irma-gabi-morais-presa-fortaleza.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rC_-hgwWzTYzQFYGYudOBaLMFVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/A7i0FFRxeGmZtQkoA6NQ/irma-gabi-morais-1-.jpg",
+    "data": "2026-11-21T00:39:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bayer pagará até US$ 7,25 bilhões em acordo judicial com pacientes que alegam ter desenvolvido câncer após uso de herbicida",
+    "resumo": "A fabricante de agroquímicos Bayer pagará até US$ 7,25 bilhões (o equivalente a mais de R$ 40 bilhões) ao longo de duas décadas para resolver milhares de processos movidos por pacientes com câncer nos EUA. O acordo foi aprovado nesta sexta-feira (20) por um juiz do estado do Missouri. Os pacientes com câncer alegam que a empresa deveria t",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/bayer-pagara-ate-us-725-bilhoes-em-acordo-judicial-com-pacientes-que-alegam-ter-desenvolvido-cancer-apos-uso-de-herbicida.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BjgIzyXsGg2XoP45IiCC883sVZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/HQ58dUTHS5mQUHilXI9Q/reutersmike-blake-monsanto-cos-roundup-is-shown-for-sale-in-encinitas-california.jpg",
+    "data": "2026-11-21T00:38:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
+    "resumo": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a Kiev. Ainda conforme o Itamaraty, não houve feridos nem danos materiais à representação brasileira ",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+    "data": "2026-11-21T00:37:07.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -36,49 +234,13 @@
     "data": "2026-11-21T00:01:39.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Família denuncia que jovem de 18 anos foi baleado pela GCM durante abordagem policial, em Cristalina",
-    "resumo": "Jovem de 18 anos é baleado por guarda civil em Cristalina A família de Áthila Fernando dos Santos, de 18 anos, denuncia que o jovem foi baleado por agentes da Guarda Civil Municipal (GCM) durante uma abordagem em Cristalina, no Entorno do Distrito Federal. Segundo a corporação, o rapaz estava com um primo, teria fugido dos guardas e levad",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/20/familia-denuncia-que-jovem-foi-baleado-pela-gcm-durante-abordagem-policial-em-cristalina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GCXlNGmywYSrAetCfpwkK1iuM5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/D/XrxKUZQOqb9oKqXDDVqA/g1-4-.jpg",
-    "data": "2026-11-21T00:01:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Seca leva reservatórios ao colapso no Agreste de Pernambuco",
-    "resumo": "Seca leva reservatórios ao colapso no Agreste de Pernambuco Se no Sul o excesso de chuva provocou mortes e destruição, no interior de Pernambuco a seca levou reservatórios à situação de colapso. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia O cenário de terra seca tira o ânimo de quem vive em municípios como Surubim,",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/seca-leva-reservatorios-ao-colapso-no-agreste-de-pernambuco.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tPhotWil_W5DWJwd0hYU5fSFzgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Y/5lfzOoT4ekUGNxy7uHxg/globo-canal-5-20261120-2000-frame-71318.jpeg",
-    "data": "2026-11-20T23:59:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Gilmar diz não ver problema em abertura de sigilo de relatório da PF sobre outros ministros, mas que medida não resolve questão",
-    "resumo": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (20) não ver problema na abertura do sigilo do relatório da Polícia Federal sobre outros ministros do Supremo mencionados ou que trocaram mensagens com o ex-banqueiro Daniel Vorcaro. \"É uma discussão que cabe, talvez, a quem está agora com a própria rel",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/gilmar-mendes-diz-nao-ver-problema-em-abertura-de-sigilo-de-relatorio-da-pf-sobre-outros-ministros-do-supremo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/y1D6O-SnDgFEzVIz9o71tKOGRhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/o/lYfJSlQ5GgvJolfsLGDw/55604225138-5263c876bf-k.jpg",
-    "data": "2026-11-20T23:56:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "RS: temporal com ventos de 114 km/h destrói casas, derruba torre de igreja e deixa 3 mortos",
-    "resumo": "Temporal provoca estragos em cidades de Santa Catarina Três pessoas morreram depois de vendavais, granizo e chuva forte atingirem o Rio Grande do Sul. Vinte e cinco municípios registraram danos. Na cidade mais atingida, o temporal afetou cerca de cinco mil casas. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Tupancir",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/temporal-destroi-casas-e-deixa-tres-mortos-no-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0WkhclxBT9R42m5MEXpmzYwlTy4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/O/nF7HPMRoCiiz4p5zw6vA/globo-canal-5-20261120-2000-frame-65518.jpeg",
-    "data": "2026-11-20T23:51:29.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Morre jovem que participava de luau e se afogou no Recreio",
-    "resumo": "Jovem de 18 anos que se afogou na Praia do Recreio está em estado gravíssimo no hospital Morreu na tarde desta sexta-feira (20) a jovem de 18 anos que se afogou no mar do Recreio dos Bandeirantes, na Zona Sudoeste do Rio, informou o Hospital Miguel Couto. \"A direção do Hospital Municipal Miguel Couto informa que, apesar dos esforços da eq",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/20/morre-jovem-que-participava-de-luau-e-se-afogou-no-recreio.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gkppl09suZrkGRziWj52NYzmqA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/i/YcXWG9RoOLt8tBJNxmSg/afogada.jpeg",
-    "data": "2026-11-20T23:36:59.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran war live: Saudi-led coalition downs Houthi missiles",
+    "resumo": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T00:00:06.000Z"
   },
   {
     "categoria": "Internacional",
@@ -90,15 +252,6 @@
     "data": "2026-11-20T23:36:36.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "MPAM investiga condenado por feminicídio que trabalhava em delegacia de Humaitá",
-    "resumo": "Delegacia Humaitá AM Anderton Cardoso/PC-AM O Ministério Público do Amazonas (MP-AM) prorrogou, em até 90 dias, a apuração de uma denúncia relacionada a um homem condenado por feminicídio que realizaria atividades administrativas na Delegacia Especializada de Polícia (DEP) de Humaitá, no interior do estado. Segundo denúncia feita sob sigi",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/20/mpam-investiga-condenado-por-feminicidio-que-trabalhava-em-delegacia-e-teria-acesso-a-canal-de-denuncias-de-violencia-domestica-em-humaita.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XvHt4Bbet9Oohkr0JlzVPUYPyCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/t/FBV3kbQlycoIbd8yZtBg/pc-am-dip-de-humaita-foto-anderton-cardoso-1-1-.jpeg",
-    "data": "2026-11-20T23:33:18.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
@@ -108,51 +261,6 @@
     "data": "2026-11-20T23:33:06.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Leaked Draft Report Finds ‘Catastrophic’ Training Failures at ICE",
-    "resumo": "The Trump administration graduated thousands of new ICE officers through a training regiment that one instructor called a “catastrophic failure,” according to a draft copy of a Department of Homeland Security inspector general’s report obtained by the Times. Our immigration reporter Hamed Aleazis explains.",
-    "link": "https://www.nytimes.com/video/us/100000011291007/leaked-draft-report-finds-catastrophic-training-failures-at-ice.html",
-    "imagem": null,
-    "data": "2026-11-20T23:30:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
-    "resumo": "Vista aérea mostra a sede do Ueno Bank, em Assunção, no Paraguai. Reuters A Conmebol (Confederação Sul-Americana de Futebol) admitiu nesta sexta-feira (20) ter US$ 15 milhões (cerca de R$ 88 milhões) aplicados no Ueno Bank, banco paraguaio que quebrou após uma crise financeira que provocou um escândalo político no país. O Ueno foi liquida",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KcGYEVzmUBtKM_2wlS4Y0O4dU3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/lKx1ABRxGBmB5JVBUefA/2026-11-03t212644z-1474208164-rc2cgoa6cu4v-rtrmadp-3-paraguay-finance-1-.jpg",
-    "data": "2026-11-20T23:29:32.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 20 de novembro de 2026",
-    "resumo": "Assista agora os vídeos do Jornal Anhanguera 2ª Edição",
-    "link": "https://g1.globo.com/go/goias/edicao/2026/11/20/videos-jornal-anhanguera-2-edicao-de-sexta-feira-20-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MdloAfxLJkHjL3eQCiXZImVcPU0=/s01.video.glbimg.com/deo/vi/09/86/15268609",
-    "data": "2026-11-20T23:27:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Polícia investiga morte de criança em Santa Bárbara d'Oeste",
-    "resumo": "Delegacia de Santa Bárbara d'Oeste Marcio Silveira/EPTV A Polícia Civil investiga a morte de um menino de 9 anos em Santa Bárbara d'Oeste (SP) na última quarta-feira (18). Em depoimento à polícia, o pai, de 35 anos, disse que Davi Lucca Xavier dos Santos não respondeu a chamados após dormir em casa. A criança foi levada ao Pronto-Socorro ",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/20/policia-investiga-morte-de-crianca-em-santa-barbara-doeste.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pwbRrCpTCJAlLv5AraPk0rwd01g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/W/m/Vy9dH1Qnuqb0iHKBVXFA/whatsapp-image-2024-01-31-at-08.51.41.jpeg",
-    "data": "2026-11-20T23:27:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Xanddy revela elementos fundamentais para manter união em casamento de 25 anos com Carla Perez",
-    "resumo": "Xanddy revela segredo para manter casamento duradouro com Carla Perez O cantor Xanddy revelou o segredo para manter um relacionamento duradouro. Casado há 25 anos com a dançarina Carla Perez, o artista revelou os elementos que considera fundamentais para manter a relação saudável. \"A caminhada, num casamento, tem suas dificuldades, mas co",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/20/xanddy-revela-segredo-da-uniao-em-casamento-com-carla-perez.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Jye2HGC2_EtQCjdLcEhSbgQoAYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/V/ujER3YSHifzvyRYzpJ6Q/xanddy2.jpeg",
-    "data": "2026-11-20T23:23:36.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
@@ -160,15 +268,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T23:20:50.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
-    "resumo": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. It was the second time he was tried in federal court in connection with the blaze. His first trial ended in a mistrial.",
-    "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/00nat-hfo-arson-verdict-hlvb/00nat-hfo-arson-verdict-hlvb-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T23:15:21.000Z"
   },
   {
     "categoria": "Internacional",
@@ -234,15 +333,6 @@
     "data": "2026-11-20T22:37:09.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
-    "resumo": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T22:35:10.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "PF diz que não há conversas de Mendonça com Vorcaro",
@@ -259,15 +349,6 @@
     "link": "https://www.cbc.ca/news/canada/calgary/alberta-separatist-leaders-post-referendum-united-conservative-9.7429982?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/8ee63af2-84bd-4eb0-8520-e621ea96ae28,1795198326418/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C102%2C2000%2C1125%29%3B",
     "data": "2026-11-20T22:20:38.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
-    "resumo": "The New Hampshire secretary of state said he would again hold the Democratic primary first in the nation, defying the party’s intent to prioritize other states in 2028.",
-    "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T22:19:13.000Z"
   },
   {
     "categoria": "Brasil",
@@ -322,15 +403,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
     "data": "2026-11-20T21:57:07.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Here’s the latest.",
-    "resumo": "",
-    "link": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
-    "imagem": null,
-    "data": "2026-11-20T21:55:47.000Z"
   },
   {
     "categoria": "Canadá",
@@ -396,6 +468,15 @@
     "data": "2026-11-20T21:38:11.000Z"
   },
   {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "MLK&apos;s handwritten draft of iconic speech on display for the first time",
+    "resumo": "The only known handwritten draft of The Reverend Martin Luther King Jr.&apos;s &apos;I Have a Dream&apos; speech is on display in his hometown. The iconic phrase, however, never made it on the page.<br>",
+    "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F33%2F92970e6b49c98705abbfd291cc49%2Flwa-2971.JPG",
+    "data": "2026-11-20T21:38:05.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Iraq PM targets militia stronghold in bid to assert state control",
@@ -403,15 +484,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-20T21:28:25.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Former White House press secretary Katie Zacharia investigated by California state bar",
-    "resumo": "California's state bar is investigating former White House press secretary Katie Zacharia after a complaint she represented herself as a lawyer without having ever passed the bar exam.",
-    "link": "https://www.cbc.ca/news/world/katie-zacharia-california-state-bar-investigation-9.7430437?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a67e801f-9f62-4319-be5b-9fbdc908f128,1795209228409/full/max/0/default.jpg?im=Crop%2Crect%3D%28124%2C0%2C4111%2C2312%29%3B",
-    "data": "2026-11-20T21:21:40.000Z"
   },
   {
     "categoria": "Brasil",
@@ -504,33 +576,6 @@
     "data": "2026-11-20T20:54:12.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Can the UK and EU turn the page on Brexit?",
-    "resumo": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T20:51:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Gaza’s displaced children celebrate World Children’s Day",
-    "resumo": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T20:45:09.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sudan’s war leaves disabled children missing out on education",
-    "resumo": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T20:45:08.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
@@ -567,15 +612,6 @@
     "data": "2026-11-20T20:31:39.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-    "resumo": "Tallinn&#039;s decision to shut road border crossings comes after an attack on a drone manufacturer.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T20:30:46.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Baywatch's Erika Eleniak says OnlyFans has her 'calling the shots' after money woes",
@@ -610,15 +646,6 @@
     "link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
     "imagem": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=213d9f5c5115f07440db4915083c1965",
     "data": "2026-11-20T20:04:46.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "L.A. Aims to Fence Off Park That’s Become Symbol of City’s Struggles",
-    "resumo": "MacArthur Park near downtown Los Angeles has long been a disquieting example of the city’s inability to address drug sales, homelessness and people dealing with mental health issues.",
-    "link": "https://www.nytimes.com/2026/11/20/us/los-angeles-macarthur-park-fence.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-macarthur-fence-02-fclq/20nat-macarthur-fence-02-fclq-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T19:54:55.000Z"
   },
   {
     "categoria": "Internacional",
@@ -695,15 +722,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Democrats Strengthen the Legal Line With Attorneys General Triumphs",
-    "resumo": "Once considered vulnerable to local issues, Democratic candidates for attorneys general romped on Tuesday, with the final contests called against Republican attorneys general in Kansas and Ohio.",
-    "link": "https://www.nytimes.com/2026/11/20/us/elections/democrats-attorney-general.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-attygen-sweep-01-qclg/07nat-attygen-sweep-01-qclg-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-20T19:03:15.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
     "resumo": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
     "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
@@ -713,10 +731,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Trump says he's working on 'a deal that's fair' with Canada",
+    "titulo": "U.S. senator says Canada should make interim tariff agreement, let Congress 'legislate' long-term deal",
     "resumo": "",
-    "link": "https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B",
+    "link": "https://www.cbc.ca/news/politics/us-canada-interim-deal-tariffs-senator-long-term-9.7430913?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B",
     "data": "2026-11-20T18:51:14.000Z"
   },
   {
@@ -781,15 +799,6 @@
     "link": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=140&quality=85&auto=format&fit=max&s=66719ec4342409e6ee6942c37a1d3b46",
     "data": "2026-11-20T18:11:16.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-    "resumo": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T18:05:36.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1125,15 +1134,6 @@
     "data": "2026-11-20T12:23:23.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-    "resumo": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-    "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-    "imagem": null,
-    "data": "2026-11-20T12:04:57.000Z"
-  },
-  {
     "categoria": "Cultura",
     "fonte": "The Guardian",
     "titulo": "The week’s best new tracks and the act you need to know: the rangy folk-prog songwriting of Threshold",
@@ -1181,19 +1181,19 @@
   {
     "categoria": "Opinião",
     "fonte": "The Guardian",
-    "titulo": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-    "resumo": "<p>It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers</p><p>AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being ",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-    "imagem": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
+    "titulo": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+    "resumo": "<p>Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism</p><p>It’s been a bad week for our computerized infrastructure. We’ve seen outages at <a href=\"https://www.the-independent.com/tech/microsoft-outage-why-what-caused-global-outlook-down-b3085576.html\">Microsof",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+    "imagem": "https://i.guim.co.uk/img/media/06367e7fdfd0f05a668d10411818299d34910160/656_0_6561_5249/master/6561.jpg?width=140&quality=85&auto=format&fit=max&s=1fd17bd548ba127b4f7c623cfd2410d2",
     "data": "2026-11-20T11:00:31.000Z"
   },
   {
     "categoria": "Opinião",
     "fonte": "The Guardian",
-    "titulo": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-    "resumo": "<p>Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism</p><p>It’s been a bad week for our computerized infrastructure. We’ve seen outages at <a href=\"https://www.the-independent.com/tech/microsoft-outage-why-what-caused-global-outlook-down-b3085576.html\">Microsof",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-    "imagem": "https://i.guim.co.uk/img/media/06367e7fdfd0f05a668d10411818299d34910160/656_0_6561_5249/master/6561.jpg?width=140&quality=85&auto=format&fit=max&s=1fd17bd548ba127b4f7c623cfd2410d2",
+    "titulo": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+    "resumo": "<p>It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers</p><p>AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being ",
+    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
+    "imagem": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
     "data": "2026-11-20T11:00:31.000Z"
   },
   {
