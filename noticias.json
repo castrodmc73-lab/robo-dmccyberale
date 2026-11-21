@@ -1,5 +1,149 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    "resumo": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-21T23:31:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: MG2 de sábado, 21 de novembro de 2026",
+    "resumo": "Assista aos vídeos dos telejornais com as notícias de Minas Gerais.",
+    "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-sabado-21-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CF-YAJPKezElg0IbQjMK6efE5qI=/s01.video.glbimg.com/deo/vi/85/05/15270585",
+    "data": "2026-11-21T23:30:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Família denuncia suspeita de agressão contra idoso em clínica particular após encontrar ferimentos pelo corpo; vítima foi internada",
+    "resumo": "Família denuncia suspeita de agressão contra idoso em clínica particular de Ibiúna e leva caso à polícia e ao MP Arquivo Pessoal A família de um idoso de 60 anos denunciou à Polícia Civil e ao Ministério Público uma suspeita de agressão contra ele dentro de uma clínica particular em Ibiúna (SP). Os ferimentos no rosto, pescoço e costelas ",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/21/familia-denuncia-suspeita-de-agressao-contra-idoso-em-clinica-particular-apos-encontrar-ferimentos-pelo-corpo-vitima-foi-internada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/azfoJ7AVUJ73tOHq6u0tbVRyu8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/h/SvUO02Qs2lqdfiA2vKfQ/fotojet-2026-11-21t174634.810.jpg",
+    "data": "2026-11-21T23:25:48.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Moves to Restrict Congressional Oversight of Contractors",
+    "resumo": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
+    "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T23:24:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Porto de Santos reforça segurança e controle de acessos após ataque hacker",
+    "resumo": "Porto de Santos, o maior do Brasil, é alvo de um ataque cibernético; caso acende alerta A Autoridade Portuária de Santos (APS) informou ter reforçado a segurança nos acessos ao cais do Porto de Santos, no litoral de São Paulo, após o ataque cibernético sofrido pela empresa em 6 de novembro. As medidas começaram na quinta-feira (19). A int",
+    "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/21/porto-de-santos-reforca-seguranca-e-controle-de-acessos-apos-ataque-hacker.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CN8MmYyKgVDcPcW51y95i4dY7W0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/CUAKSKSeKQOm73VnJUlQ/200525-canalporto-03.jpg",
+    "data": "2026-11-21T23:20:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista aos telejornais da TV Liberal",
+    "resumo": "Assista aos telejornais da TV Liberal g1 transmite os telejornais Jornal Liberal 1ª e 2ª Edição.",
+    "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "imagem": null,
+    "data": "2026-11-21T23:19:48.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran faces a ‘silent economic war’, says Iranian president",
+    "resumo": "Iran faces a ‘silent economic war’, says Iranian president",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T23:18:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23)",
+    "resumo": "Petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23) Ascom / Neoenergia Moradores de Petrolina, no Sertão de Pernambuco, que correm o risco de perder o benefício da Tarifa Social de Energia Elétrica (TSEE) poderão regularizar a situação a partir de segunda-feira (23). A Neoenergia Pernambuco realizará ",
+    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/21/mutirao-tarifa-social-petrolina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MGRrFpGaxmFHUnLOaWgY82sXukI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/K/QwLJwfRhSiZyFnQydhMA/whatsapp-image-2026-11-21-at-13.13.57-1-.jpeg",
+    "data": "2026-11-21T23:17:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Irmão de vereador morre após perder controle de moto e bater contra carnaúba no interior do PI",
+    "resumo": "Irmão de vereador morre após perder controle de moto e bater contra carnaúba no interior do PI Divulgação/PMPI Um motociclista identificado como Horácio Ferreira Gomes, de 31 anos, morreu após colidir contra uma carnaúba na estrada vicinal que liga a zona urbana de Massapê do Piauí ao povoado Peixe, na zona rural do município. A vítima er",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/21/motociclista-morre-acidente.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cfoKz_LImDeJWKmtY-b4CuDwgZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/V/65qhJ3SLaXgb2LjENhbw/edicao-imagens-g1-34-.jpg",
+    "data": "2026-11-21T23:16:06.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The Penny Is Dead. Now It’s Official.",
+    "resumo": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck.",
+    "link": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-penny-vjhm/21xp-penny-vjhm-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T23:12:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Jornal do Amazonas 2ª edição de sábado, 21 de novembro de 2026",
+    "resumo": "O telejornal é veiculado na Rede Amazônica.",
+    "link": "https://g1.globo.com/am/amazonas/playlist/videos-jornal-do-amazonas-2-edicao-de-sabado-21-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mRrcYHCM7qTs5_BCiAZlGmSQO-Y=/s01.video.glbimg.com/deo/vi/86/06/15270686",
+    "data": "2026-11-21T23:11:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Festival tem espetáculos gratuitos de drama, comédia e palhaçaria no Teatro Municipal Boa Vista",
+    "resumo": "Peças da da companhia Criart Teatral, fundada em 2021 em Roraima Criart Teatral/Divulgação A companhia de teatro Criart apresenta três espetáculos gratuitos neste sábado (21) e domingo (22), no Teatro Municipal de Boa Vista. A programação celebra os 25 anos do grupo em Roraima. Os ingressos podem ser retirados na bilheteria uma hora antes",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/21/festival-tem-espetaculos-gratuitos-de-drama-comedia-e-palhacaria-no-teatro-municipal-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/MAQi3IbLC_Hr7eDCkVk_GApAJeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/Pq3gKAReG0fOC3aSWXAw/teatro-.jpg",
+    "data": "2026-11-21T23:11:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente de 17 anos morre após ser baleado por homens em moto em Marabá no PA",
+    "resumo": "Adolescente de 17 anos é morto a tiros em Marabá, no Pará Um adolescente de 17 anos morreu após ser baleado na madrugada desta sexta-feira (20), na travessa João Passondas de Carvalho, no núcleo Velha Marabá, em Marabá, no sudeste do Pará. Segundo testemunhas, dois homens em uma motocicleta atiraram contra o adolescente e fugiram em segui",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/adolescente-de-17-anos-morre-apos-ser-baleado-por-homens-em-moto-em-maraba-no-pa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GYQaaVVrM2ZgsEhLJwO23auAL1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/h/TBrqBoSXyd9zA1WwAiAw/image-2026-11-21t200743.206.png",
+    "data": "2026-11-21T23:02:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Família denuncia espera de 20h por parto após morte de recém-nascido e diz que corpo ficou em caixa no PI",
+    "resumo": "Família denuncia possível negligência após morte de bebê durante parto em Floriano Uma família de Paes Landim denunciou possíveis falhas no atendimento prestado pelo Hospital Regional Tibério Nunes, em Floriano, após a morte de um recém-nascido instantes depois do parto. Segundo a família, a gestante aguardou por cerca de 20 horas entre o",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/21/morte-de-recem-nascido-hospital-piaui.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4HIJWzW05huPYREkgrUs1nA6YuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/S/E96TSnTwAT6UdxtAE7QQ/edicao-imagens-g1-33-.jpg",
+    "data": "2026-11-21T23:01:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 21 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/21/videos-eptv-2-sul-de-minas-de-sabado-21-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bcNuxGjY5T-JsalURCB82mEyO6Q=/s01.video.glbimg.com/deo/vi/18/06/15270618",
+    "data": "2026-11-21T23:01:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como uma especialista em aves foi presa na Rússia por causa de US$ 30",
+    "resumo": "Renomada cientista dedicada ao estudo de espécies no Ártico, Sofia Rosenfeld está desde outubro em uma colônia penal na Rússia. O motivo foi uma pequena doação à Fundação Anticorrupção (FBK), de Alexei Navalny. O falecido oposicionista do governo de Vladimir Putin passou a ser classificado pelas autoridades russas como extremista. O pai d",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/21/como-uma-especialista-em-aves-foi-presa-na-russia-por-causa-de-us-30.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/C_gsSnd86em0UYrdN8_DRfFWfYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/O/3/R1qlUsQDWNmzVJjU9A7A/globo-canal-4-20240216-1948-frame-92470.jpeg",
+    "data": "2026-11-21T22:59:33.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Bigfoot Left a Paper Trail That Everyone Can See Now",
@@ -9,96 +153,6 @@
     "data": "2026-11-21T22:55:17.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mutirão de empregos tem 770 vagas em 40 empresas de Juiz de Fora; veja oportunidades",
-    "resumo": "ltimo mutirão de emprego do ano em Juiz de Fora terá 770 vagas Canva O último mutirão de empregos de 2026 em Juiz de Fora vai oferecer 770 vagas de trabalho em diferentes áreas. A ação, chamada de 'Mutirão de Empregos – Especial de Fim de Ano', será realizada na terça-feira (24), das 9h às 13h, no G3 do Independência Shopping. Ao todo, 40",
-    "link": "https://g1.globo.com/mg/zona-da-mata/concursos-e-emprego/noticia/2026/11/21/mutirao-de-empregos-tem-770-vagas-em-40-empresas-de-juiz-de-fora-veja-oportunidades.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LMJEJA4GHCpQ4JADR9-GBzJaWSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/R/hAOW5hS2C2X1EyfCRPBw/fotos-materias-16-.jpg",
-    "data": "2026-11-21T22:50:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: RJ2 de sábado, 21 de novembro de 2026",
-    "resumo": "Assista aos vídeos com as notícias do Rio de Janeiro.",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-sabado-21-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2MS64JLclUEWapMGJduPWdROmd4=/s01.video.glbimg.com/deo/vi/14/05/15270514",
-    "data": "2026-11-21T22:48:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Atleta queniana vence meia maratona em Maringá seis dias após terminar corrida em Curitiba com ajuda: 'Me deu esperança de que posso fazer melhor'",
-    "resumo": "Atleta queniana vence meia maratona em Maringá seis dias após terminar corrida em Curitiba A queniana Naum Jepchirchir venceu a meia maratona na categoria elite, da Maratona Internacional de Maringá, no norte do Paraná, neste sábado (21). Assista, no vídeo acima, o momento da chegada. A vitória acontece menos de uma semana depois de a atl",
-    "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/21/atleta-queniana-vence-meia-maratona-em-maringa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/A4CH_xUGFyJp7i7n_uV_22qGvHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/S/THPZJBQWmwvNIk4yaAYg/novo-projeto-63-.png",
-    "data": "2026-11-21T22:48:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-    "resumo": "Siga o EPTV 2 Ribeirão e Franca Transmissão encerrada.",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-    "data": "2026-11-21T22:47:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista aos telejornais da TV Bahia",
-    "resumo": "Assista aos telejornais da TV Bahia",
-    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-    "imagem": null,
-    "data": "2026-11-21T22:47:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: GR2 de sábado, 21 de novembro de 2026",
-    "resumo": "Confira os vídeos do telejornal com as notícias do Sertão de Pernambuco.",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-sabado-21-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RYNfahVCYr-_sMm71KItki-4oKc=/s01.video.glbimg.com/deo/vi/46/05/15270546",
-    "data": "2026-11-21T22:46:58.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: carro atinge motociclista, que bate em poste em Mogi Guaçu",
-    "resumo": "Carro atinge motociclista, que bate em poste, em Mogi Guaçu Um motociclista ficou ferido após ser atingido por um carro na Avenida Bandeirantes, em Mogi Guaçu (SP), na noite de sexta-feira (20). O motorista teria feito uma conversão irregular quando atingiu a moto. Com o impacto, a vítima bateu em um poste. Até a última atualização desta ",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/video-carro-atinge-motociclista-que-bate-em-poste-em-mogi-guacu.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PsdH9WgKbZVPkqG_hdHlyILbSxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/N/VjIX5nRSeNzpHT57WkTw/design-sem-nome-59-.jpg",
-    "data": "2026-11-21T22:45:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Turista americano morto a tiros na Lapa havia anunciado viagem ao Rio nas redes sociais: 'Queria conhecer o dia a dia na cidade'",
-    "resumo": "Turista americano morto a tiros na Lapa havia anunciado viagem ao Rio nas redes sociais O turista americano Maurice Nelson, morto a tiros na madrugada de sexta-feira (20), na Lapa, no Centro do Rio, havia anunciado nas redes sociais, semanas antes, que a capital fluminense seria seu próximo destino. Em vídeos publicados na internet, ele d",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/21/turista-americano-morto-a-tiros-na-lapa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Cb7ZSQLxs1GVzSWv31dWE7Y9KE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/P/oRZhJbQUOeHAykQUYJhQ/rj2-limpo-20261121-1830-frame-112620.jpeg",
-    "data": "2026-11-21T22:44:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "EPTV 2 Piracicaba ao vivo",
-    "resumo": "EPTV 2 Piracicaba ao vivo Assista diariamente ao telejornal da EPTV pela internet.",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-2-piracicaba-ao-vivo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg",
-    "data": "2026-11-21T22:43:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso por tentar matar outro com facada no pescoço em Amajari, em Roraima",
-    "resumo": "Emergência do Hospital Geral de Roraima, para onde vítima foi levada g1 RR Um homem de 60 anos foi atacado com golpes de faca na região do pescoço durante uma tentativa de homicídio na noite de sexta-feira (20), na Vila Trairão, município de Amajari, ao Norte de Roraima. Um suspeito, de 31 anos, foi preso suspeito do crime. A tentativa de",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/21/homem-e-preso-por-tentar-matar-outro-com-facada-no-pescoco-em-amajari-em-roraima.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GDgDuPA-fBRYSLHF8qYFUsLd2ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/onK3afRbK29VbC3vGhCQ/hgr2.jpeg",
-    "data": "2026-11-21T22:43:15.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Like Fiona the Hippo, Internet Famous Animals Can Bring Value to Zoos",
@@ -106,24 +160,6 @@
     "link": "https://www.nytimes.com/2026/11/21/us/fiona-zoo-viral-animals.html",
     "imagem": "https://static01.nyt.com/images/2026/11/19/multimedia/19xp-fiona-1/19xp-fiona-1-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-21T22:42:42.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Liberal 2ª Edição de sábado, 21 de novembro de 2026",
-    "resumo": "Confira os destaques do Jornal Liberal 2ª Edição de sábado, 21 de novembro de 2026.",
-    "link": "https://g1.globo.com/pa/para/edicao/2026/11/21/videos-jornal-liberal-2-edicao-de-sabado-21-de-novembro-de-2026.ghtml",
-    "imagem": null,
-    "data": "2026-11-21T22:42:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Corpo de motorista de aplicativo morto em tentativa de assalto é enterrado na Baixada Fluminense",
-    "resumo": "Corpo de motorista de aplicativo morto em tentativa de assalto é enterrado na Baixada Fluminense O corpo do motociclista de aplicativo Wander Luiz de Moraes Bonfim, de 34 anos, morto durante uma tentativa de assalto em São João de Meriti, na Baixada Fluminense, foi enterrado neste sábado (21) no Cemitério Vila Rosali, no mesmo município. ",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/21/corpo-de-motorista-de-aplicativo-morto-em-tentativa-de-assalto-e-enterrado-na-baixada-fluminense.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KwofPFuaiIpBDIP1DuBo4qKcsb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/s/NbNRy7RfqSkwivJnnUcg/rj2-limpo-20261121-1830-frame-109635.jpeg",
-    "data": "2026-11-21T22:41:11.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -147,19 +183,10 @@
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
-    "resumo": "<p>EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summit</p><p>Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today. A few people wander back and forth with their backpacks on. Young Turkish support staff walk aro",
+    "resumo": "<p>EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summit</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\">Climate talks stall as countries mull showdown with Saudi ",
     "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=140&quality=85&auto=format&fit=max&s=2087227022bef0757bd77a5df7951008",
     "data": "2026-11-21T22:25:25.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Cavalry FC defeats Atlético Ottawa 3-2 to claim CPL title and historic double",
-    "resumo": "Cavalry FC defeated Atlético Ottawa 3-2 to claim the Canadian Premier League title and an unprecedented double in the soccer league.",
-    "link": "https://www.cbc.ca/sports/soccer/cpl/cpl-final-atletico-ottawa-cavalry-fc-calgary-november-21-9.7429768?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f8d3a35d-70ec-46ca-8001-952db8b7480b,1795299640604/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-21T22:21:50.000Z"
   },
   {
     "categoria": "Internacional",
@@ -270,15 +297,6 @@
     "data": "2026-11-21T21:09:18.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-    "resumo": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-21T21:05:29.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "UN talks on AI in warfare end with no commitment to binding rules",
@@ -342,15 +360,6 @@
     "data": "2026-11-21T20:37:35.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Moves to Restrict Congressional Oversight of Contractors",
-    "resumo": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
-    "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T20:20:24.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Why is the US Army detonating lead-rich explosives in Iowa?",
@@ -374,8 +383,8 @@
     "titulo": "2-Year-Old Girl Wearing Only a Diaper Is Rescued After Hours in the Desert",
     "resumo": "“It was a life-changing moment,” said a searcher who found the girl, Vella Campillo, early on Wednesday in a remote area of Arizona after she had been missing for more than seven hours.",
     "link": "https://www.nytimes.com/2026/11/21/us/missing-2-year-old-arizona-desert.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-missing-top-grab/21xp-missing-top-grab-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T20:02:01.000Z"
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21xp-missing-top-grab/21xp-missing-top-grab-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-21T20:02:02.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -511,15 +520,6 @@
     "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F0b%2F4ca5429c4444a8280c4ead69cf19%2Fgettyimages-2305764692.jpg",
     "data": "2026-11-21T18:22:46.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "FBI national crime database suffers suspected breach: Reports",
-    "resumo": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T18:19:10.000Z"
   },
   {
     "categoria": "Brasil",
@@ -857,6 +857,15 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
+    "titulo": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
+    "resumo": "Rules around transporting creamated remains through airports and challenges with new scanners can add \"another layer of grief\" to an already stressful time, says the head of the Funeral Service Association of Canada.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/93348ee1-d41c-4aa3-96ec-8636d5558a67,1795190063830/full/max/0/default.jpg?im=Crop%2Crect%3D%28408%2C256%2C769%2C432%29%3B",
+    "data": "2026-11-21T11:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
     "titulo": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
     "resumo": "A judge has awarded an eastern Manitoba couple sued by their neighbour $10,000 in damages, and their neighbour $1,000, after an \"unfortunate series of events\" unfolded over dogs allowed to run loose on an unfenced property.",
     "link": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865?cmp=rss",
@@ -1006,15 +1015,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg",
     "data": "2026-11-21T04:34:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A Prosecutor Got Drunk to Help the Police. Things Got Out of Hand.",
-    "resumo": "The man drank too much while participating in a “wet lab” to help officers recognize inebriation — and wound up the subject of an internal investigation, officials said.",
-    "link": "https://www.nytimes.com/2026/11/20/us/drunk-officers-training-maricopa-county-arizona.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-drunk-training-1-wvjl/20nat-drunk-training-1-wvjl-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T02:22:41.000Z"
   },
   {
     "categoria": "Ciência",
