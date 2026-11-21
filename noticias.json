@@ -1,5 +1,104 @@
 [
   {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+    "resumo": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dw",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+    "imagem": null,
+    "data": "2026-11-21T02:24:22.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "A Prosecutor Got Drunk to Help the Police. Things Got Out of Hand.",
+    "resumo": "The man drank too much while participating in a “wet lab” to help officers recognize inebriation — and wound up the subject of an internal investigation, officials said.",
+    "link": "https://www.nytimes.com/2026/11/20/us/drunk-officers-training-maricopa-county-arizona.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-drunk-training-1-wvjl/20nat-drunk-training-1-wvjl-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T02:22:41.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Washington State Fines Company $9 Million Over Fatal Tank Implosion",
+    "resumo": "Investigators said the company, Nippon Dynawave Packaging, knew conditions at its plant in Longview, Wash., were unsafe. The company said it would appeal.",
+    "link": "https://www.nytimes.com/2026/11/20/us/washington-state-fatal-tank-implosion-fine.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/nat-wash-fine-1-cpbk/nat-wash-fine-1-cpbk-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T02:18:13.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Takeaways From Trump’s Post-Trip News Conference",
+    "resumo": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+    "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T02:15:29.000Z"
+  },
+  {
+    "categoria": "Ciência",
+    "fonte": "ScienceDaily",
+    "titulo": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+    "resumo": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury&#039;s hidden chemical secrets and transform our understanding of how the solar system&#039;s ",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+    "imagem": null,
+    "data": "2026-11-21T02:11:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+    "resumo": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-21T02:09:46.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
+    "resumo": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested.",
+    "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
+    "data": "2026-11-21T02:06:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Thiago Aquino se emociona ao falar do nascimento do terceiro filho após ver parto pelo celular durante show: 'Um sonho'",
+    "resumo": "Thiago Aquino nos bastidores da Micareta de Feira João Souza/g1 O cantor baiano Thiago Aquino se emocionou ao falar sobre o nascimento do terceiro filho, João Asaf, durante entrevista ao g1 antes de se apresentar na Micareta de Feira de Santana, nesta sexta-feira (20). O bebê nasceu no último domingo (15), enquanto o artista estava em São",
+    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/20/thiago-aquino-se-emociona-ao-falar-do-nascimento-do-terceiro-filho-apos-ver-parto-pelo-celular.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UMOysfnGcrXhXpvZEBlbtKiqCXc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/P/Bt8bdIR3yaDcTvSheqmA/thiago-aquino2.png",
+    "data": "2026-11-21T02:01:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PF prende no DF suspeita de integrar esquema de falsos investimentos que movimentou mais de R$ 600 milhões no PI",
+    "resumo": "A Polícia Federal prendeu nesta sexta-feira (20), no Distrito Federal, Kayra Cardoso Guimarães, suspeita de fazer parte de um grupo investigado pela Polícia Civil do Piauí por movimentar milhões com golpes envolvendo falsas operações financeiras na bolsa. Kayra é namorada de Francisco das Chagas Chaves da Silva, conhecido como \"Chico Trad",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/20/pf-prende-suspeita-de-integrar-esquema-de-falsos-investimentos-que-movimentou-mais-de-r-600-milhoes-no-pi.ghtml",
+    "imagem": null,
+    "data": "2026-11-21T01:50:53.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+    "resumo": "US president calls tech giant to give former CEO &#039;a second chance&#039; and urges him to &#039;make a big apology&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T01:49:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "COP31 deal stalls as nations struggle to agree on climate plan",
+    "resumo": "COP31 deal stalls as nations struggle to agree on climate plan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T01:44:09.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
@@ -7,6 +106,24 @@
     "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-ICE-training-jtmb/20dc-ICE-training-jtmb-mediumSquareAt3X.jpg",
     "data": "2026-11-21T01:43:40.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Exposição na Casa Roberto Marinho reúne 300 obras da arte brasileira e internacional no Rio",
+    "resumo": "Exposição reúne 300 obras da arte brasileira e internacional na Casa Roberto Marinho, no Rio Uma exposição na Casa Roberto Marinho, no Rio, reúne 300 obras da arte brasileira e internacional. A coleção particular de um casal de brasileiros, Marcia e Luis Crisóstomo, agora, está aberta ao público. 📱Favorite o g1 no Google e acompanhe as p",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/exposicao-na-casa-roberto-marinho-reune-300-obras-da-arte-brasileira-e-internacional-no-rio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kfrH1JSQX-X8RAaL53V589Gc0UQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/j/hL1dwsTI6GmA7jvM4h1Q/globo-canal-5-20261120-2000-frame-152451.jpeg",
+    "data": "2026-11-21T01:43:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pedro Sampaio gravou clipe de 'Bate Coxa' em Feira de Santana antes de estrear na Micareta",
+    "resumo": "Pedro Sampaio levou funk à Micareta de Feira 2026 João Souza/g1 Feira de Santana entrou no roteiro de uma das novidades musicais de Pedro Sampaio. Antes de estrear na Micareta de Feira, o DJ e produtor musical carioca revelou que escolheu o distrito de Humildes, na zona rural do município baiano, para gravar o clipe de \"Bate Coxa\", parcer",
+    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/20/pedro-sampaio-gravou-clipe-em-feira-de-santana-antes-de-estrear-na-micareta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iURllhadxqcpcqcNdV3_Hrli2sM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/j/Bk97nvRgyBlzSpkLHiHg/pedro-sampaio4.png",
+    "data": "2026-11-21T01:37:44.000Z"
   },
   {
     "categoria": "Internacional",
@@ -20,29 +137,29 @@
   {
     "categoria": "Brasil",
     "fonte": "G1",
+    "titulo": "Consciência Negra: espetáculo no Rio dá vida personagens que marcaram a história do Brasil",
+    "resumo": "Dia da Consciência Negra No Dia da Consciência Negra, uma encenação no Palácio Tiradentes, no Rio de Janeiro, colocou o público frente a frente com heroínas e heróis negros que marcaram a cultura e a história brasileira. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Liberdade é o sentimento que guiou a vida de José d",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YtFxwMHEITm48iIHoZglLQWm8KI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/m/8CPquGQmC95JPxBzrqxw/globo-canal-5-20261120-2000-frame-144786.jpeg",
+    "data": "2026-11-21T01:35:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
+    "resumo": "Incêndio florestal atinge Pacific Palisades em Los Angeles em 7 de janeiro de 2025. REUTERS/Ringo Chiu A Justiça dos Estados Unidos considerou culpado nesta sexta-feira (20) o homem suspeito de provocar o incêndio devastador que atingiu a luxuosa região costeira de Malibu, na Califórnia, no início de 2025. Jonathan Rinderknecht, ex-motori",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/suspeito-de-iniciar-incendio-letal-em-los-angeles-e-declarado-culpado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Lper7NP8qP4w-7nlactmObtIONQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/u/UvoJymQAmwizy9hgV4Gg/2025-01-08t065241z-650665384-rc275ca502hb-rtrmadp-3-california-wildfires-1-.jpg",
+    "data": "2026-11-21T01:34:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
     "titulo": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
     "resumo": "Entidades médicas brasileiras lançam o primeiro protocolo padrão para prevenção de câncer de próstata O Novembro Azul é o mês de conscientização para a prevenção de câncer de próstata. A maioria dos homens só procura o médico quando começam os sintomas. Uma nova orientação médica quer ampliar o diagnóstico precoce e as chances de cura. 📱",
     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
     "imagem": "https://s2-g1.glbimg.com/gN-3UKG8hnsWKv1CFHOdtusFOk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/W/1IvPEBSliBqsavYAsnLQ/globo-canal-5-20261120-2000-frame-131552.jpeg",
     "data": "2026-11-21T01:26:36.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Takeaways From Trump’s Post-Trip News Conference",
-    "resumo": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/takeaways-from-trumps-post-asia-trip-news-conference.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T01:24:30.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
-    "resumo": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested.",
-    "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-fiona-fallout-1-02-zqjm/20nat-fiona-fallout-1-02-zqjm-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T01:20:47.000Z"
   },
   {
     "categoria": "Canadá",
@@ -153,24 +270,6 @@
     "data": "2026-11-21T00:46:36.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: JL1 de sexta-feira, 20 de novembro",
-    "resumo": "Assista aos vídeos do telejornal com notícias do Pará.",
-    "link": "https://g1.globo.com/pa/para/edicao/2026/11/20/videos-jl1-de-sexta-feira-20-de-novembro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/3M7O0elW41CaPpF2Tp3eCy6nUqQ=/s01.video.glbimg.com/deo/vi/03/73/15267303",
-    "data": "2026-11-21T00:45:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Tempestade atinge cidades do Vale do Paraíba e causa alagamentos em Lorena e Aparecida nesta sexta",
-    "resumo": "Chuva forte atinge cidades do Vale do Paraíba Choveu forte em cidades do Vale do Paraíba no fim da tarde e começo da noite desta sexta-feira (20). Em Lorena e Aparecida, houve alagamento em diversos pontos. Não havia balanço da Defesa Civil do estado de São Paulo sobre possíveis estragos até 21h. No meio da tarde, o órgão emitiu um alerta",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/20/tempestade-atinge-cidades-do-vale-do-paraiba-e-causa-alagamentos-em-lorena-e-aparecida-nesta-sexta-feira.ghtml",
-    "imagem": null,
-    "data": "2026-11-21T00:44:42.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
@@ -178,42 +277,6 @@
     "link": "https://www.nytimes.com/2026/11/20/us/elections/new-hampshire-presidential-primary.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20pol-nh-primary-SWAP-tvpj/20pol-nh-primary-SWAP-tvpj-mediumSquareAt3X.jpg",
     "data": "2026-11-21T00:42:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Tremor de terra é sentido no Acre e assusta moradores de Rio Branco e Cruzeiro do Sul",
-    "resumo": "Piscinas e lustres de casas balançaram durante tremor de terra percebido no Acre Um tremor de terra sentido na noite desta sexta-feira (20) assustou moradores em pelo menos dois municípios do Acre. A movimentação foi percebida em Rio Branco e em Cruzeiro do Sul, mas não houve ocorrências graves. Imagens feitas por moradores mostram que pi",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/20/tremor-de-terra-e-sentido-e-assusta-moradores-no-acre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rx3wkui_rfhQ6tdBxE_Pnefa1Ok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/8/B4obhBQlmB1pzmA2095Q/terremoto-peru.jpg",
-    "data": "2026-11-21T00:41:53.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Irmã de Gabi Morais é presa dois dias depois da ex-jogadora, em Fortaleza",
-    "resumo": "Francisca Emanuella Morais, irmã da ex-jogadora da Seleção Gabi Morais, também foi presa em Fortaleza Polícia Militar do Ceará Francisca Emanuella Morais da Rocha, irmã de Gabi Morais, ex-jogadora da Seleção Brasileira de Futebol presa por suspeita de envolvimento com o Comando Vermelho, também foi presa em Fortaleza. Emanuella, de 34 ano",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/20/irma-gabi-morais-presa-fortaleza.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rC_-hgwWzTYzQFYGYudOBaLMFVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/q/A7i0FFRxeGmZtQkoA6NQ/irma-gabi-morais-1-.jpg",
-    "data": "2026-11-21T00:39:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bayer pagará até US$ 7,25 bilhões em acordo judicial com pacientes que alegam ter desenvolvido câncer após uso de herbicida",
-    "resumo": "A fabricante de agroquímicos Bayer pagará até US$ 7,25 bilhões (o equivalente a mais de R$ 40 bilhões) ao longo de duas décadas para resolver milhares de processos movidos por pacientes com câncer nos EUA. O acordo foi aprovado nesta sexta-feira (20) por um juiz do estado do Missouri. Os pacientes com câncer alegam que a empresa deveria t",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/20/bayer-pagara-ate-us-725-bilhoes-em-acordo-judicial-com-pacientes-que-alegam-ter-desenvolvido-cancer-apos-uso-de-herbicida.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BjgIzyXsGg2XoP45IiCC883sVZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/HQ58dUTHS5mQUHilXI9Q/reutersmike-blake-monsanto-cos-roundup-is-shown-for-sale-in-encinitas-california.jpg",
-    "data": "2026-11-21T00:38:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
-    "resumo": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a Kiev. Ainda conforme o Itamaraty, não houve feridos nem danos materiais à representação brasileira ",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
-    "data": "2026-11-21T00:37:07.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -540,24 +603,6 @@
     "data": "2026-11-20T21:06:02.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Trump defends Putin relationship, warns AI data centres must stay in US",
-    "resumo": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T21:05:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-    "resumo": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
-    "link": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-20T20:59:04.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
@@ -619,15 +664,6 @@
     "link": "https://www.cbc.ca/news/entertainment/onlyfans-erika-eleniak-baywatch-9.7430177?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/b9665df3-dc05-4ca1-9268-57b4419634c4,1795200214018/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C236%2C7583%2C4265%29%3B",
     "data": "2026-11-20T20:21:18.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "People Are Anxious About Major Tech Failures. Preppers Are Cashing In.",
-    "resumo": "Emergency preparedness aficionados are eager to give advice about how to survive when society breaks down. They’re also willing to make a buck.",
-    "link": "https://www.nytimes.com/2026/11/20/us/prepper-influencers-profit-tech-anxiety.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/us/20nat-prepper-profit-tt-03/20nat-prepper-profit-tt-03-mediumSquareAt3X.jpg",
-    "data": "2026-11-20T20:08:10.000Z"
   },
   {
     "categoria": "Brasil",
@@ -718,15 +754,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
     "data": "2026-11-20T19:03:56.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-    "resumo": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-20T18:51:22.000Z"
   },
   {
     "categoria": "Canadá",
@@ -871,15 +898,6 @@
     "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/4657x3136!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
     "data": "2026-11-20T17:00:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-    "resumo": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-    "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-20T16:54:29.000Z"
   },
   {
     "categoria": "Economia",
@@ -1330,23 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-20T00:08:37.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-    "resumo": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-    "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-    "data": "2026-11-20T00:02:07.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    "resumo": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-    "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-19T23:33:51.000Z"
   }
 ]
