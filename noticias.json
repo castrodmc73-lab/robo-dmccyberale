@@ -1,12 +1,192 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+    "resumo": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+    "data": "2026-11-21T07:31:05.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: climate talks drag into overtime as countries race to find agreement",
+    "resumo": "<p>Though the climate talks officially finished on Friday, no final deal was agreed and there are growing concerns an agreement may not be possible</p><p>Civil society organisations wrote to Cop31’s joint presidents, Chris Bowen and Murat Kurum, overnight to tell them they had hours left to avoid making it “one of the most disappointing C",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1d274057a4ebd6ff4aa1f040f7f5e016",
+    "data": "2026-11-21T07:29:44.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+    "resumo": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+    "data": "2026-11-21T07:24:45.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Emergency crews in Ukraine hit by a double-tap strike",
+    "resumo": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T07:12:03.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+    "resumo": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T07:07:59.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Até onde estratégia de Trump contra o Irã depende de China e Rússia",
-    "resumo": "Putin, Xi Jinping e Trump durante cúpula trilateral histórica Kremlin Press Service/Anadolu via Reuters Enquanto Donald Trump, Xi Jinping e Vladimir Putin se reuniam em Shenzhen, Washington intensificava seus esforços para ampliar o bloqueio ao Irã. Ocorre que a China ainda é a principal compradora de petróleo de Teerã, e a Rússia oferece",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/21/ate-onde-estrategia-de-trump-contra-o-ira-depende-de-china-e-russia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WVZyCHAWBc_zcBQPxKifRVrUuZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/K/8NV5pLSMaGbd9dd7O2SA/2026-11-19t114026z-784660808-mt1anadl000y2mb4q-rtrmadp-3-anadolu.jpg",
-    "data": "2026-11-21T06:01:08.000Z"
+    "titulo": "'Skincare comestível': gelatina com frutas viraliza como fonte de colágeno, mas funciona?",
+    "resumo": "Mulher escolhendo frutas enquanto faz compras no mercado Reprodução/Freepik Uma nova tendência de cuidados com a pele viralizou nas últimas semanas: o \"skincare comestível\". Trata-se de uma receita de gelatina sem sabor com frutas como uva, morango, framboesa, manga, entre outras. Há também variações com ingredientes como chia ou outras s",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/21/skincare-comestivel-gelatina-com-frutas-viraliza-como-fonte-de-colageno.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VgyuVrOrvNvpOsn6k1A-6xtTRtU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/T/W8cEXmR2ebvUvkpe82eA/beautiful-young-woman-shopping-food.jpg",
+    "data": "2026-11-21T07:04:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Professora de aluno que chorou ao ser homenageado por superação de nota em simulado do Saresp explica evolução da turma: 'Muito trabalho'",
+    "resumo": "Professora comemora evolução de alunos antes do Saresp em escola de Altinópolis, SP A professora Juliana Prodóssimo atribui ao reforço feito durante todo o ano a evolução dos alunos do 5º ano da Escola Municipal Ana Lúcia Felipe Penteado Ferreira, em Altinópolis (SP), às vésperas do Sistema de Avaliação de Rendimento Escolar do Estado de ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/21/professora-de-aluno-que-chorou-ao-ser-homenageado-por-superacao-de-nota-em-simulado-do-saresp-explica-evolucao-da-turma-muito-trabalho.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CjlTLh1fB4tFiNeDDddykRq5qdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/U/3iXHqsSgA5ZNwJLQSnyA/molduras-g1-rp-2-.png",
+    "data": "2026-11-21T07:04:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "O que se sabe e o que falta saber sobre o advogado preso suspeito de torturar atriz em SP",
+    "resumo": "Atriz Camila Jeronymo acusa advogado e lutador de jiu-jítsu Vander Gaeta de agredi-la em SP. Os dois estavam namorando. Reprodução/Arquivo pessoal O advogado e lutador de jiu-jítsu Vander Gaeta, de 47 anos, foi preso nesta quinta-feira (19), em São Paulo, suspeito de torturar a namorada, a atriz Camila Jeronymo, de 36. Segundo a vítima, e",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/21/o-que-se-sabe-e-o-que-falta-saber-sobre-o-advogado-preso-suspeito-de-torturar-atriz-em-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IUnn_OmE_tZtWe0nsapYwnF6gyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/kdACYATX2KE7f8eqQrmw/fotojet-2026-11-19t075605.900.jpg",
+    "data": "2026-11-21T07:04:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Histórico do WhatsApp motivou mulher que jogou água quente e agrediu vizinha com panela: ‘Fiquei com raiva’",
+    "resumo": "Mulher joga água em vizinha e dá 'paneladas' após desentendimento em MG A releitura de mensagens antigas no WhatsApp motivou a mulher de 50 anos a jogar água e agredir uma vizinha com golpes de panela em Campina Verde, no Triângulo Mineiro. Em depoimento à Polícia Civil, Virgínia Vinhal Silva afirmou que recuperou as conversas na terça-fe",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/21/historico-do-whatsapp-motivou-mulher-que-jogou-agua-quente-e-agrediu-vizinha-com-panela-fiquei-com-raiva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Z9Xvgf4fgBObRW4ZyWre5jt0xiM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/F/sY8olzQ6m4RmYIjeV0ew/jl-midia-14-.png",
+    "data": "2026-11-21T07:04:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'GTA roraimense': amigos criam jogo de ação com carros rebaixados, pontos turísticos e até viaturas da polícia de Boa Vista",
+    "resumo": "'GTA roraimense': amigos criam jogo de ação com lugares turísticos de Boa Vista Carros rebaixados e com 'paredão', viaturas da PM de Roraima, camisas de times locais e até \"rolês\" em cenários reais da capital. Tudo isso é parte do Buritiro, game independente criado por três amigos autodidatas em desenvolvimento de jogos em Boa Vista. Com ",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/21/gta-roraimense-amigos-criam-jogo-de-acao-com-carros-rebaixados-pontos-turisticos-e-ate-viaturas-da-policia-de-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/foKwFf07u9mLxwUwmuA_2rO5IZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/j/GDmWlxSeSU5P38WeKjOQ/boa-vista-.jpg",
+    "data": "2026-11-21T07:04:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
+    "resumo": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais) Getty Images via BBC Uma das ferramentas mais antigas da gestão pública. Seu propósito é garantir serviços de luz, água ou ordem pública. Mas, no México, ele é conhecido como uma \"anomalia fiscal\". Estamos falando do básico e universal impos",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/21/por-que-o-mexico-arrecada-tao-poucos-impostos-e-como-financia-seus-crescentes-beneficios-sociais.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/y615UletamYwtPydfJTfHjAOldY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/8/GtdAERRiqlARlu1nYv7g/c77cdbcb-6b6c-4e5d-b5cf-cf4bad0b092a-1-.png",
+    "data": "2026-11-21T07:04:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas",
+    "resumo": "Exemplar de inseto infectado por um fungo zumbi e coletado pelos pesquisadores na Amazônia Tales Alves Junior/BBC Pesquisadores encontraram evidências de uma possível fase até então pouco conhecida do ciclo de vida dos chamados \"fungos zumbis\" na Amazônia: eles também podem viver associados a plantas. Embora estudos anteriores já tivessem",
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/21/fungos-zumbis-sao-vegetarianos-estudo-na-amazonia-revela-relacao-inesperada-com-plantas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3sEALvrFFr-Rdl_j8JOCySO1yQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/c/LrDBoCRwS8ESxAK4zk4A/e7af9510-e387-11f1-a8ca-d7dfade8c64d.png.webp",
+    "data": "2026-11-21T07:03:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Família de homem morto com barra de ferro em academia no Paraná descobre durante velório que ele recebia ameaças, diz prima",
+    "resumo": "Homem é morto com golpes de barra de ferro dentro de academia no Paraná Kelly Katlyn de Paula, prima de Adriano Anhasco, de 40 anos, morto a golpes de barra de ferro dentro de uma academia em Foz do Iguaçu, no oeste do Paraná, descobriu durante o velório que ele estaria recebendo ameaças do homem suspeito de cometer o assassinato. \"Estamo",
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/21/familia-homem-morto-academia-ameacas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LFmxn2i9hVos-eqhnNdxmfifCUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/A/Ia2H6PTB2bDLnWGzALHg/g1-pr-2026-11-20t122731.266.jpg",
+    "data": "2026-11-21T07:03:56.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "I hated life as a Neet. But now I’ve found a job, life is just as precarious | Emilija Morrison",
+    "resumo": "<p>The government’s plans to help young people not in education, work or training are welcome – I dearly hope they offer long-term security</p><ul><li><p>Emilija Morrison is a University of Glasgow graduate and holds a Gold Standard NCTJ Diploma in journalism</p></li></ul><p>What child dreams of being unemployed when they grow up? You can",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/21/hated-life-neet-found-job-life-precarious-government-young-people",
+    "imagem": "https://i.guim.co.uk/img/media/268407eddcddee7558e947c33428820ba646038d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3ac5374c521c19de69639e1e3afe2db1",
+    "data": "2026-11-21T07:00:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prédio do antigo hotel Maksoud Plaza, primeiro cinco estrelas de SP, tem projeto de condomínio com 550 unidades",
+    "resumo": "Hotel Maksoud Instagram Hotel Maksoud/reprodução O prédio de 23 andares que abrigou o tradicional hotel Maksoud Plaza, na Bela Vista, em São Paulo, está vazio desde dezembro de 2021, quando o estabelecimento encerrou definitivamente as atividades após 42 anos. Quatro anos depois, um projeto de reforma apresentado à Prefeitura prevê transf",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/21/predio-do-antigo-hotel-maksoud-plaza-primeiro-cinco-estrelas-de-sp-tem-projeto-de-condominio-com-550-unidades.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UkWau7PWCzAXuGDl6iQMU8pPSQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/R/DFqyMcQb2E4I8KmRvGOg/fotojet-2026-11-20t212716.437.jpg",
+    "data": "2026-11-21T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Auxílio de Brumadinho: entenda quem recebe e quanto deve ser pago após STF liberar retomada de pagamento",
+    "resumo": "Mais de 160 mil pessoas estão habilitadas a receber o Novo Auxílio Emergencial. TV Globo Mais de 160 mil pessoas atingidas pelo rompimento da barragem da Vale, em Brumadinho, na Região Metropolitana de Belo Horizonte, poderão voltar a receber o Novo Auxílio Emergencial após decisão desta quinta-feira (19) do presidente do Supremo Tribunal",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/21/auxilio-de-brumadinho-entenda-quem-recebe-e-quanto-deve-ser-pago-apos-stf-liberar-retomada-de-pagamento.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZsGtI30W3h3x9Wznr-hyVpiE0WA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Y/MXhD9HQGKppdYVJO97QQ/blank-2-grids-collage-8-.png",
+    "data": "2026-11-21T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Blocos 'Lá Vem Elas' e 'Lá Vem Eles' mantêm tradição de fantasias e diversão na Micareta de Feira; conheça",
+    "resumo": "Blocos 'Lá Vem Elas' e 'Lá Vem Eles' mantêm tradição de fantasias na Micareta de Feira Dois nomes parecidos, fantasias temáticas e muita irreverência marcam a passagem de dois blocos que conquistaram espaço na história da Micareta de Feira de Santana, festa que toma as ruas da segunda maior cidade da Bahia neste fim de semna. O Lá Vem Ela",
+    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/21/blocos-mantem-tradicao-de-fantasias-e-diversao-na-micareta-de-feira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/u3HLu1z7BM4CyK50d5qv9BFrCr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/5c4Zd7SBmnUBzNa2hv2A/foto-2-uruguai-9-.png",
+    "data": "2026-11-21T07:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Quem vai querer saber da minha história?': a foto que mostrou ao mundo a luta por moradia digna no Brasil",
+    "resumo": "'Quem vai querer saber da minha história?': a foto que mostrou ao mundo a luta por moradia \"Eu falei: 'Sandra, eu quero muito contar sua história'. Ela falou: 'Quem vai querer saber da minha história? Eu já estou aqui há 13 anos e a gente está nessa luta e ninguém vê a gente'\". O diálogo relembrado pela fotógrafa Priscila Ribeiro, nascida",
+    "link": "https://g1.globo.com/pr/parana/noticia/2026/11/21/quem-vai-querer-saber-da-minha-historia-a-foto-que-mostrou-ao-mundo-a-luta-por-moradia-digna-no-brasil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NXxIG2WNEDJRYkjSWDkMChl_UzU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/S/6YYEjgSEmCcv8pICXWcA/wpp-2026contest-southamerica-sin-priscilaribeiro.jpg",
+    "data": "2026-11-21T07:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Train collides with minibus in Indonesia",
+    "resumo": "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T06:55:02.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Sudan’s war will end, but will it be too late?",
+    "resumo": "Pressure from within Sudan may achieve what international diplomacy has not.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T06:32:04.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Netanyahu is playing with the fire that killed Rabin",
+    "resumo": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T06:21:03.000Z"
   },
   {
     "categoria": "Opinião",
@@ -18,58 +198,13 @@
     "data": "2026-11-21T06:00:49.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Anel do Titanic', joia de diamante vai a leilão com valor estimado em até R$ 934 mil",
-    "resumo": "Lady Duff Gordon e \"O Anel do Titanic\" Reprodução Um anel de diamante usado por uma das sobreviventes do naufrágio do Titanic será leiloado neste sábado (21), em Devizes, no condado de Wiltshire, no Reino Unido. Conhecida como “Anel do Titanic”, a joia pertenceu a Lady Duff Gordon, que usava a peça quando escapou do transatlântico, em abr",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/21/anel-do-titanic-leilao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/5QcSFtLDEjhbYhAYOfkQQIOE_IU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/0/cDGKBDQxC0MSC1eHr4Bg/montagem-horizontal-1280x720px-21-.jpg",
-    "data": "2026-11-21T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dos algoritmos ao aroma: como a IA está mudando a criação de perfumes",
-    "resumo": "Mulher passando perfume. Ron Lach/Pexels Pode haver um toque de bergamota nas notas de saída, seguido por uma íris adocicada, mas, segundo especialistas do setor, uma dose notável de inteligência artificial (IA) está surgindo nos novos perfumes. O tradicional mundo da perfumaria não pôde ignorar as novas tecnologias e os algoritmos, embor",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/21/dos-algoritmos-ao-aroma-como-a-ia-esta-mudando-a-criacao-de-perfumes.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UVzY24oQ8zf00UuvY6HYCIyOgbY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/Q/XdIqgPQXSSPdEA8Iwa5Q/pexels-ron-lach-8625562.jpg",
-    "data": "2026-11-21T06:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Três mortes, 60 feridos, 4 mil pessoas afetadas e mais de 5 mil casas destelhadas: o balanço de estragos causados por supercélula no RS",
-    "resumo": "Imagens aéreas mostram rastro de destruição causado por supercélula em Tupanciretã, no RS Os relatos de Tupanciretã mostram a força da tempestade que atingiu o Rio Grande do Sul na madrugada de sexta-feira (20). \"Destruiu a cidade\", resumiu o prefeito Gustavo Herter Terra (PP). \"Nível de destruição dramático\", atestou o governador Eduardo",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/balanco-estragos-supercelula-rs.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LU1i7etLwVQF7r_B3g3STiFaBpI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/6/D0BEHURzKZKn1ORb4QZw/g1-68-.jpg",
-    "data": "2026-11-21T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fim da escala 6x1: veja o que muda nas folgas, horas extras e jornadas após decreto de Lula",
-    "resumo": "Lula assina decreto com regras para o fim da escala 6x1 O fim da escala 6x1 avançou para uma nova etapa nesta semana. Depois que o Congresso promulgou a emenda constitucional, o Supremo Tribunal Federal (STF) definiu regras para a transição. Nesta quinta-feira (19), o presidente Luiz Inácio Lula da Silva (PT) assinou o decreto que regulam",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/21/fim-da-escala-6x1-veja-o-que-muda-nas-folgas-horas-extras-e-jornadas-apos-decreto-de-lula.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TOCI4sHy8W9gJ_IMuPUm8gNiL4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/5zZgHrSFGI9YDZkaAGvw/pexels-gustavo-fring-3873853.jpg",
-    "data": "2026-11-21T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-    "resumo": "Jensen Huang renunciou ao cargo em 12 de novembro. Getty Images via BBC A Nvidia e seu cofundador, Jensen Huang, estão no centro da onda de investimentos em inteligência artificial (IA). Poucas empresas ou executivos tiveram tanta influência sobre o desenvolvimento da IA nos últimos anos. Sob o comando de Huang, a fabricante americana de ",
-    "link": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
-    "data": "2026-11-21T06:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Após papa criticar inteligência artificial, igreja em Uberaba desiste de posts criados por IA",
-    "resumo": "Igreja São Domingos Uberaba Google Street View/Reprodução A paróquia da Igreja São Domingos, em Uberaba, anunciou que não utilizará mais artes e imagens produzidas totalmente com o uso de inteligência artificial (IA) nas redes sociais. A decisão foi comunicada na quinta-feira (19) e também vale para conteúdos enviados por fiéis para divul",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/21/apos-papa-criticar-inteligencia-artificial-igreja-em-uberaba-desiste-de-posts-criados-por-ia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OgUZGRYfKxlueRg8z6wdYBaJDRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/R/EONW0VRCGen2sSty7YiA/igreja-sao-domingos-uberaba.png",
-    "data": "2026-11-21T06:00:00.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "resumo": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
+    "data": "2026-11-21T06:00:09.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -100,66 +235,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-    "resumo": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
-    "data": "2026-11-21T05:15:41.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Al Jazeera explains: The US-China AI race is entering a new phase",
     "resumo": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-21T05:08:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Calopsita viaja quase 700 km para surpreender tutora em fotos de formatura de Medicina no Paraná",
-    "resumo": "Calopsita viaja quase 700 km para surpreender tutora em fotos de formatura Uma calopsita chamada Tikita viajou cerca de 700 quilômetros de Joinville, em Santa Catarina, até Toledo, no oeste do Paraná, para surpreender a tutora durante um ensaio de fotos de formatura em Medicina. A surpresa foi organizada pela mãe da estudante, que passou ",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/21/calopsita-viaja-para-surpreender-tutora.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/11Sn_ygMCC83NikYUN8xyDG_BtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/f/qzYuMrRVmzHFfDrcA57Q/g1-pr-2026-11-19t150732.698.jpg",
-    "data": "2026-11-21T05:07:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como uma crise do café no Brasil abalou a Alemanha Oriental e fez do Vietnã uma potência",
-    "resumo": "Café. Rei do Café Na segunda metade dos anos 1970, o hábito de tomar café era rotina na República Democrática da Alemanha (RDA), como era chamada a antiga Alemanha Oriental comunista. Trabalhadores, burocratas, militares, agentes do regime, estudantes: o hábito de consumir a bebida estava por toda parte. Então, em 1977, veio um choque. Ao",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/como-uma-crise-do-cafe-no-brasil-abalou-a-alemanha-oriental-e-fez-do-vietna-uma-potencia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/10VZsHe8qUrlySDxmFu2wuBHGZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/3/oIIghqQCyNSjV36jiy2g/4-cafe-que-sai-artigo4-creditos-rei-do-cafe.jpg",
-    "data": "2026-11-21T05:07:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos nos EUA e na Europa",
-    "resumo": "Acerola na carne? Veja como a fruta virou conservante natural de alimentos A acerola ganhou uma função inesperada: ajudar a conservar a carne por mais tempo. A fruta, transformada em pó, passou a ser exportada para os Estados Unidos e a Europa, onde é usada para conservação de alimentos. 🗒️ Tem alguma sugestão de reportagem? Envie para o",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/21/acerola-na-carne-veja-como-a-fruta-virou-conservante-natural-de-alimentos-nos-eua-e-na-europa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_Jd37_UYZjGBRnA2p9_vQR9Fxng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/s/JlWkNlRzS4kGPBBUE5RQ/whatsapp-image-2026-10-19-at-16.34.00.jpeg",
-    "data": "2026-11-21T05:06:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "A nova onda de drogas sintéticas caseiras que se espalha pelos EUA",
-    "resumo": "'Esta droga levará você a fazer quase tudo, infelizmente', afirma Mike, enquanto acende alguns grãos de fentanil, Darren Conway/BBC Importante: esta reportagem contém descrições de consumo de drogas e discussões sobre suicídio. Alguns grãos de fentanil se encontram sobre uma folha de papel-alumínio, enquanto um canudo, retido entre os láb",
-    "link": "https://g1.globo.com/saude/noticia/2026/11/21/a-nova-onda-de-drogas-sinteticas-caseiras-que-se-espalha-pelos-eua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/yQa01V00m_gPFVf8XB_GacLF5uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/E/eZazkYTY2vegULtUBY8Q/jn.png",
-    "data": "2026-11-21T05:06:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Fomos abandonados em sacolas quando éramos bebês e descobrimos, décadas depois, que éramos irmãos'",
-    "resumo": "Helen Ward \"Fui encontrado dentro de uma sacola, vestido de azul.\" Criado em uma família acolhedora e carinhosa em Belfast, na Irlanda do Norte, David McBride sempre soube que era adotado. Mas foi só aos 15 anos, quando solicitou uma certidão de nascimento para ingressar no Exército, que percebeu o pouco que se sabia sobre suas origens. O",
-    "link": "https://g1.globo.com/saude/noticia/2026/11/21/fomos-abandonados-em-sacolas-quando-eramos-bebes-e-descobrimos-decadas-depois-que-eramos-irmaos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/XRbCe1i8vmnkgDI-HJDLmd9rInE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/F61Ad1SvAVVfac8w2dBA/sac.png",
-    "data": "2026-11-21T05:06:53.000Z"
   },
   {
     "categoria": "Opinião",
@@ -297,15 +378,6 @@
     "data": "2026-11-21T01:49:07.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "COP31 deal stalls as nations struggle to agree on climate plan",
-    "resumo": "COP31 deal stalls as nations struggle to agree on climate plan",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T01:44:09.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
@@ -315,15 +387,6 @@
     "data": "2026-11-21T01:43:40.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Can Africa’s new credit rating agency change how the continent is assessed?",
-    "resumo": "The new African agency aims to bring greater transparency to credit ratings.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T01:36:10.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Secret audio captures 'Crypto King' planning his own kidnapping, defence lawyer says",
@@ -331,15 +394,6 @@
     "link": "https://www.cbc.ca/news/canada/toronto/crypto-king-kidnapping-trial-9.7430973?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/3d85390c-b6af-422d-811b-c5a474252314,1795132604702/full/max/0/default.jpg?im=Crop%2Crect%3D%2822%2C0%2C3839%2C2159%29%3B",
     "data": "2026-11-21T01:17:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-    "resumo": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T01:12:48.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -378,15 +432,6 @@
     "data": "2026-11-21T00:55:25.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Can Mauricio Pochettino save Man United from Premier League relegation?",
-    "resumo": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T00:55:01.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Top N.H. Election Official Reiterates Intent to Keep Nation’s First Primary",
@@ -412,15 +457,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
     "data": "2026-11-21T00:01:39.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Saudi-led coalition downs Houthi missiles",
-    "resumo": "Saudi-led coalition says it intercepted three missiles, as IRGC claims it downed US MQ-9 drone over Strait of Hormuz.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T00:00:06.000Z"
   },
   {
     "categoria": "Internacional",
@@ -711,15 +747,6 @@
     "data": "2026-11-20T20:04:46.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Gérard Depardieu and French author investigated over sexual allegations",
-    "resumo": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-    "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-20T19:45:20.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Rockstar says GTA VI made $3.79 billion in its first day",
@@ -873,8 +900,8 @@
     "data": "2026-11-20T17:52:43.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
+    "categoria": "Economia",
+    "fonte": "BBC Business",
     "titulo": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
     "resumo": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
     "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
@@ -1069,15 +1096,6 @@
     "link": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/c2297703-8600-4eb4-a058-f71bf329cfe6,1795194305622/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C40%2C3228%2C1815%29%3B",
     "data": "2026-11-20T14:04:38.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "I’m an Australian-Palestinian doctor who was turned away at the West Bank border. The stigma of being born in Gaza stands in the way of peace",
-    "resumo": "<p>After two attempts at two separate border crossings, I was denied entry, despite an approved visa and an official invitation from my health diplomacy charity</p><p>This month I set out to return to Palestine, where I was born and studied, as part of a health diplomacy delegation to the occupied Palestinian territories and Israel. After",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/21/im-an-australian-palestinian-doctor-who-was-turned-away-at-the-west-bank-border-the-stigma-of-being-born-in-gaza-stands-in-the-way-of-peace-ntwnfb",
-    "imagem": "https://i.guim.co.uk/img/media/58448698552467e1e97c8b19cfadf89d2ce9c50f/0_656_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=3ff78eea163edb974dc48c1fc04cb49d",
-    "data": "2026-11-20T14:00:32.000Z"
   },
   {
     "categoria": "Economia",
@@ -1330,23 +1348,5 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
     "imagem": null,
     "data": "2026-11-20T03:17:52.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "‘The Pacific is not for sale’: outcry after US holds first deep sea mining lease sale near American Samoa",
-    "resumo": "<p>Multi-million dollar sale comes despite a federal judge in Hawaii voiding the environmental clearance it had been given to proceed </p><p>The US has carried out its first ever deep-sea mining lease sales off the coast of American Samoa, despite an adverse court ruling earlier this week and mounting local opposition.</p><p>The sales too",
-    "link": "https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa",
-    "imagem": "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=fb3f05b6064c43c19561581d194d92f1",
-    "data": "2026-11-20T03:14:07.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Experimental compound burns fat without sacrificing muscle",
-    "resumo": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without sign",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-    "imagem": null,
-    "data": "2026-11-20T00:19:49.000Z"
   }
 ]
