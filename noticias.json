@@ -1,57 +1,264 @@
 [
   {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Moradores de Santarém podem receber remédios de graça; saiba como pedir pelo WhatsApp",
+    "resumo": "Interessados têm até o dia 2 de dezembro para fazer solicitação. Divulgação: imagem ilustrativa Moradores de Santarém, no oeste do Pará, podem conseguir medicamentos de graça por meio de um projeto social. A iniciativa distribui remédios que sobraram dos atendimentos de saúde do Barco Hospitalar Abaré. ✅ Clique aqui e siga o canal g1 Sant",
+    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/21/moradores-de-santarem-podem-receber-remedios-de-graca-saiba-como-pedir-pelo-whatsapp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/i_VnIZIh3YTAJHVVSt242OBg4Gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/x/DuZICWT4iABofcHOS98A/medicamentos.jpg",
+    "data": "2026-11-21T13:26:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Pessoa presa em tirolesa, banheiros químicos arrastados e secretário ferido: temporal causa estragos no Norte do Paraná",
+    "resumo": "Pessoa fica presa em tirolesa e banheiros químicos são arrastados por vento Uma pessoa ficou presa em uma tirolesa durante a chegada de um temporal em Maringá, no Norte do Paraná, na noite de sexta-feira (20). Um vídeo mostra o momento em que o céu escurece e pessoas deixam às pressas o local onde está montada a decoração de Natal da pref",
+    "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/21/estragos-chuva-norte-parana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/V0FMNcBATZlAgFxo3F7oIAWCYkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/F/gBO24BSQ6x0G3ElHbtcg/fundo-vermelho-g1.png",
+    "data": "2026-11-21T13:25:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem morre após bando que planejava ataque ser perseguido e trocar tiros com a PM em Maceió",
+    "resumo": "Armas e munição apreendidas pela polícia com os suspeitos Ascom/PM-AL Um homem morreu e outros três foram presos após uma troca de tiros com a Força Tática do 5º Batalhão da Polícia Militar (BPM), em Maceió. Segundo a PM, os ocupantes de um carro foram denunciados por suspeita de que planejar um ataque no Conjunto Caetés. Durante a perseg",
+    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/21/homem-morre-apos-bando-que-planejava-ataque-ser-perseguido-e-trocar-tiros-com-a-pm-em-maceio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/tiXiQTLS_Zboz5PG72ZxSkQzKf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/6vxh8aTk6Bp3VVT3HbkQ/mortevergel.jpeg",
+    "data": "2026-11-21T13:21:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia investiga morte de motorista de aplicativo e tatuador baleado durante tentativa de assalto em São João de Meriti",
+    "resumo": "Wander Luiz de Moraes Bonfim foi morto em uma tentativa de assalto em São João de Meriti Reprodução A Delegacia de Homicídios da Baixada Fluminense (DHBF) investiga a morte do motorista de aplicativo Wander Luiz de Moraes Bonfim, de 34 anos, baleado durante uma suposta tentativa de assalto em São João de Meriti, na Baixada Fluminense, na ",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/21/policia-investiga-morte-em-sao-joao-meriti.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CHtCRQY_Uw2Ash10TC3vc0XND8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/3/NvzS1ITe2kg78wxHAYiQ/morto1.jpg",
+    "data": "2026-11-21T13:21:27.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+    "resumo": "<p>Though the climate talks officially finished on Friday, no final deal was agreed. NGOs are warning that this summit might fall disastrously short of what is needed</p><p>Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today. A few people wander back and forth with their backpacks on. ",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1d274057a4ebd6ff4aa1f040f7f5e016",
+    "data": "2026-11-21T13:19:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Policiais investigados por morte de empresário durante abordagem são alvos de mandados de prisão em MT",
+    "resumo": "Sérgio dos Santos morreu ainda no local Reprodução Os policiais civis Ivan Ribeiro Rosa Souza Albuquerque e Sanderson Ferreira de Castro, são alvos de mandados de prisão preventiva durante a Operação Simulacrum, deflagrada neste sábado (21) pela Corregedoria-Geral da Polícia Civil de Mato Grosso. Eles são investigados pela morte do empres",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/21/policiais-investigados-por-morte-de-empresario-durante-abordagem-sao-alvos-de-mandados-de-prisao-em-mt.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Z9834m-dxhUGgqxiHyeZRgN0f6E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/q/dizy9zSYmyRhdSW77rOw/foto-g1-2026-11-16t093010.597.png",
+    "data": "2026-11-21T13:19:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Suspeita de atrair jovem para área de facção rival em Alagoas é presa em SP; vítima foi achada com mão decepada",
+    "resumo": "Suspeita de atrair jovem à área de facção rival em Alagoas é presa em Praia Grande (SP). À direita, imagem de quando a vítima foi encontrada Divulgação/Polícia Civil Uma mulher de 21 anos, investigada por homicídio qualificado e ocultação de cadáver em Alagoas, foi presa em Praia Grande, no litoral de São Paulo. A vítima, Rafael Lucas Sou",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/21/suspeita-de-atrair-jovem-para-area-de-faccao-rival-em-alagoas-e-presa-em-sp-vitima-foi-achada-com-mao-decepada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lPjvIAmqlJGNAJHtuc5NGYMVMnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/o/L9AVteRr2uYW9DApVAkA/g1-phed-81-.png",
+    "data": "2026-11-21T13:18:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motociclista morre após bater em canaleta e tombar moto em Ourinhos",
+    "resumo": "Motociclista morreu ao tombar o veículo na Rodovia Mello Peixoto (SP-278), em Ourinhos (SP) Portal CCM – Artesp/Divulgação Um motociclista morreu ao tombar o veículo na Rodovia Mello Peixoto (SP-278), em Ourinhos (SP), na madrugada deste sábado (21). Conforme a concessionária que administra o trecho, o acidente aconteceu na altura do quil",
+    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/21/motociclista-morre-apos-bater-em-canaleta-e-tombar-moto-em-ourinhos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/d9nlQWnILWmxSFGWlalhnCjhyIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/g/aILdARSLye8Bt4CdhXXQ/acidente-21-.jpg",
+    "data": "2026-11-21T13:17:40.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
     "resumo": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg",
-    "data": "2026-11-21T12:20:55.000Z"
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-21T13:17:38.000Z"
   },
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Defesa de Bolsonaro pede a Moraes autorização para visitas diárias de filhos durante internação",
-    "resumo": "",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
+    "titulo": "Homem é morto por dupla enquanto cortava o cabelo em barbearia de Fortaleza; vídeo",
+    "resumo": "Homem é morto a tiros por dupla dentro de barbearia, em Fortaleza Um homem foi morto a tiros por uma dupla enquanto cortava o cabelo em uma barbearia no bairro Jangurussu, em Fortaleza, na tarde desta sexta-feira (20). O crime foi registrado pela câmera de segurança do estabelecimento. Ninguém foi preso até a publicação desta matéria. Um ",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/21/homem-e-morto-por-dupla-enquanto-cortava-o-cabelo-em-barbearia-de-fortaleza-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XEgpCQDa4jFTkvmIKm4NcCxgpEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/O/kXfswAR9eHrfWWAxuXlQ/barbearia-8.jpg",
+    "data": "2026-11-21T13:17:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher morre e três pessoas ficam gravemente feridas após carro bater em caminhão na Bahia; veículo foi arrastado",
+    "resumo": "Acidente ocorreu na BR-101, em Mucuri PRF Uma mulher de 42 anos morreu e três pessoas ficaram gravemente feridas em um acidente envolvendo um carro e um caminhão na BR-101, em Mucuri, no sul da Bahia. De acordo com a Polícia Rodoviária Federal, a batida aconteceu na noite de sexta-feira (20) e, após a colisão, o carro ainda foi arrastado.",
+    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/21/mulher-morre-e-tres-pessoas-ficam-gravemente-feridas-apos-carro-bater-em-caminhao-na-bahia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/V9a8NMDfigVvVVTEwqpG0JM-7W0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/y/Bj1jikQKAGfBJ1PxDxwg/foto-no-tamanho-home-2026-11-21t101806.383.png",
+    "data": "2026-11-21T13:16:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Voo que saiu do Chile é desviado para Campo Grande após mau tempo no Paraguai",
+    "resumo": "Voo da Latam que saiu de Santiago, no Chile, com destino a Assunção, no Paraguai, precisou ser desviado para Campo Grande (MS) Guilherme Ramos/Ramos Aviation Um voo da Latam que saiu de Santiago, no Chile, com destino a Assunção, no Paraguai, precisou ser desviado para Campo Grande (MS), na sexta-feira (20), por causa das condições meteor",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/21/voo-que-saiu-do-chile-e-desviado-para-campo-grande-apos-mau-tempo-no-paraguai.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/L94pHMYHdq2iOe8YJhFaoP5MGgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/S/BJ5Db1SmyLVuiwWuBi0g/whatsapp-image-2026-09-24-at-16.27.29.jpeg",
+    "data": "2026-11-21T13:15:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cúpula na China foi 'muito malsucedida' para a Rússia, diz Zelensky",
+    "resumo": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters O presidente da Ucrânia, Volodymyr Zelensky, afirmou neste sábado (21) que a cúpula trilateral desta semana entre os líderes da China, da Rússia e dos Estado",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/21/cupula-na-china-foi-muito-malsucedida-para-a-russia-diz-zelensky.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+    "data": "2026-11-21T13:14:18.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Com 8 mil ações de saúde, expedição atende mais de mil indígenas no interior do AM",
+    "resumo": "Expedição de saúde leva atendimentos a indígenas no interior do AM Divulgação A 59ª Expedição dos Expedicionários da Saúde (EDS) somou 8.088 ações de saúde e atendeu mais de mil indígenas em Iauaretê, distrito de São Gabriel da Cachoeira (AM), no Alto Rio Negro, às margens do rio Uaupés, na fronteira com a Colômbia. A ação aconteceu entre",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/21/com-8-mil-acoes-de-saude-expedicao-atende-mais-de-mil-indigenas-no-interior-do-am.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Ek6oCAit7SSadL6UtGvfHVWztOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/Z/we3TuOR02iK3PVjDAJgQ/design-sem-nome-2026-11-21t085745.511.png",
+    "data": "2026-11-21T13:11:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+    "resumo": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary&#039;s 66 leads charge in Melbourne.",
+    "link": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-21T12:14:12.000Z"
+    "data": "2026-11-21T13:08:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Ataque hacker atinge sistemas do FBI e do Departamento de Agricultura dos EUA",
+    "resumo": "É a segunda vez que agência de inteligência é alvo de invasões desde setembro. País vem passando por onda de incidentes cibernéticos em massa.",
+    "link": "https://www.dw.com/pt-br/ataque-hacker-atinge-sistemas-do-fbi-e-do-departamento-de-agricultura-dos-eua/a-80009746?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-21T13:05:00.000Z"
+  },
+  {
+    "categoria": "Opinião",
+    "fonte": "The Guardian",
+    "titulo": "Fiona the hippo’s death was tragic. But blaming a ‘bad mom’ is absurd | Arwa Mahdawi",
+    "resumo": "<p>The beloved animal died after ingesting a hat. Some are seeking a scapegoat – and we’ve heard this story before</p><p><em>“Do they know the identity of the mother of the boy with the hat Fiona swallowed??”</em> asks one Facebook post with thousands of likes. <em>“She should be charged!!”</em></p><p>Spend a few minutes scrolling social ",
+    "link": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
+    "imagem": "https://i.guim.co.uk/img/media/b3e881f531d06e41d0e2127cd69b6ca237b051c9/445_0_4446_3556/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=001c337649999508385d272a818b86fa",
+    "data": "2026-11-21T13:00:01.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Perspective: Defining &apos;human&apos;",
+    "resumo": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fdd%2F590c0a4048d2afc4cfee2373c16d%2Fap24253399940383-1.jpg",
+    "data": "2026-11-21T13:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "A real '3 Body Problem': Astronomers discover a nearby 'weirdo' triple-star system",
+    "resumo": "An international team of astronomers led by the University of Montreal has found a nearby triple-star system, much like the one in the Netflix show 3 Body Problem. But this one seems to be… a little odd.",
+    "link": "https://www.cbc.ca/news/science/triple-star-system-9.7430178?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/02a52c4b-ba50-47ba-8095-e05099c6dd79,1795217241075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
+    "data": "2026-11-21T13:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+    "resumo": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;]",
+    "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-21T13:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The game of the year is finally here",
+    "resumo": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation [&#8230;]",
+    "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-21T13:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+    "resumo": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T12:49:20.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+    "resumo": "Two drones attack a cargo ship close to Russia&#039;s maritime border, causing damage and crew evacuation.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T12:45:24.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+    "resumo": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it&apos;s splitting environmentalists over other provisions that help the oil and gas industry.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6046482",
+    "data": "2026-11-21T12:40:17.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso com caminhonete furtada na Via Dutra, em Barra Mansa",
-    "resumo": "Homem é preso com caminhonete furtada na Via Dutra, em Barra Mansa Divulgação/Polícia Rodoviária Federal Um homem foi preso com uma caminhonete furtada na madrugada deste sábado (21) na Via Dutra, em Barra Mansa (RJ). O caso aconteceu na altura do km 293, na pista sentido São Paulo, por volta de 4h30. Segundo a Polícia Rodoviária Federal,",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/21/homem-e-preso-com-caminhonete-furtada-na-via-dutra-em-barra-mansa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pPYOLPcmGI5i7hGYECrCEEiODhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/s/BbvebDRCqwyU0qBqlyqA/whatsapp-image-2026-11-21-at-08.49.04.jpeg",
-    "data": "2026-11-21T12:13:16.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "\"Policiais queriam vingança\", diz advogado da família de Kathlen Romeu",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/policiais-queriam-vinganca-diz-advogado-da-familia-de-kathlen-romeu\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/policiais-queriam-vinganca-diz-advogado-da-familia-de-kathlen-romeu",
+    "imagem": null,
+    "data": "2026-11-21T12:32:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Suspeito de gerenciar tráfico em três bairros é preso em Volta Redonda",
-    "resumo": "Suspeito de gerenciar tráfico em três bairros é preso em Volta Redonda Divulgação/PMERJ Um jovem, de 20 anos, suspeito de gerenciar o tráfico de drogas em três bairros de Volta Redonda (RJ), foi preso na sexta-feira (20). A prisão aconteceu em uma residência na Rua João Rodrigues, no bairro Santa Cruz. Segundo a Polícia Militar, os agente",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/21/suspeito-de-gerenciar-trafico-em-tres-bairros-e-preso-em-volta-redonda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6ZpaVtegAcRV6mHSFA922f4nyfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/6/T3GUsfRIqg5ukxXBaYNg/whatsapp-image-2026-11-21-at-08.42.55.jpeg",
-    "data": "2026-11-21T12:10:59.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+    "resumo": "Sudan&#039;s displaced elderly often have to support grandchildren or fend for themselves.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T12:30:49.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher morre e outra fica gravemente ferida em batida entre moto e caminhão na PA-423, no Pará",
-    "resumo": "Acidente grave registrado na noite desta sexta-feira em Monte Alegre, no Pará Redes sociais Uma mulher morreu e outra ficou gravemente ferida após a motocicleta em que estavam bater contra um caminhão na PA-423, em Monte Alegre, no oeste do Pará. O acidente aconteceu na noite de sexta-feira (20). ✅ Clique aqui e siga o canal g1 Santarém e",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/21/mulher-morre-e-outra-fica-gravemente-ferida-em-batida-entre-moto-e-caminhao-na-pa-423-no-para.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WuHZBuwuUoLKO2yPs2RG60AQTpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/K/6fKfIxR9WXn7cDw1lBGg/whatsapp-image-2026-11-21-at-08.43.41.jpeg",
-    "data": "2026-11-21T12:04:56.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+    "resumo": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company&apos;s AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.",
+    "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x5710+0+0/resize/8565x5710!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg",
+    "data": "2026-11-21T12:30:16.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Caminhão em fuga atinge viatura em perseguição com tiros, oito feridos e engavetamento em Porto Alegre; 'Cena de filme', diz testemunha",
-    "resumo": "Perseguição a caminhão termina com tiros, oito feridos e engavetamento em Porto Alegre Matheus Goulart/Grupo RBS Um motorista de caminhão foi preso em flagrante na noite de sexta-feira (20), em Porto Alegre, após fugir da Brigada Militar (BM) e causar um engavetamento na Avenida Castelo Branco, uma das principais vias da capital gaúcha. O",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/motorista-caminhao-foge-policia-causa-engavetamento-porto-alegre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_rC1jxzUPJiiUFnY5ceQe52MQ78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/X/AXBX0oQIiEXYCfNwvn9A/g1-73-.jpg",
-    "data": "2026-11-21T12:04:50.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israeli attacks on Gaza kill at least four Palestinians",
+    "resumo": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+    "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T12:29:49.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Florida residents turn to kayaks and rafts as floods swamp streets",
+    "resumo": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-21T12:22:24.000Z"
   },
   {
     "categoria": "Opinião",
@@ -63,33 +270,6 @@
     "data": "2026-11-21T12:00:58.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Embasa recomenda que população evite banho de mar e pesca em praias de Salvador na terça-feira",
-    "resumo": "Praia do Farol da Barra Divulgação A Empresa Baiana de Águas e Saneamento (Embasa) recomendou que população de Salvador evite banho de mar e pesca entre as praias de Amaralina e Farol da Barra na terça-feira (24). O aviso foi emitido neste sábado (21). A justificativa é o bombeamento de esgoto ao emissário submarino do Rio Vermelho, que s",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/21/embasa-recomenta-que-populacao-evite-banho-de-mar-e-pesca-em-salvador.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/laDELXxE0Ld9VtmZMqDSiTN95xw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/n/0UJxL9R9KqK2CeTXdDAg/praia-do-farol-da-barra.jpg",
-    "data": "2026-11-21T12:00:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mais de 460 comissionados são exonerados em uma semana no Acre; 425 em um único dia",
-    "resumo": "Exonerações cresceram ao longo da semana, concentrando-se na véspera do feriado de sexta-feira (20) Odair Leal/Secom Mais de 460 servidores comissionados foram exonerados do governo do Acre em uma semana. Ao todo, 462 desligamentos foram publicados no Diário Oficial do Estado (DOE) entre a segunda-feira (16) e quinta-feira (19), em uma sé",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/21/mais-de-460-comissionados-sao-exonerados-em-uma-semana-no-acre-425-em-um-unico-dia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/zoB9xox5oeGpb9yYj3-_iBOoiYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/r/kA5NTuRBWK9GjzxV2FOQ/midia-de-distribuicao-g1-2026-08-04t120323.039.jpg",
-    "data": "2026-11-21T12:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Que vinho levar quando você é convidado: guia prático para acertar sempre",
-    "resumo": "Convite aceito, data marcada e, de repente, a dúvida: \"O que eu levo?\". Relaxa. Levar vinho é um dos gestos mais simpáticos que existem e escolher bem é mais fácil do que parece. Com algumas dicas, você chega à porta já como rótulo certo na mão. Comece pelo cardápio (ou pelo clima) Se você souber o que será servido, ótimo: use isso como b",
-    "link": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/11/21/que-vinho-levar-quando-voce-e-convidado-guia-pratico-para-acertar-sempre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nF9G9FhT2tlJsTfO8Xw8_cvVA-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/O/IEMElUSnuMCk2JAihMSg/capa-b-1.jpg",
-    "data": "2026-11-21T12:00:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Harbinger is building the unsexy EVs that keep the economy moving",
@@ -97,24 +277,6 @@
     "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-21T12:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Paraná terá fim de semana com ciclone extratropical, risco de granizo e ventos de até 85 km/h; veja previsão do tempo",
-    "resumo": "Nuvens em formato de funil e queda de árvores: tempestade deixa estragos em Foz do Iguaçu O Paraná terá um fim de semana de temporais, com risco de granizo, chuva forte e rajadas de vento de até 85 km/h. Segundo o Sistema de Tecnologia e Monitoramento Ambiental do Paraná (Simepar) e a Climatempo, as instabilidades devem atingir diferentes",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/21/parana-tera-fim-de-semana-com-ciclone-extratropical.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/q_JZz7sbZFAKc4YTgLYQbnhvHjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/G/MNPl5YTHajMHp8uAZLoA/g1-pr-2026-11-21t085345.937.jpg",
-    "data": "2026-11-21T11:59:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher é espancada com pedras e tijolo em via pública no interior do RN; suspeito é encontrado morto",
-    "resumo": "Suspeito foi encontrado morto Reprodução Uma mulher de 26 anos foi espancada em via pública no centro de Jardim do Seridó, na região Seridó potiguar, na tarde desta sexta-feira (21). Ela sofreu fraturas no crânio e na face e está em estado grave. Segundo a Polícia Militar, populares presenciaram a agressão e acionaram a corporação. A mulh",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/21/mulher-e-espancada-com-pedras-e-tijolo-em-via-publica-no-interior-do-rn-suspeito-e-encontrado-morto.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6_1Wfmut8_5SZKJOv9rSMFTzCnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/N/W2btMiRK2u8cbxA114Sg/whatsapp-image-2026-11-21-at-07.24.07-1-.jpeg",
-    "data": "2026-11-21T11:57:46.000Z"
   },
   {
     "categoria": "Internacional",
@@ -127,21 +289,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é morto com tiro na cabeça na Grande BH; VÍDEO",
-    "resumo": "Homem é morto com tiro na cabeça na Grande BH Um homem foi morto com um tiro na cabeça na noite desta sexta-feira (20), na Avenida José Faria da Rocha, no bairro Eldorado, em Contagem. Segundo a Polícia Militar, o crime aconteceu por volta das 19h10 e o autor dos disparos fugiu do local. O SAMU foi acionado mas ao chegar ao local, o homem",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/21/homem-e-morto-com-tiro-na-cabeca-na-grande-bh-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/n2Uw46goSR6ksugQq8Y-yIFmLbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/E/XA6NG2T6mAaMbMVTJtmQ/foto-tiro.png",
-    "data": "2026-11-21T11:55:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Temporal provoca alagamentos e enxurradas em Barra Mansa",
-    "resumo": "Temporal provoca alagamentos e enxurradas em Barra Mansa Um temporal provocou alagamentos e enxurradas na noite de sexta-feira (20), em Barra Mansa (RJ). Segundo a Defesa Civil, o município registrou 38 milímetros de chuva em apenas uma hora, com um acumulado de 45 milímetros durante todo o período. Em imagens que circulam nas redes socia",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/21/video-temporal-provoca-alagamentos-e-enxurradas-em-barra-mansa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EjAWkxhf7XlmmscUtFZyXahfHZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/1/0Fg9SPRcO4j5AIaCecoA/image-2-1-.png",
-    "data": "2026-11-21T11:54:38.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Especialista analisa impacto de reformas previdenciárias no país",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/especialista-analisa-impacto-de-reformas-previdenciarias-no-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/especialista-analisa-impacto-de-reformas-previdenciarias-no-pais",
+    "imagem": null,
+    "data": "2026-11-21T11:56:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -151,15 +304,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-21T11:53:56.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-    "resumo": "<p>Though the climate talks officially finished on Friday, no final deal was agreed. NGOs are warning that this summit might fall disastrously short of what is needed</p><p>Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today. A few people wander back and forth with their backpacks on. ",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=1d274057a4ebd6ff4aa1f040f7f5e016",
-    "data": "2026-11-21T11:47:45.000Z"
   },
   {
     "categoria": "Internacional",
@@ -217,24 +361,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
-    "resumo": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T10:54:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
-    "resumo": "Palestinians fear forced displacement as Israeli authorities target legally licensed homes in West Bank.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T10:38:13.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Megaprisões na América Latina: solução ou problema?",
     "resumo": "Presídio de segurança máxima com capacidade para até 40 mil detentos é um dos maiores trunfos do presidente de El Salvador. Para especialistas, porém, modelo tem mais impacto simbólico do que na redução da criminalidade.",
@@ -244,30 +370,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
-    "resumo": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T10:27:23.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
     "resumo": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
     "data": "2026-11-21T10:26:36.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-    "resumo": "Members of the UN&#039;s Convention on Certain Conventional Weapons fail to agree on swift adoption of legally binding rules.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T10:25:29.000Z"
   },
   {
     "categoria": "Brasil",
@@ -353,15 +461,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
-    "resumo": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here&apos;s what to know.",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg",
-    "data": "2026-11-21T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
     "resumo": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
@@ -369,13 +468,22 @@
     "data": "2026-11-21T10:00:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
-    "resumo": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T09:58:59.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
+    "resumo": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here&apos;s what to know.",
+    "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Ff4%2F5cd899cb4644a5425c60ad8b9f2b%2Fgettyimages-2305959470.jpg",
+    "data": "2026-11-21T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
+    "resumo": "William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Within less than a year, he was murdered. A retired Ontario lawyer is now trying to find the lead that breaks the case.",
+    "link": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/a9472579-f5da-4f78-98a5-af548efd4261,1794584948320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C1145%2C644%29%3B",
+    "data": "2026-11-21T10:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -406,15 +514,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
-    "resumo": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
-    "link": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T09:38:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "FBI reportedly investigating apparent hack of its criminal database",
     "resumo": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
@@ -425,7 +524,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Should AI be your personal assistant? Here's what you need to know",
+    "titulo": "The pros, cons and risks of using AI as your personal assistant",
     "resumo": "",
     "link": "https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/da88bf56-521e-4986-b56e-02a8388db515,1795048789463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3B",
@@ -470,7 +569,7 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Quebec's popular PEQ program is closed — again. People counting on it want answers",
+    "titulo": "A popular Quebec immigration program is closed — again. People who count on it want answers",
     "resumo": "The popular immigration pathway known as the PEQ was temporarily revived earlier this year. The first period for applications was open between July 2 and Oct. 31, and it's not clear when the Quebec government will open a second window for applicants.",
     "link": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/06cdef88-8393-46f6-9bdc-bbee566b345e,1794897774025/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C756%2C4032%2C2268%29%3B",
@@ -729,15 +828,6 @@
     "data": "2026-11-20T22:17:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "B.C. restaurant group alleges $2.1M in missing staff tips, sues payment company executives",
-    "resumo": "A B.C.-based restaurant group that operates Moxie's, Chop Steakhouse and Shark Club is suing six current and former executives and directors of a digital payment company over more than $2.1 million in funds allegedly owed to the group.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/northland-restaurant-group-missing-tips-9.7430320?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/483328f7-e603-4db1-9755-ce34f76b55dd,1795210449264/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4615%2C2595%29%3B",
-    "data": "2026-11-20T22:13:05.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
@@ -792,33 +882,6 @@
     "data": "2026-11-20T21:38:17.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Rising seas have forced this Quinault village to relocate",
-    "resumo": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6046485",
-    "data": "2026-11-20T21:38:13.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Trump&apos;s impact on an Ohio steel plant",
-    "resumo": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5860971",
-    "data": "2026-11-20T21:38:11.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "MLK&apos;s handwritten draft of iconic speech on display for the first time",
-    "resumo": "The only known handwritten draft of The Reverend Martin Luther King Jr.&apos;s &apos;I Have a Dream&apos; speech is on display in his hometown. The iconic phrase, however, never made it on the page.<br>",
-    "link": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2F33%2F92970e6b49c98705abbfd291cc49%2Flwa-2971.JPG",
-    "data": "2026-11-20T21:38:05.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Sociedade civil diz que COP31 poderá ser a pior da história",
@@ -855,15 +918,6 @@
     "data": "2026-11-20T21:12:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
-    "imagem": null,
-    "data": "2026-11-20T20:55:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Trump threatens ban on US firms building AI data centres overseas",
@@ -880,15 +934,6 @@
     "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-20T20:43:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Homenagens lembram legado de Zumbi e desafios da juventude negra",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11homenagens-lembram-legado-de-zumbi-e-desafios-da-juventude-negra\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11homenagens-lembram-legado-de-zumbi-e-desafios-da-juventude-negra",
-    "imagem": null,
-    "data": "2026-11-20T20:36:00.000Z"
   },
   {
     "categoria": "Clima",
@@ -1053,15 +1098,6 @@
     "data": "2026-11-20T17:10:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Teenage Engineering’s first CD player puts the spinning disc on display",
-    "resumo": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series [&#8230;]",
-    "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-20T17:05:52.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -1069,15 +1105,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
     "data": "2026-11-20T16:41:52.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "resumo": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics a",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-20T16:34:13.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1159,24 +1186,6 @@
     "link": "https://www.dw.com/pt-br/febre-de-gta-6-invade-a-política-da-alemanha-e-montagem-com-merz-é-alvo-de-zombaria/a-80003058?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-20T14:49:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "O que se sabe sobre a presença de tropas francesas na Ucrânia",
-    "resumo": "Governo francês confirma ter enviado tropas periodicamente à Ucrânia, mas diz que militares só oferecem treinamento e assistência na manutenção de armas. Rússia reage e acusa Paris de participar diretamente na guerra.",
-    "link": "https://www.dw.com/pt-br/o-que-se-sabe-sobre-a-presença-de-tropas-francesas-na-ucrânia/a-80001285?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-20T14:20:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Nasdaq wipes out 2026 gains, TSX, Dow and S&P 500 fall into correction territory",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c2297703-8600-4eb4-a058-f71bf329cfe6,1795194305622/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C40%2C3228%2C1815%29%3B",
-    "data": "2026-11-20T14:04:38.000Z"
   },
   {
     "categoria": "Economia",
@@ -1339,14 +1348,5 @@
     "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
     "data": "2026-11-20T07:32:19.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "What impact has Brexit had on the UK and EU economies?",
-    "resumo": "<p>As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead</p><p>The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.</p><p>Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham",
-    "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-    "imagem": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7211935cbb241db32158355594f03df7",
-    "data": "2026-11-20T07:00:26.000Z"
   }
 ]
