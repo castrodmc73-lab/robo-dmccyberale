@@ -1,12 +1,147 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "A Riverboat Captain Recalls a Crash on the Mississippi",
+    "resumo": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.",
+    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T10:02:29.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
+    "resumo": "Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition.",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T10:02:17.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+    "resumo": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T10:02:15.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+    "resumo": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T10:02:07.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+    "resumo": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T10:01:55.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "He expected a small-business loan. It turned out to be a trap",
+    "resumo": "America&apos;s fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3371+0+0/resize/4500x3371!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fac%2F2eee3f9c42bf92369fb5c87f9b95%2F20261113vaheshahinian00338.jpg",
+    "data": "2026-11-22T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
+    "resumo": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on <em>Weekend Edition</em>. There&apos;s still time to enter!<br>",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F1a%2F7f4325b745a383d3a11d882b2b99%2Ftalanis-spc-final.jpg",
+    "data": "2026-11-22T10:00:00.000Z"
+  },
+  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
     "resumo": "<p>A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\"><strong>Full report: Climate talks stall a",
     "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
     "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
-    "data": "2026-11-22T09:08:51.000Z"
+    "data": "2026-11-22T09:56:10.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+    "resumo": "Sajad Jawad died three days after winning the gold medal in the 90kg category at the Asian Championships in Thailand.",
+    "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T09:45:48.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Restored wells bring life back to Hebron’s occupied Old City",
+    "resumo": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
+    "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T09:33:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "SC chega a 50 feminicídios em 2026 após duas mortes em menos de 24 horas na maior cidade do Oeste",
+    "resumo": "Celine Silva de Oliveira e Victória de Souza Stanen foram assassinadas em Chapecó Reprodução/Redes sociais Santa Catarina chegou a 50 feminicídios em 2026. Em todo o ano passado, foram 52, conforme o Observatório da Violência Contra a Mulher. Os dois crimes mais recentes ocorreram em Chapecó, maior e mais importante cidade do Oeste, com m",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/sc-50-feminicidios-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aWh9JIDf73BNL-vzLvpYl1g-pUw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Y/tdS9WEQrOK8rH2g5A2NQ/celine-victoria.jpg",
+    "data": "2026-11-22T09:30:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Photos: People rally across France over living costs, public services",
+    "resumo": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
+    "link": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T09:27:48.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "South Korea education minister resigns over exam cheating scandal",
+    "resumo": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-22T09:20:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bruna Biancardi tem cidadania italiana por meio de tetravô; veja como descobrir se você tem direito",
+    "resumo": "Bruna Biancardi tem cidadania italiana por meio de tetravô; filhas Mavie e Mel também têm direito Reprodução/Instagram A influenciadora Bruna Biancardi e as filhas dela com o jogador Neymar Jr. conseguiram a cidadania italiana. A empresa da advogada Fernanda Fernandes Sant'Anna foi a responsável pela condução dos processos. Ao g1, a espec",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/22/bruna-biancardi-tem-cidadania-italiana-por-meio-de-tetravo-veja-como-descobrir-se-voce-tem-direito.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lE3fFUHqOul2t1JA_FQuwhVr7Zs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/G/KaAkAJQ4u6ovtbb96vBA/cidadania-biancardi.jpg",
+    "data": "2026-11-22T09:15:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jovem pediu para dormir na casa da sogra antes de ser encontrada morta; companheiro está foragido",
+    "resumo": "Jovem de 20 anos é encontrada morta em Praia Grande, SP; companheiro está foragido A manicure Beatriz Borges Monteiro de Castro, de 20 anos, pediu à sogra para dormir na residência dela antes de ser encontrada morta após uma discussão com o seu companheiro em Praia Grande (SP). Celso Miranda de Souza Junior, de 27 anos, é investigado por ",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/22/jovem-pediu-para-dormir-na-casa-da-sogra-antes-de-ser-encontrada-morta-companheiro-esta-foragido.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/L3ntQhdfcUI3mbDIEyVEqU5OfMo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/A/y1qgX3RDei0jWLiuehTw/g1-phed-83-.png",
+    "data": "2026-11-22T09:15:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vídeo feito com IA mostra antes e depois de Diabão Praddo e Mulher Demônia; ASSISTA",
+    "resumo": "Vídeo feito com IA mostra antes e depois de Diabão Praddo e Mulher Demônia Um vídeo criado com inteligência artificial mostrou o antes e depois do tatuador Diabão Praddo, conhecido pelas dezenas de modificações corporais que o levaram a entrar para o Guinness World Records. A publicação já ultrapassou sete milhões de visualizações no Inst",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/22/video-feito-com-ia-mostra-antes-e-depois-de-diabao-praddo-e-mulher-demonia-assista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4LvnA8-Psj12M4dvnC7lYmzAy1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/9/2kqroDQhS4aO03YlsTOA/diabao-ia.jpg",
+    "data": "2026-11-22T09:15:16.000Z"
   },
   {
     "categoria": "Internacional",
@@ -99,12 +234,12 @@
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Psicologicamente devastador', diz família sobre absolvição de anestesista acusado de deixar adolescente em estado semivegetativo no DF",
-    "resumo": "Rotina de cuidados com adolescente do DF que ficou em estado semivegetativo após cirurgia A vida e a rotina do adolescente Miguel Odppis Saliba Oliveira e de sua família mudaram completamente após ele sofrer uma fratura no braço em 2020. O que era pra ser uma cirurgia simples para tratar a lesão acabou deixando o menino, hoje com 17 anos,",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/22/psicologicamente-devastador-diz-familia-sobre-absolvicao-de-anestesista-acusado-de-deixar-adolescente-em-estado-semivegetativo-no-df.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_8ykTJ9qNsLMIAUhnCKbWJm8DVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/i/0Zw7HhTtqZhLnlCTic4g/design-sem-nome-47-.jpg",
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
+    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
+    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
@@ -123,15 +258,6 @@
     "resumo": "To overcome one of the biggest challenges facing Premier Danielle Smith’s ambitions to build a large oil export pipeline to the West Coast, the Alberta government could decide to fill the pipeline with oil collected as royalties from industry.",
     "link": "https://www.cbc.ca/news/canada/calgary/bakx-danielle-smith-pacific-link-royalties-in-kind-brik-9.7428691?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/9f827a49-3982-4e2c-bb7d-3afdd318ba43,1795118791818/full/max/0/default.jpg?im=Crop%2Crect%3D%28701%2C59%2C4518%2C2541%29%3B",
-    "data": "2026-11-22T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
@@ -160,33 +286,6 @@
     "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
     "imagem": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e5620c45cf4b29b42ed906346159bdc1",
     "data": "2026-11-22T08:00:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Do 'R' caipira ao 'X' carioca: casal viraliza com vídeos e gera 'disputa' de sotaques entre internautas; especialista explica diferenças",
-    "resumo": "Do 'R' caipira ao 'X' carioca: casal viraliza com vídeos e gera 'disputa' de sotaques De cidades diferentes, o casal Caio Ferraz e Carolina Bruno se encontrou no Rio de Janeiro (RJ). Nas redes sociais, eles viralizaram com a postagem de um vídeo em que brincam com o modo de falar um do outro, pelo fato de ele ter sotaque piracicabano e el",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/22/do-r-caipira-ao-x-carioca-casal-viraliza-com-videos-e-gera-disputa-de-sotaques-entre-internautas-especialista-explica-diferencas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hJFDEmf8XbH9xpn22ezAYcnIe6w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/53IBsqSoSeicxAEBPwhw/design-sem-nome-32-.jpg",
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis'",
-    "resumo": "A China é líder mundial na produção de energia solar Getty Images via BBC A China é o maior emissor mundial de dióxido de carbono (CO₂). Mas o gigante asiático atingiu recentemente outra marca importante. No primeiro semestre de 2026, menos da metade da eletricidade chinesa foi gerada por carvão, pela primeira vez na história do país. Vin",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/22/como-china-finalmente-reduziu-emissao-de-poluentes-e-planeja-revolucao-de-energias-renovaveis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YS3bhUPM_mRQ7DynZe35UHO-htQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/d/LnWtivSROy3WDYATUq0Q/0ece5030-e119-11f1-a7db-d90284d21c62.jpg.webp",
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Herói das Sete Quedas: homem salvou seis pessoas de tragédia que matou 32 antes do maior conjunto de cachoeiras do mundo desaparecer",
-    "resumo": "Herói das Sete Quedas salvou seis pessoas de tragédia que matou 32 Antes de desaparecerem sob as águas do reservatório de Itaipu, as Sete Quedas, em Guaíra, no Oeste do Paraná, estavam entre os principais destinos turísticos do Brasil. Formadas por 19 saltos distribuídos em sete conjuntos, eram consideradas as maiores cachoeiras do mundo ",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/heroi-das-sete-quedas-relembre-tragedia-ponte-guaira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/p_IdCFt6s4Yz5XDRiDYlo2g7WZ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/f/VdOOGpQfKFWG0QyDu1gw/g1-pr-2026-11-17t185559.856.jpg",
-    "data": "2026-11-22T08:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -234,8 +333,8 @@
     "data": "2026-11-22T07:22:05.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Internacional",
+    "fonte": "BBC News",
     "titulo": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "resumo": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
     "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
@@ -272,15 +371,6 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Why Somalia’s president turned against his former ally, the UAE",
-    "resumo": "Behind Somalia&#039;s break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T06:59:59.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
     "titulo": "The European revolt may be coming to the UK",
     "resumo": "There is enough justified anger among the British youth to spark a wave of mass protests.",
     "link": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
@@ -289,12 +379,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-    "resumo": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-    "data": "2026-11-22T06:54:06.000Z"
+    "fonte": "Al Jazeera",
+    "titulo": "Why Somalia’s president turned against his former ally, the UAE",
+    "resumo": "Behind Somalia&#039;s break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T06:59:59.000Z"
   },
   {
     "categoria": "Internacional",
@@ -307,39 +397,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What Sandpapergate reveals about Australian cricket",
-    "resumo": "A toxic culture of winning at any cost has been hiding behind the myth of ‘mateship’.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T06:32:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Three killed and dozens missing after fire at Indonesian factory",
     "resumo": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
     "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
     "data": "2026-11-22T06:05:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Kenya’s internet metering bill raises privacy and affordability concerns",
-    "resumo": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T05:38:52.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-    "resumo": "Sudan&#039;s displacement crisis could worsen with winter approaching.",
-    "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T05:21:46.000Z"
   },
   {
     "categoria": "Internacional",
@@ -612,15 +675,6 @@
     "data": "2026-11-21T20:02:02.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
-    "resumo": "A blitz of new Trump administration policies are set to upend the lives of international students again, making it harder for them to live and work in the United States.",
-    "link": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/16/multimedia/00dc-international-students-01-thmq/00dc-international-students-01-thmq-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T19:58:02.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Brasil vence Irlanda por 2 a 1 em estreia na Copa do Mundo Sub-17",
@@ -657,15 +711,6 @@
     "data": "2026-11-21T19:20:22.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-    "resumo": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
-    "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T19:11:51.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Pigossi e Stefani deixam Brasil na frente do Canadá na Billie Jean",
@@ -691,15 +736,6 @@
     "link": "https://www.dw.com/pt-br/méxico-captura-chapo-isidro-alvo-da-lista-de-mais-procurados-do-fbi/a-80010832?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-21T19:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A Chicago Park Is Infested With Rats. Is a Wealthy Couple to Blame?",
-    "resumo": "People keep spreading nuts in a Chicago park, attracting rodents and neighbors’ fury. Officials are not sure how to stop it.",
-    "link": "https://www.nytimes.com/2026/11/21/us/chicago-lincoln-park-rats.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21nat-rats-billionaire--02-pmvk/21nat-rats-billionaire--02-pmvk-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T18:50:48.000Z"
   },
   {
     "categoria": "Internacional",
@@ -790,15 +826,6 @@
     "link": "https://www.dw.com/pt-br/cop31-avança-além-do-prazo-e-segue-sem-consenso-sobre-combustíveis-fósseis/a-80010347?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-21T15:37:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "The California Grandparents Accused of Killing Jonathan McKinsey, Their Son-in-Law",
-    "resumo": "Jonathan McKinsey, 40, was gunned down in a suburban park after spending time with his three children. His wife’s parents have been charged with murder.",
-    "link": "https://www.nytimes.com/2026/11/21/us/jonathan-mckinsey-shooting-in-laws.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/20nat-dublin-shooting-01-tbgv/20nat-dublin-shooting-01-tbgv-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T15:31:25.000Z"
   },
   {
     "categoria": "Ciência",
@@ -945,15 +972,6 @@
     "data": "2026-11-21T13:00:01.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Perspective: Defining &apos;human&apos;",
-    "resumo": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fdd%2F590c0a4048d2afc4cfee2373c16d%2Fap24253399940383-1.jpg",
-    "data": "2026-11-21T13:00:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "A real '3 Body Problem': Astronomers discover a nearby 'weirdo' triple-star system",
@@ -979,15 +997,6 @@
     "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-21T13:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-    "resumo": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it&apos;s splitting environmentalists over other provisions that help the oil and gas industry.",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6046482",
-    "data": "2026-11-21T12:40:17.000Z"
   },
   {
     "categoria": "Opinião",
@@ -1042,15 +1051,6 @@
     "link": "https://www.dw.com/pt-br/sequestro-de-crianças-como-arma-de-guerra-putin-e-o-legado-de-hitler/a-80007486?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-21T10:11:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
-    "resumo": "Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job.",
-    "link": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-mcbride-ckvt/21dc-mcbride-ckvt-mediumSquareAt3X.jpg",
-    "data": "2026-11-21T10:02:29.000Z"
   },
   {
     "categoria": "Clima",
@@ -1152,8 +1152,8 @@
     "data": "2026-11-20T22:53:24.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
+    "categoria": "Economia",
+    "fonte": "BBC Business",
     "titulo": "Tech stock sell-off drags markets down as Anthropic shares slide",
     "resumo": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
