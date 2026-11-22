@@ -1,12 +1,174 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+    "resumo": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-22T17:12:01.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+    "resumo": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever UN climate summit with no deal to show for it.",
+    "link": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/b8ccf557-7b6b-4ab6-bef7-d49a4c07c3e8,1795367412925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3639%2C2046%29%3B",
+    "data": "2026-11-22T17:11:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bombeiros de MG resgatam criança de 6 anos que ficou com dedo preso em roda de carro",
+    "resumo": "Bombeiros cortam roda de carro para resgatar criança de 6 anos que ficou com dedo preso CBMMG/Divulgação Um menino de 6 anos foi resgatada pelo Corpo de Bombeiros após ficar com o dedo preso em um dos furos da roda de um carro, na manhã deste domingo (22), em Betim, na Região Metropolitana de Belo Horizonte. Ele não se feriu. Segundo os m",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/22/bombeiros-de-mg-resgatam-crianca-de-6-anos-que-ficou-com-dedo-preso-em-roda-de-carro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/s7WMUY89vh3ox9o4ZCpo_59gbcU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/c/Ss05uhRnuugw6WxYwJcQ/dedoroda.jpg",
+    "data": "2026-11-22T17:10:29.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Quem era o cabeleireiro encontrado morto dentro de casa com marcas de faca no Tocantins",
+    "resumo": "Cabeleireiro era conhecido como Paulinho Reprodução/Prefeitura de Paraíso do Tocantins O cabeleireiro Paulo da Silva Dias, de 59 anos, era conhecido em Paraíso do Tocantins, na região central do estado, pelo carisma e pela dedicação a causas sociais, conforme contou o amigo Joseilton Batista. Figura conhecida na cidade, Paulo foi encontra",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/22/quem-era-o-cabeleireiro-encontrado-morto-dentro-de-casa-com-marcas-de-faca-no-tocantins.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/QhDdPJmXwj2-M0HHwN2st0Anf7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/q/ZELo6ARnyVgauBlflrww/copia-de-modelo-foto-fundo-borrado-43-.png",
+    "data": "2026-11-22T17:09:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
+    "resumo": "Vista aérea feita por drone mostra fumaça saindo da fábrica PT Fonusa Agung Mulia, atingida por um incêndio em Cikande, na regência de Serang, província de Banten, na Indonésia, em novembro. Reuters Um incêndio atingiu uma fábrica de doces em Cikande, na ilha de Java, na Indonésia, na noite de sábado (21). Segundo a Reuters, várias pessoa",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4zSznfSc7uIbVzsA529F38DJ_3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/sAAvYPTCar0GPShaOWZA/2026-11-22t105412z-317322532-rc2tsoa36gr2-rtrmadp-3-indonesia-fire.jpg",
+    "data": "2026-11-22T17:08:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PM é preso após disparar arma na rua e ameaçar vigilantes de parque na Zona Leste de SP",
+    "resumo": "Parque Fazenda da Juta Reprodução Um policial militar de 31 anos foi preso em flagrante na madrugada deste domingo (22), após realizar disparos de arma de fogo em via pública e ameaçar dois vigilantes do Parque Municipal Fazenda da Juta, na Zona Leste de São Paulo. Segundo o boletim de ocorrência obtido pelo g1, o segundo-sargento Lucas d",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/pm-e-preso-apos-disparar-arma-na-rua-e-ameacar-vigilantes-de-parque-na-zona-leste-de-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VPFJK9TffgxQoonLujOoGTZM2L8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/1/wBaVNRSiGpuvVG6A4nvQ/whatsapp-image-2026-01-22-at-14.57.14.jpeg",
+    "data": "2026-11-22T17:06:46.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Fiéis são hospitalizados após vazamento de gás em igreja na Alemanha",
+    "resumo": "Mais de 50 pessoas que acompanhavam missa de domingo no sul da Alemanha foram intoxicadas com monóxido de carbono. Dispositivo de segurança do aquecimento teria falhado.",
+    "link": "https://www.dw.com/pt-br/fiéis-são-hospitalizados-após-vazamento-de-gás-em-igreja-na-alemanha/a-80014673?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-22T17:05:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Morre no hospital homem baleado em Barra Mansa",
+    "resumo": "Santa Casa de Barra Mansa Reprodução Morreu no hospital, o homem que foi baleado na sexta-feira (20), em Barra Mansa (RJ). O caso aconteceu na Rua Major José Bento, no bairro Vila Nova. A informação foi confirmada pela Santa Casa neste domingo (22). Segundo a 3ª Companhia Independente de Polícia Militar (3ª CIPM), quando os agentes chegar",
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/22/morre-homem-baleado-em-barra-mansa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/HOqw1uCTnAaXjcdMNcW5TgCRha8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/t/F/GDY9ikQQOi5sxuJ2dkeQ/whatsapp-image-2023-02-27-at-10.43.36.jpeg",
+    "data": "2026-11-22T17:02:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Chuva forte, ventos de até 60 km/h e granizo: Vale do Paraíba e região têm alertas para tempestades",
+    "resumo": "Regiao do banhado de São José dos Campos. Diógenes Moretto/Arquivo O Vale do Paraíba e região estão sob alertas de perigo potencial para tempestades neste domingo (22) e no começo desta semana. Os avisos foram emitidos pelo Instituto Nacional de Meteorologia (Inmet) e preveem chuva forte, ventos intensos e possibilidade de queda de graniz",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/chuva-forte-ventos-de-ate-60-kmh-e-granizo-vale-do-paraiba-e-regiao-tem-alertas-para-tempestades.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fKiwzzGez84X0TEi_g0IeKVW_UE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/d/m2lETOSvCqioyeabGwWA/foto-g1-1-.jpg",
+    "data": "2026-11-22T17:01:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem morre atropelado por ônibus em Florianópolis; vítima carregava documento de alta hospitalar do mesmo dia",
+    "resumo": "Homem morreu após ser atropelado por ônibus em Florianópolis PM/Divulgação Um homem de 65 anos morreu atropelado por um ônibus na Avenida Beira-Mar Norte, em Florianópolis, na manhã deste domingo (22). Segundo a Polícia Militar, a vítima carregava um documento médico que indicava ter recebido alta hospitalar na mesma manhã, após atendimen",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/homem-morre-atropelado-por-onibus-beira-mar-norte-florianopolis.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gUb6breMKDU-HyWZLY_aDKr9oRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/wyBSLvRoyv1oCMZcPxHQ/onibus.jpg",
+    "data": "2026-11-22T17:00:01.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+    "resumo": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-22T17:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Adolescente sofre traumatismo craniano ao bater bicicleta elétrica em monte de barro no AC; VÍDEO",
+    "resumo": "Adolescente de 14 anos bate bicicleta elétrica em barro e sofre TCE no AC Um adolescente de 14 anos sofreu um traumatismo cranioencefálico (TCE) grave após perder o controle de uma bicicleta elétrica e bater contra um monte de barro que estava na lateral da Rua Atalaia, em Acrelândia, interior do Acre. O acidente ocorreu na tarde desse sá",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/adolescente-sofre-traumatismo-craniano-ao-bater-bicicleta-eletrica-em-monte-de-barro-no-ac-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RIZ52C2J3h5s0M10KAXLrvygQQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/l/kATtKxQ9Goo9WicfrG4g/midia-de-distribuicao-g1-15-.png",
+    "data": "2026-11-22T16:57:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Eu gosto de estudar': médico de 67 anos presta vestibular da Unesp para tentar vaga em história",
+    "resumo": "'Eu gosto muito de estudar': médico de 67 anos tenta vaga em história na Unesp Um médico de 67 anos que tenta conquistar uma vaga no curso de história, uma jovem de origem síria, que presta o vestibular pela segunda vez na tentativa de passar em odontologia, uma comunicadora, de 40, que busca novos caminhos profissionais. Esses são alguns",
+    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/22/eu-gosto-de-estudar-medico-de-67-anos-presta-vestibular-da-unesp-para-tentar-vaga-em-historia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IIl5MKTd5LG-nirX7aUPtWzj6hE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/5/AC0kZwTtmbjIL7pem39w/1795366220462517-1-2-.jpg",
+    "data": "2026-11-22T16:57:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: motorista desvia de cão, confunde pedais e invade entrada de estádio em distrito de Rio Preto",
+    "resumo": "Motorista desvia de cachorro, confunde pedais e invade estádio em Rio Preto Um motorista de 64 anos perdeu o controle da direção ao desviar de um cachorro e bateu contra a entrada do estádio de Engenheiro Schmitt, distrito de São José do Rio Preto (SP), na tarde deste sábado (21). Segundo o relato do condutor à Guarda Civil Municipal (GCM",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/22/video-motorista-desvia-de-cao-confunde-pedais-e-invade-entrada-de-estadio-em-distrito-de-rio-preto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/25NfuEBarSsJ2uf8CszVhdiI_gc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/Yi5kVyRciAgUfxgUZAsw/design-sem-nome-2026-11-22t123305.484.png",
+    "data": "2026-11-22T16:56:16.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
     "resumo": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
     "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
     "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T16:25:53.000Z"
+    "data": "2026-11-22T16:56:08.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "The Guardian",
+    "titulo": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+    "resumo": "<p>No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia</p><p>An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said.</p><p>There was no immediate claim of responsibil",
+    "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "imagem": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c",
+    "data": "2026-11-22T16:55:49.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Pente experimental estimula crescimento capilar e supera tratamentos convencionais em ratos",
+    "resumo": "Novo dispositivo combina estímulos elétricos e moléculas terapêuticas, alcançando até 97,85% de recrescimento capilar. Tecnologia ainda não foi testada em humanos.",
+    "link": "https://www.dw.com/pt-br/pente-experimental-estimula-crescimento-capilar-e-supera-tratamentos-convencionais-em-ratos/a-80014577?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-22T16:55:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bolsonaro está clinicamente estável e segue em UTI, diz boletim médico",
+    "resumo": "Ex-presidente Jair Bolsonaro Pablo Porciuncula/AFP O ex-presidente Jair Bolsonaro está clinicamente estável, informou o hospital DF Star na tarde deste domingo (22). Ele está internado em unidade de terapia intensiva com o diagnóstico de abdômen agudo obstrutivo desde sexta-feira (20). Não há previsão de alta. O informe diz, ainda, que Ja",
+    "link": "https://g1.globo.com/politica/politico/noticia/2026/11/22/bolsonaro-esta-estavel-diz-hospital.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/46fp6f5WWQKEGzNwfLRvF3e7UII=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/v/ezHm5zSIuTpPTlr0YTIw/bolsonaro.jpg",
+    "data": "2026-11-22T16:54:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jovem morre após perder controle de moto ao tentar ultrapassagem no Piauí",
+    "resumo": "Jovem morre após perder controle de moto ao tentar ultrapassar outro motociclista no Piauí Reprodução Um jovem identificado como Felipe Emanuel Dias Melo morreu em um acidente de motocicleta na madrugada deste domingo (22), em Santo Antônio de Lisboa, no Sul do Piauí. Segundo testemunhas, ele perdeu o controle da direção ao tentar ultrapa",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/22/jovem-morre-moto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/NQ0ojlGUF4sCfwx0gJJ4JMV2aHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/eyDEzkQbCHKUcunQjgDg/edicao-imagens-g1-68-.jpg",
+    "data": "2026-11-22T16:52:15.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -15,34 +177,79 @@
     "resumo": "The system facing problems is used to calculate the weight and balance of departing flights. The disruptions come after a nationwide ground stop that canceled thousands of flights last weekend.",
     "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
     "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22nat-delta-outage2-bzlp/225nat-delta-outage2-bzlp-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T16:22:35.000Z"
+    "data": "2026-11-22T16:45:41.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Acidente entre moto e caminhão deixa motociclista ferido na Santos Dumont, em Campinas",
-    "resumo": "Um acidente entre uma moto e um caminhão deixou o motociclista ferido na manhã deste domingo (22) em Campinas (SP). A colisão ocorreu na Rodovia Santos Dumont (SP-075), em frente ao Aeroporto Internacional de Viracopos. O helicóptero Águia foi acionado e fez o resgate da vítima, que foi encaminhada ao Hospital de Clínicas (HC) da Unicamp.",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/22/acidente-com-moto-deixa-homem-ferido-na-santos-dumont-em-campinas-aguia.ghtml",
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
+    "resumo": "<p>Countries failed to reach consensus on a key deal that did not mention fossil fuels</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected\"><strong>Full report: Cop31 climate talks set to end in deep division as key deal rejected</strong></a></p></",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
+    "data": "2026-11-22T16:45:37.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+    "resumo": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and ",
+    "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-22T16:33:29.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+    "resumo": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-22T16:19:08.000Z"
+    "data": "2026-11-22T16:33:26.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "International climate talks end in disappointment",
+    "resumo": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement after conflict over fossil fuels - the primary driver of fossil fuels.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2716+0+0/resize/4074x2716!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg",
+    "data": "2026-11-22T16:33:22.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+    "resumo": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T16:32:19.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Conservative Leader Pierre Poilievre holds news conference",
+    "resumo": "The Conservative leadder is speaking to reporters alongside his immigration critic, Conservative MP Michelle Rempel Garner",
+    "link": "https://www.cbc.ca/player/play/9.7431803?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c53b92a7-45c1-4167-85e5-6db6090f6528,1795358646496/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C1920%2C1080%29%3B",
+    "data": "2026-11-22T16:30:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Unesp 2027: portões são fechados para a 1ª fase; g1 terá resolução ao vivo",
-    "resumo": "Unesp 2027: portões são fechados para a 1ª fase; g1 terá resolução ao vivo Prova com 90 questões dura 5 horas neste domingo (22). Logo após a aplicação, professores do Oficina do Estudante participam de transmissão. Candidatos disputam 5.850 vagas em 137 cursos de graduação.. Serão 90 questões objetivas de múltipla escolha em 4 áreas do c",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/ao-vivo/unesp-2027-correcao-ao-vivo-1-fase.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pSIOTyEnHhwzhtyAcymTcisI7YM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/c/kaN6AMRk6jIykhuAVKlA/estudantes-unesp.jpeg",
-    "data": "2026-11-22T16:18:30.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Brasil fecha Mundial Júnior de Judô com bronze por equipes mistas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-fecha-mundial-junior-de-judo-com-bronze-por-equipes-mistas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-fecha-mundial-junior-de-judo-com-bronze-por-equipes-mistas",
+    "imagem": null,
+    "data": "2026-11-22T16:28:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jovem é morto e adolescente fica ferido em ataque a tiros na Serra",
-    "resumo": "Jovem é morto e adolescente fica ferido em ataque a tiros na Serra, Espírito Santo TV Gazeta Um jovem de 18 anos morreu e um adolescente ficou ferido após serem baleados em frente a um bar no bairro Vila Nova de Colares, na Serra, na Grande Vitória. O ataque aconteceu por volta das 17h50 deste sábado (21). Segundo testemunhas, os dois est",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/22/jovem-e-morto-e-adolescente-fica-ferido-em-ataque-a-tiros-na-serra.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aEuvHJ3iS7OkXKp8jxoJGKTLK60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/r/HjAmq1QwAHHHJBcfDo9Q/e88b141f-d3b5-44ba-8cf5-6e06f3381aa9-.png",
-    "data": "2026-11-22T16:18:14.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Mega-Sena acumula e deverá pagar 65 milhões no próximo sorteio",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-e-devera-pagar-65-milhoes-no-proximo-sorteio\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><s",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-e-devera-pagar-65-milhoes-no-proximo-sorteio",
+    "imagem": null,
+    "data": "2026-11-22T16:19:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -54,24 +261,6 @@
     "data": "2026-11-22T16:13:00.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
-    "resumo": "<p>Countries failed to reach consensus on a key deal that did not mention fossil fuels</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected\"><strong>Full report: Cop31 climate talks set to end in deep division as key deal rejected</strong></a></p></",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
-    "data": "2026-11-22T16:10:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Deslizamento de terra deixa cinco famílias desalojadas em Salvador",
-    "resumo": "Deslizamento de terra deixa cinco famílias desalojadas em Salvador Eduardo Oliveira/TV Bahia Um deslizamento de terra deixou ao menos cinco famílias desalojadas na manhã deste domingo (22), no bairro do IAPI, em Salvador. Apesar do susto, ninguém ficou ferido. O Corpo de Bombeiros foi acionado para resgatar os moradores. Entre as pessoas ",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/22/deslizamento-de-terra-deixa-familias-desalojadas-em-salvador.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9ELZAcYM6gV2zEh-lldo0QQygMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/5zzohrQ4Cmku0yARozxQ/deslizamento.png",
-    "data": "2026-11-22T16:07:55.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Canada’s PM appears next to Trump impersonator at press dinner",
@@ -81,92 +270,20 @@
     "data": "2026-11-22T16:06:46.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-    "resumo": "Libya's eastern government says it is working with Russia to investigate the incident.",
-    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
-    "data": "2026-11-22T16:05:25.000Z"
-  },
-  {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Lontra rouba a cena em cenário submerso de águas cristalinas em Mato Grosso do Sul",
-    "resumo": "Lontra rouba a cena em cenário submerso de águas cristalinas em MS Uma lontra roubou a cena durante vídeo de turistas no cenário submerso de águas cristalinas que fica no Fervedouro Rio Azul. A cena só foi possível ser gravada por causa de um fenômeno natural provocado pelas chuvas que elevou o nível das águas do Fervedouro Rio Azul, em B",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/22/lontra-rouba-a-cena-em-cenario-submerso-de-aguas-cristalinas-em-mato-grosso-do-sul.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RPYE_fd8qNliOhiU0EeZVbM-2t4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/j/5MpGNqRaeFhiU8Bb2D0w/para-o-g1-2-.jpg",
-    "data": "2026-11-22T16:04:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Estação Agrícola, 22 de novembro de 2026",
-    "resumo": "Confira as principais notícias do programa.",
-    "link": "https://g1.globo.com/se/sergipe/edicao/2026/11/22/videos-estacao-agricola-22-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uMkguXYDHkhcBvJFZ5So8yfoOR8=/s01.video.glbimg.com/deo/vi/46/03/15270346",
-    "data": "2026-11-22T16:04:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Amazônia Agro, 22 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/am/amazonas/playlist/videos-amazonia-agro-22-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HK-mUA5m0ZO0MK8VYv-HADNLjCo=/s01.video.glbimg.com/deo/vi/01/12/15271201",
-    "data": "2026-11-22T16:01:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Triatleta descobre câncer metastático após Ironman e volta a correr na Maratona de Nova York",
-    "resumo": "Um dia após completar um Ironman, atleta descobre câncer metastático e revê relação com o O Ironman 70.3 é uma competição que desafia os limites humanos. São 113 quilômetros de natação, ciclismo e corrida na modalidade. O atleta e gerente de treinamento César Aarão completou a prova, mas, um dia depois de cruzar a linha de chegada, recebe",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/22/triatleta-descobre-cancer-metastatico-apos-ironman-e-volta-a-correr-na-maratona-de-nova-york.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Rg53D1xZUR95BdAi_YRQEg2LdDQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/CqoKiySrmBTaMfYKgi4g/g1-phed-86-.png",
-    "data": "2026-11-22T16:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Acidente com carreta interdita RJ-124, a ViaLagos, no sentido Região dos Lagos",
-    "resumo": "Bombeiros atuando no resgate a possíveis vítimas do acidente com carreta na ViaLagos Polícia Rodoviária A RJ-124, a ViaLagos, encontra-se totalmente interditada, no sentido Região dos Lagos, devido ao tombamento de uma carreta no final da manhã deste domingo (22). Segundo a Polícia Rodoviária Estadual, o acidente ocorreu no km 30, na altu",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/22/acidente-com-carreta-interdita-rj-124-a-vialagos-no-sentido-regiao-dos-lagos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/WB6mOJjAKBm6Vo2F83qpF3zaPRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/7/l0cACWT8eoycYC8PKihg/bombeiros-atuam-no-resgate-a-vitima-no-acidente-com-carreta-na-vialagos.png",
-    "data": "2026-11-22T15:55:49.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é baleado durante ataque criminoso e morre em hospital do Acre",
-    "resumo": "Joel Souza da Costa, de 27 anos, morreu após ser baleado no abdômen na madrugada deste domingo (22), em Rio Branco Arquivo Pessoal Joel Souza da Costa, de 27 anos, morreu após ser baleado no abdômen na madrugada deste domingo (22) no Ramal São José, bairro Belo Jardim I, em Rio Branco. Segundo a Polícia Militar do Acre (PM-AC), ele caminh",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/homem-e-baleado-durante-ataque-criminoso-e-morre-em-hospital-do-acre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/vYgEosp2O4itl-x7zVMnlrmQf70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/0/d3Ln21QACzcwk6dvYKrw/midia-de-distribuicao-g1-14-.png",
-    "data": "2026-11-22T15:54:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Empresário que percorreu mais de 70 km em 19 horas e bateu recorde visitou 26 estados do Brasil e mais 13 países após derrame cerebral",
-    "resumo": "Empresário bate recorde ao percorrer a pé quase 73 km da Estrada do Ferro em 19 horas O empresário Thales Medici da Vinci Cardoso, de 37 anos, que percorreu mais de 70km em 19 horas, visitou 26 estados do Brasil e mais 13 países após um derrame cerebral hemorrágico. Após deixar a Unidade de Tratamento Intensivo (UTI) sem sequelas, Thales ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/22/empresario-que-percorreu-mais-de-70-km-em-19-horas-e-bateu-recorde-visitou-26-estados-do-brasil-e-mais-13-paises.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/L-zhhKUgJX9AMLJlWC1KI85cB74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/4UcAUSQB6TLWDFB3ZRjQ/padrao-foto-texto-g1-2026-11-18t132356.202.jpg",
-    "data": "2026-11-22T15:53:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pessoas em situação de vulnerabilidade social podem tirar 2ª via de certidões de graça em Manaus; saiba como",
-    "resumo": "Pessoas em situação de vulnerabilidade social podem tirar 2ª via de certidões de graça em Manaus; saiba como Foto: Kevin Deevezas/Sejusc Pessoas em situação de vulnerabilidade social podem solicitar gratuitamente a segunda via de certidões de nascimento, casamento e óbito no Amazonas. Para isso, é necessário obter uma declaração de hiposs",
-    "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/11/22/pessoas-em-situacao-de-vulnerabilidade-social-podem-tirar-2a-via-de-certidoes-de-graca-em-manaus-saiba-como.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/j0RUvHcxOIyveKKQ7WEMnLJYU7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/z/bmvTlWSF2pK4mFYwmCDw/certidoes.jpg",
-    "data": "2026-11-22T15:50:02.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Com impasse sobre combustíveis fósseis, COP31 termina sem acordo final",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54p",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final",
+    "imagem": null,
+    "data": "2026-11-22T15:59:00.000Z"
   },
   {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
-    "titulo": "Veto de sauditas e russos deixa COP31 sem declaração final pela 1ª vez",
-    "resumo": "União Europeia (UE) e outros países se recusaram a endossar proposta de declaração conjunta que não mencionava combustíveis fósseis. Alemanha diz que produtores de petróleo impediram desejo da grande maioria dos membros.",
-    "link": "https://www.dw.com/pt-br/veto-de-sauditas-e-russos-deixa-cop31-sem-declaração-final-pela-1ª-vez/a-80014428?maca=bra-rss-br-all-1030-rdf",
+    "titulo": "Veto de sauditas e russos deixa COP31 sem declaração final pela 1ª vez desde 2009",
+    "resumo": "União Europeia (UE) e outros países se recusaram a endossar proposta de texto final que não mencionava combustíveis fósseis. Alemanha diz que produtores de petróleo impediram desejo da grande maioria dos membros.",
+    "link": "https://www.dw.com/pt-br/veto-de-sauditas-e-russos-deixa-cop31-sem-declaração-final-pela-1ª-vez-desde-2009/a-80014428?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-22T15:41:00.000Z"
   },
@@ -254,8 +371,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-    "resumo": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+    "titulo": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
+    "resumo": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
     "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-22T14:48:50.000Z"
@@ -342,15 +459,6 @@
     "data": "2026-11-22T14:02:55.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-    "resumo": "Baghdad&#039;s deal with Kataib Hezbollah may not end the Iran-backed militia&#039;s influence over the town.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T14:00:31.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
@@ -358,15 +466,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
     "imagem": "https://i.guim.co.uk/img/media/618f4804ce35381d9f92296cf51017a58008f06d/0_137_4059_3249/master/4059.jpg?width=140&quality=85&auto=format&fit=max&s=f39d37cd8e7e3cec175de6518a7f05c9",
     "data": "2026-11-22T14:00:29.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
-    "resumo": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
-    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T14:00:16.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -501,7 +600,7 @@
     "resumo": "<p>Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures</p><p>South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week.</p><p>The country has been gripped by fears of AI-ass",
     "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
     "imagem": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3",
-    "data": "2026-11-22T12:12:08.000Z"
+    "data": "2026-11-22T12:12:07.000Z"
   },
   {
     "categoria": "Internacional",
@@ -529,15 +628,6 @@
     "link": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/87bb75b4-0227-4214-81a7-98f09c7879cb,1795017623405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C401%2C1536%2C864%29%3B",
     "data": "2026-11-22T12:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "CNJ cria regra para corrigir registros por mortes em ações policiais",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/cnj-cria-regra-para-corrigir-registros-por-mortes-em-acoes-policiais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/cnj-cria-regra-para-corrigir-registros-por-mortes-em-acoes-policiais",
-    "imagem": null,
-    "data": "2026-11-22T11:36:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -641,28 +731,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "How the Alberta government could fill a new pipeline with royalties paid in oil",
-    "resumo": "To overcome one of the biggest challenges facing Premier Danielle Smith’s ambitions to build a large oil export pipeline to the West Coast, the Alberta government could decide to fill the pipeline with oil collected as royalties from industry.",
-    "link": "https://www.cbc.ca/news/canada/calgary/bakx-danielle-smith-pacific-link-royalties-in-kind-brik-9.7428691?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/9f827a49-3982-4e2c-bb7d-3afdd318ba43,1795118791818/full/max/0/default.jpg?im=Crop%2Crect%3D%28701%2C59%2C4518%2C2541%29%3B",
-    "data": "2026-11-22T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
     "titulo": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
     "resumo": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\" emphasizing a call for workers to refuse to handle weapons and military equipment des",
     "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/dda16fe4-5807-4956-8a97-66e5573eaf7a,1795128795489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C8640%2C4860%29%3B",
-    "data": "2026-11-22T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
-    "resumo": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada. Rights advocates say that would cut refugees and other newcomers off from a key platform they rely on to get information and stay connected to relatives back home.",
-    "link": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
@@ -810,15 +882,6 @@
     "data": "2026-11-21T22:55:17.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dez vezes Flamengo",
-    "resumo": "<p>Em pleno gramado sintético do Nubank Parque, o Flamengo correu atrás do resultado e conseguiu seu décimo título brasileiro (já tinha sido campeão em 1980, 1982, 1983, 1987, 1992, 2009, 2019, 2020 e 2025).<img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1709612&o=rss\" style=\"width:1px; height:1px; display:inline;\" /><img src=\"https",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/dez-vezes-flamengo",
-    "imagem": null,
-    "data": "2026-11-21T22:49:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Like Fiona the Hippo, Internet Famous Animals Can Bring Value to Zoos",
@@ -835,15 +898,6 @@
     "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2399+0+0/resize/3599x2399!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
     "data": "2026-11-21T22:40:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Sobe para 4 o número de mortos em Tupanciretã, no Sul",
-    "resumo": "<p>Morreu neste sábado (21) a quarta vítima da <strong><a href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-deixa-tr%C3%AAs-mortos-em-tupancireta-no-rio-grande-do-sul\">tempestade que devastou a cidade de Tupanciretã</a></strong>, no Rio Grande do Sul, na madrugada desta sexta-feira (20). A vítima é um homem q",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-sul",
-    "imagem": null,
-    "data": "2026-11-21T22:39:00.000Z"
   },
   {
     "categoria": "Clima",
@@ -972,24 +1026,6 @@
     "data": "2026-11-21T17:46:55.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The FBI and USDA were reportedly hacked",
-    "resumo": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [&#8230;]",
-    "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-21T17:42:27.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-    "resumo": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In [&#8230;]",
-    "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-21T16:00:00.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Time may be far stranger than we realize. Scientists have a way to test it",
@@ -1024,15 +1060,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
     "imagem": null,
     "data": "2026-11-21T14:25:39.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-    "resumo": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-    "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2764+0+0/resize/4146x2764!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
-    "data": "2026-11-21T14:18:17.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1087,15 +1114,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/21/fiona-the-hippo-death-bad-mom-scapegoat",
     "imagem": "https://i.guim.co.uk/img/media/b3e881f531d06e41d0e2127cd69b6ca237b051c9/445_0_4446_3556/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=001c337649999508385d272a818b86fa",
     "data": "2026-11-21T13:00:01.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "A real '3 Body Problem': Astronomers discover a nearby 'weirdo' triple-star system",
-    "resumo": "An international team of astronomers led by the University of Montreal has found a nearby triple-star system, much like the one in the Netflix show 3 Body Problem. But this one seems to be… a little odd.",
-    "link": "https://www.cbc.ca/news/science/triple-star-system-9.7430178?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/02a52c4b-ba50-47ba-8095-e05099c6dd79,1795217241075/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
-    "data": "2026-11-21T13:00:00.000Z"
   },
   {
     "categoria": "Opinião",
@@ -1233,15 +1251,6 @@
     "data": "2026-11-20T21:38:17.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA",
-    "resumo": "Declaração ocorre após viagem à Ásia, onde o presidente americano teve encontros com líderes de pelo menos 20 países e disse ter encaminhado até 10 novos acordos comerciais.",
-    "link": "https://www.dw.com/pt-br/trump-diz-que-filipinas-trocarão-produtos-agrícolas-do-brasil-pelos-dos-eua/a-80007345?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-20T21:16:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Trump threatens ban on US firms building AI data centres overseas",
@@ -1285,15 +1294,6 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
     "imagem": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=c96f1dbb295a5a260fd6f209bce3372a",
     "data": "2026-11-20T18:26:08.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Diferença salarial na UE: Mulheres trabalharão \"de graça\" até o fim do ano",
-    "resumo": "Diferença média de remuneração entre homens e mulheres na UE é de 11,1%; Alemanha registra índice ainda maior e é cobrada por atrasar regras de transparência salarial.",
-    "link": "https://www.dw.com/pt-br/diferença-salarial-na-ue-mulheres-trabalharão-de-graça-até-o-fim-do-ano/a-80005998?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-20T18:22:00.000Z"
   },
   {
     "categoria": "Economia",
