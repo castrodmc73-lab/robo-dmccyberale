@@ -1,5 +1,221 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "St. Patrick’s Day Parade Canceled as Florida Figures Out D.E.I. Law",
+    "resumo": "Cities and counties are pulling funding from groups and events they’ve long supported before a new law bars them from promoting diversity, equity and inclusion activities.",
+    "link": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/22/us/22nat-florida-dei-02/22nat-florida-dei-02-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T14:52:52.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Miley Cyrus weds Maxx Morando in California, People magazine reports",
+    "resumo": "Grammy-winning pop star Miley Cyrus married her longtime partner, drummer Maxx ‌Morando, in California on Saturday, People magazine and other U.S. entertainment news ​outlets reported.",
+    "link": "https://www.cbc.ca/news/entertainment/miley-cyrus-maxx-morando-wedding-9.7431784?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/ed485d34-bb86-4a5d-b703-7dc91cc7849c,1795358089169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "data": "2026-11-22T14:51:58.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "The Drugs Don’t Work",
+    "resumo": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
+    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:51:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Criminoso armado invade joalheria em shopping na Zona Sul de SP, rouba alianças e foge em carro furtado",
+    "resumo": "Shopping Interlagos Reprodução Um criminoso armado invadiu uma joalheria no Shopping Interlagos, na Zona Sul de São Paulo, na noite deste sábado (21), rendeu o gerente e roubou diversas joias que estavam guardadas em um cofre. Após o assalto, o suspeito fugiu em um carro que havia sido furtado. Segundo a Secretaria da Segurança Pública (S",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/criminoso-armado-invade-joalheria-em-shopping-na-zona-sul-de-sp-rouba-aliancas-e-foge-em-carro-furtado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZqKAehAdi5dkyb0f3qxvMC0IYtQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/d/krsE7aRWmKMfvU8XQMDg/803370560-1549787389724884-9023108354675973489-n.jpeg",
+    "data": "2026-11-22T14:51:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é morto com golpe de faca pelo filho adolescente após agredir a companheira em Patos, na PB",
+    "resumo": "Homem é morto com golpe de faca por filho adolescente que tentava defender a mãe no Sertão da Paraíba Polícia Militar Um homem de 46 anos foi morto com golpe de faca pelo filho adolescente na madrugada deste domingo (22) em Patos, no Sertão da Paraíba. Segundo a Polícia Militar, a equipe foi acionada para uma ocorrência de violência domés",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/22/homem-e-morto-com-golpe-de-faca-pelo-filho-adolescente-apos-agredir-a-companheira-em-patos-na-pb.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/jVmyR37S3EnhFBIZZYt_bSwygJI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/uBuc6wSgOHeVRm858Skg/pm.png",
+    "data": "2026-11-22T14:49:41.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+    "resumo": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:48:50.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+    "resumo": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
+    "data": "2026-11-22T14:47:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jovem fica ferido após ser agredido com pauladas em Boa Vista",
+    "resumo": "Vítima foi levada ao Hospital Geral de Roraima, em Boa Vista. g1 RR/Arquivo Um jovem de 22 anos ficou ferido após ser agredido com pauladas na madrugada deste domingo (22), no bairro Centenário, zona Oeste de Boa Vista. Ninguém foi preso. Testemunhas informaram à Polícia Militar que um homem sem camisa e com sangramento intenso na cabeça ",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/jovem-fica-ferido-apos-ser-agredido-com-pauladas-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GDgDuPA-fBRYSLHF8qYFUsLd2ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Z/onK3afRbK29VbC3vGhCQ/hgr2.jpeg",
+    "data": "2026-11-22T14:46:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Os 20 melhores destinos de viagem em 2027",
+    "resumo": "Turista contempla a paisagem de falésias e águas cristalinas durante trilha no litoral da Sardenha, na Itália. Getty Images Ninguém precisa dizer que você deve viajar para Nova York, ou para Veneza. Mas você sabia que uma das ilhas mais remotas do mundo, agora, convida visitantes aventureiros a descobrir seu litoral? Que, em 2027, os viaj",
+    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/22/os-20-melhores-destinos-de-viagem-em-2027.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7q945TK-MGzxsuY-dnfHFeaI978=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/z/fD13PKRpaoUB0JJyLXjw/c358ec00-e474-11f1-a094-5fdc692f3e33.jpg.webp",
+    "data": "2026-11-22T14:46:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Com salário de quase R$ 20 mil, provas do concurso da Câmara de Rio ocorrem neste domingo (22)",
+    "resumo": "Concurso da Câmara de Rio Branco tem provas neste domingo (22) Asscom/Câmara municipal de Rio Branco Os candidatos inscritos nos três concursos da Câmara Municipal de Rio Branco fazem as provas neste domingo (22), em 14 locais da capital acreana. As seleções oferecem 16 vagas imediatas e outras 32 para cadastro de reserva, com salários qu",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/com-salario-de-quase-r-20-mil-provas-do-concurso-da-camara-de-rio-ocorrem-neste-domingo-22.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ksGWqqVMK0uIMFvwnwumSMI83_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/d/A/C7Pd4gSei4yOTzCKcdVg/camara.jpg",
+    "data": "2026-11-22T14:45:45.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+    "resumo": "<p>Countries failed to reach consensus on a key deal that did not mention fossil fuels</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected\"><strong>Full report: Cop31 climate talks set to end in deep division as key deal rejected</strong></a></p></",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
+    "data": "2026-11-22T14:41:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casa de jogador do Cruzeiro é invadida em BH; suspeito furta joias e Rolex",
+    "resumo": "Casa de jogador do Cruzeiro é invadida em BH; suspeito furta joias e Rolex A casa do atacante do Cruzeiro João Costa, de 21 anos, foi invadida e furtada durante a tarde deste sábado (21), na Região da Pampulha, em Belo Horizonte. Segundo a Polícia Militar, o ladrão levou joias, dinheiro e um relógio da marca Rolex. No momento do crime, o ",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/22/casa-de-jogador-do-cruzeiro-e-invadida-em-bh-suspeito-furta-joias-e-relogio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RwKjfAEQKAwYkRfFP0ATi2xVlU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/w/MVGwjAQA2GyClsjDGgRg/design-sem-nome-2026-11-22t112838.471.jpg",
+    "data": "2026-11-22T14:36:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+    "resumo": "Supporters of ousted PM, who lives in self-imposed exile in India, have protested against rejection of her return.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:35:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cidade Gastronômica, melhor azeite e queijo: Sul de Minas conquista três títulos no Prêmio Cumbucca 2026",
+    "resumo": "Três representantes do Sul de Minas estão entre os vencedores do Prêmio Cumbucca de Gastronomia 2026. O município de Andradas conquistou, pelo segundo ano consecutivo, o título de Cidade Gastronômica de Minas Gerais. Já o Olivais Gamarra, de Baependi, venceu como Produtor de Azeite, enquanto o Queijo D’Alagoa, de Alagoa, conquistou o prêm",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/22/cidade-gastronomica-melhor-azeite-e-queijo-sul-de-minas-conquista-tres-titulos-no-premio-cumbucca-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Vc5MMqD29ncc6PjY6O71PCGo-tQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/x/Q1CQAOTYWn6cBygkBMJA/praca-andradas.jpeg",
+    "data": "2026-11-22T14:34:09.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+    "resumo": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:33:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto",
+    "resumo": "Batida frontal entre carros deixa duas mulheres feridas na BR-153 em Rio Preto Reprodução Duas mulheres ficaram feridas após uma batida frontal entre dois carros na manhã deste domingo (22), no km 49 da Rodovia Transbrasiliana (BR-153), em São José do Rio Preto (SP). Segundo a Polícia Rodoviária Federal (PRF), o acidente ocorreu por volta",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/22/batida-frontal-entre-carros-deixa-duas-mulheres-feridas-na-br-153-em-rio-preto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/a2akFXwtQwGZtDQTw5VlXRc6YbA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/9/0Wuh6gQLG99DkZauzMJA/novo-projeto-1-.png",
+    "data": "2026-11-22T14:32:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Timemania hoje: resultado do concurso 2471 e números sorteados",
+    "resumo": "Resultado da Timemania g1 Veja abaixo os números do sorteio do concurso 2471 da Timemania realizado neste domingo (22): Dezenas: 18 - 19 - 32 - 34 - 43 - 67 - 70 Time do Coração: SANTOS/SP Confira o resultado do sorteio da Timemania. Veja quantas apostas foram premiadas no concurso 2471: Ninguém conseguiu os 7 acertos, e a premiação acumu",
+    "link": "https://g1.globo.com/loterias/timemania/noticia/2026/11/22/timemania-hoje-resultado-do-concurso-2471-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lLubZFEWZk9Xo-Fcx0P3AlKb3VA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/I/BSZAcwTMG6kfk8dx2Ngg/timemania-2471-ojhde.jpeg",
+    "data": "2026-11-22T14:30:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dia de Sorte hoje: resultado do concurso 1353 e números sorteados",
+    "resumo": "Resultado da Dia de Sorte g1 Veja abaixo os números do sorteio do concurso 1353 da Dia de Sorte realizado neste domingo (22): Dezenas: 11 - 13 - 17 - 22 - 23 - 25 - 28 Mês da Sorte: Maio Confira o resultado do sorteio da Dia de Sorte. Veja quantas apostas foram premiadas no concurso 1353: Ninguém conseguiu os 7 acertos, e a premiação acum",
+    "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/22/dia-de-sorte-hoje-resultado-do-concurso-1353-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Y7wxyuRPLvcu03nw87H5wQk22Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/6n62AWS8KcRofHCRZcHQ/diadesorte-1353-apcng.jpeg",
+    "data": "2026-11-22T14:30:35.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+    "resumo": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:30:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Unesp 2027: acompanhe a 1ª fase do vestibular neste domingo",
+    "resumo": "Unesp 2027: acompanhe a 1ª fase do vestibular neste domingo Prova com 90 questões começa a partir das 13h deste domingo (22) e dura 5 horas. Logo após a aplicação, g1 terá resolução comentada ao vivo com professores do Oficina do Estudante. Candidatos disputam 5.850 vagas em 137 cursos de graduação.. Serão 90 questões objetivas de múltipl",
+    "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/ao-vivo/unesp-2027-correcao-ao-vivo-1-fase.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/w6kUs6S6J1B2kSQ-NB0PdgzzG_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/G/tQxAeNR7uAlZJo4hR6zA/unesp-primeira-fase.jpeg",
+    "data": "2026-11-22T14:29:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Influenciadora cearense Xsbel se despede do noivo Gabriel Félix, que morreu aos 29 anos: ‘prometo te amar até meu último suspiro’",
+    "resumo": "Gabriel Félix, noivo da influenciadora Xsbel, morre aos 29 anos A influenciadora cearense Isabelle Abreu, conhecida como Xsbel ou Bel, se despediu do noivo, o também influenciador Gabriel Félix, que morreu aos 29 anos, em Campinas (SP), na última quinta-feira (19). O jovem foi enterrado na cidade onde também nasceu, Uberaba, Minas Gerais,",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/22/influenciadora-cearense-xsbel-se-despede-do-noivo-gabriel-felix-que-morreu-aos-29-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uxudOVzUZDyOLoDGULvrnkZvmfM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/Z/C921u6QxGV5AKHzk2bMQ/xsbel-se-despede-de-gabriel.jpg",
+    "data": "2026-11-22T14:28:28.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+    "resumo": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:20:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Brasil vence Canadá e volta à elite da Billie Jean King Cup",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-vence-canada-e-volta-elite-da-billie-jean-king-cup\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>Com ",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-vence-canada-e-volta-elite-da-billie-jean-king-cup",
+    "imagem": null,
+    "data": "2026-11-22T14:15:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+    "resumo": "A global manhunt for one of the internet&#039;s earliest paedophile rings. How did police finally bring it down?",
+    "link": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:08:28.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Three killed and dozens missing after fire at Indonesian factory",
@@ -16,6 +232,15 @@
     "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
     "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
     "data": "2026-11-22T14:02:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
+    "resumo": "Baghdad&#039;s deal with Kataib Hezbollah may not end the Iran-backed militia&#039;s influence over the town.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T14:00:31.000Z"
   },
   {
     "categoria": "Opinião",
@@ -54,21 +279,12 @@
     "data": "2026-11-22T14:00:00.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
-    "resumo": "<p>Although parties are still talking, the summit president said there can be no agreement on key deal</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected\"><strong>Full report: Cop31 climate talks set to end in deep division as key deal rejected</s",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
-    "data": "2026-11-22T13:59:48.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
     "resumo": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
     "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e559/live/0f2b1290-e671-11f1-a5bc-ddaec99ca2c4.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-22T13:50:21.000Z"
   },
   {
@@ -126,15 +342,6 @@
     "data": "2026-11-22T13:30:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Major fire erupts at a fuel station in Lagos",
-    "resumo": "Major fire erupts at a fuel station in Lagos",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/major-fire-erupts-at-a-fuel-station-in-lagos?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T13:26:19.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "MEC apresenta programa Toda Matemática em evento nacional no Maranhão",
@@ -142,24 +349,6 @@
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-apresenta-programa-toda-matematica-em-evento-nacional-no-maranhao",
     "imagem": null,
     "data": "2026-11-22T13:23:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-    "resumo": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T13:16:45.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-    "resumo": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-    "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T13:15:40.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -207,15 +396,6 @@
     "data": "2026-11-22T12:32:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-    "resumo": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T12:31:30.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
@@ -225,24 +405,6 @@
     "data": "2026-11-22T12:30:24.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "What’s Legal Under Florida’s New Anti-D.E.I. Law? It’s Anyone’s Guess.",
-    "resumo": "Cities and counties are pulling funding from groups and events they’ve long supported before a new law bars them from promoting diversity, equity and inclusion activities.",
-    "link": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/22/us/22nat-florida-dei-02/22nat-florida-dei-02-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T12:24:11.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-    "resumo": "The Manchester United captain&#039;s current deal expires at the end of the season, though the club has an option to extend.",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T12:22:43.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
@@ -250,15 +412,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/servico-geologico-do-brasil-traz-retorno-de-r-14-por-real-investido",
     "imagem": null,
     "data": "2026-11-22T12:21:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-    "resumo": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T12:19:42.000Z"
   },
   {
     "categoria": "Internacional",
@@ -288,22 +441,13 @@
     "data": "2026-11-22T12:00:29.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What’s behind Iran’s escalation of attacks in the Gulf?",
-    "resumo": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T11:46:42.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-    "resumo": "CWC countries agree to &#039;elaborate&#039; on potential accord regulating autonomous weapons in two years, prompting criticism.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T11:44:50.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home",
+    "resumo": "A West Kootenay couple is counting their blessings after a massive fire destroyed their home-based mechanic shop in Burton, B.C. — and came dangerously close to taking their house with it.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/87bb75b4-0227-4214-81a7-98f09c7879cb,1795017623405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C401%2C1536%2C864%29%3B",
+    "data": "2026-11-22T12:00:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -342,15 +486,6 @@
     "data": "2026-11-22T10:02:17.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-    "resumo": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T10:02:15.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
@@ -362,19 +497,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "He expected a small-business loan. It turned out to be a trap",
-    "resumo": "America&apos;s fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3371+0+0/resize/4500x3371!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fac%2F2eee3f9c42bf92369fb5c87f9b95%2F20261113vaheshahinian00338.jpg",
+    "titulo": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
+    "resumo": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on <em>Weekend Edition</em>. There&apos;s still time to enter!<br>",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F1a%2F7f4325b745a383d3a11d882b2b99%2Ftalanis-spc-final.jpg",
     "data": "2026-11-22T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
-    "resumo": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on <em>Weekend Edition</em>. There&apos;s still time to enter!<br>",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F1a%2F7f4325b745a383d3a11d882b2b99%2Ftalanis-spc-final.jpg",
+    "titulo": "He expected a small-business loan. He got a 7-year nightmare",
+    "resumo": "America&apos;s fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3371+0+0/resize/4500x3371!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fac%2F2eee3f9c42bf92369fb5c87f9b95%2F20261113vaheshahinian00338.jpg",
     "data": "2026-11-22T10:00:00.000Z"
   },
   {
@@ -398,19 +533,19 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
+    "titulo": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
+    "resumo": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
+    "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
-    "resumo": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\" emphasizing a call for workers to refuse to handle weapons and military equipment des",
-    "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/dda16fe4-5807-4956-8a97-66e5573eaf7a,1795128795489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C8640%2C4860%29%3B",
+    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
+    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
+    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
@@ -425,10 +560,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-    "resumo": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
-    "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B",
+    "titulo": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
+    "resumo": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\" emphasizing a call for workers to refuse to handle weapons and military equipment des",
+    "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/dda16fe4-5807-4956-8a97-66e5573eaf7a,1795128795489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C8640%2C4860%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
@@ -702,15 +837,6 @@
     "data": "2026-11-21T21:39:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Ontario Liberals elect Navdeep Bains as new party leader",
-    "resumo": "Ontario Liberals have elected Navdeep Bains as the party's new leader after a marathon nine-month leadership race, with Bains emerging as victor less than one percentage point ahead of his next closest competitor, provincial caucus member Lee Fairclough.",
-    "link": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B",
-    "data": "2026-11-21T21:35:51.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
@@ -718,15 +844,6 @@
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta",
     "imagem": null,
     "data": "2026-11-21T21:28:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Mostra apresenta legado de Milton Santos para pensar o Brasil",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil",
-    "imagem": null,
-    "data": "2026-11-21T21:04:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -810,15 +927,6 @@
     "data": "2026-11-21T17:42:27.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-    "resumo": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office issued a warrant.",
-    "link": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.5469573,1688819038000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1053%2C592%29%3B",
-    "data": "2026-11-21T17:34:01.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -862,6 +970,15 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
     "imagem": null,
     "data": "2026-11-21T14:53:40.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+    "resumo": "<p>Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege</p><p>On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling heat he experienced in the Dade correctional institute, a concrete state prison south of M",
+    "link": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+    "imagem": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81",
+    "data": "2026-11-21T14:38:58.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1231,122 +1348,5 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
     "imagem": "https://i.guim.co.uk/img/media/8b551cbed6458ddfa1ec5a6a77a5814704c49850/2595_1276_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=c5f2f2319acd248a71ca7fc77e0487f9",
     "data": "2026-11-20T15:09:09.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
-    "resumo": "<p>Our analysis shows that ‘Bernie-Dog’ candidates are the most underrated success stories in US politics</p><p>Democrats had a huge night on 3 November. The party ran an average of about 15 points ahead of Kamala Harris’s 2024 margins, and picked up seats that Trump carried by double digits just two years ago.</p><p>Of course, the size a",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
-    "imagem": "https://i.guim.co.uk/img/media/ea4c1580da70e3a7298c2a8cec2937d0daea7dca/440_0_4620_3697/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=bed2e1622f0afad0e1d23da92ef87fed",
-    "data": "2026-11-20T15:00:33.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-    "resumo": "<p>Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream</p><p>On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts. Its crew had spent the past 12 days at sea, recording",
-    "link": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-    "imagem": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=213d773d708486121be83b4865004f1d",
-    "data": "2026-11-20T14:00:31.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "The Body is a hit – and every lesbian I know is obsessed. Why aren’t there more sapphic stories on screen?",
-    "resumo": "<p>The queer female characters in Netflix’s Catholic school girl horror series are messy and relatable – and unreasonably rare</p><p>I haven’t been able to get away from Netflix’s The Body. Since the show’s release this month, it’s taken over my conversations and social feeds, and seems to be consuming the collective consciousness of ever",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/every-lesbian-i-know-is-obsessed-with-the-body-on-netflix",
-    "imagem": "https://i.guim.co.uk/img/media/fc712f5d9b5d0a1cabe9ad005ec5fd5dc0948a49/231_0_2721_2178/master/2721.jpg?width=140&quality=85&auto=format&fit=max&s=9d465f7b53c5936311ae87c8653eb6c7",
-    "data": "2026-11-20T14:00:31.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "Now get out of that! How can the new James Bond film get around 007’s death in No Time to Die?",
-    "resumo": "<p>Was it all a dream? Has Bond been in hiding? Or will Robert Pattinson simply report to HR on his first day? Russell T Davies, David Hare and more give their takes</p><p>“James Bond will return,” says the closing title on No Time to Die, the most recent James Bond film and the final one to star Daniel Craig. It is just as well: Bond has",
-    "link": "https://www.theguardian.com/film/2026/nov/20/james-bond-movie-007s-death-in-no-time-to-die-robert-pattinson",
-    "imagem": "https://i.guim.co.uk/img/media/20c984c6b6913d90c4c8e7d970b39ccb61caa4b0/82_71_1671_1337/master/1671.jpg?width=140&quality=85&auto=format&fit=max&s=53addafe50491a6f973ee78b0031221c",
-    "data": "2026-11-20T13:12:32.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "Trump inspired a blue revolution. Can Democrats meet the moment? | Dana R Fisher",
-    "resumo": "<p>Political participation – in meetings, boycotts and demonstrations – has increased since Trump took office. It’s time for change</p><p>Over the past two years, Americans have watched as the Trump administration enacted Project 2025 and the US has <a href=\"https://www.theguardian.com/us-news/2025/jun/19/trump-us-autocracy-authoritariani",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/20/trump-blue-revolution-democrats",
-    "imagem": "https://i.guim.co.uk/img/media/cbef22a9b0059a1330d8c76f991dc491374475ed/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ca5ee1c04aaf9be81738276acdf57b35",
-    "data": "2026-11-20T13:00:30.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-    "resumo": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dw",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-    "imagem": null,
-    "data": "2026-11-20T12:55:54.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-    "resumo": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
-    "imagem": null,
-    "data": "2026-11-20T12:34:56.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-    "resumo": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding.",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
-    "imagem": null,
-    "data": "2026-11-20T12:23:23.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "The week’s best new tracks and the act you need to know: the rangy folk-prog songwriting of Threshold",
-    "resumo": "<p>Isaac Eiger’s solo venture leaves jangle pop behind for a wilder sound. Often it owes a debt to Alex G, but what indie-rock song doesn’t these days?</p><p><strong>From</strong> New York via Montana <br> <strong>Recommended if you like</strong> Cameron Winter, Tobias Jesso Jr, Alex G <br> <strong>Up next</strong> Supporting <a href=\"htt",
-    "link": "https://www.theguardian.com/music/2026/nov/20/the-weeks-best-new-tracks-and-the-act-you-need-to-know-threshold",
-    "imagem": "https://i.guim.co.uk/img/media/97c7e25f7fa98a4c63d9dd9195ecc434f7473ccc/47_0_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=c538d80c9d2a982b29c7f85eb67238ca",
-    "data": "2026-11-20T12:00:19.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘If they play dirty, we’ll be total and utter filth!’ Gasp-inducing sex-and-scandal drama War is here to stay",
-    "resumo": "<p>Dominic West and Sienna Miller’s divorce battle has made for a rollicking potboiler in prestige drama clothing. As it approaches its explosive finale, expect the show to become a TV fixture</p><p>A tech titan is brought down by the oldest trick in the book: a honeytrap. In the week that <a href=\"https://www.theguardian.com/technology/2",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/20/war-final-episode-dominic-west-sienna-miller-hbo-max-sky-atlantic-now",
-    "imagem": "https://i.guim.co.uk/img/media/cf0e3d3feb020a37ce5d2de59cd02332468b8c68/2761_1670_2476_1980/master/2476.jpg?width=140&quality=85&auto=format&fit=max&s=8953e2c3f8e10cca945c956193d4a684",
-    "data": "2026-11-20T11:55:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "The Guardian",
-    "titulo": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-    "resumo": "<p>Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike</p><p>The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-    "imagem": "https://i.guim.co.uk/img/media/753c8bfdbccb0b49e67ae5dbfac970caa7c20394/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=dfe5f4af44bfed45282bdb4342afd283",
-    "data": "2026-11-20T11:00:31.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
-    "resumo": "<p>It’s time to rethink welfare as AI reshapes the economy and wears down the brains of some of the most vulnerable workers</p><p>AI is adding to the cognitive load of workers already stretched thin by unpredictable pay, insecure housing and mounting debt – and the lowest paid feel it most. We need to rethink welfare for an economy being ",
-    "link": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-    "imagem": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
-    "data": "2026-11-20T11:00:31.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
-    "resumo": "<p>With the release of a new David O Russell biopic about the coach turned commentator turned gaming icon, those who knew him best remember his singular career</p><p>Wearing his Oakland Raiders uniform and helmet, and gripping an orange traffic cone like a lance, Ted Hendricks rode into the training session on a roan horse and stopped at ",
-    "link": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
-    "imagem": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=140&quality=85&auto=format&fit=max&s=8733e8b706d3108692addfdd98d38590",
-    "data": "2026-11-20T10:00:31.000Z"
   }
 ]
