@@ -1,5 +1,77 @@
 [
   {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Cop31 live: A new draft deal on the table as talks go into final hours",
+    "resumo": "<p>A third version of the draft text was published overnight, and negotiators have now been called in for what organisers say will be the final plenary</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\"><strong>Full report: Climate talks st",
+    "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+    "imagem": "https://i.guim.co.uk/img/media/b3af68f0e62aec37feb23f801aa2b9118c97630e/463_0_4633_3707/master/4633.jpg?width=140&quality=85&auto=format&fit=max&s=94fbf1ac649cf66d8b4507c26bd027f5",
+    "data": "2026-11-22T06:06:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Dozens missing after fire at Indonesian factory",
+    "resumo": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
+    "data": "2026-11-22T06:05:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "‘Mini’ perereca chama atenção por canto e vira descoberta científica da UFV",
+    "resumo": "Nova espécie de perereca descoberta em Cataguases é identificada pela ciência Uma perereca que mede pouco mais de 3 centímetros acaba de ganhar reconhecimento internacional. Encontrada em uma área de Mata Atlântica em Cataguases, na Zona da Mata mineira, a espécie foi identificada como uma nova integrante da fauna brasileira por pesquisad",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/22/mini-perereca-chama-atencao-por-canto-e-vira-descoberta-cientifica-da-ufv.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IzQD2w0AIqvI4bAyvZzfA2Kms6g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/O/rax465QhCiDn9GWX4fJQ/mini-perereca-descoberta-em-cataguases.jpeg",
+    "data": "2026-11-22T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
+    "resumo": "Inteligência Artificial. Reprodução/Fantástico Uma empresa de cibersegurança utilizou inteligência artificial (IA) para descobrir uma vulnerabilidade crítica na popular linguagem de programação Java. A empresa emergente no setor de tecnologia Calif encontrou a falha nas funções de memórias do Java. Esta é a mesma companhia que identificou",
+    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/22/a-falha-critica-descoberta-na-linguagem-de-programacao-usada-por-90-das-grandes-empresas-do-mundo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JNsP1ukfk2kSyj-_z56k2F2ljQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/M/INRa9jRRWJGwhAvJ4z0w/videoframe-1208605.png",
+    "data": "2026-11-22T06:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Há 3.000 anos, trabalhadores do Egito fizeram uma greve por salários atrasados; conheça a história",
+    "resumo": "Turistas andam em uma carroça puxada por cavalo e em camelos diante das Grandes Pirâmides de Gizé, nos arredores do Cairo, Egito. Mohamed Abd El Ghany/Reuters Durante o reinado de Ramsés III (1184-1153 AEC), segundo faraó da XXª dinastia, o Egito passou por um período de crescente instabilidade política e econômica. As dificuldades dessa ",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/munAtAZCE5-NWAOIkIOXnCgWb0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/V/ikeO4DRFiZ4TYadESwWw/2026-11-07t183004z-94772040-rc21joa9m8fh-rtrmadp-3-egypt-tourism.jpg",
+    "data": "2026-11-22T06:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Kenya’s internet metering bill raises privacy and affordability concerns",
+    "resumo": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T05:38:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "New draft deal aims to avert collapse of talks at climate summit",
+    "resumo": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+    "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+    "data": "2026-11-22T05:26:10.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+    "resumo": "Sudan&#039;s displacement crisis could worsen with winter approaching.",
+    "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T05:21:46.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
@@ -7,6 +79,15 @@
     "link": "https://www.nytimes.com/2026/11/22/us/ice-arrest-passengers-seattle-airport.html",
     "imagem": "https://static01.nyt.com/images/2026/11/21/us/21NAT-ICE-ENCOUNTER-02/21NAT-ICE-ENCOUNTER-02-mediumSquareAt3X.jpg",
     "data": "2026-11-22T05:08:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "ICE agents detain two people at Seattle airport",
+    "resumo": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T05:06:32.000Z"
   },
   {
     "categoria": "Internacional",
@@ -126,33 +207,6 @@
     "data": "2026-11-22T04:15:50.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para este domingo (22) para Porto Alegre (RS) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As máximas são de 25ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e tro",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/23OgbtPYzMZ3ldLYp5s7W1La-eA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/L/BF0EEYTl2WbB6yelaQ1w/previsao-tempo-porto-alegre-20261122-011515.jpeg",
-    "data": "2026-11-22T04:15:33.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para este domingo (22) para Caxias do Sul (RS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da t",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bwGzf96Y5TRXAdez-1XhvdJlCLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/F/fxBoZwR12MEhVpTAMkmA/previsao-tempo-caxias-do-sul-20261122-011458.jpeg",
-    "data": "2026-11-22T04:15:08.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para este domingo (22) para Joinville (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 24ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol e chuva. À noite, pan",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/22/previsao-do-tempo-hoje-para-joinville-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/C89Hp1LxpDafKlayQmZEazpXD6c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/j/Qzy4H2R96aBArfoAAALA/previsao-tempo-joinville-20261122-011442.jpeg",
-    "data": "2026-11-22T04:14:52.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
@@ -261,24 +315,6 @@
     "data": "2026-11-21T23:59:03.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-    "resumo": "Joseph Aoun says &#039;two fundamental obstacles, inseparably linked&#039; mean Lebanon cannot fully celebrate its independence.",
-    "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T23:44:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran faces a ‘silent economic war’, says Iranian president",
-    "resumo": "Iran faces a ‘silent economic war’, says Iranian president",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T23:18:14.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "The Penny Is Dead. Now It’s Official.",
@@ -367,24 +403,6 @@
     "link": "https://www.dw.com/pt-br/na-cop31-embate-sobre-relatório-climático-ameaça-negociações-futuras/a-80011164?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-21T22:20:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-    "resumo": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-    "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-    "data": "2026-11-21T22:19:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Bahrain says Iranian attack hits industrial facility",
-    "resumo": "Bahrain says Iranian attack hits industrial facility",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-21T22:02:03.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1071,8 +1089,8 @@
     "data": "2026-11-20T23:42:43.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
     "resumo": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
@@ -1132,15 +1150,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-20T20:54:12.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
-    "resumo": "<p>African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’</p><p>Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that was silent on fossil fuels, with a host of other contentious issues compl",
-    "link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
-    "imagem": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=213d9f5c5115f07440db4915083c1965",
-    "data": "2026-11-20T20:04:46.000Z"
   },
   {
     "categoria": "Cultura",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/music/2026/nov/20/the-weeks-best-new-tracks-and-the-act-you-need-to-know-threshold",
     "imagem": "https://i.guim.co.uk/img/media/97c7e25f7fa98a4c63d9dd9195ecc434f7473ccc/47_0_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=c538d80c9d2a982b29c7f85eb67238ca",
     "data": "2026-11-20T12:00:19.000Z"
-  },
-  {
-    "categoria": "Cultura",
-    "fonte": "The Guardian",
-    "titulo": "‘If they play dirty, we’ll be total and utter filth!’ Gasp-inducing sex-and-scandal drama War is here to stay",
-    "resumo": "<p>Dominic West and Sienna Miller’s divorce battle has made for a rollicking potboiler in prestige drama clothing. As it approaches its explosive finale, expect the show to become a TV fixture</p><p>A tech titan is brought down by the oldest trick in the book: a honeytrap. In the week that <a href=\"https://www.theguardian.com/technology/2",
-    "link": "https://www.theguardian.com/tv-and-radio/2026/nov/20/war-final-episode-dominic-west-sienna-miller-hbo-max-sky-atlantic-now",
-    "imagem": "https://i.guim.co.uk/img/media/cf0e3d3feb020a37ce5d2de59cd02332468b8c68/2761_1670_2476_1980/master/2476.jpg?width=140&quality=85&auto=format&fit=max&s=8953e2c3f8e10cca945c956193d4a684",
-    "data": "2026-11-20T11:55:40.000Z"
   }
 ]
