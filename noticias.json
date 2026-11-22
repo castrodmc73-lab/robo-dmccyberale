@@ -2,11 +2,146 @@
   {
     "categoria": "Clima",
     "fonte": "The Guardian",
-    "titulo": "Cop31 live: A new draft deal on the table as talks go into final hours",
-    "resumo": "<p>A third version of the draft text was published overnight, and negotiators have now been called in for what organisers say will be the final plenary</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\"><strong>Full report: Climate talks st",
+    "titulo": "Cop31 live: new draft deal under scrutiny as divided talks risk longest climate summit ever",
+    "resumo": "<p>A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\"><strong>Full report: Climate talks stall a",
     "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/b3af68f0e62aec37feb23f801aa2b9118c97630e/463_0_4633_3707/master/4633.jpg?width=140&quality=85&auto=format&fit=max&s=94fbf1ac649cf66d8b4507c26bd027f5",
-    "data": "2026-11-22T08:12:21.000Z"
+    "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
+    "data": "2026-11-22T09:08:51.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+    "resumo": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-22T09:06:27.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1fafc212-77c5-4506-a684-61e906f1776f,1795137449068/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5120%2C2880%29%3B",
+    "data": "2026-11-22T09:01:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: Primos de 7 e 10 anos transformam sala da avó em estúdio de TV e viralizam como comentaristas de futebol em MG",
+    "resumo": "Primos de 7 e 10 anos viralizam ao narrar futebol na sala da avó em Divinópolis, em MG Uma caixinha de som, um microfone e muita paixão por futebol. Foi assim que começou a aventura de Davi Franciscani Pereira Barros, de 10 anos, e Pedro Michalsky Pereira, de 7, no mundo das transmissões esportivas. Primos, os dois transformaram a sala da",
+    "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/22/video-primos-de-7-e-10-anos-transformam-sala-da-avo-em-estudio-de-tv-e-viralizam-como-comentaristas-de-futebol-em-mg.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Se5azIyGi-0B2Eyt5_0K6OBbO6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/z/ORWALKTSuVdP3g9pAhPQ/whatsapp-image-2026-11-19-at-10.32.35.jpeg",
+    "data": "2026-11-22T09:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jovem do sertão cearense conquista bolsa de intercâmbio em laboratório vinculado a Harvard, nos Estados Unidos",
+    "resumo": "Estudante do Ceará conquista bolsa de intercâmbio em laboratório vinculado a Harvard Uma medalha em uma olimpíada de matemática, ainda no Ensino Médio, abriu oportunidades na trajetória do estudante cearense José Alves da Silveira Neto. Foi em contato com programas e bolsas conquistadas desde então que o jovem, agora com 20 anos, foi sele",
+    "link": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/11/22/jovem-do-sertao-cearense-conquista-bolsa-de-intercambio-em-laboratorio-vinculado-a-harvard-nos-estados-unidos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yGd2pgaBj9ued3RNuUjEAjNlm6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/AAv8ExRMOL2tlDqlvwuw/aluno-intercambio-harvard.jpg",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Escondida' por 140 anos, obra brasileira premiada no século 19 é exposta em Florianópolis",
+    "resumo": "Após 140 anos 'escondido', quadro premiado em 1884 volta a ser exposto em Florianópolis Uma obra de arte premiada em 1884 e mantida longe do público brasileiro por mais de 140 anos está em exibição ao público pela primeira vez em Florianópolis. A tela \"Um Canto do Meu Ateliê\", da brasileira Abigail de Andrade (1864–1890), recebeu a Primei",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/escondida-140-anos-obra-brasileira-premiada-seculo-19-volta-ser-exposta-florianopolis.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Noqz3NwomgkJ4_UVEiqUPUXOfpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/E/Iv2YhWST6O25uX3c3YtQ/quadro-1-.png",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Volta do feriado da Consciência Negra deve ter trânsito intenso nas rodovias do Vale do Paraíba; veja horários",
+    "resumo": "Rodovia Dutra, em São José dos Campos. Cíntia Garcia/TV Vanguarda O retorno do feriado prolongado da Consciência Negra deve movimentar as principais rodovias que cortam o Vale do Paraíba e a região bragantina neste domingo (22). Para ajudar os motoristas que planejam voltar para casa, o g1 reuniu as expectativas de trânsito e os horários ",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/volta-do-feriado-da-consciencia-negra-deve-ter-transito-intenso-nas-rodovias-do-vale-do-paraiba-veja-horarios.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wX4wMXFYLlbrLfCxBQ-J_PKCfk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/6APxBpTLqW5ZkSFLVEWA/foto-g1-3-.jpg",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Cantor PC Silva movimenta a própria engrenagem no show que gera o álbum ao vivo autoral 'Eu vou ganhar o mundo'",
+    "resumo": "PC Silva lança o álbum 'Eu vou ganhar o mundo – Ao vivo', gravado em show do artista em Olinda (PE) Qorpo | Kristopher Kim / Divulgação ♫ NOTÍCIA ♬ Em “tempo de marés agitadas e poucas certezas”, como ressalta texto da escritora Ezter Liu ouvido na abertura do álbum ao vivo lançado por PC Silva na quinta-feira, 19 de novembro, esse artist",
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/22/cantor-pc-silva-movimenta-a-propria-engrenagem-no-show-que-gera-o-album-ao-vivo-autoral-eu-vou-ganhar-o-mundo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FEKNWEPMxhvC5K180etBW8mndkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/9eWaAqSF6HkyoxyAK7yQ/pc-silva-creditos-qorpo.jpg",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudante de física acende cigarro sem isqueiro no AC e vídeo viraliza: 'Técnica do chuveiro elétrico'",
+    "resumo": "Estudante de física acende cigarro sem isqueiro e viraliza no Acre O estudante de física da Universidade Federal do Acre (Ufac) Vitor da Costa Torres, de 22 anos, viralizou nas redes sociais após mostrar uma maneira inusitada de acender um cigarro sem utilizar isqueiro. (Assista ao vídeo acima) Na gravação, feita na última quarta-feira (1",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/estudante-de-fisica-acende-cigarro-sem-isqueiro-no-ac-e-video-viraliza-tecnica-do-chuveiro-eletrico.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fDHtmrC2OilfbLQq9j3t6ZD7kaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/hpZErASqaWy6ijoL5Fhg/midia-de-distribuicao-g1-2026-11-21t131939.324.jpg",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Legista que investigou mortes de Zuzu Angel, Lamarca e Mengele lança no Rio livro com bastidores de casos históricos",
+    "resumo": "Legista e jornalista lançam livro com bastidores de casos históricos no Rio Divulgação O médico legista Nelson Massini, que participou de investigações de mortes que marcaram a história do Brasil e de outros países, lança no dia 26 de novembro, no Rio de Janeiro, o livro O Corpo Não Mente, escrito em parceria com a jornalista e advogada P",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/legista-que-investigou-mortes-de-zuzu-angel-lamarca-e-mengele-lanca-no-rio-livro-com-bastidores-de-casos-historicos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7-lRptiPDbZGceSWL9DoR9K5RTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/5/V/cZ7fgvTGe29tHN2EdtTQ/curio10-frame-zuzu-angel-linha-direta-justica-copia.png",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: PMs quebram janela de casa e resgatam idosa e cachorra durante incêndio na Grande SP",
+    "resumo": "PMs quebram janela de casa e resgatam idosa e cachorra durante incêndio na Grande SP A câmera corporal de um policial militar registrou o momento em que ele e outros agentes resgataram uma idosa e a cadela de estimação de uma casa atingida por chamas na madrugada desta sexta-feira (20) em Itapecerica da Serra, na Grande São Paulo (veja ac",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/video-pms-quebram-janela-de-casa-e-resgatam-idosa-e-cachorra-durante-incendio-na-grande-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8iTFgBw3zdXAoV6q2mXvC-J0KEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/c/W6Jl1NRdCN35Xj4hAYug/fotojet-2026-11-21t181508.839.jpg",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Psicologicamente devastador', diz família sobre absolvição de anestesista acusado de deixar adolescente em estado semivegetativo no DF",
+    "resumo": "Rotina de cuidados com adolescente do DF que ficou em estado semivegetativo após cirurgia A vida e a rotina do adolescente Miguel Odppis Saliba Oliveira e de sua família mudaram completamente após ele sofrer uma fratura no braço em 2020. O que era pra ser uma cirurgia simples para tratar a lesão acabou deixando o menino, hoje com 17 anos,",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/22/psicologicamente-devastador-diz-familia-sobre-absolvicao-de-anestesista-acusado-de-deixar-adolescente-em-estado-semivegetativo-no-df.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_8ykTJ9qNsLMIAUhnCKbWJm8DVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/i/0Zw7HhTtqZhLnlCTic4g/design-sem-nome-47-.jpg",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
+    "resumo": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\" emphasizing a call for workers to refuse to handle weapons and military equipment des",
+    "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/dda16fe4-5807-4956-8a97-66e5573eaf7a,1795128795489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C8640%2C4860%29%3B",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "How the Alberta government could fill a new pipeline with royalties paid in oil",
+    "resumo": "To overcome one of the biggest challenges facing Premier Danielle Smith’s ambitions to build a large oil export pipeline to the West Coast, the Alberta government could decide to fill the pipeline with oil collected as royalties from industry.",
+    "link": "https://www.cbc.ca/news/canada/calgary/bakx-danielle-smith-pacific-link-royalties-in-kind-brik-9.7428691?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9f827a49-3982-4e2c-bb7d-3afdd318ba43,1795118791818/full/max/0/default.jpg?im=Crop%2Crect%3D%28701%2C59%2C4518%2C2541%29%3B",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
+    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
+    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
+    "data": "2026-11-22T09:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
+    "resumo": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada. Rights advocates say that would cut refugees and other newcomers off from a key platform they rely on to get information and stay connected to relatives back home.",
+    "link": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B",
+    "data": "2026-11-22T09:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -54,51 +189,6 @@
     "data": "2026-11-22T08:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cinema, maquiagem, massagem e mais: confira a estrutura do camarote de luxo da Micareta de Feira",
-    "resumo": "Camarote de luxo da Micareta de Feita tem até espaço para cinema Já imaginou curtir a Micareta de Feira de Santana com vista privilegiada para a avenida e ainda ter a opção de assistir a um filme durante a festa? Entre os serviços oferecidos por um camarote privado estão espaços de descanso, massagem, maquiagem, barbearia e até uma sala d",
-    "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/22/confira-a-estrutura-do-camarote-de-luxo-da-micareta-de-feira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/cKcHvvVTh8VKyMbBxZhzumWfDrU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/rjtumxSMuW8SqGZrAAYw/camarote3.jpeg",
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O que é ansiedade climática? Psicóloga explica efeitos após tragédias em Juiz de Fora",
-    "resumo": "INSERIR VIDEO 15268240 Você sente medo quando vê na previsão do tempo que vai chover? Fica acompanhando aplicativos de clima várias vezes ao dia ou tem dificuldade para dormir quando há alerta de chuva forte? Esses podem ser alguns sinais da chamada ansiedade climática. Esse fenômeno está sendo estudado por especialistas e está cada vez m",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/22/o-que-e-ansiedade-climatica-psicologa-explica-efeitos-apos-tragedias-em-juiz-de-fora.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HXwklkCnWHwXOWLqn91XOnYDMzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/svsGFQQNqXCovOWox4lA/afp-20260224-98u32a4-v1-midres-brazilweatherclimatelandslide.jpg",
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como um idoso com Alzheimer sobreviveu 11 dias sozinho na floresta amazônica?",
-    "resumo": "Idoso com Alzheimer é resgatado de área de difícil acesso no Amapá Durante 11 dias, ninguém sabia onde estava Janarino Ferreira dos Santos, de 74 anos. Diagnosticado com Alzheimer, o idoso desapareceu em uma área de mata no Amapá e mobilizou familiares, bombeiros, guarda-parques e voluntários. Quando finalmente foi encontrado com vida na ",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/22/como-um-idoso-com-alzheimer-sobreviveu-11-dias-sozinho-na-floresta-amazonica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HWZBZ_w94Tcgg0eTixlRf5T4erU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/k/O6HnhqStG63i0hAqUe2Q/aleixo-g1-66-.jpg",
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Por que não voamos como os pássaros?",
-    "resumo": "Por que não voamos como os pássaros? Veja reportagem completa no VÍDEO acima Resumo: Você já se perguntou por que os humanos não conseguem voar como os pássaros? Há muito tempo, sonhamos em voar com a própria força. Existe até uma história sobre isso na mitologia grega. Spoiler: não terminou bem. Então, por que não criar umas asas de alta",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/22/por-que-nao-voamos-como-os-passaros.ghtml",
-    "imagem": null,
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como sobrevivi a uma explosao que deixou 650 mortos: 'As cortinas grudaram no teto'",
-    "resumo": "Eram 5h30 da manhã de 19 de novembro de 1984. Virginia Martínez Téllez, de 13 anos, dormia ao lado de sua família em San Juan Ixhuatepec, hoje popularmente conhecido como San Juanico, um subúrbio ao norte da Cidade do México. Nem ela nem os cerca de 40 mil outros habitantes do local, que vivem em casas construídas em sua maioria de concre",
-    "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/22/como-sobrevivi-a-uma-explosao-que-deixou-650-mortos-as-cortinas-grudaram-no-teto.ghtml",
-    "imagem": null,
-    "data": "2026-11-22T08:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Dashcam captures Russian missile strike on Lviv, Ukraine",
@@ -133,24 +223,6 @@
     "link": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-22T07:44:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Veja vídeos com forte estrondo e tremor em Barretos, SP; prefeitura e USP investigam origem de fenômeno",
-    "resumo": "Vídeos registram forte estrondo e tremores em Barretos, SP Novos vídeos mostram o momento em que um forte estrondo acompanhado de um tremor foi registrado por câmeras de segurança em Barretos (SP) na noite da última sexta-feira (20). Os registros foram feitos por volta das 21h20. Em um dos vídeos, é possível perceber a câmera balançando c",
-    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/22/veja-videos-com-forte-estrondo-e-tremor-em-barretos-sp-prefeitura-e-usp-investigam-origem-de-fenomeno.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EnTNGKvd7Ljdq4P76HeRa4VrHLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/a/CbXi6vThyqDEWkvedNgQ/tremor-barretos.jpg.jpeg",
-    "data": "2026-11-22T07:30:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Paranaense representa América Latina e discursa ao lado do príncipe William em premiação ambiental na Índia",
-    "resumo": "A engenheira civil paranaense Júlia Berticelli Basso foi escolhida para representar a América Latina e discursou ao lado do príncipe William durante o Earthshot Prize 2026, premiação internacional que reconhece projetos voltados à proteção do meio ambiente. O evento aconteceu em 17 de novembro, em Mumbai, na Índia. ✅ Siga o g1 Foz do Igua",
-    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/22/paranaense-representa-america-latina-e-discursa-ao-lado-do-principe.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/SbwaP9fv73OUCTYTNtiF9yui1EU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/9/p9Aa2HTquZLriHWZsDwg/g1-pr-2026-11-21t140216.349.jpg",
-    "data": "2026-11-22T07:30:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -196,24 +268,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/22/britain-cult-problem-survivors-abuse-high-street-politics",
     "imagem": "https://i.guim.co.uk/img/media/3db0f4d677a09d30d9fea5e687d6e7a70971e469/552_0_5516_4413/master/5516.jpg?width=140&quality=85&auto=format&fit=max&s=887eac8446f4f63d6af088a942013a19",
     "data": "2026-11-22T07:00:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ovelhas entre painéis solares? Entenda a tendência que une geração de energia e criação de animais",
-    "resumo": "Ovelhas pastam sob painéis solares na província de Guizhou, no sudoeste da China, como parte de uma prática cada vez mais comum de combinar a pecuária com a produção de energia solar Tao Liang/Xinhua/picture alliance via DW Tradicionalmente, usinas solares são lugares silenciosos, interrompidos apenas pelo leve zumbido dos inversores. Mas",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/22/ovelhas-entre-paineis-solares-entenda-a-tendencia-que-une-geracao-de-energia-e-criacao-de-animais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jc9N2urk6CGMt-0pwtVJmRhR9rA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/0AQ7HPQcSij6QWT83cxg/dw-painel-solar-ovelhas-1-.png",
-    "data": "2026-11-22T07:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Formigas ‘bordadeiras’ deixaram cerca de 8 mil folhas com desenhos religiosos e mensagens ao longo de 20 anos; entenda",
-    "resumo": "Fenômeno das Formigas Bordadeiras intriga moradores há mais de 30 anos na Serra Cerca de 8 mil folhas com desenhos religiosos, passagens bíblicas e mensagens atribuídas a Nossa Senhora foram encontradas ao longo de 20 anos em uma casa na Serra, na Grande Vitória. Os pequenos furos, feitos ponto a ponto, vistos apenas a contraluz ou com a ",
-    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/22/formigas-bordadeiras-deixaram-cerca-de-8-mil-folhas-com-desenhos-religiosos-e-mensagens-ao-longo-de-20-anos-entenda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mty_Scduh9nsTgN3_IVM9XCjiqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/l/LtZRBVROWRAJ36WUjPmw/thumb-fotos-2026-11-21t194822.605.jpg",
-    "data": "2026-11-22T07:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -286,15 +340,6 @@
     "link": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-22T05:21:46.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "ICE agents detain two people at Seattle airport",
-    "resumo": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T05:06:32.000Z"
   },
   {
     "categoria": "Internacional",
@@ -720,15 +765,6 @@
     "data": "2026-11-21T17:34:01.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
-    "resumo": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday.",
-    "link": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/eff18bc4-d33a-434f-a6db-2f5c18f6a7be,1795290611746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C479%2C6499%2C3655%29%3B",
-    "data": "2026-11-21T16:32:44.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -979,33 +1015,6 @@
     "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
     "imagem": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=40ed7d0881298a1c6a8fae92ef3d7ba7",
     "data": "2026-11-21T11:00:57.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Satellites are constantly photographing Earth. A Waterloo student has compiled the pictures into one spot",
-    "resumo": "Satellites are constantly photographing Earth, and a new website designed by a University of Waterloo student is making these public photos more accessible to the general public.",
-    "link": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/306a6f0a-77b8-438e-bbfa-282b2082bc18,1795187019506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-21T11:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
-    "resumo": "Rules around transporting creamated remains through airports and challenges with new scanners can add \"another layer of grief\" to an already stressful time, says the head of the Funeral Service Association of Canada.",
-    "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/93348ee1-d41c-4aa3-96ec-8636d5558a67,1795190063830/full/max/0/default.jpg?im=Crop%2Crect%3D%28408%2C256%2C769%2C432%29%3B",
-    "data": "2026-11-21T11:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Judge awards damages to both sides in lawsuit after neighbours' dispute over loose dogs 'spun out of control'",
-    "resumo": "A judge has awarded an eastern Manitoba couple sued by their neighbour $10,000 in damages, and their neighbour $1,000, after an \"unfortunate series of events\" unfolded over dogs allowed to run loose on an unfenced property.",
-    "link": "https://www.cbc.ca/news/canada/manitoba/neighbour-dog-dispute-lawsuit-9.7429865?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.6713341,1744142358000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5500%2C3093%29%3B",
-    "data": "2026-11-21T11:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/20/trump-blue-revolution-democrats",
     "imagem": "https://i.guim.co.uk/img/media/cbef22a9b0059a1330d8c76f991dc491374475ed/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ca5ee1c04aaf9be81738276acdf57b35",
     "data": "2026-11-20T13:00:30.000Z"
-  },
-  {
-    "categoria": "Ciência",
-    "fonte": "ScienceDaily",
-    "titulo": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-    "resumo": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dw",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-    "imagem": null,
-    "data": "2026-11-20T12:55:54.000Z"
   }
 ]
