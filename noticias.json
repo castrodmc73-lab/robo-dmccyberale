@@ -1,39 +1,228 @@
 [
   {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Welcome to elite impunity, Jensen Huang",
+    "resumo": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might [&#8230;]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-23T22:09:26.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "resumo": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a boa",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-23T22:08:37.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Compra de R$ 14 em supermercado rende prêmio de R$ 135 mil a morador de Juiz de Fora",
+    "resumo": "Nota fiscal mineira SEF-MG/Divulgação Um morador de Juiz de Fora ganhou R$ 135 mil no sorteio especial da Nota Fiscal Mineira, realizado em comemoração aos 135 anos da Secretaria de Estado de Fazenda de Minas Gerais (SEF-MG). O ganhador mora no Bairro São Pedro, e o bilhete premiado foi gerado a partir de uma compra de apenas R$ 14,34 em ",
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/23/compra-de-r-14-em-supermercado-rende-premio-de-r-135-mil-a-morador-de-juiz-de-fora.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ji9Q8GFIsLLxgmhj0-08VvG8bZg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/S/j4HsXhQMqwg73kqydqhQ/whatsapp-image-2025-08-27-at-08.22.52-1-.jpeg",
+    "data": "2026-11-23T22:05:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Agenda Santos 500+ encerra ciclo de debates sobre o futuro da Cidade",
+    "resumo": "Agenda Santos 500 + Alexsander Ferraz Estão abertas as inscrições para o sétimo e último fórum da Agenda Santos 500+, projeto do Grupo Tribuna que discute os desafios e as oportunidades da Cidade até 2046, quando Santos completará 500 anos de fundação. O encontro será realizado no dia 26 de novembro, a partir das 9 horas, no auditório do ",
+    "link": "https://g1.globo.com/sp/santos-regiao/especial-publicitario/grupo-tribuna-agenda-santos-500/noticia/2026/11/23/agenda-santos-500-encerra-ciclo-de-debates-sobre-o-futuro-da-cidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vz9-CS4NErBUimWjG6rmZpcrRaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/k/mmL0d1SfW2HYVKeVcDyQ/020326-santos08.jpg",
+    "data": "2026-11-23T22:04:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Jovem é morto com vários golpes de enxada na frente de duas crianças; vídeo",
+    "resumo": "Idoso mata jovem durante briga em Águas Lindas Um jovem, identificado como Carlos Daniel Moises Martins, de 27 anos, morreu após levar golpes de enxada na cabeça em Águas Lindas de Goiás, no Entorno do Distrito Federal, segundo dados do Tribunal de Justiça de Goiás (TJ-GO). O suspeito do crime, de 52 anos, foi preso e, segundo divulgado p",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/jovem-e-morto-com-varios-golpes-de-enxada-na-frente-de-duas-criancas-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uQAB4UDDO2aVVPa5_8mhH90TO70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/A/REp6KQQFGATm0birJcrQ/copia-de-copia-de-padrao-foto-g1-goias-2026-11-23t184640.922.jpg",
+    "data": "2026-11-23T22:03:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Carro cai de ponte e deixa dois mortos no interior do Tocantins, diz polícia",
+    "resumo": "Dois homens morreram no acidente em Bernardo Sayão Divulgação/Copom/Colinas Dois homens morreram após o carro em que estavam cair em um rio na zona rural de Bernardo Sayão, no norte do Tocantins. O acidente foi registrado neste domingo (22). Segundo a Polícia Militar, a equipe encontrou o veículo caído de uma ponte sobre o Rio Perdido. No",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/23/carro-cai-de-ponte-e-deixa-dois-mortos-no-interior-do-tocantins-diz-policia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bfJTctKN2uyaMHQhWh7Q3UUBWnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/A/AIzty1QeKGG7CBjGdh1A/foto-e-montagem-vertical-2026-11-23t184650.077.jpg",
+    "data": "2026-11-23T22:03:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Donos de creche investigada por maus-tratos após bilhete em mamadeira são condenados a pagar indenização",
+    "resumo": "Criança é deixada sozinha em sala vazia e sem refrigeração em Rio Preto A Justiça de São José do Rio Preto (SP) condenou dois donos da creche investigados por maus-tratos a crianças, a pagar R$ 10 mil de indenização por danos morais à família do menino, de dois anos, diagnosticado com Transtorno do Espectro Autista (TEA) nível dois, após ",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/23/donos-de-creche-investigada-por-maus-tratos-apos-bilhete-em-mamadeira-sao-condenados-a-pagar-indenizacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/kArfwljT7sSpmu0HRPE8msTbu3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Z/E/22AyvXQwArEynqDmu8EA/foto-g1-2025-12-14t161040.409.png",
+    "data": "2026-11-23T22:02:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ossada humana é encontrada em área de difícil acesso às margens de barragem no PI",
+    "resumo": "Devido ao avançado estado de decomposição, a identificação não foi possível. A Polícia Civil investigará as circunstâncias da morte. Reprodução Uma ossada humana foi encontrada em uma área de difícil acesso às margens da barragem de Bocaina, no Sul do Piauí nesta terça-feira (23). Segundo informações do Corpo de Bombeiros, pessoas que pas",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/23/ossada-humana-encontrada-barragem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4UtqnRntD3pJciru252E0kuYkNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Q/CcEicsRsiSPX4B0UEPoQ/edicao-imagens-g1-50-.jpg",
+    "data": "2026-11-23T22:01:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Baixa umidade do ar coloca três regiões de Alagoas em estado de atenção",
+    "resumo": "Baixa umidade do ar coloca três regiões de Alagoas em estado de atenção Semarh A Secretaria de Estado do Meio Ambiente e dos Recursos Hídricos de Alagoas (Semarh) emitiu, nesta segunda-feira (23), um estado de atenção devido à previsão de baixa umidade do ar no Sertão, Sertão do São Francisco e Agreste de Alagoas. O aviso é válido até as ",
+    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/23/baixa-umidade-do-ar-coloca-tres-regioes-de-alagoas-em-estado-de-atencao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RpZG2nvWZTer-V88ASXUdVWqIUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/g/sS3CNSTq6pGK6GlGdjaw/captura-de-tela-2026-11-23-185533.png",
+    "data": "2026-11-23T22:00:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dois homens saltam de bi-trem em movimento segundos antes de caminhão capotar",
+    "resumo": "Homens ficam feridos após saltarem de bitrem em movimento antes de capotamento em Caipônia Em Caiapônia, no noroeste do estado, dois homens, um de 30 e outro de 56 anos, saltaram de um caminhão bi-trem em movimento segundos antes de o veículo capotar na zona rural da cidade. De acordo com o apurado pela TV Anhanguera, o motorista notou um",
+    "link": "https://g1.globo.com/go/goias/transito/noticia/2026/11/23/dois-homens-saltam-de-bi-trem-em-movimento-segundos-antes-de-caminhao-capotar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5GmISBx8LcnixGk9Pa-7eMvH19o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/s/tabOaASPiE7cKVmNQzhg/co-27-.jpg",
+    "data": "2026-11-23T21:59:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Médico usa prancha de surfe para resgatar idoso preso em carro durante alagamento na Grande SP",
+    "resumo": "Médico usa prancha de surfe para resgatar idoso preso em carro durante alagamento em SP Rogério Augusto Geremias, médico ortopedista, usou uma prancha de surfe para resgatar um idoso que estava preso dentro de um carro durante um alagamento em Mogi das Cruzes, na Grande SP. O resgate aconteceu em frente a um condomínio, na Vila Oliveira. ",
+    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/23/medico-usa-prancha-de-surfe-para-resgatar-idoso-preso-em-carro-durante-alagamento-na-grande-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BZMRZhYJcP-1rsUUMIH2RLOrgso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/0/6AWXw1Q2imRKQ2AZjnbw/g1-minimo-1583x850.jpg",
+    "data": "2026-11-23T21:58:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prefeitura de Gurjão, na PB, abre concurso público com 39 vagas e salários de até R$ 14 mil",
+    "resumo": "Prefeitura de Gurjão, na PB, abre concurso público com 39 vagas e salários de até R$ 14 mil Divulgação A Prefeitura de Gurjão, no Cariri da Paraíba, lançou o edital de um concurso público com 39 vagas para cargos de níveis fundamental, médio e superior, nesta segunda-feira (23). As inscrições começam às 13h do dia 7 de dezembro de 2026 e ",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/23/prefeitura-de-gurjao-na-pb-abre-concurso-publico-com-39-vagas-e-salarios-de-ate-r-14-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/F_VD1uOABJ1JUB-evjEP1Udy89c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/h/iLi7IwTyu4dXUHCqxNfA/imagem-ilustrativa-para-concurso-foto-divulgacao.jpg",
+    "data": "2026-11-23T21:57:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Morre adolescente baleado durante ataque criminoso que também matou namorada grávida",
+    "resumo": "Adolescente grávida é morta em Chaval O adolescente de 16 anos que foi baleado durante o ataque que matou a namorada grávida, de 17 anos, também morreu na madrugada desta segunda-feira (23), em uma unidade de saúde de Parnaíba, no Piauí. O casal foi atacado a tiros dentro de casa, na localidade de Retiro, zona rural de Chaval, no interior",
+    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/23/morre-adolescente-baleado-durante-ataque-criminoso-que-tambem-matou-namorada-gravida.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/a2ivx6PmD07LL7zhWGnv5jeKStA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/m/jNEUp4TRax4WqDwPVGDA/gravida-morta-chaval.jpg",
+    "data": "2026-11-23T21:57:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao Jornal Vanguarda ao vivo no g1",
+    "resumo": "Assista ao Jornal Vanguarda ao vivo no g1 Assista diariamente aos telejornais da emissora no g1. De segunda a sexta-feira, assista ao Bom Dia Vanguarda, Link Vanguarda e Jornal Vanguarda. Aos sábados, acompanhe o Link Vanguarda e o Jornal Vanguarda",
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-jornal-vanguarda-ao-vivo-no-g1.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png",
+    "data": "2026-11-23T21:56:26.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+    "resumo": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
+    "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T21:46:33.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "2 City Bus Drivers Killed in Head-On Collision in Ohio",
     "resumo": "Nine people were injured in the crash, which occurred in Columbus when one of the buses veered into the next lane, the police said.",
     "link": "https://www.nytimes.com/2026/11/23/us/columbus-ohio-bus-crash.html",
     "imagem": "https://static01.nyt.com/images/2026/11/23/us/23nat-ohio-crash-2/23nat-ohio-crash-2--mediumSquareAt3X.jpg",
-    "data": "2026-11-23T21:13:57.000Z"
+    "data": "2026-11-23T21:36:50.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+    "resumo": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale price [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-23T21:36:48.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Fake Personas Aligned With China Are Targeting Taiwan’s Election, Researchers Say",
+    "resumo": "A tool developed by researchers at Vanderbilt University is detecting A.I.-generated social media posts that support the policies of the Chinese Communist Party.",
+    "link": "https://www.nytimes.com/2026/11/23/us/politics/taiwan-elections-misinformation.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-Taiwan-disinfo-vgfc/23dc-Taiwan-disinfo-vgfc-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T21:32:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+    "resumo": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T21:30:40.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+    "resumo": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+    "data": "2026-11-23T21:23:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israel’s southern Syria incursion triggers fear and destruction",
+    "resumo": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T21:19:17.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Girl, 14, planned random killing of child at her former Winnipeg elementary school: Crown",
+    "resumo": "A teen girl accused of planning to kill a child at her former Winnipeg elementary school was radicalized online and had a romantic fantasy about an American school shooter, a court heard before the teen was granted bail last week.",
+    "link": "https://www.cbc.ca/news/canada/manitoba/winnipeg-school-attack-girl-bail-hearing-9.7432951?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1a77fd50-a4fd-452b-96a3-ad1a4134667a,1776277191328/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5472%2C3078%29%3B",
+    "data": "2026-11-23T21:17:46.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+    "resumo": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok&#039;s &#039;spicy mode&#039;.",
+    "link": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T21:15:33.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motociclista é arremessado em córrego após acidente com BMW e Corolla em Goiânia",
-    "resumo": "Motociclista é arremessado em córrego após acidente com BMW e Corolla em Goiânia Um motociclista de 37 anos foi arremessado e caiu dentro do córrego Botafogo após um acidente envolvendo uma BMW e um Toyota Corolla, nesta segunda-feira (23), em Goiânia. Segundo a TV Anhanguera, o homem é chaveiro e ia atender a um cliente quando foi atingi",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/motociclista-e-arremessado-em-corrego-apos-acidente-com-bmw-e-corolla-em-goiania.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QEacALI_NquMjqbrcWpiONJ1XVE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/E/gl6rfASwefxgeZWrJm5A/padrao-foto-g1-goias-michely-loures.jpg",
-    "data": "2026-11-23T21:12:39.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "CVM suspende registro do BRB e de mais quatro empresas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cvm-suspende-registro-do-brb-e-de-outras-quatro-empresas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><stro",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cvm-suspende-registro-do-brb-e-de-outras-quatro-empresas",
+    "imagem": null,
+    "data": "2026-11-23T21:14:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem morre após ser atingido por estruturas de andaime durante descarregamento de caminhão em Poços de Caldas",
-    "resumo": "Homem morre após ser atingido por estruturas de andaime durante descarregamento de caminhão em Poços de Caldas Marcos Corrêa Um homem de 67 anos morreu após um acidente de trabalho na tarde desta segunda-feira (23), no bairro Jardim Cascatinha, em Poços de Caldas. Segundo as informações da Polícia Militar, ele descarregava um caminhão qua",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/23/homem-morre-apos-ser-atingido-por-estruturas-de-andaime-durante-descarregamento-de-caminhao-em-pocos-de-caldas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sqFUfNkpIXkxDNFznTJzJC3gvB4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/A/65dBApSJWxx4wOtB2x3A/acidente.png",
-    "data": "2026-11-23T21:12:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Árvore do MG1: saiba como doar presentes para crianças e idosos em Juiz de Fora",
-    "resumo": "campanha de Natal da TV Integração começa em Juiz de Fora Que tal deixar mais feliz o Natal de crianças e idosos? 🎄 Desde 2013, o projeto 'Árvore do MG1' arrecada presentes em Juiz de Fora para entregar a crianças, idosos e outras pessoas atendidas por instituições da cidade. ✅ Clique aqui para seguir o canal do g1 Zona da Mata no WhatsA",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/23/arvore-do-mg1-saiba-como-doar-presentes-para-criancas-e-idosos-em-juiz-de-fora.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HKmrqVwZwmiHxtoPhVRHTZaxxU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/E/9IrUFAQtegTJB04y3s4g/frame-arvora-zm.jpg.jpeg",
-    "data": "2026-11-23T21:09:53.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Deputada de SP tem entrada na Cisjordânia negada por governo de Israel",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\">",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/deputada-de-sp-tem-entrada-na-cisjordania-negada-por-governo-de-israel",
+    "imagem": null,
+    "data": "2026-11-23T21:14:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -46,84 +235,12 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça reconhece legalidade de paralisação, mas proíbe bloqueio de garagem de ônibus escolares em Campinas",
-    "resumo": "Paralisação de 40 ônibus escolares afeta mil alunos na região do Campo Belo, em Campinas A Justiça do Trabalho defendeu a legalidade da paralisação que acabou afetando o transporte escolar nesta segunda-feira (23), em Campinas (SP). Porém, na mesma decisão, o juiz Murilo Izycki proibiu o movimento de obstruir as entradas ou as saídas da g",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/23/justica-reconhece-legalidade-paralisacao-proibe-bloqueio-garagem-onibus-escolares-campinas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/e4tCFHo5culSmdj98q4ybtVhJZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/s/sERs43TBGqAl1ksK2VBQ/greve-onibus-vale.png",
-    "data": "2026-11-23T21:08:56.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Foragido de presídio do Espírito Santo é preso com arma e drogas no extremo sul da Bahia",
-    "resumo": "Foragido de presídio do Espírito Santo é preso com arma e drogas no extremo sul da Bahia Reprodução/CNJ Um homem de 24 anos, considerado foragido do sistema prisional do Espírito Santo, foi preso no sábado (21), com uma arma de fogo e drogas, no distrito de Itabatã, em Mucuri, no extremo sul da Bahia. O suspeito foi identificado como Marc",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/23/homem-e-preso-na-bahia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/0dbPwbW79EL5A0eikR1Tq_rgA14=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/N/HYrhHQSAa6Q7UOA8QI2A/design-sem-nome-2026-11-23t175339.067.png",
-    "data": "2026-11-23T21:07:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Carro bate em moto e motociclista cai em riacho em Barra do Piraí",
-    "resumo": "Carro bate em moto e motociclista cai em riacho em Barra do Piraí Divulgação/BPRv Um motociclista caiu em um riacho após a moto em que estava ser atingida por um carro nesta segunda-feira (23), na RJ-141, em Barra do Piraí (RJ). O acidente aconteceu na estrada que liga os distritos de Vargem Alegre e Dorândia. Segundo o Batalhão de Polici",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/23/carro-bate-em-moto-e-motociclista-cai-em-riacho-em-barra-do-pirai.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/z70RvQCOuhvyJXqNPNBnNzOnm-s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/6/AUdDWPTT2BqIXDlyJVYA/whatsapp-image-2026-11-23-at-17.55.38.jpeg",
-    "data": "2026-11-23T21:06:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Estudante de Psicologia suspeita de racismo em vídeo é afastada do trabalho em Palmas",
-    "resumo": "Estudante de Psicologia é suspeita de racismo após vídeo com declarações discriminatórias A estudante de Psicologia Mykaella Alves de Almeida foi afastada do trabalho no setor de Recursos Humanos de um supermercado de Palmas nesta segunda-feira (23). Ela é suspeita de fazer declarações racistas em um vídeo publicado na sexta-feira (20), f",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/23/estudante-de-psicologia-suspeita-de-racismo-em-video-e-afastada-do-trabalho-no-to.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OnpsWPx8TyGKR1h_MxEbZlwSmHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/g/B8ZfoqSgCD8waSOrhqFg/foto-e-montagem-vertical-2026-11-21t191616.859.jpg",
-    "data": "2026-11-23T21:05:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
-    "resumo": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo Proposta foi aprovada no Senado na semana passada; texto projeta uma economia de R$ 50 bilhões nas contas do governo federal em 2027. O relator da proposta na Câmara, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovado pelos senadores.. P",
-    "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/sEIYeb7ZwR-8EChyNn8utvimH7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/L/b1grW2Royz1n8UQenoag/img20261119112143917.jpg",
-    "data": "2026-11-23T21:05:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Praia Grande abre concurso público com salários de até R$ 7,2 mil; confira",
-    "resumo": "Praia Grande abre concurso público com salários de até R$ 7.223,95 Prefeitura de Praia Grande A Prefeitura de Praia Grande, no litoral de São Paulo, abriu inscrições para um concurso público com um total de 24 vagas para áreas como administração, saúde e operações. Os salários-base variam entre R$ 2,2 mil e R$ 7,2 mil. Os interessados dev",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/23/praia-grande-abre-concurso-publico-com-salarios-de-ate-r-72-mil-confira.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tboKOakTu7YB78Z8v40q2sbzmnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/O/AhuRLZQB2isSogqT15IQ/foto-pref-pg.jpg",
-    "data": "2026-11-23T21:05:15.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "IFMS prorroga inscrições para 170 vagas em cursos gratuitos de especialização",
-    "resumo": "Campus do IFMS em Campo Grande. IFMS/ Reprodução O Instituto Federal de Mato Grosso do Sul (IFMS) prorrogou as inscrições para dois cursos de especialização presenciais e gratuitos: Docência para a Educação Profissional, Científica e Tecnológica, com turmas em Campo Grande, Naviraí, Nova Andradina e Ponta Porã, e Ensino de Ciências e Mate",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/23/ifms-prorroga-inscricoes-para-170-vagas-em-cursos-gratuitos-de-especializacao-em-ms.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bqxjKhKKi20loMckHUjyFqX3Aeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/v/eADktgS0OsfkAfnpdAKw/ifms.jpg",
-    "data": "2026-11-23T21:05:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher perde quase R$ 30 mil em golpe do falso advogado em Minas Gerais",
-    "resumo": "Vítimas denunciam golpe do falso advogado Criminosos têm usado a identidade de advogados para aplicar golpes em pessoas que aguardam o recebimento de valores de processos judiciais. Conhecida como golpe do falso advogado, a fraude envolve mensagens em que os suspeitos se passam por profissionais da advocacia e, em alguns casos, simulam au",
-    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/23/mulher-perde-quase-r-30-mil-em-golpe-do-falso-advogado-em-minas-gerais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/frX8E6zIF4ikqf7ukOTbEVAxuSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/y/nf9vQ7Q3CFBDk5TizlUQ/oab-mg.jpg",
-    "data": "2026-11-23T21:04:40.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Defesa Civil emite alerta severo de chuva forte na região de Campinas",
-    "resumo": "A Defesa Civil de São Paulo alerta para pancadas fortes de chuva, raios, rajadas de vento e possibilidade de granizo nesta segunda-feira (23) na região de Campinas, que inclui Indaiatuba e Jaguariúna Isadora de Paiva A Defesa Civil emitiu aleta severo de chuva forte na região de Campinas no fim da tarde desta segunda-feira (23). Segundo o",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/23/defesa-civil-emite-alerta-severo-de-chuva-forte-na-regiao-de-campinas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hcnBhswxcpUGldCPqKEY3OgNtrA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/J/yNTNoAToqxg5SdCVnAeA/design-sem-nome-62-.jpg",
-    "data": "2026-11-23T21:04:16.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Mineiro Túlio Pires Bragança vence Prêmio Caminhos de Literatura",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mineiro-tulio-pires-braganca-vence-premio-caminhos-de-literatura\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mineiro-tulio-pires-braganca-vence-premio-caminhos-de-literatura",
+    "imagem": null,
+    "data": "2026-11-23T21:04:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -254,7 +371,7 @@
   {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
-    "titulo": "Negra, mãe e vítima de agressão; estudo traça perfil de detentas no RJ",
+    "titulo": "Negra, mãe e vítima de agressão: estudo traça perfil de detentas no RJ",
     "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/negra-mae-e-vitima-de-agressao-estudo-traca-perfil-de-detentas-no-rj\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 5",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/negra-mae-e-vitima-de-agressao-estudo-traca-perfil-de-detentas-no-rj",
     "imagem": null,
@@ -387,15 +504,6 @@
     "data": "2026-11-23T19:32:44.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-    "resumo": "Moscow accuses Tallinn of &#039;hostile actions&#039; citing border closure and claiming it is allowing Ukraine to launch attacks.",
-    "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T19:20:30.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "New magical shows worth watching instead of Harry Potter",
@@ -414,24 +522,6 @@
     "data": "2026-11-23T19:16:53.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Thousands flee Manchester concert after unknown substance released",
-    "resumo": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T19:07:37.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-    "resumo": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demo",
-    "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-23T19:04:52.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Palmeiras e Tarumã-AM medem forças em rodada de abertura da Copinha F",
@@ -448,15 +538,6 @@
     "link": "https://www.cbc.ca/news/world/seattle-airport-ice-arrest-9.7432394?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/03dfea49-eb9e-4949-a72f-419264c8d4d4,1795444713795/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C75%2C1025%2C576%29%3B",
     "data": "2026-11-23T19:00:41.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "GTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’",
-    "resumo": "One of the most intriguing games of the year is called Tenebrae Lux. It's a moody, black-and-white title with obtuse puzzles and a main character that constantly narrates to himself with dramatic language. Its credits attribute pretty much everything to a developer named Johannes Zuch. It's generated a lot of discussion for seemingly mock",
-    "link": "https://www.theverge.com/games/1040265/gta-vi-tenebrae-lux-indie-developers",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a2099a4ca189-screenshotUrl.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-23T18:55:06.000Z"
   },
   {
     "categoria": "Brasil",
@@ -486,24 +567,6 @@
     "data": "2026-11-23T18:37:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Peacock subscriptions are up to 66 percent off for Black Friday",
-    "resumo": "Thanks to Black Friday, you have two options to save on your Peacock subscription. You can now sign up for the ad-supported Select plan, usually $8.99 per month or $89.99 per year, for $2.99 for the first three months or $29.99 for the first year. The ad-supported Premium plan — which includes live sports, movies, [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK105_peacock_02-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-23T18:33:29.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What Russian warship did Ukraine just sink?",
-    "resumo": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here&#039;s why the vessel is significant.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T18:25:55.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets",
@@ -518,17 +581,8 @@
     "titulo": "Dentist pleads guilty to professional misconduct in 23-year-old's death",
     "resumo": "Manitoba dentist Dr. Ronald Janz has pleaded guilty to professional misconduct in connection with the death of Virginia Blatz.",
     "link": "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-dentist-9.7432787?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b5d61513-0f4e-49de-978b-62430b7134cd,1788633110541/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6250%2C3515%29%3B",
+    "imagem": "https://i.cbc.ca/ais/b5d61513-0f4e-49de-978b-62430b7134cd,1795471529382/full/max/0/default.jpg?im=Crop%2Crect%3D%28512%2C68%2C5028%2C2828%29%3B",
     "data": "2026-11-23T18:19:54.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A.I.-Powered Fake Personas Target Taiwan’s Elections",
-    "resumo": "A new tool developed by researchers at Vanderbilt is detecting A.I.-generated posts linked to social media accounts aligned with China.",
-    "link": "https://www.nytimes.com/2026/11/23/us/politics/taiwan-elections-misinformation.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-Taiwan-disinfo-vgfc/23dc-Taiwan-disinfo-vgfc-mediumSquareAt3X.jpg",
-    "data": "2026-11-23T18:19:26.000Z"
   },
   {
     "categoria": "Brasil",
@@ -585,15 +639,6 @@
     "data": "2026-11-23T17:52:57.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
-    "resumo": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
-    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-    "data": "2026-11-23T17:42:37.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Como a Alemanha quer salvar sua previdência iniciando a contribuição aos 6 anos",
@@ -648,15 +693,6 @@
     "data": "2026-11-23T17:07:25.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "3 Calgary police officers charged with manslaughter in death of unarmed Blood Tribe man",
-    "resumo": "Three Calgary police officers have been charged with manslaughter two years after an unarmed Blood Tribe man died while in police custody.",
-    "link": "https://www.cbc.ca/news/canada/calgary/jon-wells-blood-tribe-calgary-police-officers-charged-manslaughter-9.7432609?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/3d3790b6-c6e2-4992-8dc5-7bc8edb9dca4,1795464729883/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C1179%2C663%29%3B",
-    "data": "2026-11-23T17:04:14.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "\"A Ronda Noturna\" de Rembrandt: mais viva do que se poderia imaginar",
@@ -700,24 +736,6 @@
     "link": "https://www.nytimes.com/2026/11/23/us/albemarle-virginia-school-district-sex-abuse-closure.html",
     "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/00nat-albemarle-schools-01-qjbz/00nat-albemarle-schools-01-qjbz-mediumSquareAt3X.jpg",
     "data": "2026-11-23T16:30:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Abin apresenta estratégia para criptografia pós-quântica",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/abin-apresenta-estrategia-para-criptografia-pos-quantica\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/abin-apresenta-estrategia-para-criptografia-pos-quantica",
-    "imagem": null,
-    "data": "2026-11-23T16:29:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Uso racional de antibióticos pode diminuir bactérias resistentes",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/uso-racional-de-antibioticos-pode-diminuir-bacterias-resistentes\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/uso-racional-de-antibioticos-pode-diminuir-bacterias-resistentes",
-    "imagem": null,
-    "data": "2026-11-23T16:17:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -772,15 +790,6 @@
     "link": "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html",
     "imagem": "https://static01.nyt.com/images/2026/11/23/multimedia/23pol-dem-debates-gmcf/23pol-dem-debates-gmcf-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-23T15:32:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Anvisa aprova novo medicamento para tratar câncer de mama",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-novo-medicamento-para-tratar-cancer-de-mama\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-novo-medicamento-para-tratar-cancer-de-mama",
-    "imagem": null,
-    "data": "2026-11-23T15:29:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1060,15 +1069,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-23T00:08:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-    "resumo": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
-    "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T12:32:25.000Z"
   },
   {
     "categoria": "Ciência",
