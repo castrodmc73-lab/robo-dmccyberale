@@ -1,5 +1,302 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Virginia School District Shaken by Sex Abuse Claims Closes for a Week",
+    "resumo": "The district failed to conduct required background checks on more than 500 employees. The problem came to light after two staff members were arrested in separate child sex abuse and pornography charges.",
+    "link": "https://www.nytimes.com/2026/11/23/us/albemarle-virginia-school-district-sex-abuse-closure.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/00nat-albemarle-schools-01-qjbz/00nat-albemarle-schools-01-qjbz-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T13:47:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "INMET emite alerta de 'perigo' de chuvas intensas para 106 cidades do Leste de Minas",
+    "resumo": "INMET emite alerta de 'perigo' de chuvas intensas para 106 cidades do Leste de Minas Inmet O Instituto Nacional de Meteorologia (Inmet) emitiu, na manhã desta segunda-feira (23), um alerta laranja de “chuvas intensas” para 106 cidades da região Leste de Minas Gerais. O aviso, classificado como “Perigo”, indica previsão de chuva entre 30 e",
+    "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/23/inmet-emite-alerta-de-perigo-de-chuvas-intensas-para-106-cidades-do-leste-de-minas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-yXRnHhq5KpA7CXLrDlT6KpbCBA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/c/8hJ84kSFWwg6aqfOBTqw/carol-2026-11-23t104059.994.png",
+    "data": "2026-11-23T13:42:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Excesso de velocidade lidera infrações registradas pela PRF durante feriado no Amapá",
+    "resumo": "PRF apresenta balanço das ações durante o feriadão. Isadora Pereira/g1 O excesso de velocidade foi a infração mais registrada pela Polícia Rodoviária Federal (PRF) durante a Operação Consciência Negra 2026, realizada entre os dias 19 e 22 de novembro nas rodovias federais do Amapá. Ao todo, 117 motoristas foram flagrados acima da velocida",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/23/excesso-de-velocidade-lidera-infracoes-registradas-pela-prf-durante-feriado-no-amapa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/_eA6Q7XajrRwibwvFtSQPfHXffc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/S/O4tSUnQ0Wt3ZLQe5xaDQ/whatsapp-image-2026-09-08-at-11.08.59.jpeg",
+    "data": "2026-11-23T13:42:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: carreta perde controle, atinge veículo e invade clínica na avenida do Contorno, em BH",
+    "resumo": "carreta perde controle, atinge veículo e invade clínica na avenida do Contorno, em BH Uma carreta desceu de ré, atingiu dois veículos e invadiu uma clínica nesta segunda-feira (23), na avenida do Contorno, na Savassi, região Centro-Sul de Belo Horizonte. Segundo o Corpo de Bombeiros, o veículo estava carregado com cerca de 32 toneladas de",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/23/video-carreta-perde-controle-atinge-veiculo-e-invade-clinica-na-avenida-do-contorno-em-bh.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XHvjGyWgqHt-I3mYmzMTlj0jxe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/h/fAjryiRsOJVsrhoiGIzA/chuva-distrito-paulo-camilo-1-1-.png",
+    "data": "2026-11-23T13:41:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fazenda avaliada em quase R$ 242 milhões que abriga assentamento com mais de 100 famílias tem leilão suspenso por impasse judicial, em Goiás",
+    "resumo": "Plantação na Fazenda Estreito da Ponte de Pedra, em Paraúna, Goiás: propriedade rural é alvo de disputa judicial entre a família e a União Arquivo pessoal/Max Lanio Gonçalves de Oliveira O leilão de uma parte de uma fazenda de Goiás, avaliada em R$ 242 milhões, que abriga um assentamento do Movimento Sem-Terra (MST) com mais de 100 famíli",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/fazenda-avaliada-em-quase-r-242-milhoes-que-abriga-assentamento-com-mais-de-100-familias-tem-leilao-suspenso-por-impasse-judicial-em-goias.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/X9kJUo6NUJZpoZY-2UdUExkc2AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/oaryGVRym3ex81JdxxCQ/fazenda-fazenda-estreito-da-ponte-de-pedra-parauna-plantacao.jpg",
+    "data": "2026-11-23T13:38:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Réveillon em Salvador 2027: hospedagem e festa da virada no mesmo endereço",
+    "resumo": "Réveillon Celebrate reúne jantar, open bar e atrações Divulgação/Hotel Deville Prime Salvador Para quem pretende passar a virada de 2026 para 2027 na capital baiana, com tranquilidade e conforto, uma das alternativas para evitar o trânsito e os deslocamentos da noite de 31 de dezembro é concentrar a hospedagem e a celebração no mesmo loca",
+    "link": "https://g1.globo.com/ba/bahia/especial-publicitario/hotel-deville-salvador/noticia/2026/11/23/reveillon-em-salvador-2027-hospedagem-e-festa-da-virada-no-mesmo-endereco.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/X8TYN4lIojlUt-VQ6RAYSZ8n9NA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/v/PmqB1jQDA2WlRnkQsecA/imagem-3.png",
+    "data": "2026-11-23T13:36:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "COP31 has failed. The climate system is working as designed",
+    "resumo": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T13:36:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Flights and train services cancelled in Belgium due to strike",
+    "resumo": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+    "data": "2026-11-23T13:34:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vítima de feminicídio em Baependi deixa três filhos; família e amigos pedem condenação de ex",
+    "resumo": "Vítima de feminicídio é enterrada em Caxambu; ex confessou o crime e foi preso O enterro de Cristiane da Silva Esteves, de 28 anos, vítima de feminicídio em Baependi (MG), causou comoção entre parentes e amigos que pedem a condenação do ex-namorado. Segundo a polícia, ele confessou o crime. 📲 Siga a página do g1 Sul de Minas no Instagram",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/23/vitima-de-feminicidio-em-baependi-deixa-tres-filhos-familia-e-amigos-pedem-condenacao-de-ex.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mjtpm8tp1U-qr5YZuZfjF-m19bY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/p/nvsFEkQxy0z4UqddPkfg/casal.jpg",
+    "data": "2026-11-23T13:33:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Feirão em Manaus oferece descontos de até 100% em juros e multas para negociar dívidas; saiba como participar",
+    "resumo": "Shopping Phelippe Daou Semcom Consumidores com contas em atraso podem negociar dívidas com descontos de até 100% em juros, multas e encargos durante a 4ª edição do Feirão Negocia Manaus, que começa nesta segunda-feira (23), na Zona Norte da capital. A ação reúne 16 empresas e instituições e oferece condições especiais de pagamento, inclui",
+    "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/11/23/feirao-em-manaus-oferece-descontos-de-ate-100percent-em-juros-e-multas-para-negociar-dividas-saiba-como-participar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/j7We5m15gzdOyIY0r41-Ly5rg7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/C/e/dOLE2OS1K4XTPyuQBKrg/shopping-phelippe-daou-foto-semcom.jpg",
+    "data": "2026-11-23T13:31:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casal é morto a tiros dentro de casa em Taquarana; suspeito procurava filho das vítimas",
+    "resumo": "Casal é morto a tiros em Taquarana, no Agreste de Alagoas Divulgação/PC-AL Um casal foi assassinado a tiros na noite de sábado (21), no município de Taquarana, no Agreste de Alagoas. A suspeita é de que o criminoso estivesse à procura de um dos filhos das vítimas, suspeito de roubo. A Polícia Civil investiga o caso. 📱Participe do canal d",
+    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/23/casal-e-morto-a-tiros-dentro-de-casa-em-taquarana-suspeito-procurava-filho-das-vitimas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/47tlDEY-0xDdMPyEnXPgfa7iwHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/V/XkygHoRzGkEWkNvJX2Ag/casal-e-morto-a-tiros-em-taquarana-no-agreste-de-alagoas.jpeg",
+    "data": "2026-11-23T13:30:57.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Panda é entrevistado no g1 Ouviu ao vivo desta quarta-feira (25)",
+    "resumo": "Panda é entrevistado no g1 Ouviu ao vivo desta quarta-feira (25) Sertanejo é o convidado do podcast de música do g1, com transmissão ao vivo no g1, no YouTube e no TikTok.",
+    "link": "https://g1.globo.com/pop-arte/musica/ao-vivo/panda-e-entrevistado-no-g1-ouviu-ao-vivo-desta-quarta-feira-25.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/U_ftJWN6DJQCLvCSCOJLYwZyKBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/uUCeoiRvmbWNAQbJj3BA/panda.jpg",
+    "data": "2026-11-23T13:30:35.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Projeto apoiado pela Bracell revela novas possibilidades para jovens de Agudos",
+    "resumo": "Participante da Legião Mirim coloca em prática técnicas de produção audiovisual durante conferência do CMDCA Bracell/Divulgação Fotografar, produzir vídeos e conduzir entrevistas são algumas das experiências que estão aproximando adolescentes de Agudos de novas possibilidades profissionais. Contemplado pelo Edital Bracell Social 2026, o P",
+    "link": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/bracell-fazer-a-diferenca-em-cada-detalhe/noticia/2026/11/23/projeto-apoiado-pela-bracell-revela-novas-possibilidades-para-jovens-de-agudos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ViDDFylbMZQBH_7zROwAWn8aIzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/h/6QBeCBQgaBLqfNJRLLxw/foto-2.jpeg",
+    "data": "2026-11-23T13:29:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Professora de educação física morre em acidente de moto com caminhão em Marabá, PA",
+    "resumo": "Yria de Maria Farias dos Santos. Reprodução / Redes sociais Uma mulher morreu em um grave acidente de trânsito em Marabá, no sudeste do Pará, neste domingo (22). A vítima, identificada como Yria de Maria Farias dos Santos, era professora de educação física e pilotava uma motocicleta quando foi atingida por um caminhão. Yria trabalhava em ",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/23/professora-de-educacao-fisica-morre-em-acidente-de-moto-com-caminhao-em-maraba-pa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/H9H9p6vCo1eUVtLwdK5gUm7slIQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/2JFz2TThAGB19j8vLNvg/geral-g1-77-.png",
+    "data": "2026-11-23T13:28:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Falta de cadeirinha faz polícia parar carro e descobrir mãe usando criança para esconder drogas, no Paraná; mãe, pai e avó foram presos",
+    "resumo": "Polícia apreendeu drogas, celulares, balanças e dinheiro Polícia Militar A falta de cadeirinha infantil em um carro fez a Polícia Militar (PM) abordar o veículo e descobrir uma mãe usando uma criança de 4 anos para esconder drogas. A situação aconteceu na noite de sábado (21) em Tibagi, nos Campos Gerais do Paraná, e terminou com a prisão",
+    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/23/mae-crianca-drogas-parana-pai-avo-presos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/as-K8c0wTnbCDIfWjl47eZJfyhE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/voABjQThAeubYxyFTelg/whatsapp-image-2026-11-23-at-07.34.40.jpeg",
+    "data": "2026-11-23T13:28:27.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Mexican soldiers attacked in wake of drug lord's arrest",
+    "resumo": "The eight suspects were arrested after firing on soldiers trying to re-establish order following the arrest of 'El Chapo Isidro'.",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/64308a00-e73d-11f1-802a-678be58471bb.jpg",
+    "data": "2026-11-23T13:26:36.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Pip assessments need 'fundamental overhaul', report to say",
+    "resumo": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-23T13:20:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-do-dolar-para-r-555-em-2026\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>Ana",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-do-dolar-para-r-555-em-2026",
+    "imagem": null,
+    "data": "2026-11-23T13:11:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+    "resumo": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @matteventu, and shows the tracker in a \"Pantone Lucent White\" color option, [&#8230;]",
+    "link": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Motorola-Moto-Tag-3-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-23T13:09:32.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Falling markets: will I lose money, and is there anything I can do?",
+    "resumo": "<p>Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates\">Business live – latest updates<",
+    "link": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+    "imagem": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=140&quality=85&auto=format&fit=max&s=11c14ad5bdc32c1a1a54dde7a6827c70",
+    "data": "2026-11-23T13:08:46.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran says it will use ‘all available means’ to counter US blockade",
+    "resumo": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T13:04:11.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Environment Agency and Natural England face axe in Labour quango cull",
+    "resumo": "<p>Louise Haigh says the two environmental regulators are being reviewed as part of shake-up of arm’s length bodies</p><p>Ministers are considering abolishing two of England’s biggest environmental regulators in an attempt to give politicians greater control over what gets built and where.</p><p>Louise Haigh, the de facto deputy prime min",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+    "imagem": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&quality=85&auto=format&fit=max&s=4a40a542fc4fecab084e3c1fd15755b6",
+    "data": "2026-11-23T13:03:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+    "resumo": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-23T13:02:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Navio russo foi atingido na Líbia por drones ucranianos, diz Zelenski",
+    "resumo": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha no leste europeu.",
+    "link": "https://www.dw.com/pt-br/navio-russo-foi-atingido-na-líbia-por-drones-ucranianos-diz-zelenski/a-80014687?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-23T13:02:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+    "resumo": "After being teased in December 2025 and getting an arguably unnecessary pre-release spec bump in August, the Samsung Odyssey G6 G60H rolls out next month for $899.99. The 27-inch gaming monitor will have an absurd 1,100Hz refresh rate, narrowly edging out LG's UltraGear 25G590B, which tops out at 1,000Hz. Is there any value in these [&#82",
+    "link": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/01.-Odyssey-G6_Front.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-23T13:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "resumo": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit&apos;s history.",
+    "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+    "imagem": null,
+    "data": "2026-11-23T12:42:03.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Argentina footballer Paredes collapses during post-match interview",
+    "resumo": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T12:40:21.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "How the US, China and Russia are competing for Africa’s mineral wealth",
+    "resumo": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T12:34:54.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Next data accessed in cyber breach",
+    "resumo": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+    "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
+    "data": "2026-11-23T12:34:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Presidential villa suffers water and power cuts, Nigerian leader says",
+    "resumo": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "data": "2026-11-23T12:33:44.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran threatens response to any attack amid naval blockade",
+    "resumo": "Iran threatens response to any attack amid naval blockade",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T12:25:24.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Search continues for dozens missing after Indonesia candy factory fire",
+    "resumo": "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/search-continues-for-dozens-missing-after-indonesia-candy-factory-fire?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T12:23:19.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+    "resumo": "<p>Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit </p><p>The failure at Cop31 to reach a keystone agreement has exposed the need to reform how the UN’s climate summits make decisions, say international climate diplomacy experts and scientists.</p><p>The talks in Antalya, co-c",
+    "link": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+    "imagem": "https://i.guim.co.uk/img/media/9f3afbe1e7378450a625c5b7e95926fb65e79fa7/1064_0_6136_4911/master/6136.jpg?width=140&quality=85&auto=format&fit=max&s=a5b0f7ea6b86198a677555477b682837",
+    "data": "2026-11-23T12:21:23.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Rússia pretende posicionar bomba atômica no espaço neste ano, diz imprensa alemã",
@@ -18,112 +315,13 @@
     "data": "2026-11-23T12:14:18.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso suspeito de matar companheira a tiros na frente do filho em Vargem Grande, no MA",
-    "resumo": "Homem é suspeito de matar companheira a tiros na frente do filho em Vargem Grande, no MA Um homem de 27 anos foi preso suspeito de matar a tiros a própria companheira, Rosiana Batista Douro, de 32 anos, na frente do filho menor de idade. O crime aconteceu no fim da tarde de sábado (21), dentro da residência do casal, no povoado Boca do Ca",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/23/homem-e-preso-suspeito-de-matar-companheira-a-tiros-na-frente-do-filho-em-vargem-grande-no-ma.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/cVwr0CRfQqLsl2CQrDxLcsc2srA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/K/GXP46HRBAMiBO5iZgw5A/montagens-1920-x-1080-px-43-.jpg",
-    "data": "2026-11-23T12:13:21.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: BDP de segunda-feira, 23 de novembro de 2026",
-    "resumo": "Assista ao Bom Dia Pará desta segunda-feira 23 de novembro de 2026",
-    "link": "https://g1.globo.com/pa/para/edicao/2026/11/23/videos-bdp-de-segunda-feira-23-de-novembro-de-2026.ghtml",
-    "imagem": null,
-    "data": "2026-11-23T12:12:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Nova carteira de identidade pode ser emitida através de videoatendimento na BA; veja como fazer",
-    "resumo": "A nova Carteira de Identidade Nacional (CIN) pode ser emitida através de videoatendimento a partir desta segunda-feira (23) na Bahia. O atendimento será feito através de uma chamada de WhatsApp, sem a necessidade de instalar aplicativo ou fazer cadastro prévio. Com a nova modalidade, apenas uma parte do processo será feita de forma presen",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/23/nova-carteira-de-identidade-pode-ser-emitida-atraves-de-videoatendimento-na-ba-veja-como-fazer.ghtml",
-    "imagem": null,
-    "data": "2026-11-23T12:09:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Motociclista morre após bater em árvore na BR-135, em Buenópolis",
-    "resumo": "Motociclista betu em uma árvore na BR-135 Redes sociais Um motociclista morreu em um acidente na BR-135, em Buenópolis, neste domingo (22). Segundo a Polícia Militar, o condutor perdeu o controle da motocicleta e bateu em uma árvore às margens da rodovia, na altura do km 517. Ele morreu no local e foi identificado como Erick Gabriel Leite",
-    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/23/motociclista-morre-apos-bater-em-arvore-na-br-135-em-buenopolis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/d8hPseWIG74PmtUdk-hJTCuKW2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/TTrAkSSgKswRxTFFM2Nw/acidente1352.jpeg",
-    "data": "2026-11-23T12:07:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Tiros e correria interrompem jogo durante campeonato de futebol de várzea em Jaboatão",
-    "resumo": "Jogo de futebol termina em tiros e correria no Jardim Jordão Um jogo de futebol de várzea foi interrompido por tiros e uma correria, no Jardim Jordão, em Jaboatão dos Guararapes, no Grande Recife. A confusão aconteceu no domingo (22), durante uma partida entre os times Real da Mustardinha e Ubiracy Jordão (veja vídeo acima). Segundo a Pol",
-    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/23/tiros-e-correria-interrompem-jogo-durante-campeonato-de-futebol-de-varzea-em-jaboatao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/LItL9esQr5kPI_UWG2WRn9Yz4SU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/3/e2kprBSY2yzJqqG1yX8A/bdpe-pgmhd185-frame-153343.jpeg",
-    "data": "2026-11-23T12:06:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Temporal arranca aparelhos de ar-condicionado, alaga salas e suspende aulas presenciais na Etec em Santa Fé do Sul",
-    "resumo": "Temporal arranca aparelhos de ar-condicionado, alaga salas de aula da Etec e deixa 600 alunos sem aulas em Santa Fé do Sul (SP) Arquivo pessoal O temporal que atingiu cidades do noroeste paulista na madrugada de sábado (21) provocou estragos na Escola Técnica Estadual (Etec) de Santa Fé do Sul (SP). A força do vento arrancou 12 aparelhos ",
-    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/23/temporal-arranca-aparelhos-de-ar-condicionado-alaga-salas-de-aula-e-suspende-aulas-presenciais-na-etec-em-santa-fe-do-sul.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8dGN1yBozDbed84KiaRgDAjdP_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/5/8V7XilT5OVASVkvAlVtw/foto-g1-45-.png",
-    "data": "2026-11-23T12:06:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é sequestrado, agredido e ameaçado de morte após ser acusado de furto em Colatina",
-    "resumo": "Homem é sequestrado, torturado e ameaçado em Colatina; dois suspeitos são presos Um homem foi sequestrado, agredido e ameaçado de morte em Colatina, no Noroeste do Espírito Santo, após ser acusado de furtar um aparelho de ar-condicionado avaliado em R$ 4 mil. Dois suspeitos, de 29 e 33 anos, foram presos em flagrante. Um terceiro envolvid",
-    "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/11/23/homem-e-sequestrado-agredido-e-ameacado-de-morte-apos-ser-acusado-de-furto-em-colatina.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/udATv4cyWu11g38I6hB7lKHDC-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/h/czipmcR7iTmgXFMxEEig/thumb-fotos-2026-11-23t084206.165.jpg",
-    "data": "2026-11-23T12:05:24.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Está fora de perigo', diz filha de idoso que sobreviveu 11 dias na floresta amazônica",
-    "resumo": "Idoso com Alzheimer é resgatado de área de difícil acesso no Amapá O estado de saúde de Janarino Ferreira dos Santos, de 74 anos, é estável e segue em evolução após ele ser resgatado com vida depois de passar 11 dias desaparecido em uma área de floresta no Amapá. Segundo a filha dele, Rayane Alfaia, Janarino foi transferido do Hospital de",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/23/esta-fora-de-perigo-diz-filha-de-idoso-que-sobreviveu-na-floresta-amazonica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MUJ_G8QP3ZqYgvNCPJLgsy_1lqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/R/ajiGP4Ruu0d7RYTJL8Pg/aleixo-g1-95-.jpg",
-    "data": "2026-11-23T12:03:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Carro bate em barranco, atinge barreira de concreto e capota na Rodovia dos Tamoios, em Paraibuna",
-    "resumo": "Carro bate em barranco, atinge barreira de concreto e capota na Rodovia dos Tamoios, em Paraibuna Divulgação/Artesp Um carro bateu em um barranco, atingiu uma barreira de concreto e capotou na Rodovia dos Tamoios (SP-099), em Paraibuna (SP), na madrugada desta segunda-feira (23). Três pessoas estavam no veículo. Uma teve ferimentos leves ",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/23/carro-bate-em-barranco-atinge-barreira-de-concreto-e-capota-na-rodovia-dos-tamoios-em-paraibuna.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/qHuzU3N53xevLMIepuhtpPgd_qc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/f/0iPiN0TlSp8QmKjUN5cg/texto-do-seu-paragrafo-2026-11-23t090058.434.png",
-    "data": "2026-11-23T12:02:38.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Loteca hoje: resultado do concurso 1284 e números sorteados",
-    "resumo": "Volantes da Loteca g1 Veja abaixo os resultados dos jogos no concurso 1284 da Loteca realizado nesta segunda-feira (23): Resultado dos Jogos Veja quantas apostas foram premiadas no concurso 1284: 1º (14 acertos): 111 apostas ganhadoras, cada uma vai receber R$ 35.941,35; 2º (13 acertos): 5.810 apostas ganhadoras, cada uma vai receber R$ 6",
-    "link": "https://g1.globo.com/loterias/loteca/noticia/2026/11/23/loteca-hoje-resultado-do-concurso-1284-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KamjCnYp56vQY-_h5gqZlXFQQ5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/o/ulGBSvTzq3mGozukh1oA/volantes-loteca.jpg",
-    "data": "2026-11-23T12:02:09.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mesmo com ajuste, dólar deve seguir em alta enquanto Lula não indicar nome 'forte' para a Fazenda e novas medidas fiscais",
-    "resumo": "O presidente Lula já foi alertado por sua equipe que, mesmo com a possibilidade de aprovação final do ajuste fiscal na Câmara dos Deputados nesta segunda, o dólar pode seguir pressionado. Esse quadro deve se manter até que o petista defina um nome \"forte\" para o Ministério da Fazenda ou, ao menos, anuncie medidas fiscais mais profundas, c",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/23/mesmo-com-ajuste-dolar-deve-seguir-em-alta-enquanto-lula-nao-indicar-nome-forte-para-a-fazenda-e-novas-medidas-fiscais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/zwTsYXRjn7DJq3YDOrhIiSn-lbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/dchTSZSly2gh9L1hrBPw/2026-11-14t055622z-1767885988-rc2gnoa3o1vq-rtrmadp-3-asean-summit.jpg",
-    "data": "2026-11-23T12:00:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dólar abre em alta e vai a R$ 5,98, atento à votação do pacote fiscal na Câmara",
-    "resumo": "Entenda o que faz o preço do dólar subir ou cair % O dólar abriu a sessão desta segunda-feira (23) em alta, com avanço de 0,79% perto das 9h, cotado a R$ 5,9810. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. O principal destaque da sessão é a votação da proposta de ajuste fiscal do governo na Câmara ",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/23/dolar-ibovespa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CLpORDX-Ika5t_WGmtkE9z_hf2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/T/8/6BPYVIQciRgUNcEDR84Q/globo-canal-4-1-4-frame-243449.jpeg",
-    "data": "2026-11-23T12:00:20.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Sold! Why live cattle auctions still matter to Alberta ranchers in an era of online bidding",
+    "resumo": "Ranchers say you can still tell when it’s auction day in farming towns: trucks are lined up on the streets, the coffee shops are busy and local commerce surges.",
+    "link": "https://www.cbc.ca/news/canada/edmonton/cattle-auction-9.7430383?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/51f49c8b-c4ee-4ca7-ac3a-ca1c97aad034,1795205836472/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-23T12:00:00.000Z"
   },
   {
     "categoria": "Clima",
@@ -149,7 +347,7 @@
     "titulo": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
     "resumo": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
     "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e5/live/3719aa20-e71e-11f1-914b-6d226d813a52.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/c0542f80-e73d-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-23T11:57:33.000Z"
   },
   {
@@ -176,8 +374,17 @@
     "titulo": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
     "resumo": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/927f/live/24790470-e740-11f1-99b6-a35a62fa4264.png",
     "data": "2026-11-23T11:40:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+    "imagem": null,
+    "data": "2026-11-23T11:40:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -187,15 +394,6 @@
     "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/23/former-icelandic-pm-says-worlds-great-powers-are-flexing-their-muscles?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T11:34:59.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Flights grounded in Belgium due to strike against austerity measures",
-    "resumo": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-    "link": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-23T11:26:12.000Z"
   },
   {
     "categoria": "Economia",
@@ -235,18 +433,9 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Presidential villa also hit by water and power cuts, Nigerian leader says",
-    "resumo": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-    "link": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-    "data": "2026-11-23T11:15:16.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-    "resumo": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war&#039;s spread.",
+    "resumo": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war&#039;s spread.",
     "link": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T11:10:12.000Z"
@@ -279,6 +468,15 @@
     "data": "2026-11-23T11:00:56.000Z"
   },
   {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Carry cash and know your rights: how to fly in the US this Thanksgiving holiday",
+    "resumo": "<p>Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong)</p><p>Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after the US Federal Aviation Administration’s 13 November <a href=\"https://www.theguardian.com/world/2026/nov/13/faa",
+    "link": "https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer",
+    "imagem": "https://i.guim.co.uk/img/media/bc0448fab7a711dd6c66bf4f10e9b237ae07cd96/780_0_4485_3587/master/4485.jpg?width=140&quality=85&auto=format&fit=max&s=59c8d5a003be5a709b92cbcf34dfa1b8",
+    "data": "2026-11-23T11:00:56.000Z"
+  },
+  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
@@ -286,6 +484,15 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/23/myanmar-genocide-ruling",
     "imagem": "https://i.guim.co.uk/img/media/41b92eac2aba51178fa5b9577af4f5fc03fa110a/125_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=965c9766bde714cbc5031a2d5ff38bc7",
     "data": "2026-11-23T11:00:54.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Who's spying on whom and why?",
+    "resumo": "NVIDIA's former CEO is alleged to have been compromised by a Chinese spy. We explore the state of spycraft in the contemporary age.",
+    "link": "https://www.cbc.ca/radio/frontburner/who-s-spying-on-whom-and-why-9.7432033?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1d974a78-b36a-41bc-804b-d461bc2ffb6e,1795381562920/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C1278%2C718%29%3B",
+    "data": "2026-11-23T11:00:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -342,24 +549,6 @@
     "data": "2026-11-23T10:45:53.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why is Bangladesh’s Grameen Bank under attack?",
-    "resumo": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
-    "link": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T10:22:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
-    "resumo": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
-    "link": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T10:20:58.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "South East Water reports loss after supply issues",
@@ -378,15 +567,6 @@
     "data": "2026-11-23T10:16:33.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Natural England could be abolished as part of quango cull, says Louise Haigh",
-    "resumo": "<p>First secretary of state says proliferation of arm’s length government bodies is hampering decision-making</p><p>The nature watchdog Natural England could be abolished as part of a cull of arm’s length government organisations, Louise Haigh has said.</p><p>Saying that the proliferation of quangos and other similar bodies had made decis",
-    "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-    "imagem": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&quality=85&auto=format&fit=max&s=4a40a542fc4fecab084e3c1fd15755b6",
-    "data": "2026-11-23T10:16:09.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Poundland is facing collapse - what's gone wrong?",
@@ -394,15 +574,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-23T10:09:25.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Virginia School District Shaken by Sex Abuse Claims Closes for a Week",
-    "resumo": "The district failed to conduct required background checks on more than 500 employees. The problem came to light after two staff members were arrested in separate child sex abuse and pornography charges.",
-    "link": "https://www.nytimes.com/2026/11/23/us/albemarle-virginia-school-district-sex-abuse-closure.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/00nat-albemarle-schools-01-qjbz/00nat-albemarle-schools-01-qjbz-mediumSquareAt3X.jpg",
-    "data": "2026-11-23T10:04:07.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -443,15 +614,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "K is for kindness, but families worry the world has less of it",
-    "resumo": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
-    "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/970x776+0+0/resize/970x776!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F3b%2F1b7e973f4fbc840214141269612c%2Fabby-and-friend-1.JPG",
-    "data": "2026-11-23T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "Mushroom supplements promise health benefits. What does the science say?",
     "resumo": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
     "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
@@ -465,6 +627,15 @@
     "resumo": "Grocery costs have been on the rise, but food-price analysts say it&apos;s unclear if you&apos;ll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
     "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7687x4589+0+0/resize/7687x4589!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F2f%2F74d978a84f9cb96570fd10b559e7%2Fgettyimages-2304341756.jpg",
+    "data": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "K is for kindness, but families worry the world has less of it",
+    "resumo": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/970x776+0+0/resize/970x776!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F3b%2F1b7e973f4fbc840214141269612c%2Fabby-and-friend-1.JPG",
     "data": "2026-11-23T10:00:00.000Z"
   },
   {
@@ -488,29 +659,11 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Audience evacuated from Don Toliver concert in Manchester after unknown substance released in crowd",
-    "resumo": "More than 12,000 fans were evacuated from a concert by American rapper Don Toliver after an unknown substance was released in the crowd, British police said Monday.",
-    "link": "https://www.cbc.ca/news/entertainment/don-toliver-concert-evacuated-9.7432218?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/8268702d-5599-4de4-8996-222463c69749,1795425508207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C466%2C5854%2C3292%29%3B",
-    "data": "2026-11-23T09:51:49.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Zelenskyy confirms Ukraine was behind attack that sank Russian warship off Libya",
-    "resumo": "Ukrainian President Volodymyr Zelenskyy said Ukraine was behind an attack that sank a Russian warship off Libya.",
-    "link": "https://www.cbc.ca/news/world/ukraine-behind-attack-that-sank-russian-warship-off-libya-9.7432215?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/6b0ae462-5af9-4270-ad50-f38428446a3a,1795421236286/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8860%2C4983%29%3B",
+    "titulo": "Zelenskyy confirms Ukraine was behind attack on Russian warship off Libya",
+    "resumo": "Ukraine carried out an attack on a Russian warship moored at a naval base in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the vessel in a surprise assault the previous day.",
+    "link": "https://www.cbc.ca/news/world/ukraine-attack-russian-warship-libya-merkury-9.7432215?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B",
     "data": "2026-11-23T09:47:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Thousands displaced after deadly storm hits Brazil town",
-    "resumo": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T09:45:25.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -520,42 +673,6 @@
     "link": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
     "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6045619",
     "data": "2026-11-23T09:45:21.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Pip assessments need 'fundamental overhaul', report to say",
-    "resumo": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-23T09:37:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-    "resumo": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
-    "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T09:34:25.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-    "resumo": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T09:33:59.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
-    "resumo": "Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T09:33:46.000Z"
   },
   {
     "categoria": "Canadá",
@@ -578,19 +695,19 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "More Canadians are using cannabis daily than are drinking alcohol daily: study",
-    "resumo": "Daily use of cannabis has outstripped daily use of alcohol in Canada, with young Canadians at the front of the trend, new data shows. Experts say this generational shift brings some positives, but that many Canadians remain unaware that there are risks with overuse of cannabis.",
-    "link": "https://www.cbc.ca/news/health/daily-cannabis-use-higher-alcohol-cigarettes-9.7430174?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/97c8ae9e-a2bd-4e78-a6fa-374c73fc130f,1795199612799/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C425%2C6000%2C3375%29%3B",
+    "titulo": "Inside India's bold plan to transform its largest slum, Dharavi, into a multibillion-dollar development",
+    "resumo": "India's largest slum is being cleared to make room for a modern urban development to include rehabilitated slum housing plus luxury condos and office towers. It's a massive regeneration project, funded by private and public money. But will it work?",
+    "link": "https://www.cbc.ca/news/world/india-biggest-slum-dharavi-redevelopment-9.7426347?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/fe75f604-a133-463c-902d-0847af18f638,1795216603743/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C780%2C438%29%3B",
     "data": "2026-11-23T09:00:00.000Z"
   },
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Big tech, law enforcement make final pitches as Senate considers data access bill's future",
-    "resumo": "Big tech is launching its final salvo to scale back the Liberal government's contentious proposed national security legislation, which would change how companies retain and hand over user data to Canadian police and intelligence officers, as it nears its last legislative hurdle in the Senate. Law enforcement agencies are also making a pas",
-    "link": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-privacy-senate-9.7430455?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B",
+    "titulo": "More Canadians are using cannabis daily than are drinking alcohol daily: study",
+    "resumo": "Daily use of cannabis has outstripped daily use of alcohol in Canada, with young Canadians at the front of the trend, new data shows. Experts say this generational shift brings some positives, but that many Canadians remain unaware that there are risks with overuse of cannabis.",
+    "link": "https://www.cbc.ca/news/health/daily-cannabis-use-higher-alcohol-cigarettes-9.7430174?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/97c8ae9e-a2bd-4e78-a6fa-374c73fc130f,1795199612799/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C425%2C6000%2C3375%29%3B",
     "data": "2026-11-23T09:00:00.000Z"
   },
   {
@@ -666,15 +783,6 @@
     "data": "2026-11-23T05:00:47.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/debfd770-eebf-4bab-82ec-a11932f75fde,1795397071340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B",
-    "data": "2026-11-23T04:28:09.000Z"
-  },
-  {
     "categoria": "Clima",
     "fonte": "The Guardian",
     "titulo": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
@@ -727,15 +835,6 @@
     "link": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4006x2671+0+0/resize/4006x2671!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2Fec%2F8b1349ca47deba9b851cc600f21d%2Fap20023804484655.jpg",
     "data": "2026-11-23T01:53:48.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-    "resumo": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-    "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-23T01:23:43.000Z"
   },
   {
     "categoria": "Economia",
@@ -830,15 +929,6 @@
   {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
-    "titulo": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
-    "resumo": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
-    "link": "https://www.dw.com/pt-br/explosão-em-navio-russo-na-líbia-levanta-suspeita-de-ataque-de-drone/a-80014687?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-22T22:34:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
     "titulo": "\"Inconcebível\", \"inaceitável\": delegações criticam fracasso da COP31",
     "resumo": "Da União Europeia ao Brasil, negociadores e ativistas classificaram ausência de acordo final na Cúpula do Clima como um retrocesso para o combate à crise climática.",
     "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-delegações-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-rdf",
@@ -909,6 +999,15 @@
     "data": "2026-11-22T20:33:00.000Z"
   },
   {
+    "categoria": "Economia",
+    "fonte": "The Guardian",
+    "titulo": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+    "resumo": "<p>John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips</p><p>Invoking Greek mythology, US senator John Kennedy has characterized former <a href=\"https://www.theguardian.com/technology/nvidia\">Nvidia</a> chief executive officer <a href=\"https://www.theguardian.com/technology",
+    "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+    "imagem": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266",
+    "data": "2026-11-22T20:23:36.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "2 New Jersey Women Indicted in Faked Anti-Trump Slashing Attack",
@@ -927,24 +1026,6 @@
     "data": "2026-11-22T20:05:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Simpósio de matemática premia professores e expõe soluções de ensino",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/simposio-de-matematica-premia-professores-e-expoe-solucoes-de-ensino\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/simposio-de-matematica-premia-professores-e-expoe-solucoes-de-ensino",
-    "imagem": null,
-    "data": "2026-11-22T20:01:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Tempestades no Paraná deixam mais de 250 casas danificadas",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestades-no-parana-deixam-mais-de-250-casas-danificadas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestades-no-parana-deixam-mais-de-250-casas-danificadas",
-    "imagem": null,
-    "data": "2026-11-22T19:41:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
@@ -952,15 +1033,6 @@
     "link": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
     "imagem": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
     "data": "2026-11-22T19:10:04.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-    "resumo": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-    "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "data": "2026-11-22T18:29:46.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -979,15 +1051,6 @@
     "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-22T17:46:44.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-    "resumo": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fe6%2F705920be46a09bdd2b396ad5411b%2Fmoe01329.jpg",
-    "data": "2026-11-22T17:44:52.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1035,15 +1098,6 @@
     "data": "2026-11-22T16:55:00.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
-    "resumo": "<p>Countries failed to reach consensus on a key deal that did not mention fossil fuels</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected\"><strong>Full report: Cop31 climate talks set to end in deep division as key deal rejected</strong></a></p></",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2",
-    "data": "2026-11-22T16:45:37.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
@@ -1069,24 +1123,6 @@
     "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-22T15:15:07.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-    "resumo": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off one of its two current console bundles, temporarily rolling back [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-22T14:00:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "‘The show is starting soon. Please turn on your headphones.’",
-    "resumo": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast [&#8230;]",
-    "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-22T14:00:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -1312,41 +1348,5 @@
     "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
     "imagem": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=140&quality=85&auto=format&fit=max&s=40ed7d0881298a1c6a8fae92ef3d7ba7",
     "data": "2026-11-21T11:00:57.000Z"
-  },
-  {
-    "categoria": "Opinião",
-    "fonte": "The Guardian",
-    "titulo": "The far right is menacing Europe – but it is fragile. What the extremists and voters want isn’t the same | Gordon Brown",
-    "resumo": "<p>As Spain heads into a critical election, polling shows that many voters attracted by rightwing parties don’t really agree with their ideas</p><p>When <a href=\"https://www.theguardian.com/world/2026/nov/16/will-spains-snap-election-in-november-bring-a-far-right-party-into-government\">Spain goes to the polls</a> on 29 November, its citiz",
-    "link": "https://www.theguardian.com/commentisfree/2026/nov/21/far-right-menacing-europe-extremists-voters-spain-election-gordon-brown",
-    "imagem": "https://i.guim.co.uk/img/media/0bf18648df04716f116e80e7048c061a60f47fb6/468_0_6268_5015/master/6268.jpg?width=140&quality=85&auto=format&fit=max&s=7a44e5ed07939b44a632d31f16bdd9a9",
-    "data": "2026-11-21T05:00:48.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Can AI really help spot Black Friday deals? We put it to the test",
-    "resumo": "We put four AI models to the test to see if they could save us money on a new TV.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
-    "data": "2026-11-21T00:06:11.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-    "resumo": "<p>German company faced 65,000 claims from people who said they developed cancer after using weedkiller</p><p>A <a href=\"https://www.theguardian.com/us-news/missouri\">Missouri</a> judge on Friday approved <a href=\"https://www.theguardian.com/business/bayer\">Bayer</a>’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup ",
-    "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-    "imagem": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=80be199f03da1f2774ebcc5eaf1c6cd0",
-    "data": "2026-11-20T23:42:43.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-    "resumo": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-    "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-20T23:08:57.000Z"
   }
 ]
