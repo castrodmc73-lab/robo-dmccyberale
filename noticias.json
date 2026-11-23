@@ -2,56 +2,308 @@
   {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "AO VIVO: assista à programação da NSC TV",
-    "resumo": "AO VIVO: assista à programação da NSC TV Saiba telefones, endereços e sites das reportagens exibidas",
-    "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
+    "titulo": "Mulheres comandam quase metade das empresas ativas na região de Araçatuba",
+    "resumo": "Cerca de 50% das empresas ativas em Araçatuba são comandadas por mulheres Quase metade das empresas ativas na região de Araçatuba (SP) é comandada por mulheres. Em diferentes áreas, elas têm transformado ideias em negócios e conquistado espaço no mercado de trabalho, inclusive em setores tradicionalmente ocupados por homens, como a mecâni",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/23/mulheres-comandam-empresas-ativas-na-regiao-de-aracatuba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7uhQU7e4lx3W8w02R-1QUzufo1k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/A/R5Fc9oQCGLb9AXJOdKvw/foto-g1-41-.png",
+    "data": "2026-11-23T10:18:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Confira mais de 500 vagas de emprego em Sergipe para diversas áreas",
+    "resumo": "Carteira de Trabalho Digital FUNTRAB A Secretaria de Estado do Trabalho, Emprego e Empreendedorismo (Seteem) está ofertando mais de 500 vagas de emprego em Sergipe na plataforma digital do Núcleo de Apoio ao Trabalho (NAT). Para se cadastrar no site ‘GO Sergipe – Geração de Oportunidade’ é necessário ter senha do portal gov.br do governo ",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/23/confira-novas-vagas-de-emprego-em-sergipe-para-diversas-areas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg",
+    "data": "2026-11-23T10:17:50.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Bom Dia Cidade Piracicaba",
+    "resumo": "Bom Dia Cidade Piracicaba",
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/bom-dia-cidade-piracicaba-ao-vivo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg",
+    "data": "2026-11-23T10:15:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Descarte irregular de lixo causa infestação de ratos e ameaça animais de abrigo em Itararé; MP investiga",
+    "resumo": "Ratos passaram a circular pelas dependências do abrigo de animais após descarte de lixo O Ministério Público de São Paulo (MPSP) instaurou um inquérito civil (IC) para investigar uma área de descarte de lixo, supostamente utilizada irregularmente pela Prefeitura de Itararé (SP). A investigação foi aberta pelo órgão no dia 10 de novembro e",
+    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/23/descarte-irregular-de-lixo-causa-infestacao-de-ratos-e-ameaca-animais-de-abrigo-em-itarare-mp-investiga.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XYGpxhNblnRm2fV6-pweM3u481U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/Rk0LAHQA6h1hAZTfInPw/whatsapp-image-2026-11-20-at-18.07.49.jpeg",
+    "data": "2026-11-23T10:14:04.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Casal que morreu em acidente na GO-523 voltava de visita à casa da mãe da mulher; filho de 3 anos ficou gravemente ferido",
+    "resumo": "Frâncio Luciano e a esposa Sara Souza morreram em um acidente na GO-523, em Goiás; filho de 3 anos está na UTI Reprodução/Perfil do Instagram de Sara Souza Sara Souza e Frâncio Luciano, casal que morreu em um acidente na GO-523, em Caturaí, na Região Metropolitana de Goiânia, voltava de uma visita à casa da mãe da mulher, em Goianira, seg",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/casal-que-morreu-em-acidente-na-go-523-voltava-de-visita-a-casa-da-mae-da-mulher-diz-cunhada-filho-de-3-anos-ficou-gravemente-ferido.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XwkEhe82yqJhu2q9s5ZA384MgpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/8/Xq2gB0Q8qA5AUuMs45mA/familia-acidente-go-523.jpg",
+    "data": "2026-11-23T10:13:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Corpo de homem é encontrado em canavial, na Grande João Pessoa",
+    "resumo": "Homem é encontrado morto em canavial no bairro de Marcos Moura, em Santa Rita Reprodução / TV Cabo Branco O corpo de um homem foi encontrado em meio a um canavial no bairro de Marcos Moura, em Santa Rita, no fim da manhã do domingo (22). A vítima tinha marcas de tiros e facadas. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp De ac",
+    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/23/corpo-de-homem-e-encontrado-em-canavial-na-grande-joao-pessoa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/q-jTscImT4Ad0oo5GpMY8pcMF1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/xBMZ4BTbWsqwjWMiEBiQ/captura-de-tela-2026-11-23-070631.jpg",
+    "data": "2026-11-23T10:13:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Trabalhadores que denunciaram trabalho análogo à escravidão em usina recebiam comida com moscas",
+    "resumo": "Mais de cem trabalhadores denunciam condições de trabalho análogo à escravidão no interior Os trabalhadores de uma usina de bioenergia que denunciaram à polícia que estavam sendo submetidos a um trabalho análogo à escravidão em Vila Boa, no Entorno do Distrito Federal, recebiam comida com moscas. Vídeos e fotos feitos pelos contratados mo",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/trabalhadores-que-denunciaram-trabalho-analogo-a-escravidao-em-usina-recebiam-comida-com-moscas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hcT1aLMD--ksDTpVCEdLBB9Oi7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/A/44yfPER8uiIgePSQj4gQ/condicoes-analoga-escravidao-vila-boa.jpg",
+    "data": "2026-11-23T10:10:19.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça do ES mantém prisão de suspeito de estupro de adolescente em moto aquática após audiência de custódia",
+    "resumo": "Estevão Rylanneive da Silva, de 41 anos, foi preso, suspeito de estuprar uma adolescente de 15 anos em um jet ski, em Vitória, Espírito Santo TV Gazeta A Justiça do Espírito Santo decretou a prisão preventiva de Estevão Rylanneive da Silva, de 41 anos, suspeito de estuprar uma adolescente de 15 anos durante um passeio de moto aquática, em",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/23/justica-do-es-mantem-prisao-de-suspeito-de-estupro-de-adolescente-em-moto-aquatica-apos-audiencia-de-custodia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-6rNN2vPTxZhlIiQLJYIprSNlZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/6/nlwzPrTvGOOmgT2AznWQ/thumb-fotos-2026-11-23t070546.778.jpg",
+    "data": "2026-11-23T10:09:56.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Poundland is facing collapse - what's gone wrong?",
+    "resumo": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-23T10:09:25.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Sul de Minas registra mais de 560 casos de tuberculose e 23 mortes em 2026",
+    "resumo": "Sul de Minas registra mais de 560 casos de tuberculose e 23 mortes em 2026 O Sul de Minas registrou 566 casos de tuberculose e 23 mortes pela doença em 2026. A Regional de Saúde de Passos concentra o maior número de ocorrências, com 201 diagnósticos e 11 óbitos. Os dados mostram que a doença continua sendo um alerta para a saúde pública, ",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/23/sul-de-minas-registra-mais-de-560-casos-de-tuberculose-e-23-mortes-em-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Fv2vslTiEMQekgkstDiQT9BEegc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/t/vpP1vkST6er9ivy9e7Zg/adobestock-658890283.jpeg",
+    "data": "2026-11-23T10:08:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ícaro, da dupla com Gilmar, diz que inflamação em músculo da canela deixou a perna sem movimento",
+    "resumo": "Sertanejo Ícaro, da dupla com Gilmar, anuncia pausa em shows após descobrir inflamação O cantor sertanejo Ícaro, da dupla com Gilmar, que anunciou ao público estar com uma inflamação na perna, disse que uma lesão em um músculo da região da canela comprometeu a circulação sanguínea e provocou a perda de mobilidade do membro. \"O que é isso?",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/icaro-da-dupla-com-gilmar-diz-que-inflamacao-em-musculo-da-canela-deixou-a-perna-sem-movimento.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Te4x10XCRRcyzIfOUNjM017O90w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/wfAqAXSBy5N5cStLfdfQ/whatsapp-image-2026-11-21-at-15.43.27.jpeg",
+    "data": "2026-11-23T10:07:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Três acidentes deixam mortos em rodovias em Maceió e no interior de Alagoas",
+    "resumo": "Acidentes deixam dois mortos em rodovias alagoanas Três acidentes de trânsito deixaram mortos em rodovias de Alagoas, no domingo (22). As colisões aconteceram em Maceió, Delmiro Gouveia e Maragogi. Entre as vítimas estão dois homens. 📱Participe do canal do g1 Alagoas Em Delmiro Gouveia, no Sertão alagoano, um motociclista morreu após ten",
+    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/23/tres-acidentes-deixam-mortos-em-rodovias-em-maceio-e-no-interior-de-alagoas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-WckxMKmdUO_lTPK-mjeL9xsEVA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/9/4VaIz2Sl6o7ofmt228iA/acidentes-deixam-mortos-no-interior-de-alagoas.jpg",
+    "data": "2026-11-23T10:07:15.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Bom Dia Minas, de segunda-feira, 23 de novembro de 2026",
+    "resumo": "Assista aos vídeos das principais notícias de Minas Gerais.",
+    "link": "https://g1.globo.com/mg/minas-gerais/videos-bom-dia-minas/playlist/videos-bom-dia-minas-de-segunda-feira-23-de-novembro-de-2026.ghtml",
     "imagem": null,
-    "data": "2026-11-23T09:08:38.000Z"
+    "data": "2026-11-23T10:06:16.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Falta de água reduz aulas presenciais de 2,6 mil estudantes no interior de Roraima",
-    "resumo": "Seca deixa escolas sem água e comunidades isoladas em Roraima A falta de água por causa da seca e o calor alteraram a rotina de mais de 2 mil estudantes de escolas municipais de Normandia, no interior de Roraima. Os alunos passaram a ter aulas presenciais apenas duas vezes por semana. A situação ocorre em meio à seca que atinge o estado. ",
-    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/23/falta-de-agua-reduz-aulas-presenciais-de-26-mil-estudantes-no-interior-de-roraima.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/x7kqFJtuBSMfxrsS12atyBUGPMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/k/eWUwS7TcOxjBD0BjIObw/escola-cassiano-da-silva-em-rr.jpeg",
-    "data": "2026-11-23T09:00:01.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Virginia School District Shaken by Sex Abuse Claims Closes for a Week",
+    "resumo": "The district failed to conduct required background checks on more than 500 employees. The problem came to light after two staff members were arrested in separate child sex abuse and pornography charges.",
+    "link": "https://www.nytimes.com/2026/11/23/us/albemarle-virginia-school-district-sex-abuse-closure.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/00nat-albemarle-schools-01-qjbz/00nat-albemarle-schools-01-qjbz-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T10:04:07.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Venda de carros elétricos cresce mais de 100% no Amapá, segundo levantamento",
-    "resumo": "Dados apontam que venda de veículos elétricos dobrou no Amapá em 2026 A venda de carros 100% elétricos no Amapá mais que dobrou nos dez primeiros meses de 2026. Segundo levantamento da Associação Brasileira do Veículo Elétrico (ABVE), 702 veículos movidos exclusivamente a bateria foram comercializados entre janeiro e outubro no estado. O ",
-    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/23/venda-de-carros-eletricos-cresce-mais-de-100percent-no-amapa-segundo-levantamento.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/td8b06UWYTAmm7OpG7BdZDI1w_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/7/IS0zXrRJiiCXoZOALxWw/aleixo-g1-6-.jpg",
-    "data": "2026-11-23T09:00:01.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "D.N.C. Plans 12 Debates for the 2028 Presidential Primary, Starting in June",
+    "resumo": "The national party also revealed some initial criteria for participating, including a pledge to denounce spending from supportive groups that do not disclose their donors.",
+    "link": "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/23/multimedia/23pol-dem-debates-gmcf/23pol-dem-debates-gmcf-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T10:04:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O que se sabe e o que falta saber sobre palmeirense empurrado e morto após suposto assédio contra funcionária de hotel em SP",
-    "resumo": "Torcida do Palmeiras durante partida entre Palmeiras x Flamengo, válida pela 36ª rodada do Campeonato Brasileiro de Futebol 2026, neste sábado (21) ROBERTO CASIMIRO/FOTOARENA/ESTADÃO CONTEÚDO Um torcedor do Palmeiras morreu na noite de sábado (21) após ser empurrado por um segurança de um hotel na Barra Funda, na Zona Oeste de São Paulo. ",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/23/o-que-se-sabe-e-o-que-falta-saber-sobre-palmeirense-empurrado-e-morto-apos-suposto-assedio-contra-funcionaria-de-hotel-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/oJmLKg5Yn0HFva93tztlSzNAeDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/agJ0dtS66cNtSYklKDYw/fta20261122024-1-.jpg",
-    "data": "2026-11-23T09:00:00.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The World’s Tech Capital Can’t Keep Sewage Off the Streets in a Deluge",
+    "resumo": "A downpour once again sent wastewater into San Francisco streets. It could become a frequent occurrence in this El Niño year.",
+    "link": "https://www.nytimes.com/2026/11/23/us/san-francisco-poop-water-sewer-rain.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/23/multimedia/23nat-sf-drains-lcjv/23nat-sf-drains-lcjv-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T10:03:59.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "UFT abre inscrições para 726 vagas em cursos de graduação nesta segunda-feira (23); saiba como participar",
-    "resumo": "Campus da UFT em Palmas UFT/Divulgação As inscrições para as 726 vagas em cursos de graduação ofertadas pela Universidade Federal do Tocantins (UFT) começam nesta segunda-feira (23), a partir das 8h. As vagas são para o primeiro semestre de 2027. Os interessados devem realizar a inscrição por meio deste link. A seleção é destinada a candi",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/23/uft-abre-inscricoes-para-726-vagas-em-cursos-de-graduacao-nesta-segunda-feira-23-saiba-como-participar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/YEKJtq_ohcF-jknn-K-llvEjEh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/f/0/xhGlT0QGGRcAZYXbIdBA/campus-uft.png",
-    "data": "2026-11-23T09:00:00.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Squeezed for Space in Court Filings, Lawyers Get Typographically Creative",
+    "resumo": "Manipulating page formatting and fonts can help exceed word limits in legal filings, but can also incur a judge’s ire.",
+    "link": "https://www.nytimes.com/2026/11/23/us/federal-court-typography-rules.html",
+    "imagem": null,
+    "data": "2026-11-23T10:03:13.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vizinhas cuidam de cerca de 30 gatos abandonados e pedem ajuda para castração em Belém",
-    "resumo": "Vizinhas cuidam de cerca de 30 gatos abandonados em Belém Todas as noites, Andréa Noronha, de 61 anos, e Mira Souto, de 52, saem do prédio onde moram, na avenida Nazaré, com comida e medicamentos para cuidar de cerca de 30 gatos abandonados, em Belém. As vizinhas dividem os gastos e a rotina de cuidados no bairro de Nazaré, mas enfrentam ",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/23/vizinhas-cuidam-de-cerca-de-30-gatos-abandonados-e-pedem-ajuda-para-castracao-em-belem.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Y6ttxagx0l4LNgbON7oCIWrd0Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/L/pFWn9GRqmVyT2Yfjw0Ag/a435863e-065b-47de-b536-75bf5acca149.jpg",
-    "data": "2026-11-23T09:00:00.000Z"
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Let&apos;s talk turkey: Here&apos;s how Thanksgiving meal costs have changed this year",
+    "resumo": "Grocery costs have been on the rise, but food-price analysts say it&apos;s unclear if you&apos;ll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7687x4589+0+0/resize/7687x4589!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F2f%2F74d978a84f9cb96570fd10b559e7%2Fgettyimages-2304341756.jpg",
+    "data": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "K is for kindness, but families worry the world has less of it",
+    "resumo": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/970x776+0+0/resize/970x776!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F3b%2F1b7e973f4fbc840214141269612c%2Fabby-and-friend-1.JPG",
+    "data": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Mushroom supplements promise health benefits. What does the science say?",
+    "resumo": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F0f%2Fb7589e96433a89a0f02bd9f8db13%2Fnpr-mushrooms-1120-1.jpg",
+    "data": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Seniors embrace Tesla automated driving technology despite questions about safety",
+    "resumo": "Older drivers are using Tesla&apos;s automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F00%2F3e%2Ff9f234fd46e396a3ec44248615aa%2F11-04-2026-jimena-peck-denver-editorial-photographer-0366-2026-11-olderdrivers.jpg",
+    "data": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s",
+    "resumo": "Manitoba Premier Wab Kinew wants to know who spied on his father for the RCMP, and why. Documents obtained by CBC News reveal the late Anishinaabe leader Tobasonakwut Kinew was under surveillance in the 1960s, an early target in a countrywide infiltration initiative later dubbed the \"Native extremism program.\"",
+    "link": "https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B",
+    "data": "2026-11-23T10:00:00.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Catering giant to switch stock market listing to US in further blow to UK",
+    "resumo": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
+    "data": "2026-11-23T09:54:04.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Audience evacuated from Don Toliver concert after unknown substance released in crowd",
+    "resumo": "More than 12,000 fans were evacuated from a concert by American rapper Don Toliver after an unknown substance was released in the crowd, British police said Monday.",
+    "link": "https://www.cbc.ca/news/entertainment/don-toliver-concert-evacuated-9.7432218?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/8268702d-5599-4de4-8996-222463c69749,1795425508207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C466%2C5854%2C3292%29%3B",
+    "data": "2026-11-23T09:51:49.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Zelenskyy confirms Ukraine was behind attack that sank Russian warship off Libya",
+    "resumo": "Ukrainian President Volodymyr Zelenskyy said Ukraine was behind an attack that sank a Russian warship off Libya.",
+    "link": "https://www.cbc.ca/news/world/ukraine-behind-attack-that-sank-russian-warship-off-libya-9.7432215?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/6b0ae462-5af9-4270-ad50-f38428446a3a,1795421236286/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8860%2C4983%29%3B",
+    "data": "2026-11-23T09:47:02.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Thousands displaced after deadly storm hits Brazil town",
+    "resumo": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T09:45:25.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Morning news brief",
+    "resumo": "A look at how artificial intelligence is affecting the economy, NATO to meet after Russian missiles hit Poland, negotiators fail to reach a deal as COP31 comes to an end.",
+    "link": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
+    "imagem": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6045619",
+    "data": "2026-11-23T09:45:21.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Pip assessments need 'fundamental overhaul', report to say",
+    "resumo": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-23T09:37:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Death toll rises after Russian attacks on Ukraine",
+    "resumo": "At least 15 people are killed in multiple attacks, days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T09:34:25.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+    "resumo": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T09:33:59.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+    "resumo": "Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T09:33:46.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘Environmental crimes’: Israel blamed for toxic pollution in 99% of Gaza",
+    "resumo": "A new report by UK-based charity Oxfam shows how Israel’s destruction of Gaza has created a ‘toxic wasteland&#039;.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/environmental-crimes-israel-blamed-for-toxic-pollution-in-99-of-gaza?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T09:30:16.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Natural England could be abolished as part of quango cull, says Louise Haigh",
+    "resumo": "<p>First secretary of state says proliferation of arm’s length government bodies is hampering decision-making</p><p>The nature watchdog Natural England could be abolished as part of a cull of arm’s length government organisations, Louise Haigh has said.</p><p>Saying that the proliferation of quangos and other similar bodies had made decis",
+    "link": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+    "imagem": "https://i.guim.co.uk/img/media/b46f01566289f841fb7954222888ae0175122aad/1324_870_4795_3835/master/4795.jpg?width=140&quality=85&auto=format&fit=max&s=4a40a542fc4fecab084e3c1fd15755b6",
+    "data": "2026-11-23T09:19:34.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "AI superintelligence ‘arriving’, warns top Meta executive",
+    "resumo": "Meta Chief AI Officer Alexandr Wang says humankind&#039;s actions over next year will have &#039;great consequence&#039; for the world.",
+    "link": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T09:08:07.000Z"
   },
   {
     "categoria": "Canadá",
@@ -81,15 +333,6 @@
     "data": "2026-11-23T09:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Assista ao Jornal da Manhã",
-    "resumo": "Assista ao Jornal da Manhã",
-    "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-    "imagem": null,
-    "data": "2026-11-23T08:55:41.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
@@ -97,6 +340,15 @@
     "link": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T08:53:10.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+    "resumo": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef67/live/41b58d30-e716-11f1-9c93-b5d142ad154c.jpg",
+    "data": "2026-11-23T08:53:01.000Z"
   },
   {
     "categoria": "Internacional",
@@ -113,44 +365,8 @@
     "titulo": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
     "resumo": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
     "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-23T08:36:57.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Pip assessments need 'fundamental overhaul', report to say",
-    "resumo": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-23T08:19:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Plataforma criada no litoral de SP monitora o tempo e alerta sobre riscos; aviso antecedeu queda de contêineres",
-    "resumo": "Estações autônomas próprias da MuitoBonsVentos leem vento, chuva, onda e maré Arquivo Pessoal Uma plataforma criada por moradores do litoral paulista monitora as condições do tempo ao vivo e envia alertas para ajudar empresas a prevenir acidentes durante ventanias e tempestades. Chamada MuitoBonsVentos, a tecnologia utiliza dados de estaç",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/23/plataforma-criada-no-litoral-de-sp-monitora-o-tempo-e-alerta-sobre-riscos-aviso-antecedeu-queda-de-conteineres.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QWck8NjgUQos6C0k_valU5ahkQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/i/mJA8VNTfijPFoPfqU9ZA/muitobonsventos.jpg",
-    "data": "2026-11-23T08:17:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Era uma filha maravilhosa': mãe relembra jovem morta após discussão com companheiro",
-    "resumo": "Beatriz Borges Monteiro, de 20 anos, foi encontrada morta com sinais de violência após discutir com seu companheiro em Praia Grande Redes sociais A jovem Beatriz Borges Monteiro, de 20 anos, encontrada morta após uma discussão com o companheiro em Praia Grande, no litoral de São Paulo, deixou um filho de um ano e três meses. Em entrevista",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/23/era-uma-filha-maravilhosa-mae-relembra-jovem-morta-apos-discussao-com-companheiro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7lxK_ijVUSbFqLKe0Shfpcb2nvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/J/3VZGX7S7qBqj3wyuy8cw/inserir-um-titulo-2026-11-21t123221.410.jpg",
-    "data": "2026-11-23T08:16:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher perde olho após ser agredida com capacete pelo ex-namorado no litoral de SP",
-    "resumo": "Mulher perde o olho direito após ser agredida com capacete pelo ex-namorado em Peruíbe, SP Reprodução e Arquivo A Tribuna Jornal (imagem ilustrativa) Uma mulher afirmou ter perdido o olho direito após ser agredida com um capacete pelo ex-namorado em Peruíbe, no litoral de São Paulo. Segundo o boletim de ocorrência (BO), o investigado tamb",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/23/mulher-perde-olho-apos-ser-agredida-com-capacete-pelo-ex-namorado-no-litoral-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/OA7eqA5OspB6wfBi3RjSKGIvHGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/b5TyYGScCDeAWXWMuATg/vitima-capacete.jpg",
-    "data": "2026-11-23T08:16:08.000Z"
   },
   {
     "categoria": "Internacional",
@@ -160,33 +376,6 @@
     "link": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T08:08:00.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Poundland is facing collapse - what's gone wrong?",
-    "resumo": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-23T08:00:20.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O que se sabe sobre o caso da sucuri que deu bote em cão em praia de Palmas; VÍDEO",
-    "resumo": "'Tentei tirar', diz guarda sobre sucuri que capturou cachorro em Palmas w Um vídeo que registrou uma sucuri-verde capturando um cachorro no píer de flutuantes da Praia da Graciosa, em Palmas, repercutiu na internet. Durante o episódio, pedestres e um guarda tentaram intervir para afastar a serpente, mas o réptil se desenrolou e submergiu ",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/23/o-que-se-sabe-sobre-o-caso-da-sucuri-que-deu-bote-em-cao-em-praia-de-palmas-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/a5nwFEX8Em4cqpR5FN7CFeQ8dY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/a/ZbbnrcRXul8y9x14gAcQ/foto-e-montagem-vertical-2026-11-21t124344.573.jpg",
-    "data": "2026-11-23T08:00:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher agredida pela vizinha com paneladas ouvia salmo sobre proteção e livramento quando foi atacada em MG",
-    "resumo": "Mulher joga água em vizinha e dá 'paneladas' após desentendimento em MG O Salmo 91, conhecido por ser uma oração de proteção e livramento, continuou tocando no celular de uma mulher de 51 anos enquanto ela era agredida pela vizinha com golpes de panela e ameaçada com uma faca em Campina Verde, no Triângulo Mineiro. A vítima, que não quis ",
-    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/23/mulher-agredida-pela-vizinha-com-paneladas-ouvia-salmo-sobre-protecao-e-livramento-quando-foi-atacada-em-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dSMgJZgqFrTaG0TNxO8YX5aqvy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/aHpzO7QXa5m5BvUIuWuA/jl-midia-9-.png",
-    "data": "2026-11-23T08:00:03.000Z"
   },
   {
     "categoria": "Internacional",
@@ -235,48 +424,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "How Ireland resisted British rule through sport",
-    "resumo": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
-    "link": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T06:47:10.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Is the global far right really in retreat?",
-    "resumo": "Electoral defeats alone will not dismantle the political forces that brought the far right to power.",
-    "link": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T06:44:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Five takeaways from the failed climate talks COP31",
     "resumo": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
     "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/e38ff1a0-e71f-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-23T06:33:50.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
-    "resumo": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
-    "link": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T06:15:40.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
-    "resumo": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
-    "link": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T06:08:13.000Z"
   },
   {
     "categoria": "Opinião",
@@ -286,24 +439,6 @@
     "link": "https://www.theguardian.com/commentisfree/2026/nov/23/britain-unsung-child-carers-deep-compassion-younger-self-brother",
     "imagem": "https://i.guim.co.uk/img/media/ab307b7ad7a43236daa4cf8bfc3c846c7ad876bd/0_4_1470_1176/master/1470.jpg?width=140&quality=85&auto=format&fit=max&s=34d99f240616a735d53c4b80d6aff11f",
     "data": "2026-11-23T06:00:49.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
-    "resumo": "New Zealand rescued a draw on the final day, surviving 120 overs in a fighting display to finish on 239-5 at the close.",
-    "link": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T05:58:36.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
-    "resumo": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
-    "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T05:51:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -329,7 +464,7 @@
     "titulo": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
     "resumo": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
     "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f2/live/6fcf3080-e708-11f1-99a1-253766e7ad8b.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-23T05:15:06.000Z"
   },
   {
@@ -367,6 +502,15 @@
     "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-23T03:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Montreal Canadiens acquire centre Dylan Larkin from Red Wings in blockbuster trade",
+    "resumo": "The Red Wings traded centre Dylan Larkin to the Montreal Canadiens in a blockbuster deal on Sunday, ending a drawn-out saga after Detroit's former captain requested a move in the off-season.",
+    "link": "https://www.cbc.ca/news/canada/montreal/dylan-larkin-montreal-canadiens-9.7432157?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/deead97c-8c59-4293-a184-bc91ff03c667,1795400841618/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "data": "2026-11-23T02:39:36.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -495,15 +639,6 @@
     "data": "2026-11-22T22:34:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "2-time Cy Young winner Skubal agrees to record 9-year, $450M US deal with Mets: reports",
-    "resumo": "Tarik Skubal, the two-time Cy Young Award winner who was the top free agent on this offseason's market, has a agreed to record $450 million US, nine-year contract with the New York Mets, a person familiar the negotiations told The Associated Press on Sunday.",
-    "link": "https://www.cbc.ca/sports/baseball/mlb/tarik-skubal-new-york-mets-free-agency-9.7432063?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/49dcb9ee-f413-4353-ae23-9d6d2a3b6c1a,1795385213729/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C203%2C4838%2C2721%29%3B",
-    "data": "2026-11-22T22:27:36.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "\"Inconcebível\", \"inaceitável\": delegações criticam fracasso da COP31",
@@ -574,15 +709,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/623a/live/96a59510-e667-11f1-8ebd-1d2173202734.jpg",
     "data": "2026-11-22T21:22:40.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters",
-    "resumo": "The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend.",
-    "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22nat-delta-outage2-bzlp/22nat-delta-outage2-bzlp-mediumSquareAt3X-v4.jpg",
-    "data": "2026-11-22T21:14:10.000Z"
   },
   {
     "categoria": "Canadá",
@@ -682,15 +808,6 @@
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/cop-nao-terminava-sem-acordo-desde-2009",
     "imagem": null,
     "data": "2026-11-22T18:24:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "St. Patrick’s Day Parade Canceled as Florida Figures Out D.E.I. Law",
-    "resumo": "Cities and counties are pulling funding from groups and events they’ve long supported before a new law bars them from promoting diversity, equity and inclusion activities.",
-    "link": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/22/us/22nat-florida-dei-02/22nat-florida-dei-02-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T18:14:27.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -801,15 +918,6 @@
     "data": "2026-11-22T16:33:29.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Climate change talks fall apart in final hours over fossil fuels",
-    "resumo": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2716+0+0/resize/4074x2716!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg",
-    "data": "2026-11-22T16:33:22.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Tempestades no RS deixam mortos e milhares de deslocados",
@@ -835,24 +943,6 @@
     "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-22T15:15:07.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Three killed and dozens missing after fire at Indonesian factory",
-    "resumo": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-    "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg",
-    "data": "2026-11-22T14:05:20.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "A Riverboat Captain Recalls a Crash on the Mississippi",
-    "resumo": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.",
-    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T14:02:55.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -907,15 +997,6 @@
     "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-22T13:15:27.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Medicare looks a bit different in 2027, so don&apos;t miss open enrollment",
-    "resumo": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Ffb%2F9b0e40024a808c235b8149eeb6bb%2Fgettyimages-1734347077.jpg",
-    "data": "2026-11-22T13:11:04.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -1008,33 +1089,6 @@
     "data": "2026-11-22T11:00:26.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
-    "resumo": "Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition.",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
-    "data": "2026-11-22T10:02:17.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "He expected a small-business loan. He got a 7-year nightmare",
-    "resumo": "America&apos;s fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3371+0+0/resize/4500x3371!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fac%2F2eee3f9c42bf92369fb5c87f9b95%2F20261113vaheshahinian00338.jpg",
-    "data": "2026-11-22T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
-    "resumo": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on <em>Weekend Edition</em>. There&apos;s still time to enter!<br>",
-    "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F1a%2F7f4325b745a383d3a11d882b2b99%2Ftalanis-spc-final.jpg",
-    "data": "2026-11-22T10:00:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "South Korea education minister resigns over exam cheating scandal",
@@ -1042,24 +1096,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-22T09:20:45.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-    "resumo": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
-    "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B",
-    "data": "2026-11-22T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
-    "resumo": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\" emphasizing a call for workers to refuse to handle weapons and military equipment des",
-    "link": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/dda16fe4-5807-4956-8a97-66e5573eaf7a,1795128795489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C613%2C8640%2C4860%29%3B",
-    "data": "2026-11-22T09:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1098,31 +1134,13 @@
     "data": "2026-11-22T05:00:17.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
-    "resumo": "<p>State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/mar/10/sign-up-for-the-clear-air-australia-environment-newsletter-with-adam-morton?CMP=cvau_sfl\">Sign up for clim",
-    "link": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
-    "imagem": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533",
-    "data": "2026-11-22T01:00:13.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Employers are being asked to give interview feedback - here's what applicants want",
+    "titulo": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
     "resumo": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
     "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-22T00:04:07.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "Trump orders federal contractors to check with White House before responding to Congress",
-    "resumo": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
-    "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2399+0+0/resize/3599x2399!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
-    "data": "2026-11-21T22:40:36.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1224,15 +1242,6 @@
     "data": "2026-11-21T11:00:57.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Satellites are constantly photographing Earth. A Waterloo student has compiled the pictures into one spot",
-    "resumo": "Satellites are constantly photographing Earth, and a new website designed by a University of Waterloo student is making these public photos more accessible to the general public.",
-    "link": "https://www.cbc.ca/news/canada/kitchener-waterloo/satellites-are-constantly-photographing-earth-a-waterloo-student-has-compiled-the-pictures-into-one-spot-9.7428257?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/306a6f0a-77b8-438e-bbfa-282b2082bc18,1795187019506/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-21T11:00:00.000Z"
-  },
-  {
     "categoria": "Opinião",
     "fonte": "The Guardian",
     "titulo": "The far right is menacing Europe – but it is fragile. What the extremists and voters want isn’t the same | Gordon Brown",
@@ -1305,8 +1314,8 @@
     "data": "2026-11-20T21:38:17.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "Trump threatens ban on US firms building AI data centres overseas",
     "resumo": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
@@ -1339,14 +1348,5 @@
     "link": "https://www.cbc.ca/news/world/u-s-trade-chief-canada-trade-talks-9.7432158?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/3c017eec-eb38-472d-9560-b29819813be0,1795401723924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C72%2C4753%2C2673%29%3B",
     "data": "2026-11-20T18:51:14.000Z"
-  },
-  {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "What to know about the US permitting bill, from datacenters to Trump’s arch",
-    "resumo": "<p>Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projects</p><p>The US Senate has passed a bill to fast-track energy and datacenter projects by removing environmental and legal guardrails. The legislation has caused a fraught divide among Democrats and green groups over whether this",
-    "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
-    "imagem": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=c96f1dbb295a5a260fd6f209bce3372a",
-    "data": "2026-11-20T18:26:08.000Z"
   }
 ]
