@@ -2,6 +2,60 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
+    "titulo": "U.S. trade chief sees progress in trade talks but faults Canada for Beijing-friendly moves",
+    "resumo": "U.S. Trade Representative Jamieson Greer says Washington and Ottawa are making progress toward a trade agreement but that Canada's growing trade relationship with China remains a concern.",
+    "link": "https://www.cbc.ca/news/world/u-s-trade-chief-canada-trade-talks-9.7432158?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/3c017eec-eb38-472d-9560-b29819813be0,1795401723924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C72%2C4753%2C2673%29%3B",
+    "data": "2026-11-23T02:51:08.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+    "resumo": "US Director of National Intelligence Jay Clayton says Trump&#039;s comments were &#039;entirely appropriate&#039; in context of summit.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T02:23:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Todo operário precisa de descanso': Chitãozinho e Xororó anunciam despedida dos palcos com turnê ao lado de Jorge & Mateus",
+    "resumo": "Chitãozinho & Xororó anunciam despedida dos palcos após quase seis décadas de carreira Chitãozinho e Xororó anunciaram neste domingo (22), em entrevista ao Fantástico, que vão se aposentar dos palcos após quase seis décadas de carreira. Para marcar a despedida, a dupla realizará ao longo de 2027 uma turnê pelo país ao lado de Jorge & Mate",
+    "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/todo-operario-precisa-de-descanso-chitaozinho-e-xororo-anunciam-despedida-dos-palcos-com-turne-ao-lado-de-jorge-and-mateus.ghtml",
+    "imagem": null,
+    "data": "2026-11-23T02:20:50.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+    "resumo": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg",
+    "data": "2026-11-23T02:17:16.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
+    "resumo": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T02:09:15.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "The National | Hegseth reportedly moves to restrict defence ties",
+    "resumo": "Nov. 22, 2026 | U.S. Secretary of War Pete Hegseth reportedly issues a memo restricting defence ties with Canada. A father and daughter arrested by ICE at a Seattle airport draws backlash. And Go Public investigates a man's fight against AI customer service.",
+    "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
+    "data": "2026-11-23T02:00:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
     "titulo": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
     "resumo": "Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.",
     "link": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
@@ -18,6 +72,24 @@
     "data": "2026-11-23T01:53:48.000Z"
   },
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+    "resumo": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+    "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T01:53:23.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
+    "resumo": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T01:51:32.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Circuito gastronômico de Fernando de Noronha tem degustação gratuita para 300 pessoas",
@@ -25,6 +97,15 @@
     "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/22/circuito-gastronomico-de-fernando-de-noronha-tem-degustacao-gratuita-para-300-pessoas.ghtml",
     "imagem": "https://s2-g1.glbimg.com/h1MtmSl2bglaW4imnMAwZonLdtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/X/VOR94sQ8KC8NrCFBJ8Iw/circuito-gastronomico.jpg",
     "data": "2026-11-23T01:44:37.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israeli forces continue house demolitions in southern Lebanon",
+    "resumo": "Israeli forces continue house demolitions in southern Lebanon",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-forces-continue-house-demolitions-in-southern-lebanon?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T01:43:29.000Z"
   },
   {
     "categoria": "Brasil",
@@ -182,8 +263,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "South Korea’s stock market tumbles as AI bubble fears mount",
-    "resumo": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+    "titulo": "Asian stock markets tumble as AI bubble fears mount",
+    "resumo": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
     "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T00:18:03.000Z"
@@ -198,15 +279,6 @@
     "data": "2026-11-23T00:08:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
-    "resumo": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg",
-    "data": "2026-11-23T00:05:50.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Cameroon’s ex-rebels caught between hiding and broken promises",
@@ -214,15 +286,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T00:03:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Não foi tornado: meteorologistas explicam 'supercélula' e microexplosão que devastaram cidade no RS",
-    "resumo": "Tempestade com ventos de 200 km/h deixa cinco mortos e destrói Tupanciretã, no RS Uma tempestade severa com granizo e ventos que podem ter superado os 200 quilômetros por hora atingiu Tupanciretã, no centro do Rio Grande do Sul, na madrugada de sexta-feira (20), deixando cinco mortos, 265 feridos e 48 desabrigados, segundo a Defesa Civil.",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/nao-foi-tornado-meteorologistas-explicam-supercelula-e-microexplosao-que-devastaram-cidade-no-rs.ghtml",
-    "imagem": null,
-    "data": "2026-11-23T00:02:08.000Z"
   },
   {
     "categoria": "Internacional",
@@ -258,7 +321,7 @@
     "resumo": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
     "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
     "imagem": null,
-    "data": "2026-11-22T23:30:07.000Z"
+    "data": "2026-11-22T23:30:08.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -325,15 +388,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Trump to host private dinner for largest owners of his meme coin",
-    "resumo": "Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T22:37:38.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Explosão em navio russo na Líbia levanta suspeita de ataque de drone",
     "resumo": "Explosão deixou feridos em embarcação ancorada em Benghazi. Caso reforça temores de expansão do conflito entre Moscou e Kiev para além dos principais campos de batalha",
@@ -358,24 +412,6 @@
     "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-delegações-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-22T22:20:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Democrats win largest House majority since 1992 with North Carolina seat",
-    "resumo": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T22:19:47.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Second ship targeted in series of naval drone attacks off Libyan coast",
-    "resumo": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T22:01:48.000Z"
   },
   {
     "categoria": "Brasil",
@@ -405,15 +441,6 @@
     "data": "2026-11-22T21:33:44.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-    "resumo": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
-    "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T21:33:11.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Temporais atingem 46 municípios e mais de 25 mil pessoas no RS",
@@ -430,15 +457,6 @@
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/nao-vamos-recuar-promete-organizador-de-parada-lgbti-do-rio",
     "imagem": null,
     "data": "2026-11-22T21:29:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Heartbreak in US capital as Washington Spirit lose women’s football final",
-    "resumo": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
-    "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T21:26:12.000Z"
   },
   {
     "categoria": "Internacional",
@@ -837,15 +855,6 @@
     "data": "2026-11-22T13:11:04.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Elite B.C. snowboarder's injury highlights financial strain of Olympic dreams",
-    "resumo": "Prince George's Meryeta O'Dine suffered fractured ankle in a devastating crash during a snowboard cross training run in February and was unable to compete at the 2026 Olympics.",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/prince-george-olympian-fundraising-injury-debt-9.7427067?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/fdf21a06-cb23-4d1c-93f4-bf4194a9c3b4,1795217523519/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1071%2C5712%2C3213%29%3B",
-    "data": "2026-11-22T13:00:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Your questions about Apple HomeView’s audio, answered",
@@ -1001,10 +1010,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795383594380/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
+    "titulo": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
+    "resumo": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
+    "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
@@ -1019,19 +1028,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "How a rainy afternoon in Montreal inspired an iconic Canadian board game",
-    "resumo": "The bestselling Canadian board game of all time has sold more than 100 million copies worldwide, in 17 different languages. On the game's 45th anniversary, co-creator John Haney offers a personal account of the game's creation in his new book, My Trivial Pursuits: The Inside Story of the Board Game That Conquered the World.",
-    "link": "https://www.cbc.ca/radio/sunday/how-a-rainy-afternoon-in-montreal-inspired-an-iconic-canadian-board-game-9.7425059?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c67d9c46-843d-41cd-bd3d-36210f777404,1795016769775/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1021%2C574%29%3B",
-    "data": "2026-11-22T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
-    "resumo": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada. Rights advocates say that would cut refugees and other newcomers off from a key platform they rely on to get information and stay connected to relatives back home.",
-    "link": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B",
+    "titulo": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
+    "resumo": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
+    "link": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795383594380/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
     "data": "2026-11-22T09:00:00.000Z"
   },
   {
