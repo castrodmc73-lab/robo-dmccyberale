@@ -1,12 +1,165 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+    "resumo": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+    "data": "2026-11-23T04:44:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Child rescued in Ukraine after Russian drone attack kills 10",
+    "resumo": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T04:38:14.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/debfd770-eebf-4bab-82ec-a11932f75fde,1795397071340/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B",
+    "data": "2026-11-23T04:28:09.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Sudão do Sul: a tragédia ignorada pelo mundo - O Assunto #1850",
-    "resumo": "Quinze anos após sua independência, o Sudão do Sul enfrenta uma grave escalada de violência e um cenário de incerteza política. Com mais de 16 milhões de habitantes vivendo sob ameaça de fome, surtos de doenças e descolamentos forçados, o país mais jovem do mundo lida com ataques a unidades de saúde, aumento de violência sexual e confront",
-    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/23/sudao-do-sul-a-tragedia-ignorada-pelo-mundo-o-assunto-1850.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Gv9apw4I4mfGbKWp4LWB2j102V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/S/rIkjduSiiphkY1FcYIZw/ap26315578911309.jpg",
-    "data": "2026-11-23T03:30:00.000Z"
+    "titulo": "Exército dos EUA planeja detonar 5 toneladas de explosivos apesar de ordem judicial e de alerta de ambientalistas",
+    "resumo": "Manifestantes pedem a suspensão da detonação de 68 barris de azida de chumbo em uma fábrica de munições do Exército dos EUA em Iowa. Julie Nickell/The Hawk Eye via AP O Exército dos Estados Unidos pretende detonar cerca de cinco toneladas de explosivos deteriorados em Iowa, mesmo após uma decisão judicial suspender a operação. Os militare",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/exercito-dos-eua-planeja-detonar-5-toneladas-de-explosivos-apesar-de-ordem-judicial-e-de-alerta-de-ambientalistas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/CfEy9n7I_hWqbMWa1Uk17Pz1kfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/X/nrQuz1QFiupP4OPvwx7g/ap26325066137247.jpg",
+    "data": "2026-11-23T04:17:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta segunda-feira (23) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancadas de chuv",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/mo0un1HLgcfoNh7MT8Z_NvhMyM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/X/AjJAHvQoqMzKHkxpzGAA/previsao-tempo-bras-lia-20261123-011535.jpeg",
+    "data": "2026-11-23T04:15:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta segunda-feira (23) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, ",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/EiVHrjGX3jasewgBdoI7wLZEaP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/s/dv81ovRA2GaLL7AEv2qg/previsao-tempo-goi-nia-20261123-011519.jpeg",
+    "data": "2026-11-23T04:15:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta segunda-feira (23) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoa",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Mq7VpdPWusjg4n0XbUeo_iiFNNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/n/UHwtMJTAuWWPDzHPe9Rw/previsao-tempo-aparecida-de-goi-nia-20261123-011501.jpeg",
+    "data": "2026-11-23T04:15:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta segunda-feira (23) para Cuiabá (MT) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 38ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, so",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/yoC3RZ7wOWHj1fEiGHlEJk_zSno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/D/TyoXcVSEKrhHhGMR6C6g/previsao-tempo-cuiab-20261123-011444.jpeg",
+    "data": "2026-11-23T04:14:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta segunda-feira (23) para Campo Grande (MS) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 24ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período ",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BVn0gQ40nt23gtIEb-ek7ZAeT2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/9/hYdCWFSmWpZrtUYt0vVA/previsao-tempo-campo-grande-20261123-011428.jpeg",
+    "data": "2026-11-23T04:14:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com algumas nuvens ao longo do dia; noite de céu limpo",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta segunda-feira (23) para Porto Alegre (RS) é de sol com algumas nuvens ao longo do dia. Noite de céu limpo. As máximas são de 33ºC e as mínimas de 18ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol ",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-algumas-nuvens-ao-longo-do-dia-noite-de-ceu-limpo.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/hFEq3PWb99u0LHj7cvYubTMuIRQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/J/jigPsiQzO3AvHZw2h8Lg/previsao-tempo-porto-alegre-20261123-011411.jpeg",
+    "data": "2026-11-23T04:14:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com poucas nuvens",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta segunda-feira (23) para Caxias do Sul (RS) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com poucas nuvens. As máximas são de 28ºC e as mínimas de 15ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuve",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-poucas-nuvens.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8itPR5r8JYmSlKY3uHJbL07heDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/A/hW3QcXR4CQzNbb1s6EHQ/previsao-tempo-caxias-do-sul-20261123-011349.jpeg",
+    "data": "2026-11-23T04:14:06.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta segunda-feira (23) para Joinville (SC) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 27ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol e chuva",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-joinville-sc-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/f0tmKdfuHK-QiJ0F9OICZV6xwCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/p/95m9PZQr6XOj4mwxVRRQ/previsao-tempo-joinville-20261123-011332.jpeg",
+    "data": "2026-11-23T04:13:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta segunda-feira (23) para Florianópolis (SC) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol, pancad",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/m5XZMt9TrEYHtGEQc_A35VpP9As=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/prWNEqSO2uajiOw6L9hg/previsao-tempo-florian-polis-20261123-011306.jpeg",
+    "data": "2026-11-23T04:13:26.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta segunda-feira (23) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 26ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol e chuva. À noite, p",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/B6gpFMsEepikntVqB2_qnwHu3O4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/i/uH58pkQlydY4TgFR1oWw/previsao-tempo-maring-20261123-011251.jpeg",
+    "data": "2026-11-23T04:13:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com muitas nuvens a nublado com chuva de manhã; tarde com temporal e noite chuvosa",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta segunda-feira (23) para Londrina (PR) é de sol com muitas nuvens a nublado com chuva de manhã. Tarde com temporal e noite chuvosa. As máximas são de 25ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da ta",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/23/previsao-do-tempo-hoje-para-londrina-pr-sol-com-muitas-nuvens-a-nublado-com-chuva-de-manha-tarde-com-temporal-e-noite-chuvosa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/szwxfXm8x9ulDHpqdRfkz4se9Ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/jiu5mxTeGa9X3Q0yzNrA/previsao-tempo-londrina-20261123-011235.jpeg",
+    "data": "2026-11-23T04:12:45.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Pip assessments need 'fundamental overhaul', report to say",
+    "resumo": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+    "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-23T04:01:13.000Z"
+  },
+  {
+    "categoria": "Clima",
+    "fonte": "The Guardian",
+    "titulo": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+    "resumo": "<p>Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’</p><p>Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and toxic air threatening the life-support systems that the population depends ",
+    "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+    "imagem": "https://i.guim.co.uk/img/media/3f84cee4d3a31ab236a50a7d425bc2b6fc6b6fe8/237_0_2475_1980/master/2475.jpg?width=140&quality=85&auto=format&fit=max&s=15ee79edb6ff3b24a97dee24629b0580",
+    "data": "2026-11-23T04:00:45.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
+    "resumo": "Mauricio Pochettino could hardly have made a worse start as Manchester United manager after they were beaten 4-0.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/pochettinos-nightmare-start-as-man-u-thrashed-by-liverpool?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-23T03:52:33.000Z"
   },
   {
     "categoria": "Internacional",
@@ -25,87 +178,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/23/belgiums-airports-set-to-shut-down-due-to-anti-austerity-strike?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T03:15:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Novembro Black é oportunidade para avançar nas próximas etapas da reforma",
-    "resumo": "Quem já tem uma reforma em andamento sabe que sempre existe uma próxima decisão: o piso de outro ambiente, o revestimento do banheiro, a cuba da cozinha, a nova cor da parede ou aquela porta que ainda falta definir. Durante o Novembro Black Vilarejo, essas diferentes etapas podem ser aproveitadas com 25% de desconto à vista ou 15% de desc",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/23/novembro-black-e-oportunidade-para-avancar-nas-proximas-etapas-da-reforma.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6_o3XVD50KLv4UAgbcxrGXuKySA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/p4Ua4bSrCk4qaBJh9NRg/foto-1-2-.png",
-    "data": "2026-11-23T03:06:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Poucas mudanças podem transformar completamente o lavabo",
-    "resumo": "Por ocupar poucos metros e ter uma rotina diferente de um banheiro completo, o lavabo abre espaço para escolhas que talvez fossem excessivas em outros ambientes da casa. Uma cuba de desenho marcante, um metal com acabamento contrastante ou uma parede revestida podem assumir protagonismo sem que muitos elementos precisem disputar atenção. ",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/23/poucas-mudancas-podem-transformar-completamente-o-lavabo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GjdDcbSh-BUzShm-qsim03kHbq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/MLRrjNTUOusg58haeP6Q/foto-01-15.png",
-    "data": "2026-11-23T03:03:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Macaé sediou capacitação do INES para fortalecer a Educação Bilíngue de Surdos",
-    "resumo": "Representando a região Sudeste, o município recebeu profissionais do Instituto Nacional de Educação de Surdos na Cidade Universitária Arquivo Secom O município de Macaé sediou, entre os dias 10 e 13 de novembro, a capacitação do Programa de Assessoria Técnica do Instituto Nacional de Educação de Surdos (INES), vinculado ao Ministério da E",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/23/macae-sediou-capacitacao-do-ines-para-fortalecer-a-educacao-bilingue-de-surdos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/E93ihheST59zvlxVU9CbzvxhAoc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/n/mHDiFvQYOqtTlMBH52wQ/foto-1-educacao-bilingue-1-.jpeg",
-    "data": "2026-11-23T03:03:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
-    "resumo": "O CEO da Nvidia, Jensen Huang, cumprimenta um apoiador enquanto a empresária chinesa Alice Huang observa, após o discurso de Jensen na COMPUTEX 2024, em Taipei, Taiwan, em 2024. Ann Wang/Reuters Alice Huang, a chinesa que está no centro do recente escândalo da Nvidia, manteve contato com um funcionário da principal agência de espionagem d",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/amante-de-ceo-da-nvidia-manteve-contato-com-oficial-da-espionagem-chinesa-segundo-o-nyt.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/V5C6MaijqxCW90I6YcEh1iDFKZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/q/CgBWleR5y1b2f1h5kn9w/2026-11-16t180057z-1044404862-rc2138adpet8-rtrmadp-3-nvidia-ceo.jpg",
-    "data": "2026-11-23T03:00:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo; VÍDEO mostra abordagem",
-    "resumo": "ICE prende pai e filha em abordagem violenta em aeroporto nos EUA Imagens que circulam nas redes sociais mostram o momento em que um pai e sua filha, ambos mexicanos, são detidos por agentes de imigração em um aeroporto de Seattle, nos Estados Unidos. A abordagem ocorreu no sábado (21), quando Ricardo Larrondo Mendoza e Sofia Hernandez Me",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/23/pai-e-filha-presos-pelo-ice-nos-eua.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8nM26Cpk8XBihYHUWSmRIXftaEM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/tqJ4BfSpCzUcaJBP9BhQ/fotojet-44-.jpg",
-    "data": "2026-11-23T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quanto custa montar um cantinho gamer do zero? Veja o que comprar sem gastar demais na Black Friday",
-    "resumo": "Quanto custa montar um cantinho gamer do zero? Seja para mergulhar no mundo dos jogos ou para trabalhar com programas pesados de edição e design, montar um setup gamer exige planejamento. A variedade de peças e acessórios no mercado é enorme e, com a alta de preços causada pela crise dos chips de memória RAM, a conta pode sair do controle",
-    "link": "https://g1.globo.com/guia/guia-de-compras/tecnologia/quanto-custa-montar-um-cantinho-gamer-do-zero-veja-o-que-comprar-sem-gastar-demais-na-black-friday.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nDhItDBYUqnq_3UAAJ34LeZ51Nw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/L/m/vQdlSSTHym1XDEH1Xj6w/foto-10.jpg",
-    "data": "2026-11-23T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Veja o que se sabe e o que falta esclarecer sobre o caso do vigilante penitenciário que matou motociclista por app ao entrar na contramão na T-63",
-    "resumo": "Motociclista atropelado por vigilante penitenciário morre em hospital O vigilante penitenciário Rubens Batista Teles entrou com o carro na contramão na Avenida T-63, em Goiânia, e bateu contra a motocicleta do entregador por aplicativo Uelton dos Santos Nogueira, que morreu após a colisão. A vítima estava trabalhando no momento em que foi",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/23/veja-o-que-se-sabe-e-o-que-falta-esclarecer-sobre-o-caso-do-vigilante-penitenciario-que-matou-motociclista-por-app-ao-entrar-na-contramao-na-t-63.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2zLcGGI4YqmOr_7ah8D8L_hnOG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/c/gPI6DDQEeryMb6yCfADQ/uelton-dos-santos-nogueira-motociclista-acidente-na-t-63.jpg",
-    "data": "2026-11-23T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Câmara vota projeto de ajuste fiscal nesta segunda; projeção de economia é de R$ 50 bilhões em 2027",
-    "resumo": "Ajuste fiscal deve ser votado na segunda-feira A Câmara dos Deputados deve votar nesta segunda-feira (23) a proposta de ajuste fiscal do governo do presidente Luiz Inácio Lula da Silva (PT). O texto já foi aprovado no Senado Federal. O relator da proposta na Câmara, deputado Mauro Benevides (União Brasil-CE), manteve o mesmo texto aprovad",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/23/camara-vota-projeto-de-ajuste-fiscal-nesta-segunda-projecao-de-economia-e-de-r-50-bilhoes-em-2027.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg",
-    "data": "2026-11-23T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quais são os próximos feriados de 2026? Veja o único que resta",
-    "resumo": "Decoração Natal Luz em Gramado Cleiton Thiele/ SerraPress Após o feriadão da Consciência Negra, celebrado na sexta-feira (20), muitos trabalhadores já estão de olho no próximo período de descanso. A data permitiu emendar três dias de folga para quem não precisou trabalhar no fim de semana. O ano está chegando ao fim, e o próximo feriado n",
-    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/23/quais-sao-os-proximos-feriados-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KilCl-voqjArLfTEh6A0EgREhGE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/8/ZIsMsDRr2nZkzTZyJ2OQ/41natalluz2026-0218.jpg",
-    "data": "2026-11-23T03:00:01.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -136,15 +208,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-    "resumo": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-    "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
-    "data": "2026-11-23T02:37:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Indonesian police remove 24 body bags from factory fire site",
     "resumo": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
@@ -160,15 +223,6 @@
     "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T02:23:13.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Todo operário precisa de descanso': Chitãozinho e Xororó anunciam despedida dos palcos com turnê ao lado de Jorge & Mateus",
-    "resumo": "Chitãozinho & Xororó anunciam despedida dos palcos após quase seis décadas de carreira Chitãozinho e Xororó anunciaram neste domingo (22), em entrevista ao Fantástico, que vão se aposentar dos palcos após quase seis décadas de carreira. Para marcar a despedida, a dupla realizará ao longo de 2027 uma turnê pelo país ao lado de Jorge & Mate",
-    "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/todo-operario-precisa-de-descanso-chitaozinho-e-xororo-anunciam-despedida-dos-palcos-com-turne-ao-lado-de-jorge-and-mateus.ghtml",
-    "imagem": null,
-    "data": "2026-11-23T02:20:50.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -192,19 +246,10 @@
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "The National | Hegseth reportedly moves to restrict defence ties",
-    "resumo": "Nov. 22, 2026 | U.S. Secretary of War Pete Hegseth reportedly issues a memo restricting defence ties with Canada. A father and daughter arrested by ICE at a Seattle airport draws backlash. And Go Public investigates a man's fight against AI customer service.",
+    "resumo": "Nov. 22, 2026 | U.S. Secretary of War Pete Hegseth reportedly issues a memo restricting defence ties with Canada. A father and daughter arrested by ICE at a Seattle airport draws backlash. And Go Public investigates a man's fight against AI customer service. Watch The National 9 pm ET Sun - Fri",
     "link": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/fa41acba-338b-4f02-a1c8-b6ff2d308f11,1793794144270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C512%2C288%29%3B",
     "data": "2026-11-23T02:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
-    "resumo": "Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.",
-    "link": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B",
-    "data": "2026-11-23T01:55:29.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -232,15 +277,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T01:51:32.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Circuito gastronômico de Fernando de Noronha tem degustação gratuita para 300 pessoas",
-    "resumo": "Chefs preparam pratos gratuitos na abertura de circuito gastronômico em Noronha A segunda edição do Circuito Gastronômico Mergulho do Sabor começou neste domingo (22), em Fernando de Noronha. A programação de abertura contou com uma cozinha ao vivo na Praça São Miguel, na Vila dos Remédios (veja vídeo acima). O chef César Santos preparou ",
-    "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/22/circuito-gastronomico-de-fernando-de-noronha-tem-degustacao-gratuita-para-300-pessoas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/h1MtmSl2bglaW4imnMAwZonLdtE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/X/VOR94sQ8KC8NrCFBJ8Iw/circuito-gastronomico.jpg",
-    "data": "2026-11-23T01:44:37.000Z"
   },
   {
     "categoria": "Internacional",
@@ -318,7 +354,7 @@
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Asian stock markets tumble as AI bubble fears mount",
-    "resumo": "Stocks fall in South Korea, Taiwan, mainland China and Hong Kong as tech sell-off deepens.",
+    "resumo": "Stocks fall in South Korea, mainland China and Hong Kong as tech sell-off deepens.",
     "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-23T00:18:03.000Z"
@@ -331,24 +367,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
     "data": "2026-11-23T00:08:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Cameroon’s ex-rebels caught between hiding and broken promises",
-    "resumo": "Cameroon’s former rebels face arrest fears and failed reintegration.",
-    "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-23T00:03:30.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-    "resumo": "Iran&#039;s navy claims tankers contravening its rules were set ablaze, while the IRGC said &#039;enemies&#039; sought to stoke unrest.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-22T23:59:22.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -439,6 +457,15 @@
     "link": "https://www.dw.com/pt-br/inconcebível-inaceitável-delegações-criticam-fracasso-da-cop31/a-80015363?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-22T22:20:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Thaís Lima e Evelin são convocadas para última Data Fifa de 2026",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/thais-lima-e-evelin-sao-convocadas-para-ultima-data-fifa-de-2026\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/thais-lima-e-evelin-sao-convocadas-para-ultima-data-fifa-de-2026",
+    "imagem": null,
+    "data": "2026-11-22T22:19:00.000Z"
   },
   {
     "categoria": "Brasil",
@@ -664,15 +691,6 @@
     "link": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4279x2853+0+0/resize/4279x2853!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2F59%2F95b504774415bbb8064ed9e42c16%2F20261114-read-alex-21-21.jpg",
     "data": "2026-11-22T17:34:20.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/futebol-feminino-sao-paulo-e-campeao-do-paulistao-f-petrobras-sub-17\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> <",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/futebol-feminino-sao-paulo-e-campeao-do-paulistao-f-petrobras-sub-17",
-    "imagem": null,
-    "data": "2026-11-22T17:33:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1116,15 +1134,6 @@
     "data": "2026-11-21T22:40:36.000Z"
   },
   {
-    "categoria": "Clima",
-    "fonte": "The Guardian",
-    "titulo": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
-    "resumo": "<p>EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summit</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels\">Climate talks stall as countries mull showdown with Saudi ",
-    "link": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-    "imagem": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=140&quality=85&auto=format&fit=max&s=2087227022bef0757bd77a5df7951008",
-    "data": "2026-11-21T22:25:25.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
@@ -1305,8 +1314,8 @@
     "data": "2026-11-20T21:38:17.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "Trump threatens ban on US firms building AI data centres overseas",
     "resumo": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
@@ -1339,14 +1348,5 @@
     "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
     "imagem": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=140&quality=85&auto=format&fit=max&s=c96f1dbb295a5a260fd6f209bce3372a",
     "data": "2026-11-20T18:26:08.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "The Guardian",
-    "titulo": "What exactly is in the deal between the UK and the EU?",
-    "resumo": "<p>The two sides have come to agreements on food and drink, emissions trading and the youth exchange scheme</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders\">Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10</a></p></li></",
-    "link": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-    "imagem": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
-    "data": "2026-11-20T18:19:53.000Z"
   }
 ]
