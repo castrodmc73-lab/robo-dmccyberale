@@ -1,12 +1,183 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Protesters clash with police over Venezuela’s poor minimum wage",
+    "resumo": "Labour organisers shared videos of police violently clashing with protesters near Venezuela’s presidential palace.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/protesters-clash-with-police-over-venezuelas-poor-minimum-wage?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T04:27:10.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
+    "resumo": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
+    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
+    "data": "2026-11-25T04:22:46.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
-    "titulo": "Justiça derruba suspensão e restabelece regras para vale-refeição e alimentação; entenda",
-    "resumo": "Novas regras de vale-refeição e alimentação ampliam operadoras aceitas em maquininhas Jornal Nacional Um juiz brasileiro acatou um recurso do governo e restabeleceu as novas regras para vale-refeição e vale-alimentação em todo o setor, segundo decisão judicial divulgada nesta terça-feira (24). Entre as medidas que voltam a valer está o te",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/kXSda5kgCAwzXhHdxx4YIn7_ILg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/E/qqq7LTQ3yrBoJmqNjHwg/videoframe-6848065.png",
-    "data": "2026-11-25T03:17:42.000Z"
+    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para esta quarta-feira (25) para Brasília (DF) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lShZBTS4tuZtBGq-qCOclXzRZWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/n/lqmiWLREOB4QpUAjxOTw/previsao-tempo-bras-lia-20261125-011555.jpeg",
+    "data": "2026-11-25T04:16:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quarta-feira (25) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Vwfn09IGkDaFF7r9m63CQek6Nk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/d/tVCXXSS5Sk1CdEX3eqeQ/previsao-tempo-goi-nia-20261125-011539.jpeg",
+    "data": "2026-11-25T04:15:49.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quarta-feira (25) para Aparecida de Goiânia (GO) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 31ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas n",
+    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-JB3xiI_77pyKQ5WRUN7JLXQz5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/K/hgXobRTBem4bfyo9ILbA/previsao-tempo-aparecida-de-goi-nia-20261125-011522.jpeg",
+    "data": "2026-11-25T04:15:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quarta-feira (25) para Cuiabá (MT) é de sol com muitas nuvens e períodos de céu nublado. Noite com pancadas de chuva. As máximas são de 36ºC e as mínimas de 27ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, ",
+    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2LoTceeMnPxMQg62I9tVA20hqFM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/j/GEJKAIRRm3Jv5FWa7A3A/previsao-tempo-cuiab-20261125-011458.jpeg",
+    "data": "2026-11-25T04:15:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
+    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quarta-feira (25) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 33ºC e as mínimas de 26ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/gSBc0i3myEHt_6IkwHW124r6emI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/E/FycoZFSFO5SwJea0ktOQ/previsao-tempo-campo-grande-20261125-011439.jpeg",
+    "data": "2026-11-25T04:14:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol, com chuva de manhã e diminuição de nuvens à tarde; noite com pouca nebulosidade",
+    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quarta-feira (25) para Porto Alegre (RS) é de sol, com chuva de manhã e diminuição de nuvens à tarde. Noite com pouca nebulosidade. As máximas são de 28ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período ",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-chuva-de-manha-e-diminuicao-de-nuvens-a-tarde-noite-com-pouca-nebulosidade.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/V9KjT_wf3sOteF87pvjGgQ-ieQU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/U/mnAI5rR9AjRTPkuSaWdg/previsao-tempo-porto-alegre-20261125-011411.jpeg",
+    "data": "2026-11-25T04:14:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite; noite com muitas nuvens",
+    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quarta-feira (25) para Caxias do Sul (RS) é de sol com muitas nuvens de manhã passando a nublado, com possibilidade de garoa, à noite. Noite com muitas nuvens. As máximas são de 21ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a ma",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-caxias-do-sul-rs-sol-com-muitas-nuvens-de-manha-passando-a-nublado-com-possibilidade-de-garoa-a-noite-noite-com-muitas-nuvens.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/OtWFK6Zf6Sc1LlIA2FrQs-2bltk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/4/25n8MpQaGMriXvuFJsfg/previsao-tempo-caxias-do-sul-20261125-011355.jpeg",
+    "data": "2026-11-25T04:14:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israeli strike kills four people in Gaza",
+    "resumo": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T04:13:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Joinville (SC): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
+    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quarta-feira (25) para Joinville (SC) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 28ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-joinville-sc-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/VCCA3ZYchx91OCNZ2ah45CiAJTE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/p/DUuu4NR0yynOUwyaWO0g/previsao-tempo-joinville-20261125-011339.jpeg",
+    "data": "2026-11-25T04:13:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Florianópolis (SC): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; noite chuvosa",
+    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quarta-feira (25) para Florianópolis (SC) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. Noite chuvosa. As máximas são de 27ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chu",
+    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-florianopolis-sc-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-noite-chuvosa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/GfnCyaiv-kLjpvoD-9m4iFo6qXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/k/vDOpAoSQqwMvQeReBKrw/previsao-tempo-florian-polis-20261125-011322.jpeg",
+    "data": "2026-11-25T04:13:32.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quarta-feira (25) para Maringá (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 23ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-maringa-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/D-a-7Hr9HD_mA2wY4bs0ZVBcxpE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/P/6GVVCvTF2aJLKhNX5O4w/previsao-tempo-maring-20261125-011304.jpeg",
+    "data": "2026-11-25T04:13:16.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quarta-feira (25) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde,",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IEHRYskyt_11XA_PIT-JX-8bJhc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/K/PF3BMeQW6Tm3ARNFUDyw/previsao-tempo-londrina-20261125-011248.jpeg",
+    "data": "2026-11-25T04:12:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Previsão do tempo hoje para Curitiba (PR): tempo chuvoso durante o dia e à noite",
+    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quarta-feira (25) para Curitiba (PR) é de tempo chuvoso durante o dia e à noite. As máximas são de 26ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite, tempo chuvoso. Prev",
+    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-curitiba-pr-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/if-Rrr1V1KBCiCDOwMXsIEr3-_0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/j/QYTyLBQ3AgsSSNTAukvA/previsao-tempo-curitiba-20261125-011230.jpeg",
+    "data": "2026-11-25T04:12:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Galatasaray says Israel complained to UEFA over Palestine banners",
+    "resumo": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T04:12:11.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Sports journalist Rick Westhead wins Balsillie prize for book about hockey culture in Canada",
+    "resumo": "Veteran sports journalist Rick Westhead's book that takes a deep dive into hockey culture in Canada has won the $70,000 Balsillie Prize for Public Policy.",
+    "link": "https://www.cbc.ca/news/canada/balsillie-prize-rick-westhead-hockey-culture-9.7435105?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/e53941a0-d570-4963-a452-b23ed23cc2fa,1795578271918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C221%2C3000%2C1687%29%3B",
+    "data": "2026-11-25T04:03:53.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+    "resumo": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+    "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+    "data": "2026-11-25T03:54:43.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US attorney general dodges questions about Nvidia investigation",
+    "resumo": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+    "data": "2026-11-25T03:44:07.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Asia’s stock markets dive as doubts swirl over AI boom",
+    "resumo": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+    "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T03:31:59.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -20,38 +191,11 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
-    "resumo": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, is leaving for Spain. He had faced the prospect that the Trump administration might deport him to Liberia.",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T03:13:40.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Latino-Owned Coffee Shop Closes After Claims That Founder Works for ICE",
     "resumo": "Tasa Coffee Roasters in Chicago permanently closed its doors after workers walked out in protest.",
     "link": "https://www.nytimes.com/2026/11/24/us/tasa-coffee-chicago-closed-ice-owner.html",
     "imagem": "https://static01.nyt.com/images/2026/11/24/us/24nat-ice-coffee-shop-1/24nat-ice-coffee-shop-1-mediumSquareAt3X.jpg",
     "data": "2026-11-25T03:11:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Black Friday: veja como evitar golpes e comprar com mais segurança",
-    "resumo": "Com a proximidade da Black Friday, período marcado por grandes promoções e movimentação no comércio online e físico, os consumidores devem redobrar a atenção para evitar golpes e fraudes, especialmente nas compras realizadas pela internet. Pesquisa da Abecs, em parceria com o Instituto Datafolha, realizada para a Black Friday de 2025, apo",
-    "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/sicredi-paranapanema-serrana-parcerias-impulsionam-a-regiao-serrana/noticia/2026/11/25/black-friday-veja-como-evitar-golpes-e-comprar-com-mais-seguranca.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Si7zUu_8uVmMRFQdMQG4TEalbmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/p/jJleB7SHArApGNW3eV8w/19-11-26-black-friday.jpg",
-    "data": "2026-11-25T03:05:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Uma parede pode ser suficiente para renovar todo o ambiente",
-    "resumo": "Nem toda renovação precisa avançar por todas as paredes. Em muitos ambientes, concentrar o revestimento em um único plano já é suficiente para mudar o ponto de atenção e criar uma nova relação com móveis, iluminação e acabamentos que permanecerão. A diferença está em escolher qual parede merece receber essa intervenção. Concentrar o reves",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/25/uma-parede-pode-ser-suficiente-para-renovar-todo-o-ambiente.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/QDZxSiII3CuhaE7ggQsg0lBpMw4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/a/oXFBJESX6r7vgtBbAdIg/foto-1000.png",
-    "data": "2026-11-25T03:04:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -61,87 +205,6 @@
     "link": "https://www.nytimes.com/2026/11/24/us/los-angeles-no-kings-protest-lawsuit.html",
     "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-nokings-eye-lqhb/24nat-nokings-eye-lqhb-mediumSquareAt3X.jpg",
     "data": "2026-11-25T03:03:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sicredi amplia presença e inaugura mais de mil agências em cinco anos no país",
-    "resumo": "A expansão da instituição nos estados é uma estratégia que combina o investimento em tecnologia de ponta com o relacionamento próximo e personalizado às necessidades do associado Divulgação/Sicredi Confiar na instituição financeira vai além de taxas e produtos: envolve qualidade do atendimento, segurança e soluções adequadas a diferentes ",
-    "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/sicredi-paranapanema-serrana-parcerias-impulsionam-a-regiao-serrana/noticia/2026/11/25/sicredi-amplia-presenca-e-inaugura-mais-de-mil-agencias-em-cinco-anos-no-pais.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/8MkVLqWlF7v5gdjDPuxh2y5zBrw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/w/fNe2gGT7aHwEyDJgxkgw/19-11-26-sicredi-amplia-atuacao.jpg",
-    "data": "2026-11-25T03:02:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Ações do Novembro Negro celebraram a cultura afro-brasileira em Macaé",
-    "resumo": "A população percorreu o trajeto do Centro até a orla para mobilizar a sociedade sobre a importância do respeito à diversidade Arquivo Secom Macaé promoveu, ao longo deste mês, uma extensa programação em celebração ao Novembro Negro. As atividades, organizadas pela Secretaria Municipal de Políticas de Promoção da Igualdade Racial (SEMPIR) ",
-    "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/25/acoes-do-novembro-negro-celebraram-a-cultura-afro-brasileira-em-macae.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PT7WGuvuxVBhM-AXgBVDFYaG52k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/i/azFwrMRwSBHvxDSqhWRA/foto-1-novembro-negro.jpeg",
-    "data": "2026-11-25T03:02:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Shakira no Réveillon de Balneário Camboriú terá área gratuita e camarotes; veja como assistir",
-    "resumo": "Shakira na praia de Copacabana, no Rio de Janeiro, Brasil, em 2 de maio de 2026 REUTERS/Ricardo Moraes A cantora Shakira é a atração confirmada do Réveillon em Balneário Camboriú, no Litoral Norte de Santa Catarina. O show na Praia Central terá setores privativos, camarotes e uma área gratuita equipada com telões. Os ingressos para a apre",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/25/shakira-reveillon-balneario-camboriu-area-gratuita-camarotes-veja-como-assistir.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/KBFFGMPhsDkweoLes3zBUtJguoo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/j/bCXR0BRb6F1WyxhFtS4Q/2026-05-03t022329z-970777275-rc2e1la6aw82-rtrmadp-3-music-shakira-brazil.jpg",
-    "data": "2026-11-25T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "O que se sabe do caso do jovem morto em São Gonçalo após sair para festa; padrasto foi preso",
-    "resumo": "Marllon Galdino dos Santos e Marcelo David da Costa Reprodução O caso de Marllon Galdino dos Santos, jovem de 19 anos encontrado morto em São Gonçalo, na Região Metropolitana do Rio, teve uma reviravolta em menos de 48 horas. O que inicialmente a família tratava como um possível assalto depois de o rapaz errar o caminho passou a ser inves",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/25/o-que-se-sabe-do-caso-do-jovem-morto-em-sao-goncalo.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/VdinjpAf3EezrdfQTwe99yihkoM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/iHJJTgTome9Lbtg5WcLg/fotojet-4-.jpg",
-    "data": "2026-11-25T03:00:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Aliança, brincos e frustração: o que se sabe sobre eliminação de candidatos em concurso público no Ceará",
-    "resumo": "Advogados avaliam eliminação de candidato de concurso que não conseguiu tirar aliança Uma aliança e dois brincos foram suficientes para eliminar e frustrar os planos de dois candidatos de um concurso público no Ceará. A prova do certame foi realizada no último domingo (22). Mas o que os acessórios têm a ver com as eliminações que acontece",
-    "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/25/alianca-brincos-e-frustracao-o-que-se-sabe-sobre-eliminacao-de-candidatos-em-concurso-publico-no-ceara.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/uWW7P3nPDCCiVEay1S3F1XlRyOI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/m/26gMpVT8G7XtLj6R6V4w/brincos-alianca.jpg",
-    "data": "2026-11-25T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Prima de médica vítima de acidente desceu de carro pouco antes de batida que deixou quatro mortos: 'Vi que ele estava dirigindo agitado'",
-    "resumo": "Quatro pessoas morrem após carro bater em árvore em Ipojuca Reprodução/Whatsapp Por muito pouco, a dentista Mirian Viana, de 29 anos, não foi mais uma vítima do acidente que deixou quatro mortos e uma pessoa ferida em Ipojuca, no Litoral Sul de Pernambuco, na madrugada do domingo (22). O carro seguia pela PE-09 quando saiu da pista e bate",
-    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/25/prima-de-medica-vitima-de-acidente-desceu-de-carro-pouco-antes-de-batida-que-deixou-quatro-mortos-vi-que-ele-estava-dirigindo-agitado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/imII7S0-2jyzVQ6o17Ne41F2ng0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/B35epFTF6uEldhToA04Q/artes-g1-79-.jpg",
-    "data": "2026-11-25T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Sequestros, carro-bomba, ataques com drones e explosivos: o que está acontecendo na Colômbia",
-    "resumo": "O presidente da Colômbia, Abelardo de la Espriella, fala durante uma entrevista coletiva na sede da Procuradoria-Geral, em Bogotá, em 18 de novembro de 2026. Sebastian Barros / AFP Dez anos depois de assinar o acordo de paz que levou as Forças Armadas Revolucionárias da Colômbia (Farc) a depor as armas, o país enfrenta uma nova escalada d",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/25/sequestros-carro-bomba-ataques-com-drones-e-explosivos-o-que-esta-acontecendo-na-colombia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/xDnc_nT7NZJydtOcUgnX27wAAao=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/l/IATCmwTMSP5t7MqTub4g/afp-20261118-d7wg8uc-v1-highres-colombiagovernmentcorruptionpresser.jpg",
-    "data": "2026-11-25T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Um em cada três jovens de 16 a 24 anos nunca fez sexo, mostra pesquisa britânica; no Brasil, adolescentes também estão adiando a primeira vez",
-    "resumo": "Jovens estão transando menos, mostra pesquisa Chegar à vida adulta sem nunca ter feito sexo tem se tornado mais comum entre os jovens britânicos. Atualmente, cerca de um em cada três jovens de 16 a 24 anos nunca teve uma relação sexual, proporção que ficava próxima de um em cada cinco nos levantamentos anteriores. E a mudança não se limit",
-    "link": "https://g1.globo.com/saude/noticia/2026/11/25/um-em-cada-tres-jovens-de-16-a-24-anos-nunca-fez-sexo-mostra-pesquisa-britanica-no-brasil-adolescentes-tambem-estao-adiando-a-primeira-vez.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IUH15iGtAu8KtBGZqa_NWzBrHwE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/A/AapazBTV6zM0jGpglRVw/pexels-ketut-subiyanto-4746703.jpg",
-    "data": "2026-11-25T03:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Medo, sofrimento mental, queda na frequência escolar: estudo mostra impactos das operações Escudo e Verão nos moradores da Baixada Santista",
-    "resumo": "Desenho de uma criança de 10 anos GENI/UFF Clima de terror e medo, agravamento do sofrimento físico e mental, tratamentos e atendimentos médicos interrompidos, queda na frequência escolar, invasões de domicílios e restrição no direito de ir e vir. Esses são alguns dos impactos provocados pelas operações Escudo e Verão, em 2023 e 2024, na ",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/medo-sofrimento-mental-queda-na-frequencia-escolar-estudo-mostra-impactos-das-operacoes-escudo-e-verao-nos-moradores-da-baixada-santista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9uLWbJjyk2-vllbvP7H-_D2Y7Co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/9/kAqy9WShqVych8zZO80A/hildebrando-neto.jpg",
-    "data": "2026-11-25T03:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -199,6 +262,15 @@
   },
   {
     "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Thomas Markle indicted in US for possessing child sex abuse images",
+    "resumo": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+    "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+    "data": "2026-11-25T01:40:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Senegal fans celebrate AFCON legal victory over Morocco",
     "resumo": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
@@ -236,11 +308,20 @@
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+    "titulo": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
     "resumo": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
     "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-25T01:03:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "The rising cost of putting food on the table in India",
+    "resumo": "India's food inflation is broadening, squeezing household budgets.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+    "data": "2026-11-25T01:02:13.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -250,6 +331,15 @@
     "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-25T01:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+    "resumo": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+    "data": "2026-11-25T00:56:51.000Z"
   },
   {
     "categoria": "Internacional",
@@ -263,7 +353,7 @@
   {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "US preparing to unveil new tariffs on global trading partners",
+    "titulo": "US preparing to unveil plan for new tariffs on global trading partners",
     "resumo": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
@@ -315,24 +405,6 @@
     "data": "2026-11-25T00:29:58.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Alaska ends deal to give voter records to US Justice Department",
-    "resumo": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
-    "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T00:28:28.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
-    "resumo": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T00:00:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The Verge’s 2026 gift guide for dads",
@@ -369,15 +441,6 @@
     "data": "2026-11-24T23:42:20.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-    "resumo": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
-    "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-24T23:39:13.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
@@ -394,15 +457,6 @@
     "link": "https://www.cbc.ca/radio/asithappens/meerkat-navigation-study-9.7434667?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/24673a7f-ccc0-4999-a809-9fb86c087452,1795557604402/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C173%2C525%2C295%29%3B",
     "data": "2026-11-24T23:30:14.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-    "resumo": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
-    "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-24T23:29:40.000Z"
   },
   {
     "categoria": "Brasil",
@@ -448,6 +502,24 @@
     "link": "https://www.cbc.ca/player/play/9.7434811?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/e1c1ebc9-af43-4968-a043-4e3c75524b0b,1795561058529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C2064%2C3644%2C2049%29%3B",
     "data": "2026-11-24T23:05:19.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+    "resumo": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+    "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-24T23:05:11.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+    "resumo": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-24T23:03:59.000Z"
   },
   {
     "categoria": "Canadá",
@@ -594,15 +666,6 @@
     "data": "2026-11-24T21:27:44.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US attorney general dodges questions about Nvidia investigation",
-    "resumo": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-    "data": "2026-11-24T21:19:42.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The Verge’s 2026 holiday gift guide for moms",
@@ -720,15 +783,6 @@
     "data": "2026-11-24T19:10:31.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Minister defends 2027 permanent residency plan, says 'vast majority' are already in Canada",
-    "resumo": "Immigration Minister Lena Diab says the federal government is managing newcomers responsibly as the Conservative Opposition seeks to block a plan that could see as many as 662,000 people receive permanent residency next year.",
-    "link": "https://www.cbc.ca/news/politics/immigration-permanent-residents-canada-9.7434312?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B",
-    "data": "2026-11-24T19:08:58.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Amazon is knocking almost $50 off six months of Apple TV",
@@ -783,15 +837,6 @@
     "data": "2026-11-24T17:39:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-    "resumo": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg",
-    "data": "2026-11-24T17:04:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Alberta pushes back against federal hate speech law that removed religious exemption",
@@ -808,15 +853,6 @@
     "link": "https://www.dw.com/pt-br/dubladores-alemães-se-revoltam-contra-netflix-por-uso-de-ia/a-80036903?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-24T16:55:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-    "resumo": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-    "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-    "data": "2026-11-24T16:49:07.000Z"
   },
   {
     "categoria": "Internacional",
@@ -909,15 +945,6 @@
     "data": "2026-11-24T11:30:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Pope Francis' diary reveals claims he saw the devil three times",
-    "resumo": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
-    "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
-    "data": "2026-11-24T11:10:57.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
@@ -925,15 +952,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
     "imagem": null,
     "data": "2026-11-24T11:09:06.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-    "resumo": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-    "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-24T10:58:51.000Z"
   },
   {
     "categoria": "Economia",
@@ -992,10 +1010,10 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-    "resumo": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5979x3986+0+0/resize/5979x3986!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F61%2F37c7b2df4058900639663f71c5e7%2Fgettyimages-2299683165.jpg",
+    "titulo": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+    "resumo": "Investigators say companies with ties to Donald Trump Jr&apos;s investment firm, 1789 Capital, have profited since his father&apos;s reelection.",
+    "link": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/4032x2688!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg",
     "data": "2026-11-24T10:00:00.000Z"
   },
   {
@@ -1015,15 +1033,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
     "imagem": null,
     "data": "2026-11-24T09:29:15.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "What Jensen Huang's return teaches China's Xi about Trump",
-    "resumo": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
-    "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
-    "data": "2026-11-24T07:26:27.000Z"
   },
   {
     "categoria": "Ciência",
@@ -1051,15 +1060,6 @@
     "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
     "data": "2026-11-23T21:46:33.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-    "resumo": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-    "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-    "data": "2026-11-23T21:24:47.000Z"
   },
   {
     "categoria": "Tecnologia",
