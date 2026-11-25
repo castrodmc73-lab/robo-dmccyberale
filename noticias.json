@@ -1,48 +1,282 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Here’s the latest.",
+    "resumo": "",
+    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/heres-the-latest",
+    "imagem": null,
+    "data": "2026-11-25T12:32:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher é presa após PM encontrar drogas escondidas dentro de bebê-conforto em Divinolândia de Minas",
+    "resumo": "Mulher é presa após PM encontrar drogas escondidas dentro de bebê-conforto em Divinolândia de Minas Polícia Militar Uma mulher foi presa na madrugada desta quarta-feira (25) suspeita de tráfico de drogas e posse ilegal de arma de fogo em Divinolândia de Minas, no Leste de Minas. Durante buscas na casa dela, a Polícia Militar encontrou dro",
+    "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/25/mulher-e-presa-apos-pm-encontrar-drogas-escondidas-dentro-de-bebe-conforto-em-divinolandia-de-minas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RccE3xfCvimKJtsev_rT5L_IgpI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/7/MSvYCzTRiIv4wnYDJ9Lg/carol-50-.png",
+    "data": "2026-11-25T12:25:43.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Garimpo no AM: MPF aponta fraude em pedidos que somam quase 13 mil hectares",
+    "resumo": "Agentes do Ibama participam de operações contra o garimpo ilegal no Amazonas. Divulgação/Ibama O Ministério Público Federal (MPF) acionou a Justiça para suspender pedidos de garimpo que somam quase 13 mil hectares no Amazonas. As áreas ficam nos municípios de Maués, Fonte Boa, Apuí e Novo Aripuanã, no interior do estado. Em Fonte Boa, um ",
+    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/25/garimpo-no-am-mpf-aponta-fraude-em-pedidos-que-somam-quase-13-mil-hectares.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/d2EEV1vQvRT3zbpUE0cZDucwnmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/h/X7cIvYTuyPzLsbWabzsA/ibama.png",
+    "data": "2026-11-25T12:25:20.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+    "resumo": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+    "data": "2026-11-25T12:24:12.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Suspeito de tentativa de homicídio morre durante ação da PM em Santana",
+    "resumo": "Suspeito morreu durante troca de tiros com policiais militares em Santana. Crystofher Andrade/g1 Amapá Um homem morreu na noite desta terça-feira (24) após uma troca de tiros com militares do Batalhão de Rondas Ostensivas Táticas Motorizadas (Rotam) no bairro Acquaville, em Santana. Segundo a Polícia Militar, a equipe compareceu ao local ",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/25/suspeito-de-tentativa-de-homicidio-morre-durante-acao-da-pm-em-santana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/iEZo2j8AUf8rfQdiAIDwUtBfZLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/d/ysaAJEQA6MB9oiQeONOQ/whatsapp-image-2026-01-19-at-09.44.35.jpeg",
+    "data": "2026-11-25T12:23:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Corpo em estado de decomposição é encontrado na zona rural de Francisco Sá",
+    "resumo": "Corpo foi encontrado em uma área de mata Reprodução Um corpo em estado de decomposição foi encontrado na zona rural de Francisco Sá, no fim da tarde desta terça-feira (24). Segundo a Polícia Militar, o corpo foi encontrado por um amigo de um motorista de aplicativo que desapareu desde a última sexta-feira (20), em Montes Claros. O homem f",
+    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/25/corpo-em-estado-de-decomposicao-e-encontrado-na-zona-rural-de-francisco-sa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zDYuggL9FDNu6Y_d55B_UAZ5Pc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/A/AeNPejQ4a53VdiPeR3VA/corpo3.jpeg",
+    "data": "2026-11-25T12:22:18.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+    "resumo": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-25T12:21:49.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "South Africa's Ramaphosa wins court battle over impeachment threat",
+    "resumo": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+    "data": "2026-11-25T12:20:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Relator da CPI aponta cobrança de aluguel via PIX e 'gestão privada' de espaços públicos em Aracaju",
+    "resumo": "Relator da CPI aponta aluguel via PIX e 'gestão privada' de espaços públicos em Aracaju O relator da Comissão Parlamentar de Inquérito (CPI) dos Espaços Públicos da Câmara Municipal de Aracaju, vereador Elber Batalha (PSB), afirmou nesta quarta-feira (25), que a investigação identificou graves irregularidades na concessão de espaços públi",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/25/elber-batalha-cpi-aracaju.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/jSAzRlBbKpJbpz-HIUPYqDX3Now=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/V/Iel3WLSAeveG6Yle4dmA/imagem-g1-9-.png",
+    "data": "2026-11-25T12:19:20.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+    "resumo": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia&apos;s has voluntarily left the U.S.",
+    "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+    "imagem": null,
+    "data": "2026-11-25T12:18:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Irmã de vice-prefeito e motorista morrem em acidente na GO-142",
+    "resumo": "Vânia de França Gomes, irmã do vice-prefeito de Montividiu do Norte, morreu em um acidente na GO-142, em Goiás Reprodução/Perfil do Instagram de Vânia de França Gomes A irmã do vice-prefeito de Montividiu do Norte morreu em um acidente na GO-142. Vânia de França Gomes, de 50 anos, era irmã de Valdequias Gomes. Além dela, também morreu Osm",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/25/irma-de-vice-prefeito-e-motorista-morrem-em-acidente-na-go-142.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/sfZUPcrcPwOuVCpasqOk9_lfjXA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/P/pJBeP0RsWPnIb7vmTYCw/vania-de-franca-gomes.jpg",
+    "data": "2026-11-25T12:18:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é condenado a 38 anos de prisão por matar dois irmãos no Maranhão",
+    "resumo": "Homem é condenado a 38 anos de prisão por matar dois irmãos no Maranhão Reprodução Francisco Rodrigues da Silva Júnior foi condenado a 38 anos e cinco meses de prisão pelo assassinato dos irmãos Paulo Rodrigues da Cunha e Raimundo Rodrigues da Cunha. O julgamento foi realizado no dia 19 de novembro, pelo Tribunal do Júri da comarca de Bac",
+    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/25/homem-e-condenado-a-38-anos-de-prisao-por-matar-dois-irmaos-no-maranhao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/IN_m6FjT92fN9-0E5eav2DcqUgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/f/Dn79RxTGaAJH8CInoTyw/martelo-2.jpg",
+    "data": "2026-11-25T12:17:51.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Brasileira Marcella Kozinski fica entre as 30 semifinalistas do Miss Universo 2026, mas não avança ao Top 12",
+    "resumo": "Brasileira Marcella Kozinski fica entre as 30 semifinalistas do Miss Universo 2026 Reprodução/Redes Sociais A paranaense Marcella Kozinski ficou entre as 30 semifinalistas do Miss Universo 2026, mas não conseguiu avançar para o Top 12. A final do concurso foi realizada na terça-feira (24), em San Juan, em Porto Rico, e reuniu representant",
+    "link": "https://g1.globo.com/pr/parana/noticia/2026/11/25/brasileira-marcella-kozinski-fica-entre-as-30-semifinalistas-do-miss-universo-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/5b5iCvIRzrXFoH_Ze-zg-mHwSKM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/X/AUO6FmSOqv2up6TCqSpg/the-journey-to-the-crown-continues-with-our-top-30..jpg",
+    "data": "2026-11-25T12:15:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prêmio Médias de Valor 2026 reconhece 20 empresas que se destacam em gestão e resultados",
+    "resumo": "Segunda edição do Prêmio Médias de Valor reconheceu 20 empresas de médio porte em cerimônia realizada em São Paulo Flávio Santana O jornal \"Valor Econômico\" e a revista \"Pequenas Empresas & Grandes Negócios\" anunciaram nesta terça-feira (24) as 20 empresas vencedoras da segunda edição do Prêmio Médias de Valor, de 2026. A cerimônia foi re",
+    "link": "https://g1.globo.com/empreendedorismo/noticia/2026/11/25/premio-medias-de-valor-2026-reconhece-20-empresas-que-se-destacam-em-gestao-e-resultados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/6UulkKwXKnc70tIjZy5rWqPhib8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/CdIBykSBqviF1V2JpDDg/geral.jpg",
+    "data": "2026-11-25T12:15:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Suspeito de sequestrar comerciante no interior de SP morre ao resistir à PM; irmão e mulher são presos",
+    "resumo": "Comerciante é sequestrado em Pedro de Toledo e achado morto na Grande SP Thiago de Carvalho Monteiro, de 39 anos, suspeito de sequestrar e matar o comerciante Gercino Batista, de 75 anos, morreu após ser baleado por policiais militares ao resistir a uma tentativa de prisão em Francisco Morato, na Grande São Paulo. O irmão dele, Moisés de ",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/25/suspeito-de-sequestrar-comerciante-no-interior-de-sp-morre-ao-resistir-a-pm-irmao-e-mulher-sao-presos-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/RkWVygu0VEb3hr1g3ittnaIH6hU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/Z/9WKqJkQoKdVuv5ITVQ0Q/gercino-morte-2-.jpg",
+    "data": "2026-11-25T12:14:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Chuva provoca alagamentos, quedas de árvores e deixa famílias desalojadas em Campinas e região; veja balanço",
+    "resumo": "Alagamento na Estrada da Casa Amarela em Monte Mor Lukas Valentim A chuva que atingiu a região de Campinas (SP) entre a noite de terça-feira (24) e a madrugada desta quarta-feira (25) provocou alagamentos, quedas de árvores, deslizamentos de terra e danos a imóveis. Segundo dados do Centro Nacional de Monitoramento e Alertas de Desastres ",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/25/chuva-provoca-alagamentos-quedas-de-arvores-e-deixa-familias-desalojadas-em-campinas-e-regiao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0U_oABpzXKuMjtjbh7WSmVM9hWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/A/CLYWn8RMaNGBM6PFqgNw/design-sem-nome-16-.png",
+    "data": "2026-11-25T12:14:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEOS: Bom Dia Cidade Sul de Minas de quarta-feira, 25 de novembro de 2026",
+    "resumo": "",
+    "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/25/videos-bom-dia-cidade-sul-de-minas-de-quarta-feira-25-de-novembro-de-2026.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/c1EI_Re8jmVLjO3XBXvEuFoEEmY=/s01.video.glbimg.com/deo/vi/68/92/15279268",
+    "data": "2026-11-25T12:13:51.000Z"
+  },
+  {
     "categoria": "Economia",
     "fonte": "BBC Business",
-    "titulo": "Electric blankets and closed curtains - how we're coping with the energy bill rise",
+    "titulo": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
     "resumo": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
     "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-25T11:23:13.000Z"
+    "data": "2026-11-25T12:12:11.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Army’s Explosion in Iowa Raises Fears of Lead Cloud",
+    "resumo": "",
+    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/iowa-lead-cloud-explainer",
+    "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25iowa-detonation-lead-cloud-fmcq/25iowa-detonation-lead-cloud-fmcq-mediumSquareAt3X.jpg",
+    "data": "2026-11-25T12:11:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Overnight RSF drone attacks kill 19 in Sudan",
+    "resumo": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
+    "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:58:15.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Ex England star Sterling given suspended sentence for dangerous driving",
+    "resumo": "Raheem Sterling admitted inhaling &#039;laughing ⁠gas&#039; and driving erratically before ​crashing his car.",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:50:52.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+    "resumo": "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:50:50.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+    "resumo": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+    "data": "2026-11-25T11:45:16.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "Energy bills to rise by 26% from January after gas prices surge",
+    "resumo": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-25T11:44:26.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Sinner uncertain for Australian Open after undergoing knee surgery",
+    "resumo": "The five-time Grand Slam champion has not played a match since winning Wimbledon in July.",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:42:02.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "After Brexit, is Britain heading back to the EU?",
+    "resumo": "A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides.",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:40:51.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The Army’s plan relies on a complex series of steps and roughly 3,000 pounds of C4.",
+    "resumo": "",
+    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/the-armys-plan-relies-on-a-complex-series-of-steps-and-roughly-3000-pounds-of-c4",
+    "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-iowa-lead-detonation-index/2026-iowa-lead-detonation-index-mediumSquareAt3X-v12.jpg",
+    "data": "2026-11-25T11:37:04.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "From 'Super' to 'Godzilla' to 'Mega': Just how monstrous is this year's El Niño?",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/climate/super-mega-godzilla-el-nino-9.7433588?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c1e54206-adec-4bed-b5da-fc0aed37c522,1795485541787/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C4481%2C2520%29%3B",
+    "data": "2026-11-25T11:31:16.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
+    "resumo": "Jude Bellingham admits he had &#039;no idea&#039; what he&#039;d done after scoring a goal that drew comparisons with Zinedine Zidane.",
+    "link": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:29:38.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça autoriza jovem a retirar nome da mãe da certidão de nascimento após relato de abusos na infância",
-    "resumo": "Biomédica Heloísa Rodrigues Reprodução/Redes sociais A Justiça de São Paulo decidiu na terça-feira (24), por unanimidade, autorizar a exclusão da filiação materna da certidão de nascimento da biomédica Heloísa Rodrigues. Ela recorreu ao Judiciário para romper oficialmente o vínculo com a mãe após relatar ter sofrido abusos e violência dur",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/justica-autoriza-jovem-a-retirar-nome-da-mae-da-certidao-de-nascimento-apos-relato-de-abusos-na-infancia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/bjhjInj2muqj-ffF8AQ98ZcyosU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/l/vBKAObQWOBCfNB2p50IQ/fotojet-2026-11-25t075019.591.jpg",
-    "data": "2026-11-25T11:16:03.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Estoque do Hemorio atende emergência em mais de 100 hospitais públicos",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/estoque-do-hemorio-atende-emergencia-em-mais-de-100-hospitais-publicos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/estoque-do-hemorio-atende-emergencia-em-mais-de-100-hospitais-publicos",
+    "imagem": null,
+    "data": "2026-11-25T11:28:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vazamento de gás de cozinha é provável causa de explosão em farmácia em PE, diz bombeiro",
-    "resumo": "Gás de cozinha pode ter causado explosão em farmácia, diz bombeiro A provável causa da explosão que atingiu uma farmácia e deixou uma mulher morta em Catende, na Zona da Mata Sul de Pernambuco, foi o vazamento de um gás liquefeito de petróleo (GLP), o tradicional gás de cozinha. A informação foi divulgada pelo Corpo de Bombeiros Militar d",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/25/vazamento-de-gas-de-cozinha-e-provavel-causa-de-explosao-em-farmacia-em-pe-diz-bombeiro.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tEWV3Go-euor70r6DscRG1CrssA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/S/6DZBT9RtO4IxFYoi5tCA/captura-de-tela-2026-11-24-212134.png",
-    "data": "2026-11-25T11:15:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bombeiro de Goiás preso com mais de 40 iPhones avaliados em R$ 350 mil vai responder a processo disciplinar",
-    "resumo": "Bombeiro goiano é preso com 43 iPhones O bombeiro militar de Goiás que foi preso com 43 iPhones avaliados em R$ 350 mil pela Polícia Federal vai responder por a um processo disciplinar, segundo o Corpo de Bombeiros. O 2º sargento Allan Jedson Vilela foi em Floresta, no Paraná. Segundo a Polícia Federal, os celulares estavam escondidos em ",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/25/bombeiro-de-goias-preso-com-com-mais-de-40-iphones-vai-responder-a-processo-disciplinar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4l2yUnOKTkPdPyC6w1jTJ6MrlTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/b/hq232tRqGNEW7siqNATA/padrao-foto-texto-g1-2026-11-25t081123.431.jpg",
-    "data": "2026-11-25T11:15:14.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "ANÁLISE: ninguém quer assumir a responsabilidade por eventual investigação de ministros do STF no caso Master",
-    "resumo": "ANÁLISE: Ninguém quer assumir a responsabilidade por eventual investigação de ministros Ninguém quer segurar a batata quente em que se transformou a possibilidade de investigação de ministros do Supremo Tribunal Federal (STF) no caso envolvendo Daniel Vorcaro. Se no relatório relativo ao ministro Alexandre de Moraes não há menção ao contr",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/25/caso-vorcaro-investigacao-ministros-stf-fachin-pf-pgr.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/6y-D2einX53jA5Ga1WgVnd8JIok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/a/WAjWJDSE60PImpBhCYNA/globo-canal-4-20260902-2000-frame-1386.jpeg",
-    "data": "2026-11-25T11:13:21.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israeli strike kills Hamas official, his wife and children",
+    "resumo": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
+    "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:24:37.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -54,67 +288,13 @@
     "data": "2026-11-25T11:12:42.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-    "resumo": "Presidente dos Estados Unidos, Donald Trump. Getty Images via BBC Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivindicar publicamente o crédito pelo resultado. ✅ Siga o canal de notícias inte",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/tlS9NY2e8LV-41uF_Izxe56Fc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/Z72AlURD27UEBOS1GKpQ/design-sem-nome-2026-11-25t074948.500.jpg",
-    "data": "2026-11-25T11:11:51.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cratera interdita trecho da SP-101 em Hortolândia e causa congestionamento",
-    "resumo": "Cratera interdita trecho da SP-101 em Hortolândia e causa congestionamento Arquivo Pessoal Um afundamento de pista interditou totalmente um trecho da Rodovia Jornalista Francisco Aguirre Proença (SP-101), em Hortolândia (SP), na manhã desta quarta-feira (25). O problema ocorreu no km 7 da via, no sentido Campinas (SP), e provocou congesti",
-    "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/25/cratera-interdita-trecho-da-sp-101-em-hortolandia-e-causa-congestionamento.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/AYkq_0ImOW1EIRUZBFBceG17xOc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/s/LHr8yhSDqP69xSJPVuBQ/eptv-cp-bdc-2409-flagra-faixa-exclusiva-4-.png",
-    "data": "2026-11-25T11:10:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Policial militar é resgatado amarrado e ferido em área de mata após tentativa de execução em Manaus",
-    "resumo": "Viaturas da Rocam no Amazonas Divulgação/SSP Um policial militar foi resgatado pela Ronda Ostensiva Cândido Mariano (Rocam) , após ser levado por homens armados para uma área de mata na invasão Vovó Maroca, no bairro Nova Cidade, zona Norte de Manaus, nestterça-feira (24). Ele foi encontrado amarrado, bastante ensanguentado e com diversas",
-    "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/25/policial-militar-e-resgatado-amarrado-e-ferido-em-area-de-mata-apos-tentativa-de-execucao-em-manaus.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2-lM7jNavOYNrRWd7NeFa6oIBvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/m/fexAlKQC62AJOfMfERDw/forcas-especiais-da-policia-militar-intensificaram-operacoes-no-interior-1.png",
-    "data": "2026-11-25T11:10:26.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mega-Sena 3090: aposta de Junqueiro acerta quina e ganha prêmio de R$ 38 mil",
-    "resumo": "Mega-Sena, concurso 3090: confira os números sorteados Uma aposta feita em Junqueiro acertou, na terça-feira (24), cinco dos seis números sorteados no concurso da 3090 da Mega-Sena, realizado em São Paulo. O jogo vencedor faturou o prêmio de R$ 38.160,32. 📱Participe do canal do g1 Alagoas Nenhum apostador acertou os seis números e o prêm",
-    "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/25/mega-sena-3090-aposta-de-junqueiro-acerta-quina-e-ganha-premio-de-r-38-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/PiWlLi5ewKcoHIeUBaB5eWHX9Yg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/n/hYlvhFRMWHYN7QY4XkQg/edicao-imagens-g1-45-.png",
-    "data": "2026-11-25T11:09:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Temporal alaga casas, comércios e escolas em Brazópolis; aulas foram suspensas",
-    "resumo": "Temporal alaga Brazópolis e água invade casas, comércios e escolas O temporal que atingiu o Sul de Minas na noite de terça-feira (24) causou alagamentos em Brazópolis e Poços de Caldas. 📲 Siga a página do g1 Sul de Minas no Instagram Em Brazópolis, boa parte da cidade ficou sob a água. O local mais atingido foi o distrito de Cruz Vera, s",
-    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/25/chuvas-sul-de-minas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Vgqcx_vupge1lYsUO0i4Jv0swGo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/d/jVPpetQhC0ojTWhVkZ4g/chuva-brazopolis.jpg",
-    "data": "2026-11-25T11:08:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF faz operação para apreender bens de grupo suspeito de movimentar R$ 3 bilhões com tráfico",
-    "resumo": "Polícia Federal cumpriu mandados de busca e apreensão durante operação PF/Divulgação Mandados de busca e apreensão estão sendo cumpridos pela Polícia Federal nesta quarta-feira (25), em uma operação para identificar e apreender bens e valores relacionados ao tráfico internacional de drogas. O grupo criminoso investigado teria movimentado ",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/25/pf-faz-operacao-para-apreender-bens-de-grupo-suspeito-de-movimentar-r-3-bilhoes-com-trafico-de-drogas.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/F0GpQ7byeqOugeLQIANSYToF4qI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/M/AnMtHMSBAqMdZKBj5mmg/whatsapp-image-2026-11-25-at-07.21.39.jpeg",
-    "data": "2026-11-25T11:06:33.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Leilão em Praia Grande tem ambulâncias, carros e bote com lances a partir de R$ 300; veja lista",
-    "resumo": "Ambulância Citroen Jumper, disponível em leilão da Prefeitura de Praia Grande Prefeitura de Praia Grande A Prefeitura de Praia Grande, no litoral de São Paulo, realiza um leilão online com bens móveis e veículos no próximo dia 27 de novembro, às 10h. Entre os itens distribuídos em 14 lotes, estão veículos, sucatas, máquinas e caçambas, qu",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/25/leilao-praia-grande-ambulancias-carros-bote.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/_MfmoAw0vUSSSeHQfwY9_Ig6aKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/6/HfQAvCQ2AU75wv3p7wIQ/neymar-2012-2026-11-24t112253.599.jpg",
-    "data": "2026-11-25T11:06:12.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "‘People are going hungry’: Guinea’s gold mining crackdown",
+    "resumo": "‘People are going hungry’: Guinea’s gold mining crackdown",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-25T11:10:21.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -123,16 +303,7 @@
     "resumo": "",
     "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/the-army-rejected-a-cleaner-option-to-dispose-of-the-explosive-materials",
     "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/25iowa-detonation-dissolve-VERSION/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-25T11:04:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mega-Sena: aposta simples de Ilhabela acerta 5 dos 6 números e fatura R$ 76,3 mil",
-    "resumo": "Mega-Sena, concurso 3090: confira os números sorteados Uma aposta de Ilhabela, no Litoral Norte de São Paulo, ficou a um número de faturar o prêmio milionário da Mega-Sena nesta terça-feira (24) e ganhou mais de R$ 76,3 mil após acertar a quina. Segundo a Caixa Econômica Federal, nenhuma aposta faturou o prêmio principal, que acumulou em ",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/25/mega-sena-aposta-simples-de-ilhabela-acerta-5-dos-6-numeros-e-fatura-r-763-mil.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jpj93TvEzRokFMbPgZBNwyhs5fY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/c3yaQ3SqqpphvLcPI0JA/mega-sena-volante-rafa-neddermeyer-agencia-brasil.jpg",
-    "data": "2026-11-25T11:03:34.000Z"
+    "data": "2026-11-25T11:04:47.000Z"
   },
   {
     "categoria": "Internacional",
@@ -142,6 +313,15 @@
     "link": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-25T11:02:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Representantes de sedes da Copa Feminina garantem campos híbridos",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/representantes-de-sedes-da-copa-feminina-garantem-campos-hibridos\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/representantes-de-sedes-da-copa-feminina-garantem-campos-hibridos",
+    "imagem": null,
+    "data": "2026-11-25T11:02:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -201,7 +381,7 @@
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Como age o novo medicamento aprovado pela Anvisa para tratar câncer de mama",
-    "resumo": "Hertuzo tem como princípio ativo o pertuzumabe que já está em uso no país. Chegada de novo medicamento, porém, pode reduzir o preço do tratamento e tornar terapia mais acessível.",
+    "resumo": "Hertuzo tem como princípio ativo o pertuzumabe, que já está em uso no país. Chegada de novo medicamento, porém, pode reduzir o preço do tratamento e tornar terapia mais acessível.",
     "link": "https://www.dw.com/pt-br/como-age-o-novo-medicamento-aprovado-pela-anvisa-para-tratar-câncer-de-mama/a-80045897?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-25T10:48:00.000Z"
@@ -213,16 +393,7 @@
     "resumo": "",
     "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/an-explosion-is-coming-to-iowa-and-residents-cant-do-a-thing-about-it",
     "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25iowa-detonation-scene-VERSION-hflg/25iowa-detonation-scene-VERSION-hflg-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T10:47:54.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Here’s the latest.",
-    "resumo": "",
-    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/heres-the-latest",
-    "imagem": null,
-    "data": "2026-11-25T10:47:54.000Z"
+    "data": "2026-11-25T10:47:55.000Z"
   },
   {
     "categoria": "Economia",
@@ -279,15 +450,6 @@
     "data": "2026-11-25T10:11:34.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "See motorcycle passenger’s viral cricket catch",
-    "resumo": "A cricket catch by a passenger on a moving motorbike in Pakistan has gone viral on social media.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T10:10:47.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
@@ -295,24 +457,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
     "imagem": null,
     "data": "2026-11-25T10:06:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Dozens of ports close as powerful waves damage Peru’s coastline",
-    "resumo": "Dozens of ports close as powerful waves damage Peru’s coastline",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/dozens-of-ports-close-as-powerful-waves-damage-perus-coastline?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T10:05:58.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "‘We need to be seen’: Over a third of UK Muslim students face Islamophobia",
-    "resumo": "From being spat on and assaulted to suffering humiliation, Muslims on campus are increasingly vulnerable, report says.",
-    "link": "https://www.aljazeera.com/news/2026/11/25/we-need-to-be-seen-over-a-third-of-uk-muslim-students-face-islamophobia?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T10:05:24.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -351,15 +495,6 @@
     "data": "2026-11-25T10:02:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-    "resumo": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
-    "link": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T10:01:08.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "A quintessential Route 66 diner has been serving up Americana for nearly 100 years",
@@ -376,33 +511,6 @@
     "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3264x1836+0+247/resize/3264x1836!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Fa6%2F390bdd1e4a02a0ddda45c30c7d42%2Fap685592876001.jpg",
     "data": "2026-11-25T10:00:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-    "resumo": "Khalifa Haftar’s Libyan National Army, which Russia backs, vowed retaliation for the death of its soldiers",
-    "link": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T09:58:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-    "resumo": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg",
-    "data": "2026-11-25T09:56:19.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Energy bills to rise by 26% from January after gas prices surge",
-    "resumo": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
-    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-25T09:54:39.000Z"
   },
   {
     "categoria": "Economia",
@@ -441,24 +549,6 @@
     "data": "2026-11-25T09:19:50.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "South Africa's Ramaphosa wins court battle over impeachment threat",
-    "resumo": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
-    "data": "2026-11-25T09:06:02.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
-    "resumo": "Man United look to bounce back from defeat in Mauricio Pochettino&#039;s first game in charge, as they travel to Lisbon.",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T09:04:03.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Suspected North Korean computer programmers did contract work for B.C. government",
@@ -466,15 +556,6 @@
     "link": "https://www.cbc.ca/news/canada/suspected-north-korean-computer-programmers-british-columbia-government-9.7433830?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/852026bc-7daa-4367-9942-ea7502fff976,1795529820548/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C50%2C860%2C483%29%3B",
     "data": "2026-11-25T09:01:47.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Rising prices push families to the brink in Yemen’s Hodeidah",
-    "resumo": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
-    "link": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T09:00:53.000Z"
   },
   {
     "categoria": "Canadá",
@@ -513,15 +594,6 @@
     "data": "2026-11-25T08:57:18.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners",
-    "resumo": "The football club’s president said UEFA had made them aware of a complaint by Israel regarding pro-Palestinian banners.",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T08:53:30.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Dancing with the Stars Season 35 Finale: Who Won the Mirrorball?",
@@ -538,15 +610,6 @@
     "link": "https://www.nytimes.com/2026/11/25/us/miss-universe-winner-puerto-rico.html",
     "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-missuniverse-winner-jcpv/25xp-missuniverse-winner-jcpv-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-25T08:21:20.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-    "resumo": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
-    "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
-    "data": "2026-11-25T07:26:54.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -585,15 +648,6 @@
     "data": "2026-11-25T06:00:36.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Sports journalist Rick Westhead wins Balsillie prize for book about hockey culture in Canada",
-    "resumo": "Veteran sports journalist Rick Westhead's book that takes a deep dive into hockey culture in Canada has won the $70,000 Balsillie Prize for Public Policy.",
-    "link": "https://www.cbc.ca/news/canada/balsillie-prize-rick-westhead-hockey-culture-9.7435105?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e53941a0-d570-4963-a452-b23ed23cc2fa,1795578271918/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C221%2C3000%2C1687%29%3B",
-    "data": "2026-11-25T04:03:53.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "US attorney general dodges questions about Nvidia investigation",
@@ -623,15 +677,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Latino-Owned Coffee Shop Closes After Claims That Founder Works for ICE",
-    "resumo": "Tasa Coffee Roasters in Chicago permanently closed its doors after workers walked out in protest.",
-    "link": "https://www.nytimes.com/2026/11/24/us/tasa-coffee-chicago-closed-ice-owner.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/24/us/24nat-ice-coffee-shop-1/24nat-ice-coffee-shop-1-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T03:11:35.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Student Who Lost Eye During ‘No Kings’ Protest Sues Federal Government",
     "resumo": "Tucker Collins, 19, was documenting a protest in downtown Los Angeles when, according to the lawsuit, he was shot in the eye with a projectile by a federal agent.",
     "link": "https://www.nytimes.com/2026/11/24/us/los-angeles-no-kings-protest-lawsuit.html",
@@ -646,15 +691,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
     "imagem": null,
     "data": "2026-11-25T02:29:38.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
-    "resumo": "The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-omar-vbjl/24dc-omar-vbjl-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T02:20:55.000Z"
   },
   {
     "categoria": "Internacional",
@@ -686,19 +722,10 @@
   {
     "categoria": "Internacional",
     "fonte": "BBC News",
-    "titulo": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-    "resumo": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
-    "data": "2026-11-25T00:56:51.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+    "titulo": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
     "resumo": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
     "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-25T00:54:13.000Z"
   },
   {
@@ -819,24 +846,6 @@
     "data": "2026-11-24T22:23:27.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><strong>",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
-    "imagem": null,
-    "data": "2026-11-24T22:01:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Flamengo: engenheiros são condenados em 2ª instância por incêndio",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ninho-do-urubu-engenheiros-sao-condenados-em-2a-instancia-por-incendio\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ninho-do-urubu-engenheiros-sao-condenados-em-2a-instancia-por-incendio",
-    "imagem": null,
-    "data": "2026-11-24T22:00:00.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "GTA VI PC recompilation project shut down by Take-Two",
@@ -862,15 +871,6 @@
     "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
     "imagem": null,
     "data": "2026-11-24T21:09:29.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-    "resumo": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/8653x5778!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
-    "data": "2026-11-24T21:04:50.000Z"
   },
   {
     "categoria": "Internacional",
@@ -1053,6 +1053,15 @@
     "data": "2026-11-24T09:29:15.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "A teenage runaway turned to a Mountie for sanctuary. He had other plans",
+    "resumo": "Kim Budd spent much of her childhood on the run. When she thought she'd finally found a safe place to stay it turned out to be anything but, and the adults and institutions that were supposed to protect her failed her when she needed them most.",
+    "link": "https://www.cbc.ca/news/canada/ottawa/kim-budd-gilles-plouffe-podcast-9.7349352?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/15a42e0c-49c4-4f41-b0f7-62aaca120815,1795198768215/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-24T09:00:00.000Z"
+  },
+  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
@@ -1159,15 +1168,6 @@
     "link": "https://www.cbc.ca/news/science/king-tide-planetary-alignment-flooding-9.7434458?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/253d12b5-be36-425b-b318-8306dd218614,1795566080108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C451%2C5642%2C3173%29%3B",
     "data": "2025-11-24T17:38:10.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "El Niño is getting some monster-sized nicknames. But is the weather actually getting more extreme?",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/climate/super-mega-godzilla-el-nino-9.7433588?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c1e54206-adec-4bed-b5da-fc0aed37c522,1795485541787/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C4481%2C2520%29%3B",
-    "data": "2025-09-18T09:01:00.000Z"
   },
   {
     "categoria": "Canadá",
