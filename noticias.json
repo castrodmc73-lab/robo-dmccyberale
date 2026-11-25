@@ -1,5 +1,203 @@
 [
   {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "US announces new tariffs on host of countries including China",
+    "resumo": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+    "data": "2026-11-25T14:52:22.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Empresas alemãs apostam na reconstrução da Ucrânia apesar da guerra",
+    "resumo": "Mais de 2 mil empresas alemãs mantêm atividades no país em meio ao conflito. Empresários também miram oportunidades em projetos bilionários de reconstrução.",
+    "link": "https://www.dw.com/pt-br/empresas-alemãs-apostam-na-reconstrução-da-ucrânia-apesar-da-guerra/a-80041812?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-25T14:49:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "6 mortes em 2 dias: quem eram as vítimas dos temporais no Paraná",
+    "resumo": "Temporais no Paraná deixam 6 mortos e rastro de destruição em 40 cidades Pelo menos seis pessoas morreram em decorrência dos temporais que atingiram o Paraná na segunda (23) e na terça-feira (24). As vítimas são: Antonio Ferreira, de 81 anos, morador de Campo Largo (região metropolitana de Curitiba); Clotilde Ferreira, de 76 anos, morador",
+    "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/25/mortes-temporais-parana-quem-eram-as-vitimas.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ATCfCN9es1jyT1Ujupq-cdMiYQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/v/GFyRGgQsCzYQ0b1lXQng/g1-12-.png",
+    "data": "2026-11-25T14:44:28.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Asfalto do Corredor Nordeste passa por segundo reparo no asfalto menos de 3 meses após inauguração",
+    "resumo": "Obras no alsfalto da avenida João Gilberto Moro, em Mogi das Cruzes Larissa Rodrigues / g1 A avenida João Gilberto Moro, que faz parte do Corredor Nordeste, em César de Sousa, em Mogi das Cruzes, passa por um segundo reparo no pavimento. O serviço começou na terça-feira (24), menos de três mêses depois da entrega oficial das obras de cons",
+    "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/25/asfalto-do-corredor-nordeste-passa-por-segundo-reparo-no-asfalto-menos-de-3-meses-apos-inauguracao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/jk51nRc06_1LOnlOMw7oVqx4wK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/8/JTVJlkR4KMImIgAJcA6Q/whatsapp-image-2026-11-24-at-14.57.06.jpeg",
+    "data": "2026-11-25T14:43:58.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ônibus que seguia para a Bahia pega fogo na BR-251 em Grão Mogol",
+    "resumo": "Ônibus pegou fogo na BR-251 Corpo de Bombeiros/Divulgação Um ônibus pegou fogo na BR-251, em Grão Mogol, no Norte de Minas, na madrugada desta quarta-feira (25). Segundo o Corpo de Bombeiros, o motorista percebeu que uma das rodas traseiras começou a pegar fogo. Ele tentou controlar as chamas utilizando os extintores do próprio veículo, m",
+    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/25/onibus-que-seguia-para-a-bahia-pega-fogo-na-br-251-em-grao-mogol.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1KijOCW0pFUBVE2i30NFxtzPrUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/e/W1H8IQTbW7lAkbAiumAQ/onibus251.jpeg",
+    "data": "2026-11-25T14:43:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mãe e padrasto são presos suspeitos de agredir menino de 7 anos em Boa Vista",
+    "resumo": "Mãe e padrasto são presos por agredir menino em Boa Vista (RR). PCRR/Divulgação A mãe, de 24 anos, e o padrasto, de 23, de um menino de 7 anos foram presos nesta terça-feira (24), suspeitos de agredir a criança no bairro Nova Cidade, zona Oeste de Boa Vista. A prisão do casal foi determinada pela Justiça de Roraima. Segundo o delegado tit",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/25/mae-e-padrasto-sao-presos-suspeitos-de-agredir-menino-de-7-anos-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/SP1GH_zvrPn1XdLE8L0G_7o0TLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/A/77sG5ESMOActhuoqE9xA/casal-preso.jpg",
+    "data": "2026-11-25T14:42:47.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "The Army rejected a cleaner option to dispose of the explosive materials.",
+    "resumo": "",
+    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/the-army-rejected-a-cleaner-option-to-dispose-of-the-explosive-materials",
+    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/25iowa-detonation-dissolve-VERSION/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg-mediumSquareAt3X-v2.jpg",
+    "data": "2026-11-25T14:42:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Assista ao JRO1 desta quarta-feira, 25",
+    "resumo": "Assista ao JRO1 desta quarta-feira, 25",
+    "link": "https://g1.globo.com/ro/rondonia/ao-vivo/assista-ao-jro1-desta-quarta-feira-25.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uOSLhQ2xJ-1FUi2EOiB-7DYML-M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/H/71XBQaQsCYWXi3qoBOMg/whatsapp-image-2026-11-25-at-10.39.44.jpeg",
+    "data": "2026-11-25T14:42:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mulher é presa em flagrante após polícia apreender mais de 54 kg de maconha em Cerqueira César",
+    "resumo": "Polícia encontrou 67 tabletes inteiros de maconha e um fracionado, totalizando 54 kg de maconha em Cerqueira César Polícia Civil/Divulgação Uma mulher de 34 anos foi presa em flagrante por tráfico de drogas após a polícia apreender mais de 54 quilos de maconha na manhã desta quarta-feira (25), em Cerqueira César (SP). Segundo a Polícia Ci",
+    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/25/mulher-e-presa-em-flagrante-apos-policia-apreender-mais-de-54-kg-de-maconha-em-cerqueira-cesar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2xdp70gpGfprNo2gLsM-sK-BCZI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/9/SOAj9mShmppC6nboNhkA/whatsapp-image-2026-11-25-at-11.23.23.jpeg",
+    "data": "2026-11-25T14:40:44.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Fazenda avaliada em quase R$ 242 milhões que abriga assentamento com mais de 100 famílias foi construída por descentes de italianos e ocupada em 1997, diz defesa",
+    "resumo": "Fazenda avaliada em quase R$ 242 milhões abriga assentamento com mais de 100 famílias e foi construída por descentes de italianos, diz defesa Arquivo pessoal/Max Lanio Gonçalves de Oliveira A fazenda avaliada em R$ 242 milhões que abriga um assentamento do Movimento Sem-Terra (MST) com mais de 100 famílias foi construída por descentes de ",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/25/fazenda-avaliada-em-quase-r-242-milhoes-que-abriga-assentamento-com-mais-de-100-familias-foi-construida-por-descentes-de-italianos-e-ocupada-em-1997-diz-defesa.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/XspjF6sTgNU2kk_5-LJ-vc_ri_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/r/GAyZAWTjy0Rfw9FV499g/padrao-foto-texto-g1-2026-11-25t113540.409.jpg",
+    "data": "2026-11-25T14:40:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Balsa carregada com carretas colide contra ponte de Outeiro, em Belém",
+    "resumo": "Balsa carregada de carretas colide com ponte de Outeiro, em Belém. Reprodução/TV Liberal Uma balsa que transportava diversas carretas colidiu contra a estrutura da ponte Pastor Firmino Gouveia na manhã desta quarta-feira (25), no distrito de Outeiro, em Belém. Não há registro de feridos. Após a colisão, no momento em que as equipes tentav",
+    "link": "https://g1.globo.com/pa/para/noticia/2026/11/25/balsa-carregada-com-carretas-colide-contra-ponte-de-outeiro-em-belem.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/HtmMmEt7aNxtHosmWcc_XwUeFek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/F/1QZAiZTIK6RrQk4ot7ZA/sem-titulo.png",
+    "data": "2026-11-25T14:40:09.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista persegue, atropela e arrasta ciclista que havia comprado fraldas para a filha no litoral de SP; VÍDEO",
+    "resumo": "Motorista é preso após atropelar ciclista e chutar vítima Um motorista de 60 anos foi preso em flagrante após perseguir e atropelar um ciclista, de 25, com uma caminhonete na ciclofaixa em Santos, no litoral de São Paulo. Imagens publicadas nas redes sociais mostram o suspeito sendo contido por testemunhas dentro do veículo, enquanto tent",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/25/motorista-persegue-atropela-e-arrasta-ciclista-que-havia-comprado-fraldas-para-a-filha-no-litoral-de-sp-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/TgFrx_BZYA3ThWqnIPcFaW6p7N0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/foqYQUSNui89HKNw1UWQ/acidente-75-.jpg",
+    "data": "2026-11-25T14:39:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Grupo de carimbó formado por mulheres indígenas faz shows gratuitos em Natal",
+    "resumo": "Grupo de carimbó indígena faz shows gratuitos em Natal Divulgação O grupo Suraras do Tapajós, primeiro conjunto de carimbó do Brasil formado exclusivamente por mulheres indígenas, realiza dois shows gratuitos em Natal neste fim de semana. As apresentações acontecem no sábado (28), no Festival DoSol, e no domingo (29), no Natal Bier. Forma",
+    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/25/grupo-de-carimbo-formado-por-mulheres-indigenas-faz-shows-gratuitos-em-natal.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/X0i5gLSSt2i0UCuMNdI9g_uYboc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/5/XHBQVwRBuvJqPLnDjlYA/whatsapp-image-2026-11-25-at-10.59.49.jpeg",
+    "data": "2026-11-25T14:38:36.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "TSE mantém perda de mandato de vereador de MT condenado por ligação com grupo criminoso",
+    "resumo": "Vereador Sebastião Sérgio dos Reis de Paula (PP) Reprodução O Tribunal Superior Eleitoral (TSE) manteve, por unanimidade, a cassação do mandato do vereador Sebastião Sérgio dos Reis de Paula (PP), eleito em 2024 em Água Boa, a 730 km de Cuiabá. A decisão foi tomada nesta terça-feira (24), após os ministros rejeitarem o recurso da defesa e",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/25/tse-mantem-perda-de-mandato-de-vereador-de-mt-condenado-por-ligacao-com-grupo-criminoso.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/lh0jGeZbg6y5Nq5GWoV-Fn3EN_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/U/r8y6UASqe5bfKJLSg6Zw/enem-64-.jpg",
+    "data": "2026-11-25T14:37:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "VÍDEO: Carros batem em cruzamento no Centro de Uberlândia e deixam três feridos",
+    "resumo": "Carros batem em cruzamento no Centro de Uberlândia (MG) e deixam três feridos Um acidente entre dois carros deixou três feridos na manhã desta quarta-feira (25) no cruzamento entre a avenida Afonso Pena e a rua Machado de Assis, no Centro de Uberlândia. Duas mulheres, de 30 e 19 anos, e um homem, de 51, tiveram ferimentos leves e precisar",
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/25/video-carros-batem-em-cruzamento-no-centro-de-uberlandia-e-deixam-tres-feridos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/v2-QewTXuf68lCKBGtZNN-PofFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/q/4HTUozQMOlIuCplAYEcw/acidente-centro-udi.jpg",
+    "data": "2026-11-25T14:37:28.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "How American Thanksgiving took root -- and evolved -- in Liberia",
+    "resumo": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+    "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x960+0+0/resize/1280x960!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F9c%2Fcdbbeb7644308b0cf64b036b7f76%2Fliberian-thanksgiving-10.jpg",
+    "data": "2026-11-25T14:14:34.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "resumo": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortu",
+    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-25T14:12:33.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Here’s the latest.",
+    "resumo": "",
+    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/heres-the-latest",
+    "imagem": null,
+    "data": "2026-11-25T14:09:11.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Army’s Maps of Iowa Explosion May Underestimate Impact",
+    "resumo": "The emergency emissions scenario calculated by Army officials did not use a “worst-case scenario,” as required by the Environmental Protection Agency.",
+    "link": "https://www.nytimes.com/2026/11/25/us/army-detonation-emissions-maps-risk-underestimated.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25iowa-detonation-plume-estimates-mfvb/25iowa-detonation-plume-estimates-mfvb-mediumSquareAt3X.jpg",
+    "data": "2026-11-25T14:02:21.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+    "resumo": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its own. Thankfully, the tiny [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xteink1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-25T14:00:00.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV",
+    "resumo": "As a longtime fan of the films, Blade Runner 2099 showrunner Silka Luisa says she was more excited than scared when it came to adapting the series for TV. The new show is set 50 years after the 2017 film Blade Runner 2049 and imagines a bleak future where artificial humans known as replicants have [&#8230;]",
+    "link": "https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-25T14:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Plane Crash Near Mississippi’s Horn Island Kills 6",
+    "resumo": "Divers found the remains of the six people inside the downed plane near Horn Island, the Coast Guard said.",
+    "link": "https://www.nytimes.com/2026/11/25/us/mississippi-plane-crash-horn-island.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-crash-kpcl/25xp-crash-kpcl-mediumSquareAt3X.jpg",
+    "data": "2026-11-25T13:59:09.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "What to know before using AI agents for Black Friday shopping",
@@ -9,58 +207,13 @@
     "data": "2026-11-25T13:51:56.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "US announces new tariffs on host of countries including China",
-    "resumo": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "data": "2026-11-25T13:49:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Idosa morre em incêndio que destruiu casa em Brasil Novo, PA",
-    "resumo": "Idosa morre em incêndio no interior do Pará. Reprodução / Redes sociais Uma idosa morreu em um incêndio na casa onde morava nesta terça-feira (24), em Brasil Novo, no sudoeste do Pará. O fogo destruiu completamente a residência, que era de madeira, no bairro da Torre. A vítima tinha 60 anos e usava cadeira de rodas para se locomover. Ela ",
-    "link": "https://g1.globo.com/pa/para/noticia/2026/11/25/idosa-morre-em-incendio-que-destruiu-casa-em-brasil-novo-pa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/G8MSvEMP7jvTvOtKBLAFYwY3F5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/lkSHvIQiai0WvGR4ofcA/geral-g1-79-.png",
-    "data": "2026-11-25T13:47:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Subsídios aos combustíveis somam cerca de R$ 75 bilhões em 2026, diz equipe econômica",
-    "resumo": "O ministro do Planejamento, Bruno Moretti, informou nesta quarta-feira (25) que o valor total de subsídio aos combustíveis neste ano deve somar cerca de R$ 75 bilhões.",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/25/subsidios-aos-combustiveis-somam-cerca-de-r-75-bilhoes-em-2026-diz-equipe-economica.ghtml",
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Syrian teams clear landmines after deadly explosion",
+    "resumo": "Syrian teams clear landmines after deadly explosion",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-25T13:46:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "193: telefone dos Bombeiros volta a operar no DF",
-    "resumo": "",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/193-telefone-dos-bombeiros-volta-a-operar-no-df.ghtml",
-    "imagem": null,
-    "data": "2026-11-25T13:46:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Piscina de ondas de Brasília: reforma atrasa e governo adia entrega para 2027",
-    "resumo": "Piscina de ondas de Brasília: reforma atrasa e governo adia entrega para 2027 Antes prevista para o final de 2026, a inauguração da piscina de ondas de Brasília será adiada para o próximo ano, segundo o governo do Distrito Federal. 🔎 A piscina foi inaugurada em 1978, mas desativada em 1997. Em 2025, o governo do DF iniciou reformas para ",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/piscina-de-ondas-de-brasilia-reforma-atrasa-e-governo-adia-entrega-para-2027.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-3A-E9XEVKec19pf9qijiyI6-_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/u/gXUceUTiWDFmW4ypcA4w/a0520-bddf-bdbr-limpo-25112026-frame-313428.jpeg",
-    "data": "2026-11-25T13:45:35.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Casos de intoxicação por fumaça disparam e passam de 100 em Santarém",
-    "resumo": "Santarém amanhece com pouca visibilibilidade e qualidade do ar muito ruim devido a fumaça das queimadas Reprodução TV Tapajós Os casos de intoxicação por fumaça dispararam no segundo semestre deste ano em Santarém, no oeste do Pará. O município registrou 110 notificações de moradores intoxicados, sendo que o mês de novembro concentrou qua",
-    "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/25/casos-de-intoxicacao-por-fumaca-disparam-e-passam-de-100-em-santarem.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HQZmaN3LVTwFTLxuRkDlFIWBJYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/u/7fuRnnQtylAI4NsqFElA/whatsapp-image-2026-11-23-at-07.55.03.jpeg",
-    "data": "2026-11-25T13:44:12.000Z"
+    "data": "2026-11-25T13:51:15.000Z"
   },
   {
     "categoria": "Economia",
@@ -68,7 +221,7 @@
     "titulo": "Energy bills to rise by 26% from January after gas prices surge",
     "resumo": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg",
     "data": "2026-11-25T13:42:08.000Z"
   },
   {
@@ -78,34 +231,16 @@
     "resumo": "",
     "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/heres-how-the-army-plans-to-mitigate-the-blasts-effects",
     "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25iowa-detonation-mitigation-pcgb/25iowa-detonation-mitigation-pcgb-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T13:41:58.000Z"
+    "data": "2026-11-25T13:41:59.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Análise do sangue de antas e tamanduás-bandeira revela um problema 'invisível'",
-    "resumo": "Análise do sangue de antas e tamanduás-bandeira revela um problema 'invisível' paulomascaretti/ iNaturalist Um estudo publicado na revista científica Nature identificou a presença de microplásticos no sangue de 43 dos 47 animais analisados na Amazônia, no Cerrado e no Pantanal. Os pesquisadores avaliaram amostras de 26 antas (Tapirus terr",
-    "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/25/analise-do-sangue-de-antas-e-tamanduas-bandeira-revela-um-problema-invisivel.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/F2sCHoxPBWbV7mukG2ZjzpBmAuc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/I/qzga1NRcABcGtjHeSYyw/imagens-para-materia.png",
-    "data": "2026-11-25T13:40:30.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Natal de Florianópolis terá abertura com acendimento das luzes e Show do Bita",
-    "resumo": "Florianópolis dá início às festividades de Natal de 2026 nesta quinta-feira (26), com uma programação gratuita no Largo da Catedral, no Centro da cidade. A partir das 19h, o público poderá acompanhar o acendimento das luzes natalinas, a tradicional entrega da chave da cidade ao Papai Noel e a apresentação do espetáculo “Show do Bita – Fes",
-    "link": "https://g1.globo.com/sc/santa-catarina/especial-publicitario/florianopolis-uma-cidade-para-todos/noticia/2026/11/25/natal-de-florianopolis-tera-abertura-com-acendimento-das-luzes-e-show-do-bita.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/4IdFhKfQLUhWBHPRG4woIFEDg9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/p/ce2hcPQ4m12YS4Ohv8wQ/nsc-total-33-.png",
-    "data": "2026-11-25T13:39:02.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Black Friday: dos 74 produtos pesquisados pelo g1, 43% estão mais caros a 2 dias da data",
-    "resumo": "Produto com valor abaixo da média no monitoramento do Guia de Compras do g1 Reprodução Até a Black Friday, na sexta-feira (27), o Guia de Compras vai mostrar, a cada dia útil, como estão os preços de 74 produtos monitorados pelo g1 desde agosto. Nesta quarta-feira (25), 32 itens tiveram alta no preço na comparação com a média – ou 43,2% d",
-    "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-veja-o-levantamento-de-74-itens-guia-de-compras-g1-quarta-25.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pjezPNahdsZ6VNBDLmXpYhB2o58=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/IaAux4RcyFghu3cmhGRg/2147948122.jpg",
-    "data": "2026-11-25T13:38:42.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Efeito Americanas: CCJ do Senado tipifica crime de fraude contábil",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/efeito-americanas-ccj-do-senado-tipifica-crime-de-fraude-contabil\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/efeito-americanas-ccj-do-senado-tipifica-crime-de-fraude-contabil",
+    "imagem": null,
+    "data": "2026-11-25T13:39:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -118,48 +253,21 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Operação Argos prende suspeitos de tráfico e acha dinheiro queimado no Sertão de PE",
-    "resumo": "Operação Argos prende suspeitos de integrar grupo criminoso relacionado ao tráfico no Sertão de PE. Divulgação/ PCPE A Polícia Civil de Pernambuco deflagrou a Operação Argos para desarticular um grupo criminoso suspeito de produzir e vender maconha. A ação ocorreu na terça-feira (24) nas cidades de Salgueiro e Cabrobó, no Sertão de Pernam",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/25/operacao-argos-prende-suspeitos-de-trafico-e-acha-dinheiro-queimado-no-sertao-de-pe.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/-rLmObxdcM0DkrZVQXzwNMOtegs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/e/pwV1giRWW2v5ThRa3yCQ/whatsapp-image-2026-11-25-at-07.39.22.jpeg",
-    "data": "2026-11-25T13:37:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Vagão da Conciliação terá atendimentos gratuitos entre São Luís e Açailândia; veja como agendar",
-    "resumo": "Vagão da Conciliação terá atendimentos gratuitos entre São Luís e Açailândia; veja como agendar Reprodução/Mário Cavalcante O trem de passageiros da Estrada de Ferro Carajás terá atendimentos gratuitos de conciliação nos dias 3 e 4 de dezembro, durante as viagens entre São Luís e Açailândia, no Maranhão. 📲 Clique aqui e se inscreva no ca",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/25/vagao-da-conciliacao-tera-atendimentos-gratuitos-entre-sao-luis-e-acailandia-veja-como-agendar.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/gGAcCM12bv2C0QRO9i26akvUN88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/xyL8FZTn615mrlPIAs9A/montagens-1920-x-1080-px-50-.png",
-    "data": "2026-11-25T13:37:04.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Here’s the latest.",
-    "resumo": "",
-    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/heres-the-latest",
+    "fonte": "Agência Brasil",
+    "titulo": "Operação da PF, Receita e MPF combate garimpo ilegal em Mato Grosso",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/operacao-da-pf-receita-e-mpf-combate-garimpo-ilegal-em-mato-grosso\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/operacao-da-pf-receita-e-mpf-combate-garimpo-ilegal-em-mato-grosso",
     "imagem": null,
-    "data": "2026-11-25T13:33:58.000Z"
+    "data": "2026-11-25T13:35:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Equipe de Lula não descarta convocação do Congresso em janeiro, no recesso, para aprovar PEC da 2ª etapa do ajuste fiscal",
-    "resumo": "A equipe do presidente Lula não descarta pedir à cúpula do Congresso uma convocação extraordinária do Legislativo em janeiro para aprovar a PEC que contém a segunda etapa do ajuste fiscal. O plano ideal é aprovar tudo ainda em dezembro, mas há uma avaliação de que essa segunda etapa terá de envolver mais negociações do que a primeira, que",
-    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/25/equipe-de-lula-nao-descarta-convocacao-do-congresso-em-janeiro-no-recesso-para-aprovar-pec-da-2a-etapa-do-ajuste-fiscal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JXIKokmvmhpWJheCeu0MqCe3q4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/F/NANIAMTZe0eEb3soFNPg/55649391240-f2708adb60-k-1-.jpg",
-    "data": "2026-11-25T13:33:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: BDP de quarta-feira, 25 de novembro de 2026",
-    "resumo": "",
-    "link": "https://g1.globo.com/pa/para/edicao/2026/11/25/videos-bdp-de-quarta-feira-25-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IBbYEzA2WsW-be7XXKPJwniQa5o=/s01.video.glbimg.com/deo/vi/76/95/15279576",
-    "data": "2026-11-25T13:32:20.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Opposition MPs say they want answers on planned Parks Canada cuts",
+    "resumo": "Opposition MPs are looking for answers about planned cuts to Parks Canada, with one saying Ottawa shouldn't proceed with its plan to continue free admission to parks through 2027.",
+    "link": "https://www.cbc.ca/news/politics/parks-canada-cuts-opposition-9.7435217?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/f8657a3f-c1bb-48b2-b95b-f5b7fc410003,1795611983116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C4101%2C2306%29%3B",
+    "data": "2026-11-25T13:30:01.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -169,6 +277,15 @@
     "link": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-25T13:30:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Rio recebe nesta semana novas doses de vacina contra a mpox",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-recebe-nesta-semana-novas-doses-de-vacina-contra-mpox\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>A Secre",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/rio-recebe-nesta-semana-novas-doses-de-vacina-contra-mpox",
+    "imagem": null,
+    "data": "2026-11-25T13:18:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -362,7 +479,7 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Russian strikes on Ukraine cause power outages in five regions",
+    "titulo": "Russian strikes on Ukraine kill five, cause power outages in five regions",
     "resumo": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
     "link": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
     "imagem": null,
@@ -407,20 +524,11 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Overnight RSF drone attacks kill 19 in Sudan",
+    "titulo": "Sudan’s RSF kills at least 19 in drone attacks on Blue Nile state",
     "resumo": "The attacks on Blue Nile state also wounded at least 20 people – in a drone war that is quickly escalating.",
     "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-25T11:58:15.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Ex-England star Sterling given suspended sentence for dangerous driving",
-    "resumo": "Raheem Sterling admitted inhaling &#039;laughing ⁠gas&#039; and driving erratically before ​crashing his car.",
-    "link": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T11:50:52.000Z"
   },
   {
     "categoria": "Internacional",
@@ -484,15 +592,6 @@
     "link": "https://www.cbc.ca/news/canada/toronto/attempted-home-invasion-toronto-fatal-shooting-9.7435158?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/31c3aacc-a73c-4838-8d1b-1d5631838a3c,1795613369043/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B",
     "data": "2026-11-25T11:05:15.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "The Army rejected a cleaner option to dispose of the explosive materials.",
-    "resumo": "",
-    "link": "https://www.nytimes.com/live/2026/11/25/us/iowa-detonation-ammunition-news/the-army-rejected-a-cleaner-option-to-dispose-of-the-explosive-materials",
-    "imagem": "https://static01.nyt.com/images/2026/11/21/multimedia/25iowa-detonation-dissolve-VERSION/00CLI-IOWA-BLAST-ALTERNATIVE-wbmg-mediumSquareAt3X-v2.jpg",
-    "data": "2026-11-25T11:04:47.000Z"
   },
   {
     "categoria": "Brasil",
@@ -567,15 +666,6 @@
     "data": "2026-11-25T10:42:20.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Prêmios Quirino de animação têm inscrições abertas até esta quarta",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/premios-quirino-de-animacao-tem-inscricoes-abertas-ate-esta-quarta\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/premios-quirino-de-animacao-tem-inscricoes-abertas-ate-esta-quarta",
-    "imagem": null,
-    "data": "2026-11-25T10:42:00.000Z"
-  },
-  {
     "categoria": "Ciência",
     "fonte": "ScienceDaily",
     "titulo": "A space telescope hunting for dark matter just discovered something unexpected",
@@ -583,15 +673,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
     "imagem": null,
     "data": "2026-11-25T10:35:04.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Pressão imobiliária e \"engorda\" reacendem conflitos em Ponta Negra",
-    "resumo": "<p>Sentada à porta de casa, na Vila de Ponta Negra, em Natal, vó Maria entrelaça fios de algodão enquanto observa o movimento das pessoas e do tempo. Ela tem 92 anos, vive desde criança no local e testemunhou como poucos as transformações urbanas e naturais da região.<img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1709704&o=rss\" sty",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/pressao-imobiliaria-e-engorda-reacendem-conflitos-em-ponta-negra",
-    "imagem": null,
-    "data": "2026-11-25T10:32:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -616,7 +697,7 @@
     "fonte": "The New York Times",
     "titulo": "With Measles on the Rise, Some Families Are Forgoing Thanksgiving Travel",
     "resumo": "With measles cases on the rise, some new parents are choosing not to travel, unwilling to chance airplanes, trains or even drives into areas with high infection rates.",
-    "link": "https://www.nytimes.com/2026/11/25/us/this-thanksgiving-some-families-wonder-should-i-stay-home-with-my-baby.html",
+    "link": "https://www.nytimes.com/2026/11/25/us/measles-cases-thanksgiving.html",
     "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/00nat-thanksgiving-measles-qzbt/00nat-thanksgiving-measles-qzbt-mediumSquareAt3X.jpg",
     "data": "2026-11-25T10:04:03.000Z"
   },
@@ -628,15 +709,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
     "data": "2026-11-25T10:03:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>O",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal",
-    "imagem": null,
-    "data": "2026-11-25T10:02:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -740,24 +812,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "Plane Crash Near Mississippi’s Horn Island Kills 6",
-    "resumo": "Divers found the remains of the six people inside the downed plane near Horn Island, the Coast Guard said.",
-    "link": "https://www.nytimes.com/2026/11/25/us/mississippi-plane-crash-horn-island.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-crash-kpcl/25xp-crash-kpcl-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T08:57:18.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Dancing with the Stars season 35 finale: Who won the Mirrorball?",
-    "resumo": "An unexpected moment during the final freestyle turned an already powerful performance by the winning pair into an unforgettable one, prompting a standing ovation and bringing the room to tears.",
-    "link": "https://www.cbc.ca/news/entertainment/dancing-with-the-stars-finale-who-won-mirrorball-9.7435133?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/6e577fa7-68f2-474b-9568-3b93af0089de,1795586080381/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-25T08:48:25.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "Puerto Rico’s Jennifer Barreto Wins Miss Universe on Home Turf",
     "resumo": "The pageant’s organizers said Costa Rica would host next year, contradicting a rival camp that chose Vietnam as the venue. They are locked in a bitter fight for control of Miss Universe.",
     "link": "https://www.nytimes.com/2026/11/25/us/miss-universe-winner-puerto-rico.html",
@@ -772,15 +826,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
     "data": "2026-11-25T07:26:54.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Fuel Leak at Power Plant Near Honolulu Angers Local Officials",
-    "resumo": "The mayor and the governor have had harsh words in recent days for the plant’s operator, and Gov. Josh Green signed an executive order requiring immediate reporting of any oil spill.",
-    "link": "https://www.nytimes.com/2026/11/24/us/h-power-fuel-leak-oahu-hawaii.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-fuel-leak/24xp-fuel-leak-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T07:18:29.000Z"
   },
   {
     "categoria": "Internacional",
@@ -909,15 +954,6 @@
     "data": "2026-11-24T23:25:46.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "These deer walk 300 miles a year. The race is on to save their migration",
-    "resumo": "Mule deer in Wyoming make some of the longest land migrations in the lower 48 states. They&apos;re trying to adapt to a changing climate, but growing development could stand in their way.",
-    "link": "https://www.npr.org/2026/11/24/nx-s1-6022517/wildlife-migration-wyoming-deer-yellowstone",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fbf%2F2822ac53486ba1f43b487fec0697%2Fdsc0461.jpg",
-    "data": "2026-11-24T22:52:44.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Polônia volta a registrar incursão de drone russo em seu espaço aéreo",
@@ -936,24 +972,6 @@
     "data": "2026-11-24T22:23:27.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "GTA VI PC recompilation project shut down by Take-Two",
-    "resumo": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build [&#8230;]",
-    "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-24T21:39:14.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The Verge’s 2026 holiday gift guide for moms",
-    "resumo": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-24T21:09:59.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Tributada, mas não regulamentada: a prostituição na República Tcheca",
@@ -970,15 +988,6 @@
     "link": "https://www.dw.com/pt-br/assembleias-imitam-congresso-e-ampliam-controle-parlamentar-sobre-verbas-públicas/a-80029634?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-24T20:43:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "TikTok was down",
-    "resumo": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in [&#82",
-    "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-24T20:27:27.000Z"
   },
   {
     "categoria": "Economia",
@@ -1015,15 +1024,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
     "data": "2026-11-24T18:21:43.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Descoberta de dentes na China redefinem o que se sabe sobre o Homo erectus",
-    "resumo": "Análises de datação e química dentária provam que Homo erectus sobreviveu no continente asiático 200 mil anos a mais do que se pensava. Descoberta reforça ideia de que ele conseguiu se adaptar à floresta tropical.",
-    "link": "https://www.dw.com/pt-br/descoberta-de-dentes-na-china-redefinem-o-que-se-sabe-sobre-o-homo-erectus/a-80036525?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-24T18:03:00.000Z"
   },
   {
     "categoria": "Internacional",
