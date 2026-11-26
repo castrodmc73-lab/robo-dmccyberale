@@ -1,5 +1,239 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US announces new tariffs on host of countries including China",
+    "resumo": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+    "data": "2026-11-26T01:20:14.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Judges recommend prosecutors end corruption case against Netanyahu",
+    "resumo": "Israeli judges have ruled there is little prospect Benjamin Netanyahu will be convicted of corruption.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T01:08:43.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "California warned of potential Thanksgiving flooding as storms threaten US coasts",
+    "resumo": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+    "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+    "data": "2026-11-26T01:05:47.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Padrasto suspeito de matar enteado a tiros na frente da mãe é preso em SP",
+    "resumo": "Viatura da Polícia Militar do Estado de São Paulo Divulgação/Polícia Militar O homem suspeito de matar o próprio enteado a tiros na frente da mãe da vítima foi preso na noite desta quarta-feira (25), em São Paulo. Antonio Dias do Nascimento, de 66 anos, é investigado pela morte de Rodrigo Chagas Munhoz, de 42, ocorrida na tarde de segunda",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/padrasto-suspeito-de-matar-enteado-a-tiros-na-frente-da-mae-e-preso-em-sp.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YUtMAGl4z5pKl6If6k0Y_c3p7KU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/2ZUlEoQCytjcscBCHFIQ/captura-de-tela-2026-03-08-113815.jpg",
+    "data": "2026-11-26T01:04:30.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Agenda Ribeirão - Empreendedorismo e Empregabilidade",
+    "resumo": "Agenda Ribeirão - Empreendedorismo e Empregabilidade Encontro no dia 25 de novembro, no Teatro do Sesi, em Ribeirão Preto (SP), teve transmissão no g1. O Agenda Ribeirão aconteceu nesta quarta-feira (25) e debateu temas como geração de renda, políticas públicas de desenvolvimento econômico e empreendedorismo.. A ilustradora e criadora de ",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/agenda-ribeirao-empreendedorismo-e-empregabilidade.ghtml",
+    "imagem": null,
+    "data": "2026-11-26T01:02:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Trabalhador que prestava serviço para companhia de energia morre após sofrer choque elétrico",
+    "resumo": "Técnico que prestava serviço para companhia de energia morre após choque elétrico Um homem morreu enquanto prestava serviço para uma empresa terceirizada pela Energisa nesta quarta-feira (25), em Buriti do Tocantins, no norte do estado. 📱 Clique aqui para seguir o canal do g1 TO no WhatsApp O g1 teve acesso a imagens compartilhadas pela ",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/25/trabalhador-que-prestava-servico-para-companhia-de-energia-morre-apos-sofrer-choque-eletrico.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ExXtYKQV_93lYsrFEGtVAI7E7kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/zPsB1pSkqBwsUBbCAjdg/copia-de-modelo-foto-fundo-borrado-11-.png",
+    "data": "2026-11-26T01:01:38.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso com drogas e R$ 2,5 mil em casa usada como ponto de tráfico em Boa Vista",
+    "resumo": "A apreensão aconteceu no bairro Santa Luzia, na zona Oeste de Boa Vista Arquivo pessoal Um homem, de 22 anos, foi preso com drogas e R$ 2.509 em dinheiro. A prisão ocorreu nesta quarta-feira (25), no bairro Santa Luzia, na zona Oeste de Boa Vista. Um outro suspeito, de 25 anos, conseguiu fugir e não foi localizado. Moradores do bairro den",
+    "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/25/homem-e-preso-com-drogas-e-r-25-mil-em-casa-usada-como-ponto-de-trafico-em-boa-vista.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/cF5ruoKzM1l4alwqskFGIHTscbM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/t/DpMVDDSAyp4vP5NgAbRQ/drogas-e-dinheiro-apreendido.jpg",
+    "data": "2026-11-26T01:00:23.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Duas mulheres ficam feridas em acidente entre carro e moto na Av. Wilson Mendes, em Cabo Frio; FOTOS",
+    "resumo": "Duas mulheres que estava na moto ficaram feridas e foram levadas para o hospital pelos bombeiros, em Cabo Frio Ariane Ludmila Marques/g1 Duas mulheres ficaram feridas em um acidente envolvendo um carro e uma moto na Avenida Wilson Mendes, na altura da entrada para o bairro Jardim Esperança, em Cabo Frio, na Região dos Lagos. A colisão aco",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/25/duas-mulheres-ficam-feridas-em-acidente-entre-carro-e-moto-na-avenida-wilson-mendes-em-cabo-frio-no-rj.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UBgy7gWssSdjRVqF32ujU3TtMMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/NhgokESkSPfBZucsXyoQ/whatsapp-image-2026-11-25-at-20.40.41.jpeg",
+    "data": "2026-11-26T01:00:08.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Economia da Argentina perde força e país deve entrar em recessão técnica",
+    "resumo": "Economia da Argentina deve entrar em recessão Na Argentina, a economia perdeu força. Indicadores apontam que o PIB deve registrar dois trimestres seguidos de queda. Isso põe o país em recessão técnica. O enfraquecimento da economia, que os argentinos já sentiam no dia a dia, apareceu nos números dos órgãos oficiais. Depois de um primeiro ",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/economia-da-argentina-perde-forca-e-pais-deve-entrar-em-recessao-tecnica.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dLL6jnueltmTkceHFSzciwyVoV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Q/OHQPgYTYqrmEJnWVwVYQ/globo-canal-4-20261125-2000-frame-93485.jpeg",
+    "data": "2026-11-26T00:59:41.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Lotofácil 3838: seis apostas de MT acertam 14 números e ganham R$ 1 mil",
+    "resumo": "Lotofácil Millena Sartori/g1 Seis apostas feitas em Mato Grosso acertaram 14 das 15 dezenas do concurso 3838 da Lotofácil, sorteado nesta quarta-feira (25). Cada uma ganhou R$ 1.074,95. Todas as apostas premiadas foram simples, com 15 números marcados. Os jogos foram registrados em Cuiabá (dois), Jaciara, Paranaíta, Pontes e Lacerda e Sor",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/25/lotofacil-3838-seis-apostas-de-mt-acertam-14-numeros-e-ganham-r-1-mil.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png",
+    "data": "2026-11-26T00:58:36.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Poilievre claims constituent's job was threatened after meeting at CFB Wainwright",
+    "resumo": "Conservative Leader Pierre Poilievre says one of his constituents — a nurse who helped treat soldiers burned in the CFB Wainwright fire — is having her employment threatened because she met with him.",
+    "link": "https://www.cbc.ca/news/politics/poilievre-wainwright-nurse-employment-9.7436563?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+    "data": "2026-11-26T00:56:20.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Temporal provoca alagamentos e interdita ruas e avenidas em Americana",
+    "resumo": "Forte chuva alaga vias e causa interdições em Americana A forte chuva que atingiu Americana (SP) na noite desta quarta-feira (25) provocou alagamentos e interdições em diversos pontos da cidade. Segundo a Guarda Municipal, ao menos sete locais registraram acúmulo de água, com bloqueios preventivos para evitar a circulação de veículos em á",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/25/temporal-provoca-alagamentos-e-interdita-ruas-e-avenidas-em-americana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/4_lVizr3WrceFVTX7a0dlo6c_bg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/G/oxVmTsQSqGFjYBMC4GtA/e2-integra-capa.jpg",
+    "data": "2026-11-26T00:53:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+    "resumo": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T00:52:56.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "ISIL blamed for multiple suicide attacks in Syria",
+    "resumo": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T00:51:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "+Milionária hoje: resultado do concurso 410 e números sorteados",
+    "resumo": "Resultado da +Milionária g1 Veja abaixo os números do sorteio do concurso 410 da +Milionária realizado nesta quarta-feira (25): Dezenas: 7 - 10 - 17 - 19 - 24 - 39 Trevos: 2 - 6 Confira o resultado do sorteio da +Milionária. Veja quantas apostas foram premiadas no concurso 410: Ninguém conseguiu os 6 acertos, e a premiação acumulou para R",
+    "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/25/milionaria-hoje-resultado-do-concurso-410-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/t4CcORm92q_ZcDwaXRY2RapytUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/r/SEDPPHSQytBEa7Xu9thg/maismilionaria-410-evvli.jpeg",
+    "data": "2026-11-26T00:51:11.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dia de Sorte hoje: resultado do concurso 1356 e números sorteados",
+    "resumo": "Resultado da Dia de Sorte g1 Veja abaixo os números do sorteio do concurso 1356 da Dia de Sorte realizado nesta quarta-feira (25): Dezenas: 2 - 7 - 14 - 19 - 22 - 25 - 28 Mês da Sorte: Fevereiro Confira o resultado do sorteio da Dia de Sorte. Veja quantas apostas foram premiadas no concurso 1356: 7 acertos: 5 apostas ganhadoras, cada uma ",
+    "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/25/dia-de-sorte-hoje-resultado-do-concurso-1356-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/V1aRzrdaDRhxRohCWSo94F6Ge4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/KPgJjhRAOZ6aLcsB8Ycw/diadesorte-1356-jrxyb.jpeg",
+    "data": "2026-11-26T00:51:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Super Sete hoje: resultado do concurso 926 e números sorteados",
+    "resumo": "Resultado da Super Sete g1 Veja abaixo os números sorteados das colunas no concurso 926 da Super Sete realizado nesta quarta-feira (25): Números sorteados por coluna Confira o resultado do sorteio da Super Sete. Veja quantas apostas foram premiadas no concurso 926: Ninguém conseguiu os 7 acertos, e a premiação acumulou para R$ 750 mil; 6 ",
+    "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/25/super-sete-hoje-resultado-do-concurso-926-e-numeros-sorteados.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wyCt-_FJjLrlcmclOPACff0oM2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/M/eb2IbITBy97l7UbWpiPw/supersete-926-rfmdd.jpeg",
+    "data": "2026-11-26T00:50:59.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA",
+    "resumo": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA A perspectiva do novo tarifaço de Trump e a incerteza sobre o futuro da inteligência artificial derrubaram, nesta quarta-feira (25), os principais índices das bolsas americanas. Quando o movimento é esse, a culpada é quase sempre a maior vilã dos i",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/novo-tarifaco-e-incerteza-sobre-inteligencia-artificial-derrubam-indices-das-bolsas-dos-eua.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/9xo2ABjfcI3dNPiZSKCzE_tsE4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/ordbqbSLO04yuisAJVNA/globo-canal-4-20261125-2000-frame-86446.jpeg",
+    "data": "2026-11-26T00:50:40.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Two Syrian security personnel killed in ISIL suicide attack",
+    "resumo": "Syrian forces say the attack in northeastern Syria&#039;s city of Hasakah involved four assailants who were all killed.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T00:41:49.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+    "resumo": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
+    "link": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-trump-econ-zmgl/25dc-trump-econ-zmgl-mediumSquareAt3X.jpg",
+    "data": "2026-11-26T00:35:37.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Family of homicide victim Trina Hunt files civil lawsuit against her husband",
+    "resumo": "The lawsuit, filed by Trina's mother, brother and sister-in-law, asks the B.C. Supreme Court to declare that Iain Hunt killed his wife Trina, and make him hand over any property he inherited from her after her death.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/trina-hunt-iain-hunt-civil-lawsuit-9.7436361?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.5882169,1738708335000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+    "data": "2026-11-26T00:27:59.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Brad Pitt, Angelina Jolie settle dispute over French estate Château Miraval",
+    "resumo": "Brad Pitt and Angelina Jolie have reached a settlement in their contentious dispute over the French winery and estate Château Miraval, where they were wed.",
+    "link": "https://www.cbc.ca/news/entertainment/pitt-jolie-miraval-lawsuits-allegations-9.7436552?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/58143663-9c20-41fe-8b83-49a3d5380825,1795651209808/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1600%2C900%29%3B",
+    "data": "2026-11-26T00:25:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+    "resumo": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+    "data": "2026-11-26T00:23:05.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Zambia bans protest against push to remove presidential term limits",
+    "resumo": "Critics fear the campaign could undermine democratic safeguards as senior opposition figures remain behind bars.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T00:22:15.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "A meeting with Democrats over healthcare? Trump says he’s open to it",
+    "resumo": "Experts tell Al Jazeera they are sceptical that Trump would back Medicare for All, a proposal for national healthcare.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/a-meeting-with-democrats-over-healthcare-trump-says-hes-open-to-it?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T00:18:49.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "US approves SpaceX plan to send a million data satellites to space",
+    "resumo": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
+    "data": "2026-11-26T00:07:51.000Z"
+  },
+  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
@@ -7,6 +241,15 @@
     "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-26T00:04:34.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Pesquisadoras recebem prêmio por inovações e valorizam trajetória",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pesquisadoras-recebem-premio-por-inovacoes-e-valorizam-percurso\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pesquisadoras-recebem-premio-por-inovacoes-e-valorizam-percurso",
+    "imagem": null,
+    "data": "2026-11-26T00:03:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -18,22 +261,22 @@
     "data": "2026-11-26T00:01:37.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça suspende pagamentos de contrato de R$ 297 milhões para compra de livros pelo governo do MA",
-    "resumo": "Justiça suspende contrato do Governo do Estado para compra de livros A Justiça do Maranhão determinou, nesta quarta-feira (25), a suspensão dos pagamentos de um contrato de R$ 297,4 milhões firmado pelo Governo do Estado para a compra de materiais didáticos destinados à rede pública estadual de ensino. A decisão aponta indícios de irregul",
-    "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/25/justica-suspende-pagamentos-de-contrato-de-r-297-milhoes-para-compra-de-livros-pelo-governo-do-ma.ghtml",
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+    "resumo": "A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
     "imagem": null,
-    "data": "2026-11-25T23:59:15.000Z"
+    "data": "2026-11-26T00:00:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jovem de 26 anos é morto a tiros dentro de carro na Zona Norte de Porto Alegre",
-    "resumo": "Jovem de 26 anos é morto a tiros dentro de carro na Zona Norte de Porto Alegre Um homem de 26 anos foi morto a tiros no final da tarde desta quarta-feira (25) na Avenida Juscelino Kubitschek de Oliveira, na Zona Norte de Porto Alegre. A vítima foi identificada como Juliano Bobsin de La Vega. De acordo com a Polícia Civil, imagens de câmer",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/25/jovem-morto-tiros-carro-zona-norte-porto-alegre.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/P8HU3MVu7FEIAjRUtJN4LMD_Hzo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/5/P4fe2ATRuS1qBoes5JJw/whatsapp-image-2026-11-25-at-20.00.46.jpeg",
-    "data": "2026-11-25T23:59:06.000Z"
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Macy's postpones Thanksgiving parade due to weather",
+    "resumo": "The was the first time ever that the iconic celebration - known for its massive balloons floating past the city's skyscrapers - was delayed because of storms.",
+    "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/11998ed0-e914-11f1-8383-53f283141713.jpg",
+    "data": "2026-11-25T23:57:03.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -46,62 +289,17 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Donald Trump ameaça Brasil com novo tarifaço; China, Japão e União Europeia também estão na mira da mais recente guerra comercial",
-    "resumo": "Os Estados Unidos ameaçaram o Brasil com um novo tarifaço. A China, o Japão e a União Europeia também estão na mira do mais recente caso de guerra comercial patrocinado por Donald Trump. É mais uma cartada do governo americano para conseguir vantagens na mesa de negociação. O escritório do representante comercial dos Estados Unidos anunci",
-    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/donald-trump-ameaca-brasil-com-novo-tarifaco-china-japao-e-uniao-europeia-tambem-estao-na-mira-da-mais-recente-guerra-comercial.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JzW9_jBlz0fCANiFsG1tq8URvgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/6/vzm5FLTh2z9c5GxaaDAQ/globo-canal-4-20261125-2000-frame-60002.jpeg",
-    "data": "2026-11-25T23:54:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é morto a tiros em obra próxima a posto de combustíveis, em João Pessoa",
-    "resumo": "Homem é morto a tiros em obra próxima à posto de combustíveis, em João Pessoa Flávio Fernandes/TV Cabo Branco Um homem, que não teve a identidade divulgada, foi morto a tiros em uma obra próxima a um posto de combustíveis, no bairro de Cruz das Armas, em João Pessoa, na noite desta quarta-feira (25). Ninguém foi preso. ✅ Clique aqui para ",
-    "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/25/homem-e-morto-a-tiros-em-obra-proxima-a-posto-de-combustiveis-em-joao-pessoa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/roUumVz8XDB0j_NQtltQf6WvYw0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/7/tzJ3N3TVe7x2ji1oZ19Q/morto-em-obra.png",
-    "data": "2026-11-25T23:54:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: GR2 de quarta-feira, 25 de novembro",
-    "resumo": "Confira os vídeos do telejornal com as notícias do Sertão de Pernambuco.",
-    "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-quarta-feira-25-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/SH3HP1Ehu6Phq4lweHTsj6NbOzc=/s01.video.glbimg.com/deo/vi/54/20/15282054",
-    "data": "2026-11-25T23:52:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Família será indenizada em R$ 100 mil após mulher morrer por falta de soro contra picada de jararaca em MT",
-    "resumo": "O Município de Nobres e uma administradora hospitalar a pagar R$ 100 mil por danos morais à família de uma mulher que morreu após ser picada por uma jararaca e não receber o soro antiofídico Igor Macedo/Divulgação O Tribunal de Justiça de Mato Grosso (TJMT) divulgou, nesta terça-feira (24), uma decisão que condenou o Município de Nobres e",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/25/familia-sera-indenizada-em-r-100-mil-apos-mulher-morrer-por-falta-de-soro-contra-picada-de-jararaca-em-mt.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2qOFUfgeVsuU63p69hoCNfvqcJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/KPJuN7RbOhTJdKeeY9tw/enem-25-.png",
-    "data": "2026-11-25T23:52:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: AB2 de quarta-feira, 25 de novembro de 2026",
-    "resumo": "Assista aos vídeos do telejornal com as notícias do interior de Pernambuco.",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab2-de-quarta-feira-25-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NE_Pc8ocm5ppz43h254gNGIC2Js=/s01.video.glbimg.com/deo/vi/70/20/15282070",
-    "data": "2026-11-25T23:51:10.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-25T23:50:57.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Câmara aprova protocolo nacional para combater racismo nas escolas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/camara-aprova-protocolo-nacional-para-combater-racismo-nas-escolas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54p",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/camara-aprova-protocolo-nacional-para-combater-racismo-nas-escolas",
+    "imagem": null,
+    "data": "2026-11-25T23:52:00.000Z"
   },
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "The first person to live 1 year with a pig kidney says she's feeling great",
+    "titulo": "Pig kidney transplant patient marks 1 year without dialysis in medical breakthrough",
     "resumo": "It's been more than a year since Molly Falco underwent experimental surgery to receive a kidney harvested from a genetically modified pig, and she says she has no regrets.",
     "link": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/327537fa-7d87-4f87-a053-7d8f9460b8a5,1795645981387/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3B",
@@ -109,39 +307,21 @@
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: AB1 de quarta-feira, 25 de novembro de 2026",
-    "resumo": "Assista aos vídeos do telejornal com as notícias do interior de Pernambuco.",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab1-desta-quarta-feira-25-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/hAPuq7jKs5VAXVSz1aFgXxzYEaY=/s01.video.glbimg.com/deo/vi/39/10/15281039",
-    "data": "2026-11-25T23:49:54.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "CMN e BC anunciam novas regras para conter endividamento das famílias",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmn-e-bc-anunciam-novas-regras-para-conter-endividamento-das-familias\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/cmn-e-bc-anunciam-novas-regras-para-conter-endividamento-das-familias",
+    "imagem": null,
+    "data": "2026-11-25T23:37:00.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "PF investiga suspeita de cobrança de propina por policiais rodoviários federais em SP",
-    "resumo": "PF investiga suspeita de cobrança de propina por policiais rodoviários federais em Miracatu (SP) Divulgação/Polícia Federal A Polícia Federal deflagrou, nesta quarta-feira (25), a Operação Pedágio para investigar a suspeita de cobrança de propina por policiais rodoviários federais durante fiscalizações nas proximidades de uma praça de ped",
-    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/25/pf-investiga-suspeita-de-cobranca-de-propina-por-policiais-rodoviarios-federais-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/61Bch7WaZoq6BeOD555Pg0NXQzA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/L/XKls8CT3WpLjvgqijlMA/apreensoes-pf.jpg",
-    "data": "2026-11-25T23:49:07.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher é arrastada por enxurrada e resgatada pouco antes de cair em córrego durante temporal em Goiânia; vídeo",
-    "resumo": "Mulher é resgatada durante temporal no Parque Amazônia, em Goiânia Uma mulher foi arrastada pela enxurrada e resgatada antes de cair em um córrego durante um temporal em Goiânia, nesta quarta-feira (25). Vídeo mostra a vítima segurando em um bloco de concreto e sendo retirada do local por dois homens. O zelador de uma escola próxima conve",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/25/mulher-e-arrastada-por-enxurrada-e-resgatada-pouco-antes-de-cair-em-corrego-durante-temporal-em-goiania-video.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/BgGQGEON8nBn4gcn2WZJFSGS0cw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/X/tAGzB0QsaySkafXtntfQ/co-32-.jpg",
-    "data": "2026-11-25T23:49:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Mulher é presa na BA suspeita de mandar matar tia por reclamar do tráfico",
-    "resumo": "Mulher é presa na BA suspeita de mandar matar tia por reclamar do tráfico Redes Sociais Uma mulher de 22 anos suspeita de mandar matar a tia, na cidade de Itabela, no sul da Bahia, foi presa nesta quarta-feira (25), após ser localizada por policiais. O crime aconteceu no dia 1º de outubro. A vítima, identificada como Ana Paula Silva dos S",
-    "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/25/mulher-e-presa-na-ba.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/50fT_0oYeIqwLJONn-uXBFTFZvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/o/4XGNMqRtu25QghpsuEGQ/acidente-aconteceu-em-trecho-da-ba-262-no-sudoeste-do-estado.-2026-11-25t202614.145.jpg",
-    "data": "2026-11-25T23:48:42.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "STF mantém indicação prévia de valor em ações trabalhistas",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-mantem-indicacao-previa-de-valor-em-acoes-trabalhistas\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><str",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-mantem-indicacao-previa-de-valor-em-acoes-trabalhistas",
+    "imagem": null,
+    "data": "2026-11-25T23:35:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -196,6 +376,15 @@
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-autoriza-debora-do-batom-comparecer-apresentacao-do-filho",
     "imagem": null,
     "data": "2026-11-25T23:19:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+    "resumo": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+    "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bb/live/4d5bc080-e920-11f1-9108-c5b270b0703d.jpg",
+    "data": "2026-11-25T23:18:27.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -270,15 +459,6 @@
     "data": "2026-11-25T22:33:00.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "TCU afasta multas a Dilma e auxiliares por irregularidades fiscais",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tcu-afasta-multas-dilma-e-auxiliares-por-irregularidades-fiscais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tcu-afasta-multas-dilma-e-auxiliares-por-irregularidades-fiscais",
-    "imagem": null,
-    "data": "2026-11-25T22:29:00.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Andy Taylor, guitarist of new wave icons Duran Duran, dead at 65",
@@ -313,42 +493,6 @@
     "link": "https://www.aljazeera.com/sports/2026/11/25/man-united-denied-at-sporting-as-referee-overshadows-fernandes-double?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-25T22:15:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
-    "imagem": null,
-    "data": "2026-11-25T22:08:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Com alerta de chuvas fortes, Rio suspende aulas na rede pública",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/com-alerta-de-chuvas-fortes-rio-suspende-aulas-na-rede-publica\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><s",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/com-alerta-de-chuvas-fortes-rio-suspende-aulas-na-rede-publica",
-    "imagem": null,
-    "data": "2026-11-25T22:06:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Ministério da Justiça bloqueia 4 mil celulares em presídios",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ministerio-da-justica-bloqueia-4-mil-celulares-em-presidios\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><st",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ministerio-da-justica-bloqueia-4-mil-celulares-em-presidios",
-    "imagem": null,
-    "data": "2026-11-25T22:05:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "At least 31 dead after fuel tanker fire in Egypt",
-    "resumo": "Thirty-one people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major ring road in Egypt, authorities said on Wednesday.",
-    "link": "https://www.cbc.ca/news/world/egypt-fire-petroleum-vehicle-overturns-9.7436271?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/c5431289-648a-4c87-819b-5ec958f67888,1795643556639/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C3018%2C1697%29%3B",
-    "data": "2026-11-25T22:05:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -432,24 +576,6 @@
     "data": "2026-11-25T21:16:07.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Final Avengers: Doomsday trailer racks up over 500 million views in 1st day",
-    "resumo": "On Tuesday, Marvel released the final trailer for the upcoming Avengers movie, and it generated 563 million views in the first 24 hours. That makes it the most viewed Disney trailer of all time, beating out the previous Avengers: Doomsday teaser, which hit 503 million views in the first 24 hours.",
-    "link": "https://www.cbc.ca/news/entertainment/avengers-doomsday-trailer-9.7436106?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/cc122e93-9dc0-4970-bf64-2146c99a169b,1795638441411/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C1298%2C730%29%3B",
-    "data": "2026-11-25T21:14:39.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
-    "resumo": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
-    "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T21:03:51.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
@@ -469,30 +595,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US Education Department probes Virginia schools after sexual abuse scandal",
-    "resumo": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
-    "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T20:52:32.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Operação Vivaldi: Como a Ucrânia frustrou os planos da Rússia para cercar o Donbass",
     "resumo": "Em vitória estratégica, contraofensiva no norte da região de Donetsk foi bem-sucedida em frustrar tentativa russa de flanquear o chamado \"cinturão de fortalezas\" ucraniano.",
     "link": "https://www.dw.com/pt-br/operação-vivaldi-como-a-ucrânia-frustrou-os-planos-da-rússia-para-cercar-o-donbass/a-80036248?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-25T20:50:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Baby Aliyah steals the show during Australian Senate debate",
-    "resumo": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T20:42:41.000Z"
   },
   {
     "categoria": "Canadá",
@@ -522,24 +630,6 @@
     "data": "2026-11-25T20:31:48.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "What’s behind Europe’s protests?",
-    "resumo": "Increase in protests and industrial disputes across EU and UK.",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T20:30:22.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-    "resumo": "The judges&#039; recommendations came as Israel&#039;s longest-serving prime minister fights for his political survival.",
-    "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T20:29:22.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
@@ -547,15 +637,6 @@
     "link": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
     "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-texas-bvgm/25dc-texas-bvgm-mediumSquareAt3X.jpg",
     "data": "2026-11-25T20:19:48.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Migrant wrongly deported by Trump leaves US for Spain",
-    "resumo": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T20:14:28.000Z"
   },
   {
     "categoria": "Internacional",
@@ -568,30 +649,12 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Elderly man with Alzheimer’s rescued after 11 days in Amazon jungle",
-    "resumo": "A 74-year-old man with Alzheimer&#039;s has been found alive after missing for 11 days in Brazil&#039;s Amazon rainforest.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_man-with-alzheimers-rescued-after-11-days-in-amazon-251126?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-25T19:57:08.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Morre Veruschka, a primeira supermodelo da Alemanha",
     "resumo": "Conhecida por sua participação em \"Blow-Up\" e trabalhos de body painting, Veruschka transformou a moda em expressão artística. Membro de uma família que fez parte da resistência antinazista, ela tinha 87 anos",
     "link": "https://www.dw.com/pt-br/morre-veruschka-a-primeira-supermodelo-da-alemanha/a-80054741?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-25T19:57:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-    "resumo": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-    "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
-    "data": "2026-11-25T19:54:52.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -702,15 +765,6 @@
     "data": "2026-11-25T18:25:04.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Remember when NASA slammed a spacecraft into an asteroid? We now have close-up images of the aftermath",
-    "resumo": "Four years after NASA slammed a spacecraft into an asteroid to see if it could successfully alter its orbit around a larger companion, the European Space Agency's Hera spacecraft has arrived to see just how well that went.",
-    "link": "https://www.cbc.ca/news/science/esa-hera-mission-dimorphos-didymos-9.7435354?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/b87eb2f7-a0e8-4338-8ff1-7acb0f949288,1795619142080/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C1020%2C573%29%3B",
-    "data": "2026-11-25T18:05:33.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
@@ -736,15 +790,6 @@
     "link": "https://www.nytimes.com/2026/11/25/us/politics/cia-waterboarding.html",
     "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-torture-pbgt/25dc-torture-pbgt-mediumSquareAt3X.jpg",
     "data": "2026-11-25T17:57:50.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "The U.S. Isn’t in a Recession. Try Telling Many Americans That.",
-    "resumo": "The freshest measures of growth and hiring show a healthy economy. Struggling Americans aren’t seeing that.",
-    "link": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/25nat-recession-qmjw/25nat-recession-qmjw-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T17:51:25.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -792,8 +837,8 @@
     "data": "2026-11-25T17:00:32.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Internacional",
+    "fonte": "BBC News",
     "titulo": "Trump's accounts traded Nvidia shares 44 times this year, records show",
     "resumo": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
     "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
@@ -810,24 +855,6 @@
     "data": "2026-11-25T16:29:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "US announces new tariffs on host of countries including China",
-    "resumo": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-25T16:21:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Five Russian military jets hit in airfield strike, says Ukraine",
-    "resumo": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
-    "data": "2026-11-25T14:46:41.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
     "titulo": "How American Thanksgiving took root -- and evolved -- in Liberia",
@@ -835,15 +862,6 @@
     "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x960+0+0/resize/1280x960!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F9c%2Fcdbbeb7644308b0cf64b036b7f76%2Fliberian-thanksgiving-10.jpg",
     "data": "2026-11-25T14:14:34.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Israeli strike kills senior Hamas security official and family in Gaza City",
-    "resumo": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
-    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-25T14:06:13.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -862,15 +880,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg",
     "data": "2026-11-25T13:42:08.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-    "resumo": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-25T12:21:49.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -954,15 +963,6 @@
     "data": "2026-11-25T10:06:22.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Protesters call on Israel to free Palestinian student held without charge",
-    "resumo": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
-    "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-25T10:03:42.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
@@ -1033,15 +1033,6 @@
     "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
     "imagem": null,
     "data": "2026-11-25T02:29:38.000Z"
-  },
-  {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
-    "titulo": "Trump's rescue of Nvidia's Huang brings political risks",
-    "resumo": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-    "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-25T01:03:05.000Z"
   },
   {
     "categoria": "Internacional",
