@@ -1,6 +1,186 @@
 [
   {
     "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
+    "resumo": "President says it was a deliberate decision to release &#039;fake&#039; growth numbers before US midterm elections.",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T18:27:27.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Filhote de cachorro é resgatado após ficar preso em saco de milho em fazenda no TO: 'Escutamos ele chorar'",
+    "resumo": "Caso foi registrado em fazenda na região norte do Tocantins. Um filhote de cachorro foi resgatado após ficar preso dentro de um saco, chamado de bag, cheio de grãos de milho em uma fazenda na zona rural de Araguaína, no norte do Tocantins. Ele foi retirado em segurança após uma equipe de veterinários ouvir o choro do animal. 🔎O silo bag ",
+    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/26/filhote-de-cachorro-e-resgatado-apos-ficar-preso-em-saco-de-milho-em-fazenda-no-to-escutamos-ele-chorar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/1GKhB9Gr_GvQjHwfRWedOVBwwnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/Y/z2jVZgS8KZ4PHApQ052g/foto-e-montagem-vertical-12-.png",
+    "data": "2026-11-26T18:23:57.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "PM da ativa é preso suspeito de envolvimento no sequestro de motorista de app no Acre",
+    "resumo": "PM da ativa é preso suspeito de envolvimento no sequestro de motorista de app no Acre Júnior Andrade/Rede Amazônica Um policial militar da ativa foi preso nesta quinta-feira (26) no âmbito da Operação Nexus, deflagrada nesta quinta-feira (26). Ele é um dos suspeitos de envolvimento no caso do motorista de aplicativo, de 28 anos, sequestra",
+    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/26/pm-da-ativa-e-preso-suspeito-de-envolvimento-no-sequestro-de-motorista-de-app-no-acre.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/LcaCTZ3uxCW_qGCO_Q81u9Ge_zg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/h/aeKuFuR3WpLdFcAItrxg/midia-de-distribuicao-g1-2026-11-26t120332.929.png",
+    "data": "2026-11-26T18:22:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Prefeitura de Cristina decreta situação de emergência após temporal que inundou casas e comércios",
+    "resumo": "Prefeitura de Cristina decreta emergência após temporal que inundou casas e comércios A Prefeitura de Cristina (MG) decretou situação de emergência após um temporal de cerca de 100 milímetros atingir o município entre a noite de terça-feira (24) e a madrugada de quarta-feira (25). Ao todo, 42 famílias foram afetadas pela chuva, sendo cinc",
+    "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/26/prefeitura-de-cristina-decreta-situacao-de-emergencia-apos-temporal-que-inundou-casas-e-comercios.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ELaKiPoIHDl4iBBwqDOuf4qC6T8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/X/im7KmUTMO66Icv3s4kLQ/inunda-cristina.jpg",
+    "data": "2026-11-26T18:21:14.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça aponta 'suicídio forjado' e manda RS indenizar família de homem morto em 2007; caso foi reaberto após ex dele matar filho",
+    "resumo": "José é o primeiro marido de Alexandra Dougokenski, e morreu na casa do casal, em Farroupilha, em 2007 Arquivo pessoal A Justiça do Rio Grande do Sul (TJRS) condenou o Estado a pagar R$ 160 mil às duas irmãs de José Dougokenski. A morte dele, ocorrida em 2007, em Farroupilha, foi inicialmente tratada como suicídio, mas uma nova investigaçã",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/suicidio-forjado-falhas-na-investigacao-condenam-rs-a-indenizar-familia-de-homem-que-teria-sido-morto-em-2007-pela-ex-mulher.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/qpczKGFe2uaGGWz3ThsH07a9uO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/o/GlDcB4T2W18wubqfu7TQ/documento.png",
+    "data": "2026-11-26T18:16:54.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Concurso Unificado do PI abre prazo para contestar padrão de resposta das provas",
+    "resumo": "Prazo para contestar respostas das provas discursivas do Concurso Unificado do PI encerra nesta sexta (27) Pexels Os candidatos do Concurso Público Unificado do Piauí podem apresentar recurso contra os padrões preliminares de resposta das provas discursivas nesta quinta (26) e sexta-feira (27). Os pedidos devem ser enviados exclusivamente",
+    "link": "https://g1.globo.com/pi/piaui/trabalho-e-carreira/concursos/noticia/2026/11/26/concurso-unificado-do-piaui.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2Ax_Uaavufj6WlfzRXrIb4ticIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/R/lhrBdoQ9yFBgdXhQcKXA/pexels-andy-barbour-6683394.jpg",
+    "data": "2026-11-26T18:16:30.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Como investidores mais cautelosos tentam escapar da bolha da IA",
+    "resumo": "Da Nvidia a Coreweave, ações associadas à inteligência artificial têm oscilado drasticamente nos últimos meses. Alguns investidores buscam a diversificação – algo que tem se mostrado mais difícil do que o esperado.",
+    "link": "https://www.dw.com/pt-br/como-investidores-mais-cautelosos-tentam-escapar-da-bolha-da-ia/a-80062024?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-26T18:14:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Senado aprova projeto que proíbe fiança em caso de morte no trânsito causada por embriaguez ao volante",
+    "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou um projeto que acaba com a possibilidade de fiança nos casos de homicídio culposo em acidentes de trânsito provocados por embriaguez ao volante. 🔎Um crime afiançável é aquele em que a lei admite a liberdade provisória mediante o pagamento de uma quantia em dinheiro. Atualmente,",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/26/senado-aprova-projeto-que-proibe-fianca-em-caso-de-morte-no-transito-causada-por-embriaguez-ao-volante.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bAVuNOhFC5z3WrkmiqMl_PtiRzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/V/8tXRpCRsOy0sdhW1XuJQ/whatsapp-image-2026-09-06-at-10.44.32-1-.jpeg",
+    "data": "2026-11-26T18:12:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Motorista suspeito de atropelar e matar motoboy é solto após audiência de custódia em Porto Velho",
+    "resumo": "Motociclista morre em acidente com uma camionete Alessandro Pestana Ramos, preso em flagrante com sinais de embriaguez e suspeito de atropelar e matar o motociclista Neilson Miranda da Conceição, foi liberado após audiência de custódia realizada no começo da tarde desta quinta-feira (26). ➡️O acidente ocorreu no cruzamento das ruas Tabaja",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/26/motorista-suspeito-de-atropelar-e-matar-motoboy-audiencia-de-custodia-em-porto-velho.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/sX-M2riOn7DL5BgM3Wo_kAAnaqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/6/dWw6onSlm8dWqsMejejQ/captura-de-tela-2026-11-26-110237.jpg",
+    "data": "2026-11-26T18:12:13.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Deso reduz em 30% a produção de água tratada após vazamento em adutora em Sergipe",
+    "resumo": "Deso em Sergipe Adel Ribeiro/Deso/Arquivo A produção de água tratada na Estação de Tratamento de Água (ETA) João Ednaldo foi reduzida temporariamente em 30% nesta quinta-feira (26), em razão de uma manutenção emergencial na Adutora do São Francisco. A informação foi divulgada pela Companhia de Saneamento de Sergipe (Deso). Segundo a compa",
+    "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/26/deso-reduz-em-30percent-producao-de-agua-tratada-apos-vazamento-de-adutora-em-sergipe.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aOARifj3fHBdExIHhdlTdHD_e3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/cBn09ZQWOAkANZ0P4vMA/imagem-g1-20-.jpg",
+    "data": "2026-11-26T18:11:08.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
+    "resumo": "He was a reporter and foreign affairs columnist at Time and then served as deputy secretary of state and president of the Brookings Institution. He was 80.",
+    "link": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/24/multimedia/00obit-talbott-ckvf/00obit-talbott-ckvf-mediumSquareAt3X.jpg",
+    "data": "2026-11-26T18:10:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Inscrições para 21 cursos gratuitos de música e teatro da Fundec em Sorocaba terminam nesta 2ª feira",
+    "resumo": "Inscrições para 21 cursos gratuitos de música e teatro da Fundec em Sorocaba terminam nesta 2ª feira Divulgação Terminam nesta segunda-feira (30) as inscrições para o processo seletivo de 2027 do Instituto Municipal de Música de Sorocaba (IMMS), mantido pela Fundação de Desenvolvimento Cultural de Sorocaba (Fundec). Ao todo, são oferecida",
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/26/inscricoes-para-21-cursos-gratuitos-de-musica-e-teatro-da-fundec-em-sorocaba-terminam-nesta-2a-feira.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wRHa48zQ-7nf_UwMbAiZzM1MR-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/O/69Ed7vQAK4A2BKrswFOA/whatsapp-image-2026-11-25-at-15.17.24.jpeg",
+    "data": "2026-11-26T18:09:07.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Valão da Cehab transborda após temporal e causa alagamentos em Itaperuna",
+    "resumo": "Chuva forte provoca alagamentos em vários pontos de Itaperuna O transbordamento do valão da Cehab durante um temporal de cerca de 40 minutos provocou alagamentos em diversos bairros de Itaperuna, no Noroeste Fluminense, na noite desta quarta-feira (25). Segundo a Defesa Civil, a cidade registrou 46,6 milímetros de chuva e houve registros ",
+    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/valao-da-cehab-transborda-apos-temporal-e-causa-alagamentos-em-itaperuna.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/UnTqUqX4qej-J13hF6Mdv54d1_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/u/L5j3KWRSAtDcgElpNJcg/valao-da-cehab.jpg",
+    "data": "2026-11-26T18:08:18.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Guinea-Bissau presidential election delayed by two years",
+    "resumo": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T18:07:18.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Policial civil acusado de matar assessor após briga de trânsito na Barra vai a júri popular, decide TJ",
+    "resumo": "Marcelo dos Anjos Abitan da Silva e Raphael Pinto Ferreira Gedeão Reprodução/TV Globo O Tribunal de Justiça do Rio de Janeiro (TJRJ) rejeitou nesta quinta-feira (26) o recurso da defesa do policial civil Raphael Pinto Ferreira Gedeão. Com isso, confirmou a decisão que o leva a júri popular pela morte do empresário e assessor parlamentar M",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/26/policial-civil-acusado-de-matar-assessor-apos-briga-de-transito-na-barra-vai-a-juri-popular-decide-tj.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/N14Jsx6OL02JEu0hZ1vbi0BonwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/9/HLLvwEQKWPYL5QtlY3RA/20barra2.jpg",
+    "data": "2026-11-26T18:07:10.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Homem é preso suspeito de usar barbearia como ponto de tráfico de drogas em Presidente Prudente",
+    "resumo": "Homem é preso suspeito de usar barbearia como ponto de tráfico em Presidente Prudente (SP) Reprodução/Polícia Civil Um homem de 22 anos foi preso suspeito de usar uma barbearia como ponto de tráfico na zona norte de Presidente Prudente (SP), nesta quarta-feira (25). O comércio era utilizado como fachada para a comercialização de drogas. A",
+    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/26/homem-e-preso-suspeito-de-usar-barbearia-como-ponto-de-trafico-de-drogas-em-presidente-prudente.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/FIhzRvjt9SDSBhXl0TwI-CSid4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/H/Ooua8bTxWeusravX6YVA/1200x800-3-2026-11-25t205600.630.jpg",
+    "data": "2026-11-26T18:06:36.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "resumo": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+    "data": "2026-11-26T17:54:22.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+    "resumo": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+    "link": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T17:53:44.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Alckmin trata possível tarifa a aviões do Brasil como “descabida”",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/alckmin-trata-possivel-tarifa-avioes-do-brasil-como-descabida\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p>",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/alckmin-trata-possivel-tarifa-avioes-do-brasil-como-descabida",
+    "imagem": null,
+    "data": "2026-11-26T17:46:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Ontario will soon require licence, registration, insurance for e-bikes",
+    "resumo": "Some e-bike drivers will soon have to get a driver’s licence, vehicle registration and insurance to ride on Ontario's roads, Transportation Minister Prabmeet Sarkaria announced Wednesday.",
+    "link": "https://www.cbc.ca/news/canada/toronto/ontario-ebike-sarkaria-restriction-9.7436932?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B",
+    "data": "2026-11-26T17:41:32.000Z"
+  },
+  {
+    "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
     "resumo": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
@@ -9,22 +189,40 @@
     "data": "2026-11-26T17:38:56.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Primeira mulher negra na Academia de MT celebra carreira com imersão gratuita",
-    "resumo": "Luciene Carvalho na Academia Mato-grossense de Letras Isabela Mercuri/Secel A escritora Luciene Carvalho terá seus 25 anos de trajetória literária celebrados com uma imersão poética gratuita em Chapada dos Guimarães, a 65 km de Cuiabá. O encontro será realizado entre esta sexta-feira (27) e domingo (29) e terá 25 vagas disponíveis. Atualm",
-    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/26/primeira-mulher-negra-na-academia-de-mt-celebra-carreira-com-imersao-gratuita.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IV5e_SGh4MysRYFFMpiz2EpK_Q4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/2B6A0HTfKFLVlJvxpDWg/foto-g1-80-.png",
-    "data": "2026-11-26T17:28:55.000Z"
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Netanyahu’s corruption trial: Is it really all over?",
+    "resumo": "Court recommendations put the Israeli leader&#039;s trial, political future and efforts to evade prosecution back in focus.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T17:38:02.000Z"
   },
   {
     "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem de 56 anos é preso em Natal por suspeita de homicídio motivado por dívida trabalhista",
-    "resumo": "Giroflex, Polícia Militar RN Raiane Miranda A Polícia Civil do Rio Grande do Norte cumpriu, nesta quinta-feira (26), um mandado de prisão preventiva contra um homem de 56 anos suspeito de envolvimento em um homicídio qualificado. O crime ocorreu no bairro Cidade Nova, na Zona Oeste de Natal, e foi motivado por uma cobrança de dívida traba",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/26/homem-de-56-anos-e-preso-em-natal-por-suspeita-de-homicidio-motivado-por-divida-trabalhista.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/e9q1iggEZiCumlqbV6R4vbm4S9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/y/t/ij0ESTQ9SoaPIkohk8Yw/giroflex.jpeg",
-    "data": "2026-11-26T17:25:00.000Z"
+    "fonte": "Agência Brasil",
+    "titulo": "Número de jovens de 18 a 24 anos na graduação bate recorde no país",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/numero-de-jovens-de-18-24-anos-na-graduacao-bate-recorde-no-pais\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/numero-de-jovens-de-18-24-anos-na-graduacao-bate-recorde-no-pais",
+    "imagem": null,
+    "data": "2026-11-26T17:35:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Syrian children continue learning amid the ruins of war in Idlib",
+    "resumo": "Syria reopened a semi destroyed school in Idlib province",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T17:32:21.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "Black Friday: veja dicas para evitar golpes nas compras on-line",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/black-friday-veja-dicas-para-evitar-golpes-nas-compras-line\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a></p><s",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/black-friday-veja-dicas-para-evitar-golpes-nas-compras-line",
+    "imagem": null,
+    "data": "2026-11-26T17:28:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -45,33 +243,6 @@
     "data": "2026-11-26T17:21:21.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Estudantes de Espinosa conquistam ouro e prata na Olimpíada Nacional de Eficiência Energética",
-    "resumo": "Estudantes de Espinosa conquistam ouro e prata na Olimpíada Nacional de Eficiência Energética Redes sociais Do interior de Minas Gerais para o topo de uma competição nacional. Dois estudantes da Escola Estadual Comendador Viana, em Espinosa, no Norte de Minas, conquistaram o primeiro e o segundo lugares na Olimpíada Nacional de Eficiência",
-    "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/26/estudantes-de-espinosa-conquistam-ouro-e-prata-na-olimpiada-nacional-de-eficiencia-energetica.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Ix49ABIcR7hC5rFwzvy7RkuCrJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/B/OBqSgcTxaDbzPcjf3Cjw/img-7992.png",
-    "data": "2026-11-26T17:21:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cheia do Rio Piracicaba impede Copa do Mundo e campeonato Pan-Americano de rafting? Entenda",
-    "resumo": "Selecão Brasileira de rafting Prefeitura de Piracicaba/Divulgação O extravasamento do Rio Piracicaba não vai impedir a realização do Campeonato Pan-Americano e da etapa final da Copa do Mundo de rafting em Piracicaba (SP). É o que afirmou Thiago Diniz Barne Ganeo, conhecido como Chicão, presidente da Associação de Canoagem de Piracicaba (",
-    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/26/entenda-como-cheia-do-rio-piracicaba-pode-influenciar-realizacao-de-copa-do-mundo-e-campeonato-pan-americano-de-rafting-neste-final-de-semana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/h-E6-5FM2wLskahHr0mM4HascMQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/l/zBJ3IaR9aL7faeAdRAyA/selecao-brasileira-de-rafting-e-formada-por-piracicabanos-e-brotenses.jpg",
-    "data": "2026-11-26T17:20:47.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Gostoso da Paulista' estreia como modelo e abre desfile de moda sustentável em SP",
-    "resumo": "'Gostoso da Paulista' estreia como modelo em desfile em SP Reprodução Israel Augusto, conhecido como “Gostoso da Paulista”, estreou como modelo em um desfile de moda em São Paulo na segunda-feira (24). Ele abriu a apresentação da Trama Afetiva, intitulada “Micropolítica do Amor”, na 58ª edição da Casa de Criadores, realizada no Edifício G",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/26/gostoso-da-paulista-estreia-como-modelo-e-abre-desfile-de-moda-sustentavel-em-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/dSigiUEo22Fi2hgdJNHnWqKxdP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/oMAJMjRX6ioKTLQ1XuvQ/fotojet-143-.jpg",
-    "data": "2026-11-26T17:19:37.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "French actor Gerard Depardieu to stand trial for alleged 2018 rape",
@@ -88,69 +259,6 @@
     "link": "https://www.dw.com/pt-br/o-que-ocorre-no-intestino-de-quem-toma-café-regularmente/a-80067835?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-26T17:17:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Irmão confessa assassinato de neurocientista encontrada morta em apartamento no RS, diz polícia",
-    "resumo": "Mulher é encontrada morta em apartamento e irmão é preso no RS O irmão da mulher encontrada morta dentro de um apartamento em Canoas, na Região Metropolitana de Porto Alegre, confessou ter assassinado a vítima, diz a Polícia Civil do RS. A mulher foi identificada como Ana Raquel Karkow, de 47 anos. O irmão, identificado como Alberto Karko",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/irmao-morte-mulher-apartamento-rs-quem-era.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/RyMr_Y1DDZ5tiNL7fH5ETYLRon8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/z/kXkWYRQWWwZYlucECY6Q/g1-2026-11-26t124017.317.jpg",
-    "data": "2026-11-26T17:16:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é baleado na frente da filha durante assalto no Campo Limpo, na Zona Sul de SP",
-    "resumo": "Homem é baleado em frente a filha durante assalto no Campo Limpo Um homem foi baleado durante um assalto na frente da própria filha, de 16 anos, na noite de quarta-feira (25), no Campo Limpo, na Zona Sul de São Paulo. Ele tentou impedir que os criminosos levassem a moto da família e foi atingido por disparos nas regiões abdominal, genital",
-    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/26/homem-e-baleado-na-frente-da-filha-durante-assalto-no-campo-limpo-na-zona-sul-de-sp.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/y2SJrkjnYfIsnKpJOE2n1CaBpOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/v/4lySCoS6GDmZUuZAQvEA/captura-de-tela-2026-11-26-135244.png",
-    "data": "2026-11-26T17:15:20.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso suspeito de matar servente de pedreiro após cobrança de diárias em Natal",
-    "resumo": "Homicídio ocorreu em setembro deste ano, em Cidade Nova Reprodução/ TV Globo Um homem de 56 anos foi preso nesta quinta-feira (26), suspeito de envolvimento no assassinato de um servente de pedreiro no bairro Cidade Nova, na Zona Oeste de Natal. De acordo com a Polícia Civil, o crime teria acontecido após a vítima cobrar diárias de trabal",
-    "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/26/homem-e-preso-suspeito-de-matar-servente-de-pedreiro-apos-cobranca-de-diarias-em-natal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/ovkCuj3N_hapeTbpBLWemXIblfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/L/c/Fmqtl9RB2AnrUPq0saFw/especial-tortura-df2-frame-21.jpeg",
-    "data": "2026-11-26T17:13:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Marido de mulher que morreu com mesma doença de Lito mantinha hobbies dela durante tratamento: 'cinéfila de 1ª grandeza'",
-    "resumo": "Mulher com doença de Lito perde movimento e fala, e marido larga emprego para cuidar dela Rose Carvalho, de 59 anos, que morreu vítima da doença de Creutzfeldt-Jakob, tinha uma rotina diária com o marido que começava às 3h30 e incluía exercícios e massagem. Mesmo sem os movimentos e a fala, a moradora de Gaspar (SC) era incentivada pelo m",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/26/marido-mulher-morreu-mesma-doenca-lito-mantinha-hobbies-tratamento-sc.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/DwFN6cutx4eo4HdLAwJN4E7z31w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/3WbdPCROWmBMxqqFngRg/rose-creutzfeldt-jakob-9-1.jpg",
-    "data": "2026-11-26T17:12:52.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Fisioterapia da Univás leva saúde, ciência e inovação para 15 cidades da região",
-    "resumo": "Fisioterapia da Univás leva saúde, ciência e inovação para 15 cidades da região Crédito: Divulgação A Fisioterapia da Universidade do Vale do Sapucaí (Univás), em Pouso Alegre, tem ampliado sua presença nas comunidades do Sul de Minas, levando conhecimento científico, educação em saúde e experiências práticas para crianças e adolescentes.",
-    "link": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/fuvs/noticia/2026/11/26/fisioterapia-da-univas-leva-saude-ciencia-e-inovacao-para-15-cidades-da-regiao.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/wXLqtFB3Zga53RrtgUIn43OSTEY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/9RuSHMQj2M4mAS0CRvVA/imagem-1.png",
-    "data": "2026-11-26T17:09:42.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem morre após sofrer choque elétrico em caçamba de lixo em Madureira",
-    "resumo": "Um homem de aproximadamente 30 anos morreu após sofrer uma descarga elétrica em Madureira, na Zona Norte do Rio, na noite desta quarta-feira (25). Segundo o Corpo de Bombeiros, ele recebeu o choque ao encostar em uma caçamba de lixo que estava energizada. O equipamento estava próximo a um poste com fios soltos. O caso aconteceu por volta ",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/26/homem-morre-apos-sofrer-choque-eletrico-em-madureira.ghtml",
-    "imagem": null,
-    "data": "2026-11-26T17:08:31.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Carro com dois corpos carbonizados é encontrado após assalto a haras em Barra Mansa",
-    "resumo": "Carro com dois corpos carbonizados é encontrado após assalto a haras em Barra Mansa. Divulgação/Polícia Militar Dois corpos foram encontrados carbonizados dentro de um carro incendiado na manhã desta quinta-feira (26), na entrada de um haras em Barra Mansa (RJ). O veículo foi localizado no bairro Vila Ursulino. Segundo a Polícia Militar, ",
-    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/26/carro-com-dois-corpos-carbonizados-e-encontrado-apos-assalto-a-haras-em-barra-mansa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/C1CiIL-0B9BB76q7-T9eOeC8jcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/Z/Cgn0AvSwOmJa8nZW4rwg/whatsapp-image-2026-11-26-at-13.36.07.jpg",
-    "data": "2026-11-26T17:07:14.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -214,15 +322,6 @@
     "link": "https://www.dw.com/pt-br/mais-trabalho-mesmo-salário-montadoras-alemãs-pressionam-trabalhadores/a-80065740?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-26T16:49:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Italy says two citizens killed in Iranian strike in Kuwait",
-    "resumo": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
-    "data": "2026-11-26T16:39:30.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -370,15 +469,6 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Pep Guardiola calls on world to ‘disobey horror’ over Gaza and praises BDS",
-    "resumo": "Football icon says it is more urgent than ever to demand an end to Israel&#039;s &#039;apartheid, colonialism and occupation&#039;.",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/pep-guardiola-calls-on-world-to-disobey-horror-over-gaza-and-praises-bds?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T15:53:32.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Após 20 anos, Grécia vai deixar de ser país mais endividado da zona do euro",
     "resumo": "Embalada pelo crescimento econômico, Grécia reduz drasticamente sua dívida pública e quer até mesmo acelerar pagamentos. Já a Itália deverá retomar posto de país mais endividado que ocupava em 2006.",
@@ -394,15 +484,6 @@
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/investimento-estrangeiro-no-pais-chega-us-1416-trilhao-em-2025",
     "imagem": null,
     "data": "2026-11-26T15:50:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-    "resumo": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
-    "link": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T15:45:59.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -430,24 +511,6 @@
     "link": "https://www.cbc.ca/news/science/spacex-one-million-data-centres-space-9.7436957?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/1.6344983,1792197451556/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C959%2C539%29%3B",
     "data": "2026-11-26T15:31:12.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
-    "resumo": "The judge said the FCC chair has taken US President Donald Trump&#039;s rhetoric ‌‌as his &#039;marching orders&#039;.",
-    "link": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T15:29:03.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-    "resumo": "Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T15:23:25.000Z"
   },
   {
     "categoria": "Economia",
@@ -504,15 +567,6 @@
     "data": "2026-11-26T15:13:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Andalusia offers a glimpse of Spain’s future as the far right gains ground",
-    "resumo": "Ahead of Sunday&#039;s election, Andalusia signals Vox’s rise as immigration and right-wing alliances reshape politics.",
-    "link": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T15:11:30.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Why GTA VI’s version of Florida feels so real",
@@ -529,15 +583,6 @@
     "link": "https://www.dw.com/pt-br/espanha-tenta-evitar-desastre-ambiental-após-acidente-com-navio-tanque-no-mediterrâneo/a-80063833?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-26T14:56:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "PGR denuncia deputado Gustavo Gayer por desvio de cota parlamentar",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-denuncia-deputado-gustavo-gayer-por-desvio-de-cota-parlamentar\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-denuncia-deputado-gustavo-gayer-por-desvio-de-cota-parlamentar",
-    "imagem": null,
-    "data": "2026-11-26T14:49:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -574,15 +619,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
     "data": "2026-11-26T14:28:22.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Contas públicas: demanda por financiamento cresceu 27,1% em 2025",
-    "resumo": "<p><strong>Em 2025, a necessidade de financiamento líquida do governo geral foi de R$ 936,2 bilhões, aumento de 27,1% em relação a 2024. Esse resultado ocorreu, principalmente, em virtude do crescimento de 11,4% da despesa total.</strong><img src=\"https://agenciabrasil.ebc.com.br/ebc.png?id=1710280&o=rss\" style=\"width:1px; height:1px; dis",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-publicas-demanda-por-financiamento-cresceu-271-em-2025",
-    "imagem": null,
-    "data": "2026-11-26T14:17:00.000Z"
   },
   {
     "categoria": "Economia",
@@ -637,15 +673,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-26T13:40:46.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Brasil atinge recorde de 10,6 milhões de matrículas no ensino superior",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-atinge-recorde-de-106-milhoes-de-matriculas-no-ensino-superior\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> ",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-atinge-recorde-de-106-milhoes-de-matriculas-no-ensino-superior",
-    "imagem": null,
-    "data": "2026-11-26T13:34:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -704,20 +731,20 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
-    "titulo": "We’re Investigating a $300 Million Mystery",
-    "resumo": "A $300 million mystery donation could help pay for Washington projects that matter to President Trump. Our investigative reporter David Fahrenthold looks at questions about its source and purpose.",
-    "link": "https://www.nytimes.com/video/us/100000011287370/were-investigating-a-300-million-mystery.html",
-    "imagem": null,
-    "data": "2026-11-26T12:08:50.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
     "titulo": "How a Thanksgiving Tradition Connects to Presidential Powers",
     "resumo": "As President Trump pardons turkeys for Thanksgiving, our chief White House correspondent Peter Baker takes a look back at the history of the tradition and the presidential power of the pardon.",
     "link": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
     "imagem": null,
     "data": "2026-11-26T12:08:22.000Z"
+  },
+  {
+    "categoria": "Economia",
+    "fonte": "BBC Business",
+    "titulo": "New boss appointed to lead Travelodge",
+    "resumo": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+    "data": "2026-11-26T12:03:49.000Z"
   },
   {
     "categoria": "Canadá",
@@ -731,10 +758,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Evacuation order issued for some properties in Cedar due to flooding: Regional District of Nanaimo",
-    "resumo": "A flood watch is in place for eastern Vancouver Island as the B.C. coast continues to deal with a series of storms that are combining with unusually high tides on Thursday.",
+    "titulo": "Flooding triggers evacuation order for dozens of properties in Cedar, B.C.",
+    "resumo": "Dozens of properties were placed under evacuation order in the community of Cedar Thursday, and multiple areas of Vancouver Island are under evacuation alert, as a series of storms continue to drench B.C.'s coast.",
     "link": "https://www.cbc.ca/news/canada/british-columbia/flood-watch-king-tides-british-columbia-storm-9.7436709?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e5ec6237-60f1-460a-b44b-fefda1f1904c,1795662649188/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "imagem": "https://i.cbc.ca/ais/e5ec6237-60f1-460a-b44b-fefda1f1904c,1795717213864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-26T12:00:00.000Z"
   },
   {
@@ -745,15 +772,6 @@
     "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-26T12:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Police identify suspect vehicle tied to Toronto home invasion that killed musician Michael Eckert",
-    "resumo": "Toronto police have identified a suspect vehicle tied to a fatal shooting and home invasion that took place early Wednesday in midtown Toronto.",
-    "link": "https://www.cbc.ca/news/canada/toronto/michael-eckert-police-update-vehicle-midtown-toronto-9.7436783?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/e1740979-d295-4a27-9332-d9f81bcca1a1,1795691603566/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3B",
-    "data": "2026-11-26T11:31:31.000Z"
   },
   {
     "categoria": "Ciência",
@@ -819,15 +837,6 @@
     "data": "2026-11-26T10:15:47.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Empresa alemã fornecia botes para tráfico de migrantes, diz imprensa",
-    "resumo": "Companhia é suspeita de fornecer botes, motores e coletes salva-vidas usados por redes de transporte ilegal de migrantes que operam entre a França e o Reino Unido.",
-    "link": "https://www.dw.com/pt-br/empresa-alemã-fornecia-botes-para-tráfico-de-migrantes-diz-imprensa/a-80057274?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-26T10:14:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
@@ -848,19 +857,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "&apos;Memories of a Good Meal&apos;: How food made a difference during WWII",
-    "resumo": "New Orleans Chef Alon Shaya&apos;s new cookbook shares stories of resilience from World War II, centered around food.",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5376x1923+0+0/resize/5376x1923!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fcd%2F73b10cc14db88fb2861214832873%2Fl-r-june-hersh-steven-fenves-alon-shaya-authors-photo.jpg",
+    "titulo": "At Albuquerque&apos;s Indian Pueblo Kitchen, Native American dishes are the main course",
+    "resumo": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet<em> </em>biscochitos<em> </em>flavored with anise and cinnamon.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F06%2F3c7f4c4640bda21c7b9bb12a5fd4%2F2026-10-route66newmexicofood-39.JPG",
     "data": "2026-11-26T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "At Albuquerque&apos;s Indian Pueblo Kitchen, Native American dishes are the main course",
-    "resumo": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet<em> </em>biscochitos<em> </em>flavored with anise and cinnamon.",
-    "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F06%2F3c7f4c4640bda21c7b9bb12a5fd4%2F2026-10-route66newmexicofood-39.JPG",
+    "titulo": "&apos;Memories of a Good Meal&apos;: How food made a difference during WWII",
+    "resumo": "New Orleans Chef Alon Shaya&apos;s new cookbook shares stories of resilience from World War II, centered around food.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5376x1923+0+0/resize/5376x1923!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fcd%2F73b10cc14db88fb2861214832873%2Fl-r-june-hersh-steven-fenves-alon-shaya-authors-photo.jpg",
     "data": "2026-11-26T10:00:00.000Z"
   },
   {
@@ -900,8 +909,8 @@
     "data": "2026-11-26T09:39:50.000Z"
   },
   {
-    "categoria": "Economia",
-    "fonte": "BBC Business",
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
     "titulo": "Musk's plan to send a million SpaceX data satellites into space approved",
     "resumo": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
