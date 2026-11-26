@@ -1,5 +1,149 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "U.S. Judge rules FCC violated ABC&apos;s free speech rights to please Trump",
+    "resumo": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
+    "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Fa4%2F8f4bad7a4672b2a60fa7293ee33b%2Fcarr-damaro-diptych.jpg",
+    "data": "2026-11-26T05:23:18.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
+    "resumo": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.",
+    "link": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-fedex-jpfq/26xp-fedex-jpfq-mediumSquareAt3X.jpg",
+    "data": "2026-11-26T05:14:22.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Puerto Rico’s Supreme Court cancels major power contract",
+    "resumo": "The court&#039;s five-to-four ruling ends Luma Energy&#039;s operations after a contentious legal battle.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T05:09:55.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Por que centenas de andorinhas ocupam a mesma árvore todas as noites em RO?",
+    "resumo": "Árvore vira abriga de centenas de andorinhas em Vilhena, RO Todas as noites, há alguns meses, centenas de andorinhas tomam conta de uma árvore em Vilhena (RO) e transformam o local em um abrigo coletivo temporário. A cena, registrada em vídeo por um morador, chama atenção pelo volume de aves e pelo movimento sincronizado pouco antes de el",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/26/por-que-centenas-de-andorinhas-ocupam-a-mesma-arvore-todas-as-noites-em-ro.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/r1JGYFvbEF5KallfJBYgq-Ixj9w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/CICqUhQI2ee0PvAhfeyg/blank-2-grids-collage-16-.jpg",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Empreendedor cria robôs de carga para fábricas e fatura R$ 200 mil por mês",
+    "resumo": "Uruguaio cria robôs industriais no Brasil e fatura R$ 200 mil por mês Levar peças de um setor para outro, abastecer máquinas e transportar cargas dentro de fábricas são tarefas repetitivas que, cada vez mais, estão deixando de ser feitas por pessoas. Em indústrias brasileiras, robôs autônomos começaram a assumir esse trabalho e vêm mudand",
+    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/26/empreendedor-cria-robos-de-carga-para-fabricas-e-fatura-r-200-mil-por-mes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/8owGao7ntS5H0XXG3uKq3GTJYPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/7/XeLWBKSqyh0br5vP0MSQ/captura-de-tela-2026-11-25-200219.png",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Governo fará acolhimento de pessoas em situação de rua no DF nesta quinta; veja endereços",
+    "resumo": "Pessoas em situação de rua no DF TV Globo Equipes do governo do Distrito Federal farão uma ação de acolhimento e assistência social nesta quinta-feira (26) para pessoas em situação de rua instaladas em endereços de Taguatinga e do Plano Piloto. Segundo o governo, a ação deve reunir servidores de diferentes órgãos, como: secretarias de Des",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/26/governo-fara-acolhimento-de-pessoas-em-situacao-de-rua-no-df-nesta-quinta-veja-enderecos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zvbaLc1THdClPwZPm96lonOdZh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/I/BHjPb5RmmWjnAG9JKn0Q/a0520-bddf-bdbr-limpo-09072025-frame-299408.jpeg",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como dividir as contas do casal quando os salários são diferentes?",
+    "resumo": "Como dividir as despesas do casal quando os salários são diferentes? Dividir as despesas do casal igualmente nem sempre significa que os dois estão contribuindo de forma equilibrada. Quando os salários são diferentes, uma alternativa é calcular a participação de cada um de acordo com a renda. Mas essa não é a única possibilidade: tarefas ",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/26/como-dividir-as-contas-do-casal-quando-os-salarios-sao-diferentes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/BCKCuFG2-qVhpwOL1bUDq15K8dU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/TsxdUGRwOydJyNFdaz7A/thumb-horizontal-como-dividir-as-despesas-do-casal-quando-os-salarios-sao-diferentes.jpg",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha",
+    "resumo": "Samira agora vive escondida no exterior Sisu Pictures Ltd Aviso: conteúdo perturbador e linguagem forte. Samira diz que nunca se interessou por política. \"Eu trabalhava com vendas no Irã. Vendia cosméticos\", disse ela à BBC. Mas tudo mudou no dia em que sua filha única foi morta a tiros na sua frente por forças de segurança iranianas. Sev",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/26/a-iraniana-acusada-de-declarar-guerra-a-deus-apos-denunciar-morte-da-filha.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/p3BTxboKpXutYuNsLUmIVpxeCPg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Q/kfICSFSDaaFnHZJ9yVGQ/sisu-pictures-ltd.png",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Com apenas 3 inscritos no vestibular, curso menos concorrido da UFSC forma de tradutores a intérpretes",
+    "resumo": "Vestibular Unificado UFSC/IFC O curso de letras italiano da Universidade Federal de Santa Catarina (UFSC), que recebeu apenas três candidatos inscritos como primeira opção para as 28 vagas ofertadas no Vestibular Unificado UFSC/IFC 2027, capacita profissionais em diferentes áreas de atuação, da docência até a tradução. A estudante Mônica ",
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/26/com-3-inscritos-vestibular-curso-menos-concorrido-ufsc-tradutores-interpretes-professores.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/DiTaOOuhbDBKSJsTnobQyu-wQ8E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/x/z4hw74TIWkXBM7Tiv3qg/como-e-o-curso-ufsc-.png",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Ação de Natal leva 700 jovens que vivem em abrigos no DF a parque de diversões; veja imagens",
+    "resumo": "Chegada do Papai Noel ao projeto da Fundação CDLDF, em Brasília O tradicional parque de diversões Nicolândia, no centro de Brasília, recebeu nesta quarta-feira (25) mais de 700 crianças e adolescentes que vivem em abrigos sociais da capital federal. O Nicolândia foi reservado especialmente para a ocasião – para a maioria dos convidados, e",
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/26/acao-de-natal-leva-700-jovens-que-vivem-em-abrigos-no-df-a-parque-de-diversoes-veja-imagens.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/I9YNV-NMEcien5XEg7C_aM6csG4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/x/yc8CMsSliFvc09Z8hjdg/whatsapp-image-2026-11-25-at-18.12.37.jpeg",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rio recebe festival gratuito de arte popular com artistas de 24 estados, Bateria da Mangueira e Jongo da Serrinha",
+    "resumo": "Rio recebe festival gratuito de arte popular com artistas de 24 estados. Divulgação O Rio de Janeiro recebe, até domingo (29), o primeiro Festival Nacional de Arte Popular e Artesanato Brasileiro, o ARPOARTE. Com entrada gratuita, o evento acontece no Píer Mauá, na Região Portuária, e reúne artistas, artesãos e coletivos de 24 estados, al",
+    "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/11/26/rio-recebe-festival-gratuito-de-arte-popular-com-artistas-de-24-estados-bateria-da-mangueira-e-jongo-da-serrinha.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/0KcfdFL2PIjqb7FDlEEAKKC_ZeY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/EGyNoMS0ivgQcLfwq5kQ/dada-venceslau.jpeg",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rio Paraíba do Sul sobe 66 centímetros em 24 horas em Campos; estacionamento do Cais da Lapa será fechado",
+    "resumo": "Rio Paraíba do Sul sobe e aumenta alerta para chuva em Campos O nível do Rio Paraíba do Sul subiu 66 centímetros em 24 horas em Campos dos Goytacazes, no Norte Fluminense. De acordo com a Defesa Civil, a medição realizada às 17h30 desta quarta-feira (25) apontou 8,20 metros. No mesmo horário de terça-feira (24), o rio estava em 7,54 metro",
+    "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/26/rio-paraiba-do-sul-sobe-66-centimetros-em-24-horas-em-campos-estacionamento-do-cais-da-lapa-sera-fechado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/-iBMybMhpGnEmjd2UiFkTH5u9vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/b/cfF7XuSeAxnNa1C2k99Q/rio-paraiba-2.png",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Qual iPhone 'antigo' comprar na Black Friday?",
+    "resumo": "Monitorei os preços do iPhone por 3 meses e essa foi a conclusão Para quem busca um iPhone mais barato, há diversas opções que não se dobram ao meio nos últimos anos – os modelos 16, 16e e 17e oferecem a melhor relação custo/benefício atualmente para quem tem um modelo mais antigo (como 11, 12 ou 13) e pensa em trocar de celular na Black ",
+    "link": "https://g1.globo.com/guia/guia-de-compras/tecnologia/celulares/qual-iphone-antigo-comprar-na-black-friday.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/J9PX_sM438gsbERKp62aNpdDY8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/WPkE6aTkCL6Vd5cq5BdQ/img-6786.jpg",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Filha de mulher morta durante discussão com vizinha implorou por socorro à mãe; vídeo",
+    "resumo": "Filha de mulher morta durante discussão com vizinha implorou por socorro à mãe; vídeo A filha de Maiara do Vale Araújo, de 36 anos, implorou por socorro após ver a mãe ser morta a facadas durante uma discussão com uma vizinha, em Goiânia. O desespero da jovem foi gravado em vídeo, que mostra a vítima ferida no chão, amparada por moradores",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/filha-de-mulher-morta-durante-discussao-com-vizinha-implorou-por-socorro-a-mae-video.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/E-USatPq7t7GLzklJe0cvs3xbuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/X/zt9mHgSbO3HZObkGu9pA/imagens-g1-4-.png",
+    "data": "2026-11-26T05:00:00.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Six killed, including children, in plane crash off Mississippi coast",
+    "resumo": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T04:48:42.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Brazil blasts ‘unacceptable’ new US tariff proposals",
+    "resumo": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-26T04:47:47.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Racecourse office blown away in Brazil",
@@ -16,105 +160,6 @@
     "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
     "imagem": "https://s2-g1.glbimg.com/ATKv8bwkTuerFhG79Ue14gmaiA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/r/BfZZriRDOFHEhayXLkoA/previsao-tempo-bras-lia-20261126-011600.jpeg",
     "data": "2026-11-26T04:16:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para esta quinta-feira (26) para Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 29ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoadas. No período da tarde, s",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/9S6uayxsy_vDGWZN0AM3rMWUbTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/O/D5WE2ORQyirW4qDVB88w/previsao-tempo-goi-nia-20261126-011545.jpeg",
-    "data": "2026-11-26T04:15:54.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para esta quinta-feira (26) para Aparecida de Goiânia (GO) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovoad",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/M5mUijg5D1onDd46JcBwOY0YIes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/I/Dbw84tT7m2o3o5tG7aag/previsao-tempo-aparecida-de-goi-nia-20261126-011529.jpeg",
-    "data": "2026-11-26T04:15:39.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Cuiabá (MT): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-    "resumo": "Previsão do tempo hoje em Cuiabá g1 A previsão do tempo para esta quinta-feira (26) para Cuiabá (MT) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 34ºC e as mínimas de 25ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol, pancadas de chuva e trovo",
-    "link": "https://g1.globo.com/mt/mato-grosso/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-cuiaba-mt-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Ri0nUB8m3vonUPjtCIsQ2AdSoiQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/W/YH9NiuQBGMAEoJshQt9A/previsao-tempo-cuiab-20261126-011512.jpeg",
-    "data": "2026-11-26T04:15:23.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Campo Grande (MS): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Campo Grande g1 A previsão do tempo para esta quinta-feira (26) para Campo Grande (MS) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 29ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, p",
-    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-campo-grande-ms-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NupRmEuwjEM6wHYOAkc0hrCBOrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/i/8TkVgRSqSeeqmoumEKRw/previsao-tempo-campo-grande-20261126-011456.jpeg",
-    "data": "2026-11-26T04:15:06.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Porto Alegre (RS): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
-    "resumo": "Previsão do tempo hoje em Porto Alegre g1 A previsão do tempo para esta quinta-feira (26) para Porto Alegre (RS) é de sol com muitas nuvens durante o dia e períodos de céu nublado. Noite com muitas nuvens. As máximas são de 28ºC e as mínimas de 19ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens.",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-porto-alegre-rs-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/i2h9va53kjeLouGv_eGNR_2qzc0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/8/KICezESIqakTqwayb0AA/previsao-tempo-porto-alegre-20261126-011439.jpeg",
-    "data": "2026-11-26T04:14:50.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Caxias do Sul (RS): muitas nuvens o dia todo, com aberturas de sol",
-    "resumo": "Previsão do tempo hoje em Caxias do Sul g1 A previsão do tempo para esta quinta-feira (26) para Caxias do Sul (RS) é de muitas nuvens o dia todo, com aberturas de sol. As máximas são de 25ºC e as mínimas de 14ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol com algumas ",
-    "link": "https://g1.globo.com/rs/rio-grande-do-sul/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-caxias-do-sul-rs-muitas-nuvens-o-dia-todo-com-aberturas-de-sol.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/p09H_q2WYqwsLiBsCIRZ6G0Fl-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/x/mMVYujRk625DwI4v2sFQ/previsao-tempo-caxias-do-sul-20261126-011423.jpeg",
-    "data": "2026-11-26T04:14:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Joinville (SC): tempo chuvoso durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Joinville g1 A previsão do tempo para esta quinta-feira (26) para Joinville (SC) é de tempo chuvoso durante o dia e à noite. As máximas são de 22ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, tempo chuvoso. À noite, tempo chuvoso. Pr",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-joinville-sc-tempo-chuvoso-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/kZ-plZfQpTg9bu0nmbojsO_FMp8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/4/VCswJiQ06bETxe77mMSQ/previsao-tempo-joinville-20261126-011405.jpeg",
-    "data": "2026-11-26T04:14:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Florianópolis (SC): tempo chuvoso durante o dia; à noite, a chuva para e as nuvens diminuem",
-    "resumo": "Previsão do tempo hoje em Florianópolis g1 A previsão do tempo para esta quinta-feira (26) para Florianópolis (SC) é de tempo chuvoso durante o dia. À noite, a chuva para e as nuvens diminuem. As máximas são de 24ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde,",
-    "link": "https://g1.globo.com/sc/santa-catarina/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-florianopolis-sc-tempo-chuvoso-durante-o-dia-a-noite-a-chuva-para-e-as-nuvens-diminuem.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/NKcR7bNGXn2HbLvgI9rV-pK60Vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/q/9xPsfAQ8y7tRkAmT8oXQ/previsao-tempo-florian-polis-20261126-011349.jpeg",
-    "data": "2026-11-26T04:13:59.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Maringá (PR): sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde; à noite, temporal",
-    "resumo": "Previsão do tempo hoje em Maringá g1 A previsão do tempo para esta quinta-feira (26) para Maringá (PR) é de sol com aumento de nuvens e pancadas de chuva no fim da manhã e à tarde. À noite, temporal. As máximas são de 29ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da t",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-maringa-pr-sol-com-aumento-de-nuvens-e-pancadas-de-chuva-no-fim-da-manha-e-a-tarde-a-noite-temporal.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jD9GATX0BiyZaTP0KSL1AJm0zMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/8/CwBuAbSfqvyyfca2HdLQ/previsao-tempo-maring-20261126-011334.jpeg",
-    "data": "2026-11-26T04:13:44.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Londrina (PR): sol com algumas nuvens; chove rápido durante o dia e à noite",
-    "resumo": "Previsão do tempo hoje em Londrina g1 A previsão do tempo para esta quinta-feira (26) para Londrina (PR) é de sol com algumas nuvens. Chove rápido durante o dia e à noite. As máximas são de 25ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. No período da tarde, sol e chuva. À noite, ",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-londrina-pr-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/JCzIiou55fcK1RnN320xH3FswT8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/W/7YcQbITmiKB8uFrRGlUw/previsao-tempo-londrina-20261126-011317.jpeg",
-    "data": "2026-11-26T04:13:28.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Curitiba (PR): tempo chuvoso durante o dia; à noite pode chuviscar e o céu ainda fica nublado",
-    "resumo": "Previsão do tempo hoje em Curitiba g1 A previsão do tempo para esta quinta-feira (26) para Curitiba (PR) é de tempo chuvoso durante o dia. À noite pode chuviscar e o céu ainda fica nublado. As máximas são de 20ºC e as mínimas de 17ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, tempo chuvoso. No período da tarde, te",
-    "link": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/26/previsao-do-tempo-hoje-para-curitiba-pr-tempo-chuvoso-durante-o-dia-a-noite-pode-chuviscar-e-o-ceu-ainda-fica-nublado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jDFEULxxn-TBo2NtNfcr5OpN3n4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/P/4dSpaLQ6iACAJCp946dw/previsao-tempo-curitiba-20261126-011301.jpeg",
-    "data": "2026-11-26T04:13:11.000Z"
   },
   {
     "categoria": "Internacional",
@@ -135,6 +180,15 @@
     "data": "2026-11-26T04:04:14.000Z"
   },
   {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Chicago Bean push inspires Washington Monument shove | The Moment",
+    "resumo": "Dalton Thompson tells The National about the moment the 'Chicago Bean push' inspired him to organize an event to push the Washington Monument a liiiiiittle to the left.",
+    "link": "https://www.cbc.ca/player/play/9.7436713?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/997a5a4e-9cd5-4bba-a6d7-bbe527b22407,1795656376466/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "data": "2026-11-26T03:48:21.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
@@ -149,7 +203,7 @@
     "titulo": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
     "resumo": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a0d/live/c9da76c0-e94c-11f1-99b6-a35a62fa4264.jpg",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
     "data": "2026-11-26T03:27:33.000Z"
   },
   {
@@ -225,15 +279,6 @@
     "data": "2026-11-26T02:00:00.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "U.S. judge blocks FCC from revoking licences of Disney-owned ABC stations",
-    "resumo": "A U.S. ‌judge on Wednesday barred the Federal Communications Commission from revoking Walt Disney's licences for its eight company-owned ABC TV stations, in a dramatic blow to President Donald Trump's efforts to rein in American media companies.",
-    "link": "https://www.cbc.ca/news/world/judge-blocks-fcc-revoking-abc-licences-9.7436635?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/a7abe22c-6237-4cee-b934-7c8281b29e4c,1795656578066/full/max/0/default.jpg?im=Crop%2Crect%3D%28739%2C1505%2C4294%2C2415%29%3B",
-    "data": "2026-11-26T01:54:02.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
@@ -304,33 +349,6 @@
     "link": "https://www.cbc.ca/news/politics/poilievre-wainwright-nurse-employment-9.7436563?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
     "data": "2026-11-26T00:56:20.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
-    "resumo": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
-    "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T00:52:56.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "ISIL blamed for multiple suicide attacks in Syria",
-    "resumo": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T00:51:17.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Two Syrian security personnel killed in ISIL suicide attack",
-    "resumo": "Syrian forces say the attack in northeastern Syria&#039;s city of Hasakah involved four assailants who were all killed.",
-    "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-26T00:41:49.000Z"
   },
   {
     "categoria": "Brasil",
@@ -801,15 +819,6 @@
     "data": "2026-11-25T18:00:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "C.I.A. Waterboarded More Detainees Than It Admitted, F.B.I. Interview Suggests",
-    "resumo": "The apparent disclosure was included in files released in response to a New York Times lawsuit. The release also shed light on C.I.A. officials’ fears about possible prosecutions.",
-    "link": "https://www.nytimes.com/2026/11/25/us/politics/cia-waterboarding.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-torture-pbgt/25dc-torture-pbgt-mediumSquareAt3X.jpg",
-    "data": "2026-11-25T17:57:50.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -1023,15 +1032,6 @@
     "resumo": "The Ariston Cafe opened its doors in 1924 to serve travelers along Route 66 and has dished up classic American road fare ever since.",
     "link": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6953x4593+0+0/resize/6953x4593!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fdc%2Ff4%2F8d8a889f48009045a421aa5a5ec9%2Fhigh-res-route66-cafe-4.jpg",
-    "data": "2026-11-25T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
-    "titulo": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-    "resumo": "Steep discounts for \"Green Wednesday,\" one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch.",
-    "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3264x1836+0+247/resize/3264x1836!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Fa6%2F390bdd1e4a02a0ddda45c30c7d42%2Fap685592876001.jpg",
     "data": "2026-11-25T10:00:00.000Z"
   },
   {
