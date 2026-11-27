@@ -1,5 +1,212 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies",
+    "resumo": "Ms. Stewart-Cousins, 76, served in the state senate for 20 years.",
+    "link": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27met-cousins-death-kpcz/27met-cousins-death-kpcz-mediumSquareAt3X.jpg",
+    "data": "2026-11-27T19:30:16.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The best Black Friday deals on smart home gear",
+    "resumo": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices [&#8230",
+    "link": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-27T19:30:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Canada Post narrows Q3 loss to $451M as parcel and flyer business picks up",
+    "resumo": "The third-quarter loss is an improvement of nearly 17 per cent, compared with the $541-million loss in the same period last year. The postal carrier has been struggling as fewer people send letter mail.",
+    "link": "https://www.cbc.ca/news/business/canada-post-results-q3-2026-9.7439127?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.7384304,1734128410000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C3300%2C1856%29%3B",
+    "data": "2026-11-27T19:23:46.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Torneio Finals J. Hawilla reúne 90 jogadores profissionais e revela talentos juvenis do golfe em Rio Preto",
+    "resumo": "Torneio Finals J. Hawilla revela talentos juvenis em Rio Preto Reprodução/TV TEM O Torneio Finals J. Hawilla movimenta o cenário esportivo de São José do Rio Preto (SP) neste fim de semana, reunindo 90 golfistas e as promessas juvenis do esporte no Quinta do Golfe Clube. 🏌🏻‍♀️A competição encerra o calendário oficial da temporada do clu",
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/27/torneio-finals-j-hawilla-reune-90-jogadores-profissionais-e-revela-talentos-juvenis-do-golfe-em-rio-preto.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YwuRV8u0juqL_Z8w8pg7JK2WcxA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/I6iaTNTpCfI8oB3wNGRw/g1-16-.jpg",
+    "data": "2026-11-27T19:22:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Governo brasileiro afirma não ter sido notificado sobre a morte do lutador Gustavo Ferro na Ucrânia até a tarde desta sexta",
+    "resumo": "Tricampeão brasileiro de muay thai, Gustavo Ferro morreu durante confronto na Ucrânia Arquivo pessoal O Ministério das Relações Exteriores (MRE) informou que não havia sido notificado sobre a morte do lutador Gustavo Ferro na Ucrânia até a tarde desta sexta-feira (27). Em nota enviada ao g1, o governo brasileiro afirmou que a Embaixada do",
+    "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/27/governo-brasileiro-afirma-nao-ter-sido-notificado-sobre-a-morte-do-lutador-gustavo-ferro-na-ucrania-ate-a-tarde-desta-sexta.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uyeUtV93em_pN4aqnvjNpZKLopI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/x/uRgWMkQ9G464gWOKQAmQ/lutador-brasileiro-morreu-durante-confronto-na-ucrania.png",
+    "data": "2026-11-27T19:22:39.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Shopping de SP faz programação de Natal especial para pets",
+    "resumo": "Shopping Vila Olímpia terá programação de Natal para pets em SP Reprodução/ Divulgação O Shopping Vila Olímpia, na Zona Sul de São Paulo, terá atividades de Natal voltadas aos animais de estimação. A programação inclui encontros de raças de cães, oficinas acompanhadas por gatos resgatados, feira de adoção e fotos dos pets com o Papai Noel",
+    "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/27/shopping-de-sp-faz-programacao-de-natal-especial-para-pets.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/AdNKxeuEA6MHmtOFM882YDd6c5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/S/8Mqpw2R7A8sBN59aBMcQ/fotojet.jpg",
+    "data": "2026-11-27T19:22:05.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Polícia Civil de Avaré apreende celulares e computadores na zona leste de SP em operação contra golpe do falso advogado",
+    "resumo": "mandados de busca e apreensão foram cumpridos nas regiões de Itaquera e Artur Alvim, na zona leste de SP Polícia Civil/Divulgação A Polícia Civil apreendeu celulares, computadores e outros objetos durante uma operação realizada na manhã desta sexta-feira (27), na zona leste de São Paulo. A ação foi conduzida pela Delegacia de Investigaçõe",
+    "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/27/policia-civil-de-avare-apreende-celulares-e-computadores-na-zona-leste-de-sp-em-operacao-contra-golpe-do-falso-advogado.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/zMuXnJ5KFQncLrovwumoWpYe-5U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/K/JaUbs3RWaHVfVHFlmeHQ/whatsapp-image-2026-11-27-at-15.44.34.jpeg",
+    "data": "2026-11-27T19:18:48.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Empreendedorismo e inovação movimentam a transformação econômica de Cajazeiras",
+    "resumo": "Cajazeiras, no Alto Sertão paraibano, destaca-se como um importante polo regional de comércio, serviços, educação e empreendedorismo Prefeitura de Cajazeiras Transformar ideias em negócios, ampliar mercados e investir em inovação são alguns dos caminhos para fortalecer a economia do Alto Sertão paraibano. Na região de Cajazeiras, conhecid",
+    "link": "https://g1.globo.com/pb/paraiba/especial-publicitario/sebrae/noticia/2026/11/27/empreendedorismo-e-inovacao-movimentam-a-transformacao-economica-de-cajazeiras.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/7-14JMUBoEhaIXfZs3mkBqfg78o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/N/A05CHBSNCZiDpvm65rPg/img-3169.jpg.jpeg",
+    "data": "2026-11-27T19:18:31.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Justiça dá 72h para Sabesp apresentar plano de abastecimento para o verão em Santos",
+    "resumo": "Teresina terá interrupção no abastecimento de água (imagem ilustrativa) g1 Piauí A Justiça de Santos, no litoral de São Paulo, deu prazo de 72 horas, a partir da notificação, para que a Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) apresente o plano de contingência para a temporada de verão e informe a situação atual do s",
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/27/justica-da-72h-para-sabesp-apresentar-plano-de-abastecimento-para-o-verao-em-santos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/H804lG7bfBHSlUVm3zfJBGaIReM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/cwbPQQTYW2moIWJjn3nw/edicao-imagens-g1-15-.png",
+    "data": "2026-11-27T19:17:42.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Médica comove com carta após morte de namorado agropecuarista atingido por raio: ‘Não consigo acreditar’",
+    "resumo": "Bruno Carmo Costa estava trabalhando em uma fazenda no momento em que foi atingido pelo raio Reprodução/Redes sociais A namorada do agropecuarista Bruno Carmo Costa, de 36 anos, que morreu após ser atingido por um raio, fez uma declaração comovente sobre a perda. Nas redes sociais, a médica Ana Caroline escreveu que tem saudades do compan",
+    "link": "https://g1.globo.com/go/goias/noticia/2026/11/27/medica-comove-com-carta-apos-morte-de-namorado-agropecuarista-atingido-por-raio-nao-consigo-acreditar.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Qd4yeEXOxQOy6GlMCrlTHTsAOUs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/eAH2sITFq00YfB5vxQiQ/copia-de-modelo-foto-fundo-borrado-9-.png",
+    "data": "2026-11-27T19:15:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "DW Brasil",
+    "titulo": "Como a IA passou de erros simples a façanhas que abalam matemáticos",
+    "resumo": "Antes, a inteligência artificial tinha dificuldades até mesmo para resolver cálculos simples. Agora, ela resolve problemas matemáticos complexos. Como se deu esse salto extraordinário e quais preocupações emergem?",
+    "link": "https://www.dw.com/pt-br/como-a-ia-passou-de-erros-simples-a-façanhas-que-abalam-matemáticos/a-80080628?maca=bra-rss-br-all-1030-rdf",
+    "imagem": null,
+    "data": "2026-11-27T19:15:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Unimed Cuiabá alerta para uso seguro de canetas no tratamento do diabetes",
+    "resumo": "Saúde e Prevenção Assessoria | Unimed Cuiabá O uso seguro de canetas no tratamento do diabetes e os riscos da automedicação foram destaque na palestra conduzida pela endocrinologista Dra. Claudia Mariane Santana, do programa Doce Vida, do Núcleo de Medicina Preventiva - Viver Bem da Unimed Cuiabá, realizada nessa quarta-feira (25), no Aud",
+    "link": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/unimed-cuiaba-unimed-cuiaba-ha-50-anos-cuidando-de-geracoes/noticia/2026/11/27/unimed-cuiaba-alerta-para-uso-seguro-de-canetas-no-tratamento-do-diabetes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/wot2a13oP79LX7JCzTOXbnInrWo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/2/1VAdJCTQ68s1P0vvQhbQ/whatsapp-image-2026-11-27-at-09.01.36.jpeg",
+    "data": "2026-11-27T19:14:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Marido que fingiu encontrar mulher morta é condenado a 36 anos por matá-la a facadas em MT",
+    "resumo": "Vítima foi identificada como Maria Aparecida Gonçalves da Silva, de 39 anos Reprodução O Tribunal do Júri condenou Dione dos Santos Fonseca, de 39 anos, a 36 anos, três meses e 16 dias de prisão, em regime inicial fechado, pelo feminicídio da esposa, Maria Aparecida Gonçalves da Silva, também de 39 anos, ocorrido em Água Boa, a 736 km de ",
+    "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/27/marido-que-fingiu-encontrar-mulher-morta-e-condenado-a-36-anos-por-mata-la-a-facadas-em-mt.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/G9QsGaDWqjlu4QwTfcPyXm7-JaU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/G/BQn9ZtSFyPfB6KBkUZYQ/foto-g1-1-.png",
+    "data": "2026-11-27T19:14:17.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Black Friday: Consumidora sai de casa às 4h30 e viaja mais de 40 km para comprar bicicleta em Teresina",
+    "resumo": "Sexta-feira de promoções: Black Friday movimenta lojas físicas de Teresina Lojas em Teresina registram movimentação intensa nesta sexta-feira (27) por causa da Black Friday, data marcada por promoções e descontos no comércio. Entre os consumidores que aproveitaram as ofertas está a dona de casa Sandra Torres, que percorreu cerca de 40 qui",
+    "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/27/black-friday-em-teresina.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/amuD5YiOlvozF8McrxGXBSz4G_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/S/sqIdbJTV2BeR5mydwN2w/edicao-imagens-g1-2026-11-27t145921.627.png",
+    "data": "2026-11-27T19:13:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Black Friday no Amapá tem distribuição de senhas para filas e material de construção a R$ 1,99",
+    "resumo": "Black Friday no Amapá: 87% dos empresários projetam alta nas vendas no fim de ano A Black Friday movimenta o comércio nesta sexta-feira (27) com promoções que atraem consumidores em todo o país. No Amapá, para disputar a clientela, uma loja apostou na venda de materiais de construção a partir de R$ 1,99 e precisou distribuir senhas para o",
+    "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/27/black-friday-no-amapa-tem-distribuicao-senhas-para-filas-e-material-de-construcao-a-r-199.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/vbPR6cvUwSCPo3Mkcv2_eBeo7EE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/fuAKXnTQO9AwIdNGAIsQ/aleixo-g1-6-.jpg",
+    "data": "2026-11-27T19:11:52.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Câmara de Campinas decide não fazer uso de força para retirar manifestantes e cancela sessão para votar reforma da Previdência",
+    "resumo": "Oficial notifica decisão judicial aos servidores que bloqueiam a Câmara de Campinas A Câmara de Vereadores de Campinas cancelou a sessão extraordinária que havia sido convocada para esta sexta-feira (27) para votar o projeto de reforma da Previdência. A decisão ocorreu mesmo após a Justiça autorizar o uso de força mínima para retirar os m",
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/27/camara-de-campinas-decide-nao-fazer-uso-de-forca-para-retirar-manifestantes-e-cancela-sessao-para-votar-reforma-da-previdencia.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/D9E10ggm33mm-wB9a9qjy9gP8dE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/H/LFWDztQHqgfdn5UtyAug/whatsapp-image-2026-11-27-at-09.09.05.jpeg",
+    "data": "2026-11-27T19:09:23.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "The absolute best Black Friday deals we’ve found (so far)",
+    "resumo": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-27T18:59:19.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Government reveals contractor shortlist for 24 Sussex overhaul",
+    "resumo": "The federal government has made a shortlist of seven contractors it is considering to renovate 24 Sussex Drive into a habitable residence once again.",
+    "link": "https://www.cbc.ca/news/politics/contractor-shortlist-24-sussex-renovation-9.7439108?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B",
+    "data": "2026-11-27T18:57:58.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Religious health-care facilities can continue to ban MAID on site, B.C. Supreme Court rules",
+    "resumo": "The B.C. Supreme Court has upheld the exemption that allows religious health-care facilities to prohibit medical assistance in dying. The decision means facilities such as Vancouver’s St. Paul’s Hospital can continue to require patients that want MAID to transfer to another facility.",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/court-dismisses-challenge-to-maid-ban-in-religious-health-care-facilities-9.7438902?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.7237658,1795800756351/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1384%2C3024%2C1701%29%3B",
+    "data": "2026-11-27T18:57:56.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "'Breast bowl' from Marie-Antoinette's pleasure dairy sets new record at auction",
+    "resumo": "A rare porcelain \"breast bowl\" — an unconventionally shaped drinking vessel that Louis XVI commissioned for Marie-Antoinette — has sold for a record-setting price at auction in Paris.",
+    "link": "https://www.cbc.ca/news/entertainment/auction-breast-bowl-jatte-teton-marie-antoinette-9.7438830?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/fe11cf39-6853-4b27-8141-efb0ecad93db,1795795819338/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "data": "2026-11-27T18:55:55.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+    "resumo": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+    "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
+    "data": "2026-11-27T18:52:33.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "BBC News",
+    "titulo": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+    "resumo": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+    "data": "2026-11-27T18:42:50.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Poilievre heading to Washington next week in push for tariff-free trade with U.S.",
+    "resumo": "Conservative Leader Pierre Poilievre is heading to Washington next week as trade talks between Canada and the United States continue.",
+    "link": "https://www.cbc.ca/news/politics/poilievre-washington-trip-9.7439098?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/c7e2384b-3b6a-4e1f-9cc6-d97e7b9a4362,1795804145822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C5927%2C3333%29%3B",
+    "data": "2026-11-27T18:39:26.000Z"
+  },
+  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
@@ -7,114 +214,6 @@
     "link": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-27T18:30:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Revestimento se desfaz e mato cresce em rua após obra de recuperação em Palmas: 'Sabor asfalto', diz morador",
-    "resumo": "Moradores da Arno 12 reclamam da qualidade do asfalto Moradores da Arno 12, antiga 105 Norte, em Palmas, estão insatisfeitos com a qualidade das obras de recuperação do asfalto. Segundo eles, o material aplicado sobre o pavimento existente se desfaz com facilidade. Além disso, em alguns pontos, o mato que cresceu próximo ao meio-fio não f",
-    "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/27/revestimento-se-desfaz-e-mato-cresce-em-rua-apos-obra-de-recuperacao-em-palmas-sabor-asfalto-diz-morador.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/mlVRilFnBQ_JiozAqPGU_3Iap6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/r/QpA9voQFu4AKRwzQjNWg/foto-e-montagem-vertical-2026-11-27t151946.873.png",
-    "data": "2026-11-27T18:23:34.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Quem eram os três pacientes que morreram em intervalo de 2h no interior de SP; técnico foi preso",
-    "resumo": "Após prisão de técnico, polícia ouve profissionais de hospital onde três morreram João Carlos Frigieri, Aparecida de Fátima Pavanello e Josefa Araújo da Silva são os três pacientes que estavam internados na Unidade de Terapia Intensiva (UTI) da Santa Casa de Araraquara (SP) e morreram em um intervalo de pouco mais de 2 horas na madrugada ",
-    "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/27/quem-eram-os-tres-pacientes-que-morreram-em-intervalo-de-2h-no-interior-de-sp-tecnico-foi-preso.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/rAPX07N8G6B4QZ0qSZfcJtXmt5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/C/pJ2sSqQour5RPYbWdnzA/179579913652753-1-1-.jpg",
-    "data": "2026-11-27T18:22:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEOS: Jornal Anhanguera Regiões de sexta-feira, 27 de novembro de 2026",
-    "resumo": "Assita a todos os vídeos do jornal.",
-    "link": "https://g1.globo.com/go/goias/edicao/2026/11/27/videos-jornal-anhanguera-regioes-de-sexta-feira-27-de-novembro-de-2026.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/lMGGF4y0NXfbHVzF9FG8is04dvg=/s01.video.glbimg.com/deo/vi/61/79/15287961",
-    "data": "2026-11-27T18:21:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Seis acusados de matar primo de ex candidato à prefeitura de Rio Branco vão a júri no AC; dois não compareceram",
-    "resumo": "Seis acusados de matar Levi Freitas de Andrade Paulino em 2020 são julgados em júri popular em Rio Branco Arquivo pessoal O júri popular dos seis acusados de matar Levi Freitas de Andrade Paulino, em 2020, primo do ex-candidato à Prefeitura de Rio Branco Minoru Kinpara, começou nessa quinta-feira (26). Apenas quatro réus participam presen",
-    "link": "https://g1.globo.com/ac/acre/noticia/2026/11/27/seis-acusados-de-matar-primo-de-ex-candidato-a-prefeitura-de-rio-branco-vao-a-juri-no-ac.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/jjVWPd_TZenA9Ki6BYpaazuOOXo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/FobozRRt2wM5EUJ1iHSw/midia-de-distribuicao-g1-50-.png",
-    "data": "2026-11-27T18:19:41.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Muito além da literatura: Amazônia das Palavras conecta cultura, aprendizado e oportunidades em 13 cidades",
-    "resumo": "Projeto 'Amazônia das palavras' encerra programação em Porto Velho A cultura também movimenta a economia. Por trás de cada oficina, apresentação artística e atividade educativa, existe uma rede de profissionais, fornecedores e serviços que participa da realização de projetos culturais. Essa dimensão esteve presente na quarta edição do Ama",
-    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/27/muito-alem-da-literatura-amazonia-das-palavras-conecta-cultura-aprendizado-e-oportunidades-em-13-cidades.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/EF1OxkdFSpQUX9c5jrzIlt1GDuk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/U/s2oRPYSfWr2fgoW3qBOA/whatsapp-image-2026-11-26-at-10.40.41.jpeg",
-    "data": "2026-11-27T18:18:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "VÍDEO: Policiais militares agridem homem com cassetetes durante madrugada em Florianópolis",
-    "resumo": "Policiais militares agridem homem com cassetetes durante madrugada em Florianópolis Um vídeo flagrou dois policiais militares agredindo um homem no bairro Estreito, na região continental de Florianópolis. A violência ocorreu na madrugada de quinta-feira (26), por volta de 1h, segundo uma denúncia apresentada ao Ministério Público de Santa",
-    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/27/video-policiais-militares-homem-cassetetes-madrugada-florianopolis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/HSBrArRLZh38eaL844Iu46ADHhs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/4/YG1MoLSnq9avzFla0vrw/fotojet.jpg",
-    "data": "2026-11-27T18:16:17.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Tutora tentou abrir boca de pitbull para salvar cachorro durante ataque em São José dos Campos: 'Entrei em desespero'",
-    "resumo": "Cão de grande porte ataca dois cachorros, em São José A tutora de um dos cachorros atacados por um cão da raça pitbull que circulava solto em São José dos Campos relatou o desespero que viveu ao tentar salvar o animal. Daniela Julião Dacome tentou abrir a boca do cachorro para fazer com que ele soltasse Gaspar, mas acabou mordida na mão d",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/27/tutora-tentou-abrir-boca-de-pitbull-para-salvar-cachorro-durante-ataque-em-sao-jose-dos-campos-entrei-em-desespero.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2YKOCMsIkuYkySG1IIDcKBou0rE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/z/H8her4Q2CZHDBgX7bBCA/texto-do-seu-paragrafo-2026-11-27t103715.127.png",
-    "data": "2026-11-27T18:15:18.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Homem é preso em flagrante após furtar peças de bronze de cemitério de Jundiaí",
-    "resumo": "Homem é preso em flagrante por furtar peças de bronze de cemitério Um homem de 49 anos foi preso em flagrante na quinta-feira (26) após furtar dezenas de peças de bronze de túmulos de um cemitério. O suspeito foi detido por agentes da Guarda Civil após tentar fugir do local. O crime foi descoberto depois que uma testemunha viu o homem den",
-    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/27/homem-e-preso-em-flagrante-apos-furtar-pecas-de-bronze-de-cemiterio-de-jundiai.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/FCUpQVHp2l7YBv0Omn4c_7jXhNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/o7tZyZTnuYMwIpbtsOlQ/whatsapp-image-2026-11-27-at-13.45.16.jpeg",
-    "data": "2026-11-27T18:13:19.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça nega liberdade a Deolane Bezerra, Marcola e outros quatro réus investigados por lavagem de dinheiro do PCC",
-    "resumo": "O líder do PCC Marco Willians Herbas Camacho, o Marcola, e a influencer e advogada Deolane Bezerra Reprodução A Justiça de Presidente Venceslau (SP) manteve as prisões preventivas de seis réus acusados de integrar o Primeiro Comando da Capital (PCC) e rejeitou os principais questionamentos apresentados pelas defesas no processo que apura ",
-    "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/27/justica-nega-liberdade-a-deolane-bezerra-marcola-e-outros-reus-investigados-por-lavagem-de-dinheiro-do-pcc.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/UiToJwJ7DA3PrideaA8mL_Ck2BQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Z/6TILRdT5OYtt4GAp2uDA/deolane-marcola.jpg",
-    "data": "2026-11-27T18:13:01.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "385 quilos de 'supermaconha' são apreendidos pela PRF em Arcoverde",
-    "resumo": "PRF apreende mais de 386 quilos de 'supermaconha' em Arcoverde Divulgação A Polícia Rodoviária Federal (PRF) apreendeu mais de 385 quilos de skunk, droga conhecida por \"supermaconha\", em Arcoverde, no Sertão de Pernambuco. O flagrante aconteceu na BR-232, durante uma fiscalização a um caminhão no perímetro urbano. Segundo a PRF, o caso fo",
-    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/27/385-quilos-de-supermaconha-sao-apreendidos-pela-prf-em-arcoverde.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/G6qYhfFzB2FqMtwu6UsqaNG9aVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/s/VXmznoRJCYw8cfxkQArQ/whatsapp-image-2026-11-27-at-07.52.45.jpeg",
-    "data": "2026-11-27T18:12:37.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Chuva provoca desabamento de casa e 33 ocorrências em Petrópolis",
-    "resumo": "Chuva forte provoca destruição e derruba parte de casa em Petrópolis O temporal que atingiu Petrópolis, na Região Serrana do Rio, nesta quinta-feira (26), provocou o desabamento de uma casa no bairro Bomfim e outras 33 ocorrências registradas pela Defesa Civil. Segundo o órgão, choveu cerca de 140 milímetros na cidade. No desabamento regi",
-    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/27/chuva-provoca-desabamento-de-casa-e-33-ocorrencias-em-petropolis.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/CDADwkoDVw5xC6MGyz37gLfl3bI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/k/mpdp5mQEuaoxcWJLsEYg/desabamento-de-casa.jpg",
-    "data": "2026-11-27T18:12:12.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "General, chefe do TCP em Minas Gerais, é preso na Maré",
-    "resumo": "PM faz operação com mais de 100 agentes no Complexo da Maré Um jovem de 25 anos, apontado como uma das principais lideranças do Terceiro Comando Puro (TCP) em Nanuque, no Nordeste de Minas Gerais, foi preso nesta sexta-feira (27) durante uma operação da Polícia Militar no Complexo da Maré, na Zona Norte do Rio. Ronald Alves de Oliveira Sa",
-    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/27/chefe-do-tcp-em-minas-gerais-e-preso-na-mare.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/obwpbaUFdxpSCkHDfQt6TyRg5jw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/w/0uO5A9Si2WSGIvkk790A/imagem-cortada-24-.jpg",
-    "data": "2026-11-27T18:11:52.000Z"
   },
   {
     "categoria": "Internacional",
@@ -128,8 +227,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Mexico files complaint with US over tip line on alleged drug traffickers",
-    "resumo": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
+    "titulo": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+    "resumo": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
     "link": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-27T17:58:36.000Z"
@@ -155,8 +254,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
-    "resumo": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’",
+    "titulo": "Kyiv offers Black Sea ceasefire to protect grain exports",
+    "resumo": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
     "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-27T17:44:33.000Z"
@@ -174,7 +273,7 @@
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Zelenskyy criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road",
-    "resumo": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC that took place in Kyiv a day after the collapse of an EU budget deal that was to approve a $70 billion loan to the war-rava",
+    "resumo": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Russian President Vladimir Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC that aired just as an EU budget deal that was to approve a $70 billion loan to the war-ravaged co",
     "link": "https://www.cbc.ca/news/world/zelensky-eu-ukraine-funding-9.7438377?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/4f45694f-caa5-4a98-96a6-341aa8da7724,1795781411165/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C194%2C3725%2C2095%29%3B",
     "data": "2026-11-27T17:41:21.000Z"
@@ -268,15 +367,6 @@
     "link": "https://www.dw.com/pt-br/argentina-aprova-lei-contra-bets-que-proíbe-patrocínio-no-esporte/a-80079926?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-27T17:10:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The absolute best Black Friday deals we’ve found (so far)",
-    "resumo": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-27T17:07:08.000Z"
   },
   {
     "categoria": "Brasil",
@@ -468,24 +558,6 @@
     "data": "2026-11-27T15:47:49.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Workplace safety charges laid in 2024 shooting death of Edmonton security guard",
-    "resumo": "Workplace safety charges have been laid in connection with the death of an Edmonton security guard who was shot on the job two years ago.",
-    "link": "https://www.cbc.ca/news/canada/edmonton/singh-security-shooting-9.7438536?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/1.7406019,1733798156000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1013%2C3024%2C1701%29%3B",
-    "data": "2026-11-27T15:41:16.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Ontario attorney general urges Ottawa to strengthen self-defence rules in case of home invasions",
-    "resumo": "Ontario's attorney general and solicitor general have penned a letter to the federal government calling for clarified rules and stronger protections for home owners who protect themselves against home invasions. The letter comes amid an multiple violent home invasions in Toronto this fall, including one this week that left a man dead.",
-    "link": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-    "data": "2026-11-27T15:34:23.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
@@ -498,19 +570,10 @@
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "CRTC orders Bell, Rogers, Telus to stop charging prohibited wireless fees by Dec. 27",
-    "resumo": "Canada’s telecommunications regulator says Bell, Rogers and Telus have charged consumers fees that are prohibited under the Telecommunications Act, and has ordered them to stop by Dec. 27.",
+    "resumo": "Canada's telecommunications regulator says Bell, Rogers and Telus have charged consumers fees that are prohibited under the Telecommunications Act, and has ordered them to stop by Dec. 27.",
     "link": "https://www.cbc.ca/news/business/bell-rogers-telus-fees-9.7438448?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
     "data": "2026-11-27T15:21:35.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
-    "resumo": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-    "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
-    "data": "2026-11-27T15:18:51.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -523,21 +586,21 @@
   },
   {
     "categoria": "Internacional",
-    "fonte": "BBC News",
-    "titulo": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-    "resumo": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-    "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
-    "data": "2026-11-27T15:15:19.000Z"
-  },
-  {
-    "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Ucrânia transforma indústria de drones em eixo da segurança europeia",
     "resumo": "Know-how ucraniano e capacidade financeira e industrial europeia impulsionam a produção conjunta de drones e redefinem a indústria de defesa do continente.",
     "link": "https://www.dw.com/pt-br/ucrânia-transforma-indústria-de-drones-em-eixo-da-segurança-europeia/a-80076621?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-27T15:15:00.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Prime Minister Mark Carney officially lists Mackenzie Valley Highway as project of national interest",
+    "resumo": "",
+    "link": "https://www.cbc.ca/news/canada/north/livestory/prime-minister-mark-carney-north-9.7438167?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/911900c9-45f4-4522-840a-5818b088a6b2,1795794571410/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "data": "2026-11-27T14:59:12.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -603,13 +666,13 @@
     "data": "2026-11-27T13:38:07.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
-    "resumo": "If you&#8217;ve been curious about smart rings but have been put off by their high price tags, Black Friday is a good time to consider giving one a try. That’s because the Oura Ring 5, which we consider the best smart ring you can buy, has dropped to an all-time low of $299 ($100 off) [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-27T13:30:00.000Z"
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Crown seeks 25-year sentence for Kenneth Law, who admitted to selling poison",
+    "resumo": "Prosecutors are seeking a 25-year sentence for an Ontario man who sold potentially deadly substances online to people who then used those products to take their own lives.",
+    "link": "https://www.cbc.ca/news/canada/toronto/kenneth-law-sentencing-hearing-poison-seller-9.7438391?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B",
+    "data": "2026-11-27T12:15:39.000Z"
   },
   {
     "categoria": "Estados Unidos",
@@ -650,10 +713,10 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Quebec premier speaks after Supreme Court largely upholds province's secularism law",
+    "titulo": "Quebec premier calls Supreme Court's Bill 21 ruling a victory for secularism",
     "resumo": "",
     "link": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/bccf78a3-2d3c-458c-8987-525220c3fdfe,1795803528165/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "imagem": "https://i.cbc.ca/ais/bccf78a3-2d3c-458c-8987-525220c3fdfe,1795807587851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "data": "2026-11-27T10:48:20.000Z"
   },
   {
@@ -713,19 +776,19 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Screen-free tweens try their hand at Dungeons & Dragons",
-    "resumo": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg",
+    "titulo": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+    "resumo": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
     "data": "2026-11-27T10:00:00.000Z"
   },
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-    "resumo": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
+    "titulo": "Screen-free tweens try their hand at Dungeons & Dragons",
+    "resumo": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg",
     "data": "2026-11-27T10:00:00.000Z"
   },
   {
@@ -767,15 +830,6 @@
   {
     "categoria": "Canadá",
     "fonte": "CBC News",
-    "titulo": "Danielle Smith’s hold over UCP takes centre stage as 7,000 members registered for annual meeting",
-    "resumo": "Alberta's United Conservatives kick off their fifth annual general meeting under Premier Danielle Smith Friday, a gathering expected to reveal much about the party’s future a little more than a month after a divisive referendum.",
-    "link": "https://www.cbc.ca/news/canada/calgary/danielle-smith-alberta-ucp-agm-martin-belanger-9.7437423?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/2eca4177-a527-4751-92c0-cadbf1770529,1795717024974/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5072%2C2853%29%3B",
-    "data": "2026-11-27T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
     "titulo": "Jays tickets, drums and Tinder: Hundreds of purchases made with Toronto city credit cards raise questions about misuse",
     "resumo": "City of Toronto employees used city credit cards to make hundreds of purchases that included Blue Jays tickets, gift cards and later-disputed purchases on Tinder, an analysis of expenditure data by CBC News has found. The city says it has layers of oversight, but experts say it needs to be better.",
     "link": "https://www.cbc.ca/news/canada/toronto/toronto-city-hall-credit-cards-expenses-9.7437567?cmp=rss",
@@ -789,24 +843,6 @@
     "resumo": "You probably have way more housemates than you think, and most of them have at least six legs, a new study suggests. If you find them, here's why scientists say you shouldn't take them outside.",
     "link": "https://www.cbc.ca/news/science/citizen-science-never-home-alone-9.7437551?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/51b3bf22-d158-4e53-9474-2c526632c3c6,1795721528306/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C640%2C360%29%3B",
-    "data": "2026-11-27T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Small businesses worry potential consumer pullback could cut into critical holiday sales",
-    "resumo": "The holiday shopping season is a critical money-making time for lots of retailers. But as retail sales point to a dip in consumer spending, small business owners worry a pullback by shoppers could dent their sales.",
-    "link": "https://www.cbc.ca/news/business/small-businesses-holiday-shopping-9.7437827?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/2435acc2-6bf0-4358-9ca0-453d67d7058f,1795730024726/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C676%2C6499%2C3655%29%3B",
-    "data": "2026-11-27T09:00:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Focker-In-Law isn't terrible. It's just a sitcom",
-    "resumo": "Focker-In-Law is nothing compared to 2000's Meet the Parents. But if comparing to the intentionally broad, necessarily formulaic situation-comedy field the bloated Fockers franchise has found itself in, it's ... fine? Mostly? Watchable, let's say. And that's all these things are going for.",
-    "link": "https://www.cbc.ca/news/entertainment/focker-in-law-review-9.7438169?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/f752bf7d-f037-4830-972a-4661e2e1b875,1795737913177/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5803%2C3264%29%3B",
     "data": "2026-11-27T09:00:00.000Z"
   },
   {
@@ -981,15 +1017,6 @@
     "data": "2026-11-26T19:53:47.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "DW Brasil",
-    "titulo": "Polícia alemã prende dois suspeitos de planejar ataques contra sinagogas",
-    "resumo": "Homens suspeitos de integrar grupo pró-Irã foram detidos no oeste da Alemanha. Alvos estavam localizados em Colônia e outra cidade europeia.",
-    "link": "https://www.dw.com/pt-br/polícia-alemã-prende-dois-suspeitos-de-planejar-ataques-contra-sinagogas/a-80068941?maca=bra-rss-br-all-1030-rdf",
-    "imagem": null,
-    "data": "2026-11-26T19:45:00.000Z"
-  },
-  {
     "categoria": "Economia",
     "fonte": "BBC Business",
     "titulo": "When will Poundland shops close? Five key questions answered",
@@ -997,15 +1024,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
     "data": "2026-11-26T17:21:21.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
-    "resumo": "Efforts to get rid of unstable explosives at an Iowa plant began more than a year ago but weren’t completed at that time, setting the stage for Wednesday’s controversial blast.",
-    "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg",
-    "data": "2026-11-26T16:50:50.000Z"
   },
   {
     "categoria": "Economia",
@@ -1143,15 +1161,6 @@
     "data": "2026-11-25T10:03:12.000Z"
   },
   {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "This suspected North Korean operative said he had an IT company in Toronto. It wasn't real",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/canada/suspected-north-korean-operative-software-company-9.7437137?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/7fdc8928-0185-464f-95a9-4f2879741c35,1795729000779/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C1080%2C607%29%3B",
-    "data": "2026-11-25T09:01:47.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "BBC Technology",
     "titulo": "US attorney general dodges questions about Nvidia investigation",
@@ -1213,14 +1222,5 @@
     "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
     "data": "2026-11-23T21:23:42.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Ontario family business says $500K weekly in Trump tariffs is forcing production to U.S.",
-    "resumo": "",
-    "link": "https://www.cbc.ca/news/canada/hamilton/stanpac-us-canada-tariffs-trade-9.7435346?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/6c947de1-77ed-42cd-b31e-e04eea6c3a1a,1795792203656/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C3753%2C2111%29%3B",
-    "data": "2026-08-24T16:30:27.000Z"
   }
 ]
