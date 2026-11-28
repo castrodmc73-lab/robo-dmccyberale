@@ -1,5 +1,41 @@
 [
   {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Elon Musk can afford a little MAGA amnesia",
+    "resumo": "His failed bet on the Republicans has done nothing to diminish the bipartisan appeal of his fortune.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T06:25:24.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Banco dos EUA é fechado na maior quebra em mais de dois anos",
+    "resumo": "Logotipo do OCC, regulador bancário dos EUA, em imagem ilustrativa de 24 de outubro de 2026. Dado Ruvic/Reuters O United Fidelity Bank, com sede em Evansville, no estado de Indiana, foi fechado pelos reguladores americanos nesta sexta-feira (27). Com US$ 5,9 bilhões (R$ 32,5 bilhões) em ativos, foi a maior quebra bancária dos Estados Unid",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/28/banco-dos-eua-e-fechado-na-maior-quebra-em-mais-de-dois-anos.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Fu1D_5AS2s9cBCbUSq73ENOgCLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/Kht0fqSKK1FgrKd9BKcA/2026-11-28t025132z-66335124-rc2yaoa21uah-rtrmadp-3-united-fidelity-bank-m-a-first-citizen-1-1-.jpg",
+    "data": "2026-11-28T06:08:45.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Estudante do Paraná se surpreende ao encontrar nome da própria mãe em questão do Enem",
+    "resumo": "Estudante encontra texto escrito pela mãe no Enem em Londrina A prova de Ciências da Natureza do Exame Nacional do Ensino Médio (Enem) deste ano causou surpresa a um candidato de Londrina, no Norte do Paraná, que encontrou o nome da própria mãe em uma das questões. Lebna Landgraf é jornalista e escreveu uma reportagem sobre o prêmio inter",
+    "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/28/estudante-encontrar-nome-mae-enem-parana.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/2WCLW4IyPSFv48j6e07GJOHry8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/U/QGMA2jTDGkrijY8N2ldA/questao5.png",
+    "data": "2026-11-28T06:00:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Como funciona abate na reserva onde vivem mais de 36 mil jacarés, única do país onde atividade é autorizada",
+    "resumo": "Como funciona abate na reserva onde vivem mais de 36 mil jacarés Durante a noite, enquanto a maioria das pessoas encerra o expediente, um grupo de trabalhadores pega seus barcos e entra em lagos onde vivem mais de 36 mil jacarés para iniciar a captura dos animais. Isso acontece no Lago do Cuniã, em Porto Velho, a única reserva do país com",
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/28/como-funciona-abate-na-reserva-onde-vivem-mais-de-36-mil-jacares-unica-do-pais-onde-atividade-e-autorizada.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/aea5-DZWz-vvw_aQq_LCz4j-akU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/l/YhvRcaRXKkSOlKsiYtew/wvizgdhkb1e0safnrqm1avwiu8dx4ssqeo6mv8rn.png",
+    "data": "2026-11-28T06:00:00.000Z"
+  },
+  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington",
@@ -133,33 +169,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
     "data": "2026-11-28T04:19:16.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Brasília (DF): sol com muitas nuvens; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Brasília g1 A previsão do tempo para este sábado (28) para Brasília (DF) é de sol com muitas nuvens. Pancadas de chuva à tarde e à noite. As máximas são de 27ºC e as mínimas de 20ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com muitas nuvens. No período da tarde, sol, pancadas de chu",
-    "link": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/28/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/1SWeJ0sePtQb59pEKixMIMNyAXI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/Dnw815Tk61V3BSMcyQ5A/previsao-tempo-bras-lia-20261128-011501.jpeg",
-    "data": "2026-11-28T04:15:11.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Goiânia (GO): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
-    "resumo": "Previsão do tempo hoje em Goiânia g1 A previsão do tempo para este sábado (28) para Goiânia (GO) é de sol e aumento de nuvens de manhã. Pancadas de chuva à tarde e à noite. As máximas são de 30ºC e as mínimas de 21ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol com algumas nuvens. No período da tarde, sol, panca",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/28/previsao-do-tempo-hoje-para-goiania-go-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IJEcZZOv8wPc0ELXEefByVLO06s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/4/KsZTRcQ82OFWBCXVL0Ew/previsao-tempo-goi-nia-20261128-011445.jpeg",
-    "data": "2026-11-28T04:14:55.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Previsão do tempo hoje para Aparecida de Goiânia (GO): sol com algumas nuvens e chuva passageira; à noite, muitas nuvens mas com tempo firme",
-    "resumo": "Previsão do tempo hoje em Aparecida de Goiânia g1 A previsão do tempo para este sábado (28) para Aparecida de Goiânia (GO) é de sol com algumas nuvens e chuva passageira. À noite, muitas nuvens mas com tempo firme. As máximas são de 30ºC e as mínimas de 22ºC. Clique aqui para ver a previsão em todo o Brasil. Durante a manhã, sol e chuva. ",
-    "link": "https://g1.globo.com/go/goias/previsao-do-tempo/noticia/2026/11/28/previsao-do-tempo-hoje-para-aparecida-de-goiania-go-sol-com-algumas-nuvens-e-chuva-passageira-a-noite-muitas-nuvens-mas-com-tempo-firme.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/GFpxbmHKTH7CCD1pcSFLIl6IuiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/b/74SDRKQ0KNLBuB5XzoHw/previsao-tempo-aparecida-de-goi-nia-20261128-011430.jpeg",
-    "data": "2026-11-28T04:14:40.000Z"
   },
   {
     "categoria": "Internacional",
@@ -349,15 +358,6 @@
     "link": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
     "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-tarps-lpjw/27dc-tarps-lpjw-mediumSquareAt3X.jpg",
     "data": "2026-11-28T01:26:03.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
-    "resumo": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
-    "link": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-28T01:00:00.000Z"
   },
   {
     "categoria": "Internacional",
