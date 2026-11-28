@@ -1,5 +1,149 @@
 [
   {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "Pensions and benefits services still down after 'cyber incident'",
+    "resumo": "Experts say the Department for Work and Pensions may have been hit by hackers but the government has not confirmed that.",
+    "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
+    "data": "2026-11-28T07:36:33.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Rússia afirma ter derrubado mais de 1,2 mil drones ucranianos em ataque",
+    "resumo": "Agora no g1 As forças de defesa aérea da Rússia derrubaram 1.246 drones ucranianos durante a noite, informou neste sábado (28) o Ministério da Defesa russo. Mais de 400 aparelhos teriam sido lançados em direção a Moscou, capital do país. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Desse total, 123 foram abatidos nas pro",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/russia-afirma-ter-derrubado-mais-de-12-mil-drones-ucranianos-em-ataque.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/bumEVIfU6UgumRtgUVEDpEZc9Kc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/P/MCS7qWT5CUxvbGc1wBZQ/2026-07-18t094243z-508980871-rc29gmasuksp-rtrmadp-3-ukraine-crisis-russia-attacks.jpg",
+    "data": "2026-11-28T07:32:13.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+    "resumo": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+    "link": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T07:22:17.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+    "resumo": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+    "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T07:21:22.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Mãe se divide entre luto por filha de 4 anos morta em acidente no interior de SP e alegria com alta do filho internado por um mês e meio",
+    "resumo": "Mãe que perdeu filha de 4 anos em acidente encontra conforto na recuperação do filho Os pertences da pequena Lara, de 4 anos, continuam nos mesmos lugares da casa onde ela vivia com a família em Ribeirão Preto (SP). A mãe, a analista de crédito Laís Silva Cropanise Toledo, de 35 anos, ainda encontra pouco tempo para chorar a morte da filh",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/28/mae-se-divide-entre-luto-por-filha-de-4-anos-morta-em-acidente-no-interior-de-sp-e-alegria-com-alta-do-filho-internado-por-um-mes-e-meio.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/fnMHrqkMPSw6kR9tfnj1oQs_gug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/z0a0QVSNmib9JLSxMbKw/familia.jpg",
+    "data": "2026-11-28T07:01:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Dor nas costas é sinal de abdômen fraco? Estudo questiona explicação comum",
+    "resumo": "Dor nas costas é sinal de abdômen fraco? Estudo questiona explicação comum Adobe Stock A ideia de que a dor nas costas está relacionada a uma musculatura abdominal enfraquecida é uma das premissas de tratamentos fisioterapêuticos que buscam fortalecer os músculos do tronco. Mas um estudo conduzido por pesquisadores da Universidade Stanfor",
+    "link": "https://g1.globo.com/saude/noticia/2026/11/28/dor-nas-costas-e-sinal-de-abdomen-fraco-estudo-questiona-explicacao-comum.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Q8UqJ018kl3zP1W30o1VmYCLqMM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/Z/Vh9cnmTGSqdRA5s5OInA/adobestock-652731694.jpeg",
+    "data": "2026-11-28T07:00:02.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Martinho da Vila canta músicas de Gilberto Gil, Jorge Ben Jor, Pedro Luís e Xande de Pilares entre os sambas autorais do álbum 'Criações 88'",
+    "resumo": "Martinho da Vila lança o álbum 'Criações 88' na quarta-feira, 2 de dezembro, Dia Nacional do Samba Divulgação ♫ NOTÍCIA ♬ “Criações 88” é o título do álbum de músicas inéditas que Martinho da Vila lançará na quarta-feira, 2 de dezembro, Dia Nacional do Samba. O nome do álbum carrega simbolismo triplo em relação ao número 88, aludindo à id",
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/28/martinho-da-vila-canta-musicas-de-gilberto-gil-jorge-ben-jor-pedro-luis-e-xande-de-pilares-entre-os-sambas-autorais-do-album-criacoes-88.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uvTcuXaJEFrXatYHUzZ5RwH9CNA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/S/vbVjACSkmSljCdjbjivg/martinhocriacoes88foto.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "BH e Região Metropolitana promovem Dia D de combate à dengue neste sábado; veja programação",
+    "resumo": "Agente da PBH fazendo vistoria em residência PBH O governo de Minas realiza, neste sábado (28), o Dia D de Enfrentamento às Arboviroses. A mobilização busca conscientizar a população sobre a importância da prevenção e de intensificar o combate ao mosquito Aedes aegypti, transmissor da dengue, da chikungunya e do vírus Zika, principalmente",
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/28/bh-e-regiao-metropolitana-promovem-dia-d-de-combate-a-dengue-neste-sabado-veja-programacao.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/jtnKEu5eZeUaEUmhigXqHHEyMBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/5/pOC0tGRSa3tcc4gGfcnw/captura-de-tela-2026-11-27-144511.png",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Robôs viram garçons e até cantam parabéns para clientes em padarias e restaurantes da Grande Vitória",
+    "resumo": "Padaria na Serra começa a usar robô como garçom O atendimento robotizado deixou de ser cena de filmes de ficção ou grandes centros no exterior e já faz parte da rotina de estabelecimentos na Grande Vitória, no Espírito Santo. Os equipamentos tecnológicos auxiliam garçons (mas não os substituem) e até cantam parabéns para clientes nas mesa",
+    "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/28/robos-viram-garcons-e-ate-cantam-parabens-para-clientes-em-padarias-e-restaurantes-da-grande-vitoria.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/uE_3zTGgBUTGIfUYqH7YmsYNQWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/v/oNS2GzTbSdwQ85DoNYHg/thumb-fotos-32-.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Empresa responsável por decoração de Natal de R$ 6 milhões na Avenida Paulista nunca havia vencido edital público",
+    "resumo": "Após críticas, enfeites de Natal em SP ganham desenhos dos dois lados O Instituto Girassol, selecionado pela Prefeitura de São Paulo para executar o projeto de Natal na Avenida Paulista e no Parque Prefeito Mário Covas, afirma em seu site ter 30 anos de atuação. Apesar disso, este é o primeiro edital público vencido pela entidade, segundo",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/28/empresa-responsavel-por-decoracao-de-natal-de-r-6-milhoes-na-avenida-paulista-nunca-havia-vencido-edital-publico.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/dgagQHD6itUHnirf5IjPEI2fp9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/o/Ihg4eeRnqX1Hm1Qhxbag/54988898188-bbb2fe1b21-k.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Data centers gigantes invadem bairros residenciais no Japão e provocam revolta de moradores",
+    "resumo": "Susumu Goto olha pela janela de sua casa com data centers refletindo no vidro Issei Kato / REUTERS Até alguns anos atrás, a casa de Susumu Goto em Kashiwa, a nordeste de Tóquio, tinha vista para um campo gramado onde os vizinhos jogavam beisebol e futebol. Hoje, dois data centers de 31 metros de altura, de propriedade da gestora de ativos",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/28/data-centers-gigantes-invadem-bairros-residenciais-no-japao-e-provocam-revolta-de-moradores.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/YlvnVAiwBiK3OdWqjluq7VIGmq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/1/jv1wXrTOqHJxvrDpXnzA/2026-11-26t142450z-1-lynxnpemap1a2-rtroptp-4-japan-data-centres.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "GTA 6 mostra mulheres no comando, mas ainda derrapa na violência contra elas: o que as jogadoras acharam?",
+    "resumo": "O GTA 6 dá uma virada na história da franquia: pela primeira vez, uma mulher assume o protagonismo do jogo com história própria. Lucia ganha espaço e liberdade para fazer o que os personagens masculinos sempre fizeram. Mas a mudança ainda tromba com velhos problemas: a sexualização e a violência contra mulheres continuam presentes. Desde ",
+    "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/28/gta-6-mostra-mulheres-no-comando-mas-ainda-derrapa-na-violencia-contra-elas-o-que-as-jogadoras-acharam.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/B72N7X9FyiXkq1Q6cg3kqBoEslY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/h/yMDbTBQ9GB8FkA99zCCw/fotojet-34-.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Taça com formato de seio de Maria Antonieta quebra recorde e é leiloada por R$ 18 milhões",
+    "resumo": "Taça de porcelana em formato de seio, conhecida como jatte-teton, produzida pela Real Manufatura de Porcelana de Sèvres. Dimitar Dilkoff/AFP Uma peça de porcelana com formato de seio feminino, que pertenceu à rainha francesa Maria Antonieta, foi vendida por € 2,9 milhões (cerca de R$ 18 milhões) em um leilão realizado na última quinta-fei",
+    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/taca-com-formato-de-seio-de-maria-antonieta-quebra-recorde-e-e-leiloada-por-r-18-milhoes.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ZKhDpHDHUCWZbbl1hIaBmyDbj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/z/72i85ESRufQwrb7zxVwQ/afp-20261123-d8d27ke-v1-midres-francehistoryartcultureauction.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Esporotricose: entenda o que é doença transmitida por gatos que causa feridas e já infectou 1,4 mil pessoas no RS",
+    "resumo": "Casos de esporotricose em animais aumentam em Guaíba e prefeitura apresenta plano Feridas que parecem não cicatrizar, nódulos na pele e até comprometimento de órgãos internos podem ser sinais de uma doença causada por fungos e que tem os gatos como principais transmissores para humanos. Chamada de esporotricose e desencadeada por fungos d",
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/28/esporotricose-entenda-doenca-transmitida-gatos-feridas-infectou-14-mil-pessoas-rs.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/rRDBBb7sX5ebCP90W7hg2PcrT50=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/T/VzvcRBRJWYDBmwacFtzg/2.png",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Coroas de flores a PMs vivos e cabeça humana em batalhão: o que está por trás das ameaças a policiais em Jacarepaguá",
+    "resumo": "Criminosos deixam cabeça humana dentro do batalhão de Jacarepaguá dias após ameaça com coroas de flores para oficiais vivos Primeiro, duas coroas de flores com os nomes de policiais militares vivos foram deixadas na porta do 18o Batalhão da Policia Militar. Onze dias depois, uma cabeça humana foi encontrada dentro dessa mesma unidade, res",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/28/coroas-de-flores-a-pms-vivos-e-cabeca-humana-em-batalhao-o-que-esta-por-tras-das-ameacas-a-policiais-em-jacarepagua.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Dx_1BBd43Z8eThl_PNE7spclsvY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/bingzISVumuPiGnehWgQ/imagem-cortada-70-.jpg",
+    "data": "2026-11-28T07:00:01.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Trump’s tariffs have become America’s new normal",
+    "resumo": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump&#039;s tax cuts.",
+    "link": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T06:57:19.000Z"
+  },
+  {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
     "titulo": "Elon Musk can afford a little MAGA amnesia",
@@ -9,33 +153,6 @@
     "data": "2026-11-28T06:25:24.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Banco dos EUA é fechado na maior quebra em mais de dois anos",
-    "resumo": "Logotipo do OCC, regulador bancário dos EUA, em imagem ilustrativa de 24 de outubro de 2026. Dado Ruvic/Reuters O United Fidelity Bank, com sede em Evansville, no estado de Indiana, foi fechado pelos reguladores americanos nesta sexta-feira (27). Com US$ 5,9 bilhões (R$ 32,5 bilhões) em ativos, foi a maior quebra bancária dos Estados Unid",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/28/banco-dos-eua-e-fechado-na-maior-quebra-em-mais-de-dois-anos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/Fu1D_5AS2s9cBCbUSq73ENOgCLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/J/Kht0fqSKK1FgrKd9BKcA/2026-11-28t025132z-66335124-rc2yaoa21uah-rtrmadp-3-united-fidelity-bank-m-a-first-citizen-1-1-.jpg",
-    "data": "2026-11-28T06:08:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Estudante do Paraná se surpreende ao encontrar nome da própria mãe em questão do Enem",
-    "resumo": "Estudante encontra texto escrito pela mãe no Enem em Londrina A prova de Ciências da Natureza do Exame Nacional do Ensino Médio (Enem) deste ano causou surpresa a um candidato de Londrina, no Norte do Paraná, que encontrou o nome da própria mãe em uma das questões. Lebna Landgraf é jornalista e escreveu uma reportagem sobre o prêmio inter",
-    "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/28/estudante-encontrar-nome-mae-enem-parana.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/2WCLW4IyPSFv48j6e07GJOHry8s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/U/QGMA2jTDGkrijY8N2ldA/questao5.png",
-    "data": "2026-11-28T06:00:03.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Como funciona abate na reserva onde vivem mais de 36 mil jacarés, única do país onde atividade é autorizada",
-    "resumo": "Como funciona abate na reserva onde vivem mais de 36 mil jacarés Durante a noite, enquanto a maioria das pessoas encerra o expediente, um grupo de trabalhadores pega seus barcos e entra em lagos onde vivem mais de 36 mil jacarés para iniciar a captura dos animais. Isso acontece no Lago do Cuniã, em Porto Velho, a única reserva do país com",
-    "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/28/como-funciona-abate-na-reserva-onde-vivem-mais-de-36-mil-jacares-unica-do-pais-onde-atividade-e-autorizada.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/aea5-DZWz-vvw_aQq_LCz4j-akU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/l/YhvRcaRXKkSOlKsiYtew/wvizgdhkb1e0safnrqm1avwiu8dx4ssqeo6mv8rn.png",
-    "data": "2026-11-28T06:00:00.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington",
@@ -43,78 +160,6 @@
     "link": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
     "imagem": "https://static01.nyt.com/images/2026/11/28/multimedia/28dc-china-hawks-01-twfl/28dc-china-hawks-01-twfl-mediumSquareAt3X.jpg",
     "data": "2026-11-28T05:19:36.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Black Friday ou 11.11? Levantamento do g1 mostra qual data tem os melhores preços",
-    "resumo": "É Black Friday ou Black Fraude? Com a popularização de promoções em datas duplas, como o 11/11 (Dia dos Solteiros), muitos consumidores passaram a questionar se ainda vale a pena esperar pela Black Friday para ir às compras. Um levantamento feito pelo Guia de Compras mostra que não existe uma regra única: o comportamento dos preços varia ",
-    "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-ou-1111-levantamento-do-g1-mostra-qual-data-tem-os-melhores-precos.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/iWL0lsjpjPMdR5gPkdaOBHbwFk8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/N/KjlhP1QvGE1sTS1QGa2g/foto-g1-2-.jpg",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Coronel acusado de explodir o próprio apartamento será julgado após 3 anos; prédio foi evacuado por rapel",
-    "resumo": "Relembre resgate de rapel em prédio após apartamento de coronel explodir em Campinas A Justiça marcou para 24 de fevereiro de 2027 o julgamento do coronel reformado do Exército Virgílio Parra Dias, acusado de explodir o apartamento onde vivia, na região central de Campinas (SP), em 2024. A audiência ocorrerá dois dias antes de o caso comp",
-    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/28/coronel-acusado-de-explodir-o-proprio-apartamento-sera-julgado-apos-3-anos-predio-foi-evacuado-por-rapel.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/G-4giV4PEBkVfAeQHCWNTWMfhvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/x/8iyKpbQ8WNSYXTS93Y7w/2.png",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Jornalista transformou pipoca em cappuccino, sorvete e milk-shake; negócio inusitado já tem 52 lojas",
-    "resumo": "Ela criou sabores inusitados de pipoca, abriu franquias e chegou a 52 lojas pelo Brasil O que começou como um agrado para clientes de um buffet acabou se tornando o principal negócio da empresária Elaine Moura. Em Goiânia (GO), ela transformou uma pipoca artesanal criada para presentear consumidores em uma rede com 52 lojas espalhadas pel",
-    "link": "https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/28/pipoca-cappuccino-sorvete-e-milk-shake-negocio-rede.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/A0v4V8vfSNrU28AiuoV31vDOxNE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/7/bJQmjWSRCfXH32YdUWrw/captura-de-tela-2026-11-27-182125.png",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Paradas de ônibus do Recife começam a receber painéis eletrônicos com previsão de chegada dos coletivos em tempo real",
-    "resumo": "Paradas de ônibus do Grande Recife começam a receber painéis com horários dos coletivos As paradas de ônibus do Recife começaram a receber painéis eletrônicos que mostram, em tempo real, a previsão de chegada dos coletivos (veja vídeo acima). A tecnologia está em fase de testes e, segundo o governo do estado, deve ser ampliada a partir de",
-    "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/28/paradas-de-onibus-do-recife-comecam-a-receber-paineis-eletronicos-com-previsao-de-chegada-dos-coletivos-em-tempo-real.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/nFjd3rFzco1fz1oNTYesZQegqpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/0rras6QWK4flBOZNAlwg/paradas-onibus-previsao.transfer-frame-1174.jpeg",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Cinco anos após queda de avião no Litoral Norte, mãe de copiloto desaparecido cobra buscas: 'Meu filho merece ser encontrado'",
-    "resumo": "José Porfírio de Brito Júnior estava como copiloto do avião que caiu no mar. Ele não foi encontrado. Arquivo pessoal da família Cinco anos após o desaparecimento do filho na queda de um avião bimotor no litoral de São Paulo, a mãe do copiloto José Porfírio de Brito Júnior continua cobrando respostas das autoridades e a retomada das buscas",
-    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/28/cinco-anos-apos-queda-de-aviao-no-litoral-norte-mae-de-copiloto-desaparecido-cobra-buscas-meu-filho-merece-ser-encontrado.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/MBv5C2ay9i45mGyf4YyBCUOht5E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/q/zXcPtcSP6TCeOUaCSp9g/foto-g1-2026-11-26t165900.401.png",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Bebê com doença genética rara precisa de medicamento que custa até R$ 200 mil por mês, diz família",
-    "resumo": "Bebê com doença rara precisa de medicamento de até R$ 200 mil por mês A família de Leonardo Borges Ferreira, de 1 ano e um mês, luta para conseguir um medicamento que pode custar até R$ 200 mil por mês para o tratamento da Colestase Intra-Hepática Familiar Progressiva tipo 2 (PFIC2), uma doença genética rara. Em entrevista ao g1, a mãe do",
-    "link": "https://g1.globo.com/go/goias/noticia/2026/11/28/bebe-com-doenca-genetica-rara-precisa-de-medicamento-que-custa-ate-r-200-mil-por-mes-diz-familia.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/byv0Kv4e4CpERpTw2xnSxAPIrIU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/tgc1caSFi06Ao9LJ0o0A/imagens-g1-12-.png",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "'Canta comigo?': cantor de Brasília viraliza ao convidar desconhecidos para cantar nas ruas da capital",
-    "resumo": "'Canta comigo?': Cantor de Brasília viraliza ao convidar desconhecidos para cantar na rua \"Canta comigo?\" Imagine estar passeando pelo parque ou, quem sabe, chegando ao trabalho e receber esse convite. Foi com essa pergunta que o cantor brasiliense Guilherme Singe, de 25 anos, viralizou nas redes sociais (assista ao vídeo acima). Do serta",
-    "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/28/canta-comigo-cantor-de-brasilia-viraliza-ao-convidar-desconhecidos-para-cantar-nas-ruas-da-capital.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/7eqiSLuNyv337CeX2vtIdlD_As4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/3HC9tqSJqKqX2uoyyRKg/img-0116.jpg",
-    "data": "2026-11-28T05:00:00.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Justiça nega pedido de liberdade de gêmeos de grupo de pagode suspeitos de estupro em MG",
-    "resumo": "Câmeras de hotel mostram gêmeos e mulher que denunciou estupro em MG A Justiça de Minas Gerais negou, nesta quinta-feira (26), o pedido de revogação da prisão preventiva de Bruno Paiva e Thiago Paiva, presos por suspeita de estupro contra uma mulher de 30 anos, em Barbacena. A informação foi confirmada ao g1 pelo Tribunal de Justiça de Mi",
-    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/28/justica-nega-pedido-de-liberdade-de-gemeos-de-grupo-de-pagode-suspeitos-de-estupro-em-mg.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/pNYlAjQW-T9Xr-hh0gaKHxlmLSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/G/rIvk84RD2zqerltuYgQg/vou-zuar.jpeg",
-    "data": "2026-11-28T05:00:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -153,15 +198,6 @@
     "data": "2026-11-28T04:30:16.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Taiwan vai às urnas em eleições locais sob pressão militar da China",
-    "resumo": "Eleitores registram seus votos em uma seção eleitoral de Taipei, em Taiwan, durante as eleições locais de 28 de novembro de 2026. Yu Chih Wei/Reuters Taiwan realiza eleições locais neste sábado (28) para escolher prefeitos, chefes de condado e outros representantes. As campanhas se concentraram em temas como transporte e meio ambiente, ma",
-    "link": "https://g1.globo.com/mundo/noticia/2026/11/28/taiwan-vai-as-urnas-eleicoes-locais-pressao-militar-china.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/IIoy2XaSwvD-5K0bTso3DNct2v8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/N/K7yz0gQgy98oCYW1AK1g/2026-11-28t033950z-1248353782-rc2pwoaquuw3-rtrmadp-3-taiwan-election-1-.jpg",
-    "data": "2026-11-28T04:27:49.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "BBC News",
     "titulo": "Eight killed in Peruvian military helicopter crash",
@@ -191,8 +227,8 @@
   {
     "categoria": "Internacional",
     "fonte": "Al Jazeera",
-    "titulo": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
-    "resumo": "MSF says Israeli attack on Gaza clinic a &#039;direct hit&#039; and calls for those responsible to be held accountable.",
+    "titulo": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+    "resumo": "MSF says premises &#039;clearly marked&#039; with its logos, location communicated to and known by Israeli military.",
     "link": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
     "imagem": null,
     "data": "2026-11-28T03:45:58.000Z"
@@ -288,15 +324,6 @@
     "data": "2026-11-28T02:11:55.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
-    "resumo": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
-    "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-28T02:08:11.000Z"
-  },
-  {
     "categoria": "Estados Unidos",
     "fonte": "The New York Times",
     "titulo": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms.",
@@ -306,15 +333,6 @@
     "data": "2026-11-28T02:07:54.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Taiwan votes in local elections to choose mayors, other leaders",
-    "resumo": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
-    "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-28T02:05:27.000Z"
-  },
-  {
     "categoria": "Canadá",
     "fonte": "CBC News",
     "titulo": "Jermaine Haley, known as WWE wrestler Bronson Reed, dead at 38",
@@ -322,15 +340,6 @@
     "link": "https://www.cbc.ca/sports/jermaine-haley-bronson-reed-obit-9.7440009?cmp=rss",
     "imagem": "https://i.cbc.ca/ais/d67c2a3c-6714-46d3-98c0-047161e8fee9,1795842355906/full/max/0/default.jpg?im=Crop%2Crect%3D%28703%2C663%2C4218%2C2372%29%3B",
     "data": "2026-11-28T02:02:35.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Israel kills two MSF staff in targeted strike on Gaza clinic",
-    "resumo": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-28T01:55:03.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -1204,15 +1213,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/7721db50-e819-11f1-a094-5fdc692f3e33.jpg",
     "data": "2026-11-24T09:33:00.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-    "resumo": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-    "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    "data": "2026-11-23T23:16:08.000Z"
   },
   {
     "categoria": "Estados Unidos",
