@@ -1,5 +1,122 @@
 [
   {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "2 American Airlines Jets Clip Wings at Reagan Airport",
+    "resumo": "No injuries were reported after two Boeing 737s made contact while taxiing at the airport outside Washington, D.C., during the busy Thanksgiving holiday weekend.",
+    "link": "https://www.nytimes.com/2026/11/27/us/wings-clipped-american-reagan-airport.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-reaganairport-hjzq/27xp-reaganairport-hjzq-mediumSquareAt3X.jpg",
+    "data": "2026-11-28T02:22:23.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
+    "resumo": "Conditions continued to improve on Friday after heavy rain and strong winds lashed the coast from Virginia to New York. But many remained without power and travel disruptions persisted.",
+    "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
+    "data": "2026-11-28T02:11:55.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+    "resumo": "President Trump will lose control over the National Capital Planning Commission after Democrats take control of Congress in January. It could give final approval to some of his prized projects.",
+    "link": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-planning-pzmq/27dc-planning-pzmq-mediumSquareAt3X.jpg",
+    "data": "2026-11-28T02:08:43.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+    "resumo": "The case of a missing activist raises fears for the safety of Tanzanian dissidents.",
+    "link": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T02:08:11.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms.",
+    "resumo": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms. They were rescheduled to Friday, Saturday and beyond.",
+    "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27nat-thanksgiving-do-over-1-ktwf/27nat-thanksgiving-do-over-1-ktwf-mediumSquareAt3X.jpg",
+    "data": "2026-11-28T02:07:54.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Taiwan votes in local elections to choose mayors, other leaders",
+    "resumo": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+    "link": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T02:05:27.000Z"
+  },
+  {
+    "categoria": "Canadá",
+    "fonte": "CBC News",
+    "titulo": "Jermaine Haley, known as WWE wrestler Bronson Reed, dead at 38",
+    "resumo": "Jermaine Haley, known as the WWE wrestler Bronson Reed, has died due to medical complications. He was 38. World Wrestling Entertainment announced Haley's death on Friday, but did not provide details.",
+    "link": "https://www.cbc.ca/sports/bronson-reed-obit-9.7440009?cmp=rss",
+    "imagem": "https://i.cbc.ca/ais/d67c2a3c-6714-46d3-98c0-047161e8fee9,1795827472771/full/max/0/default.jpg?im=Crop%2Crect%3D%28703%2C663%2C4218%2C2372%29%3B",
+    "data": "2026-11-28T02:02:35.000Z"
+  },
+  {
+    "categoria": "Internacional",
+    "fonte": "Al Jazeera",
+    "titulo": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+    "resumo": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss",
+    "imagem": null,
+    "data": "2026-11-28T01:55:03.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "'Pelo Telefone': Brasil celebra 110 anos de registro do primeiro samba",
+    "resumo": "Primeiro samba registrado no Brasil completa 110 anos Nesse 27 de novembro, o Brasil celebra 110 anos de registro do primeiro samba: \"Pelo Telefone\". O Jornal Nacional foi saber o que esse ritmo representa na vida dos brasileiros. E se a gente celebrasse essa data na Central do Brasil? A estação dos trens, caminho conhecido dos antigos sa",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/pelo-telefone-brasil-celebra-110-anos-de-registro-do-primeiro-samba.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/Wbmg9ksqgz9KsXA7Ag3fFE4FRs8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Y/Uw5KM6TVShWaEZyfyKfw/globo-canal-4-20261127-2000-frame-153961.jpeg",
+    "data": "2026-11-28T01:50:09.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "BBC Technology",
+    "titulo": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+    "resumo": "With an official PC version potentially still months away, fans are getting impatient.",
+    "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
+    "data": "2026-11-28T01:30:50.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "We found 60-odd Black Friday deals we love for $100 or less",
+    "resumo": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-28T01:30:00.000Z"
+  },
+  {
+    "categoria": "Brasil",
+    "fonte": "G1",
+    "titulo": "Vacinação contra sarampo salvou 60 milhões de vidas no mundo nos últimos 25 anos, diz OMS",
+    "resumo": "OMS destaca a importância da vacina contra o sarampo Um relatório publicado nesta sexta-feira (27) mostra que a vacinação contra o sarampo salvou 60 milhões de vidas no mundo nos últimos 25 anos. Mais crianças vacinadas, menos vítimas. O número de mortes por sarampo no mundo atingiu um mínimo histórico. Em 2025, cerca de 72 mil pessoas mo",
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/vacinacao-contra-sarampo-salvou-60-milhoes-de-vidas-no-mundo-nos-ultimos-25-anos-diz-oms.ghtml",
+    "imagem": "https://s2-g1.glbimg.com/ouWx18bDbu4mfb3jIPeYBG1z3PQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/l/pxPZXYTOAJctten0qxqA/globo-canal-4-20261127-2000-frame-128812.jpeg",
+    "data": "2026-11-28T01:28:18.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "The New York Times",
+    "titulo": "For One Stormy Moment, D.C. Reveled in a Blank Wall Where Trump’s Name Once Hung",
+    "resumo": "High winds dislodged a section of tarp obscuring the removal of the president’s name from the John F. Kennedy Center for the Performing Arts, whipping up some members of the capital.",
+    "link": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
+    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-tarps-lpjw/27dc-tarps-lpjw-mediumSquareAt3X.jpg",
+    "data": "2026-11-28T01:26:03.000Z"
+  },
+  {
     "categoria": "Brasil",
     "fonte": "G1",
     "titulo": "Expectativa de vida dos brasileiros chega a quase 77 anos",
@@ -108,24 +225,6 @@
     "data": "2026-11-28T00:50:54.000Z"
   },
   {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Dupla Sena hoje: resultado do concurso 3037 e números sorteados",
-    "resumo": "Resultado da Dupla Sena g1 Veja abaixo os números do sorteio do concurso 3037 da Dupla Sena realizado nesta sexta-feira (27): 1º sorteio: 5 - 23 - 27 - 28 - 33 - 42 2º sorteio: 6 - 20 - 23 - 32 - 33 - 41 Confira o resultado do sorteio da Dupla Sena. Veja quantas apostas foram premiadas no concurso 3037: 1º sorteio: Ninguém conseguiu os 6 ",
-    "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/27/dupla-sena-hoje-resultado-do-concurso-3037-e-numeros-sorteados.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/c3HGbCiR0Iqdnrl3Tm27y2N0BMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/B/PdTBl0SFWNBAEiDjI58w/duplasena-3037-sjkkb.jpeg",
-    "data": "2026-11-28T00:50:42.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "G1",
-    "titulo": "Resultados das Loterias Caixa",
-    "resumo": "Resultados das Loterias Caixa O g1 transmite todos os sorteios das Loterias Caixa de domingo a segunda. Favorite esta página e acompanhe todos os sorteios.. Os sorteios acontecem de domingo a sexta, exceto em feriados - veja aqui os horários.",
-    "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "imagem": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png",
-    "data": "2026-11-28T00:48:10.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The absolute best Black Friday deals we’ve found (so far)",
@@ -142,24 +241,6 @@
     "link": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
     "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/00DC-BACKLASH-01-vzhc/00DC-BACKLASH-01-vzhc-mediumSquareAt3X-v2.jpg",
     "data": "2026-11-28T00:43:25.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
-    "resumo": "Conditions continued to improve on Friday after heavy rain and strong winds lashed the coast from Virginia to New York. But many remained without power and travel disruptions persisted.",
-    "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
-    "data": "2026-11-28T00:35:52.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
-    "resumo": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-28T00:30:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -234,15 +315,6 @@
     "data": "2026-11-27T23:51:52.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
-    "resumo": "President Trump will lose control over the National Capital Planning Commission after Democrats take control of Congress in January. It could give final approval to some of his prized projects.",
-    "link": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-planning-pzmq/27dc-planning-pzmq-mediumSquareAt3X.jpg",
-    "data": "2026-11-27T23:39:47.000Z"
-  },
-  {
     "categoria": "Tecnologia",
     "fonte": "The Verge",
     "titulo": "The best robot vacuums we’ve tested are up to 60 percent off for Black Friday",
@@ -250,6 +322,15 @@
     "link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
     "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "data": "2026-11-27T23:32:17.000Z"
+  },
+  {
+    "categoria": "Tecnologia",
+    "fonte": "The Verge",
+    "titulo": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+    "resumo": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, [&#8230;]",
+    "link": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "data": "2026-11-27T23:32:00.000Z"
   },
   {
     "categoria": "Tecnologia",
@@ -270,13 +351,13 @@
     "data": "2026-11-27T23:30:00.000Z"
   },
   {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms.",
-    "resumo": "Some Americans canceled or postponed Thanksgiving dinners amid power outages and storms. They were rescheduled to Friday, Saturday and beyond.",
-    "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/27/multimedia/27nat-thanksgiving-do-over-1-ktwf/27nat-thanksgiving-do-over-1-ktwf-mediumSquareAt3X.jpg",
-    "data": "2026-11-27T23:22:29.000Z"
+    "categoria": "Brasil",
+    "fonte": "Agência Brasil",
+    "titulo": "PM do Rio ocupa comunidades de Jacarepaguá por tempo indeterminado",
+    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pm-do-rio-ocupa-comunidades-de-jacarepagua-por-tempo-indeterminado\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a>",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pm-do-rio-ocupa-comunidades-de-jacarepagua-por-tempo-indeterminado",
+    "imagem": null,
+    "data": "2026-11-27T23:27:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -441,15 +522,6 @@
     "data": "2026-11-27T21:50:00.000Z"
   },
   {
-    "categoria": "Tecnologia",
-    "fonte": "The Verge",
-    "titulo": "The 25 best gaming deals we’ve found so far for Black Friday",
-    "resumo": "While deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, accessories, and monitors to make up for it. We thought it’d be useful to display all of the deals we think are worth your [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
-    "imagem": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/World-of-Warcraft-Shaman-keyart.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "data": "2026-11-27T21:50:00.000Z"
-  },
-  {
     "categoria": "Internacional",
     "fonte": "DW Brasil",
     "titulo": "Sabotagem russa pode causar mortes em massa na Europa, diz relatório",
@@ -486,15 +558,6 @@
     "data": "2026-11-27T21:18:49.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Why are families going hungry in northern Yemen even where food is on sale?",
-    "resumo": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
-    "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-27T21:11:27.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "Vendas do Tesouro Direto registram melhor outubro da história",
@@ -513,15 +576,6 @@
     "data": "2026-11-27T20:57:00.000Z"
   },
   {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "Venezuela to repeal law that bans opposition figures from office",
-    "resumo": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
-    "link": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-27T20:44:03.000Z"
-  },
-  {
     "categoria": "Brasil",
     "fonte": "Agência Brasil",
     "titulo": "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro",
@@ -529,15 +583,6 @@
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro",
     "imagem": null,
     "data": "2026-11-27T20:41:00.000Z"
-  },
-  {
-    "categoria": "Internacional",
-    "fonte": "Al Jazeera",
-    "titulo": "OpenAI countersues Apple over trade secrets as AI race heats up",
-    "resumo": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
-    "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-    "imagem": null,
-    "data": "2026-11-27T20:40:51.000Z"
   },
   {
     "categoria": "Brasil",
@@ -556,15 +601,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-27T20:34:45.000Z"
-  },
-  {
-    "categoria": "Brasil",
-    "fonte": "Agência Brasil",
-    "titulo": "Enem 2026: resultado de pedidos de reaplicação já está disponível",
-    "resumo": "<p><p style=\"text-align:center;\"><a class=\"\" href=\"https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-resultado-de-pedidos-de-reaplicacao-ja-esta-disponivel\"> <img src=\"https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg\" alt=\"Logo Agência Brasil\" style=\"height: 54px;\"> </a><",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-resultado-de-pedidos-de-reaplicacao-ja-esta-disponivel",
-    "imagem": null,
-    "data": "2026-11-27T20:30:00.000Z"
   },
   {
     "categoria": "Internacional",
@@ -601,15 +637,6 @@
     "link": "https://www.dw.com/pt-br/companhia-aérea-norueguesa-vai-à-falência-em-meio-à-alta-de-combustíveis/a-80080661?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-27T19:42:00.000Z"
-  },
-  {
-    "categoria": "Canadá",
-    "fonte": "CBC News",
-    "titulo": "Grand Theft Auto VI writer behind female protagonist deletes X account after online hate",
-    "resumo": "One of the writers behind Grand Theft Auto VI has had to delete her X account after facing online backlash for her role in writing the game's female protagonist, Lucia Caminos. Alexa D’Agostino became the subject of an online harassment campaign.",
-    "link": "https://www.cbc.ca/news/entertainment/grand-theft-auto-writer-9.7438910?cmp=rss",
-    "imagem": "https://i.cbc.ca/ais/24f4f43d-3df1-4358-bf6b-4e7d0f3b7d9e,1795799201936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
-    "data": "2026-11-27T19:39:32.000Z"
   },
   {
     "categoria": "Internacional",
@@ -673,15 +700,6 @@
     "link": "https://www.dw.com/pt-br/quem-é-luiz-carlos-trabuco-o-novo-ministro-da-fazenda-de-lula/a-80080281?maca=bra-rss-br-all-1030-rdf",
     "imagem": null,
     "data": "2026-11-27T17:39:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
-    "resumo": "A family came together at a farmhouse in southeast Iowa the day after the explosion at an ammunition plant. It felt as if a storm had passed.",
-    "link": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/26/us/26nat-iowa-blast-dinner--02/26nat-iowa-blast-dinner--02-mediumSquareAt3X.jpg",
-    "data": "2026-11-27T17:26:37.000Z"
   },
   {
     "categoria": "Internacional",
@@ -848,15 +866,6 @@
   {
     "categoria": "Estados Unidos",
     "fonte": "NPR",
-    "titulo": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-    "resumo": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
-    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
-    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
-    "data": "2026-11-27T10:00:00.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "NPR",
     "titulo": "Screen-free tweens try their hand at Dungeons & Dragons",
     "resumo": "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s.",
     "link": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
@@ -870,6 +879,15 @@
     "resumo": "Here&apos;s something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You&apos;ll learn simple changes to keep your mind sharp.",
     "link": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
     "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5714x3802+0+0/resize/5714x3802!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffb%2F9c%2F9713cdb545dbb1fb84bae3122894%2Fgettyimages-2272594799.jpg",
+    "data": "2026-11-27T10:00:00.000Z"
+  },
+  {
+    "categoria": "Estados Unidos",
+    "fonte": "NPR",
+    "titulo": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+    "resumo": "Trump&apos;s sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+    "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+    "imagem": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
     "data": "2026-11-27T10:00:00.000Z"
   },
   {
@@ -961,15 +979,6 @@
     "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
     "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
     "data": "2026-11-27T00:58:49.000Z"
-  },
-  {
-    "categoria": "Estados Unidos",
-    "fonte": "The New York Times",
-    "titulo": "Pacifica, Calif., Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
-    "resumo": "The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.",
-    "link": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
-    "imagem": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-ca-pacifica-1-fqgw/26nat-ca-pacifica-1-fqgw-mediumSquareAt3X.jpg",
-    "data": "2026-11-27T00:46:52.000Z"
   },
   {
     "categoria": "Economia",
@@ -1213,14 +1222,5 @@
     "link": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
     "imagem": "https://static01.nyt.com/images/2026/11/20/multimedia/00nat-mahjong-promo-qhpv/00nat-mahjong-promo-qhpv-mediumSquareAt3X.jpg",
     "data": "2026-11-23T21:46:34.000Z"
-  },
-  {
-    "categoria": "Tecnologia",
-    "fonte": "BBC Technology",
-    "titulo": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-    "resumo": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-    "imagem": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-    "data": "2026-11-23T21:23:42.000Z"
   }
 ]
